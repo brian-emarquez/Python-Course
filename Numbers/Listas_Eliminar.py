@@ -10,3 +10,8 @@ colors.remove("red")
 #borra mediante indice
 colors.pop(1)
 print (colors)
+
+#para borrar todos los elementos
+colors.clear()
+print (colors)
+
