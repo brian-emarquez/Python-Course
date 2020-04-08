@@ -18,3 +18,10 @@ print (persona)
 
 #utilizando los metodos de Dir()
 print(productos.keys()) # ,uestras lso nombres de la claves
+
+#Eliminar en un diccionario
+#del productos
+
+#eliminar elementos
+persona.clear()
+print(persona)
