@@ -8,7 +8,6 @@ for i in range(veces):
 print()
 print("Adiós")
 
-print("============================================================================")
 print("Comienzo")
 cuenta = 0
 for i in range(1, 6):
