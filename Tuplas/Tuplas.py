@@ -1,8 +1,11 @@
 #TUPLAS
-# Las tuplas son inmutables , no se pueden cambiar
+# Las tuplas son inmutables , no se pueden cambiar (no se añade no se modifica)
+#lent = cuenta los elementos 
+#count = cuentos el mismo caracter o numero 
 
 x = ("", "y", "z")
 y = (1, 2, 3, 4, 5)
+tupla= (10, 20, 30, 40)
 
 print(type(x))#tuple
 print(type(y))#tuple
@@ -15,18 +18,18 @@ print(y[2]) #3
 print(y[3]) #4
 print(y[4]) #5
 
-#Eliminar un elemento de la Tupla
-del x # ña tupla fue eliminada por eso ya no miestra en pantalla
+#buscar por indice
+print(tupla[2])
 
+#buscar por nombre
+print (30 in tupla)
 
 print("===================================================")
-z = (1, 2, 3, 4, 5)
 
-locations = {
-    (521.656,23.23):"Tokyo",
-    (521.656,23.23):"Lima",
-    (521.656,23.23):"Santiago"
-}
+#convertir tupla a lista
+lista = list(tupla)
+print(lista)
+print(type(lista))
 
 
 

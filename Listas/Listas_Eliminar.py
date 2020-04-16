@@ -8,10 +8,14 @@ print (colors)
 colors.remove("red")
 
 #borra mediante indice
-colors.pop(1)
-print (colors)
+#colors.pop(1)
+#print (colors)
 
 #para borrar todos los elementos
-colors.clear()
-print (colors)
+#colors.clear()
+#print (colors)
 
+#Extra - Invertir
+
+colors.reverse()
+print(colors)

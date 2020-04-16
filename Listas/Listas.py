@@ -28,3 +28,7 @@ colors.append("yelow") # se agrego al arreglo
 #colors.extend(["yelow","yelow") # se agreso al arreglo
 print(colors)
 
+print("==============================================================")
+
+colores = ["verde","azul","morado","amarillo"]
+print(colores[0:3])
