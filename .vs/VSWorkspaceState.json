@@ -1,8 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Diccionarios"
+    "\\Ejercicios Basicos",
+    "\\Ejercicios Colecciones",
+    "\\Ejercicios Condicionales",
+    "\\Menu",
+    "\\Variables"
   ],
-  "SelectedNode": "\\Diccionarios\\Diccionarios.py",
+  "SelectedNode": "\\Menu\\Menu.py",
   "PreviewInSolutionExplorer": false
 }
