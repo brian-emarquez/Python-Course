@@ -34,7 +34,9 @@ def menu():
              
 
                 if entrada_usuario == 1:
-                    print(f"Su saldo disponible es {saldo} Soles")   
+                    print(f"Su saldo disponible es {saldo} Soles") 
+                    break
+
                 elif entrada_usuario == 2:
                     if saldo <=1000:
                         print("Ustede no puede retirar, salso insuficiente!")
