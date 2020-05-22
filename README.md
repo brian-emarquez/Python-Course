@@ -1,23 +1,9 @@
 <p align="center">
-  <img alt="githubdark-logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="580">
+  <img alt="githubdark-logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="480">
   <br>
-  <a href="https://github.com/StylishThemes/GitHub-Dark/tags">
-    <img src="https://img.shields.io/github/tag/StylishThemes/GitHub-Dark.svg?label=version&style=flat" alt="Version">
-  </a>
-  <a href="https://github.com/StylishThemes/GitHub-Dark/stargazers">
-    <img src="https://img.shields.io/github/stars/StylishThemes/GitHub-Dark.svg?style=flat" alt="Stars">
-  </a>
-  <a href="https://github.com/StylishThemes/GitHub-Dark/network">
-    <img src="https://img.shields.io/github/forks/StylishThemes/GitHub-Dark.svg?style=flat" alt="Forks">
-  </a>
-  <a href="https://david-dm.org/StylishThemes/GitHub-Dark?type=dev">
-    <img src="https://img.shields.io/david/dev/StylishThemes/GitHub-Dark.svg?label=devDependencies&style=flat" alt="devDependencies">
-  </a>
-  <a href="https://gitter.im/StylishThemes/GitHub-Dark">
-    <img src="https://img.shields.io/gitter/room/StylishThemes/Github-Dark.js.svg?maxAge=2592000&style=flat" alt="Gitter">
-  </a>
+  
 </p>
-<h2 align="center">Your eyes will&nbsp;:heart:&nbsp;you.</h2>
+<h2 align="center">Curso de Python&nbsp;:heart:&nbsp;you.</h2>
 
 ## Preview
 
