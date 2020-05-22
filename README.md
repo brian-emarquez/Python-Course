@@ -1,13 +1,13 @@
 
 <h2 align="center">Curso de Python&nbsp;:heart:&nbsp;</h2>
 
-## Instalacion 💻
+## Instalación 💻
 
 Python es un lenguaje de programación interpretado cuya filosofía hace hincapié en la legibilidad de su código. Se trata de un lenguaje de programación multiparadigma, ya que soporta orientación a objetos, programación imperativa y, en menor medida, programación funcional. Es un lenguaje interpretado, dinámico y multiplataforma.
 
 Es administrado por la Python Software Foundation. Posee una licencia de código abierto, denominada Python Software Foundation License, que es compatible con la Licencia pública general de GNU a partir de la versión 2.1.1, e incompatible en ciertas versiones anteriores.
 
-## Version 🧑‍💻
+## Versión 🧑‍💻
 
 _Verifica la versión de Python_
 
@@ -46,13 +46,13 @@ En 1991, van Rossum publicó el código de la versión 0.9.0 en alt.sources. En 
 | Ciencia de datos           |      ❌     |      ✔️     |  
 | Rapidez                    |      ✔️     |      ✔️     |      
 
-## Notas
+## Notas 📖
 
 - Puedes utilizar otro editor de codigo pero no tendras soporte. se recomienda usar los editores mensionados. 
 
-## Ramas
+## Ramas 👾
 
-[Todas las Ramas]https://github.com/BrianMarquez3/Python-Course/settings/branches
+Ver todas las Ramas [Ramas](https://github.com/BrianMarquez3/Python-Course/settings/branches)
 
 ## Autores ✒️
 
