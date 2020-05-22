@@ -1,7 +1,7 @@
 
 <h2 align="center">Curso de Python&nbsp;:heart:&nbsp;</h2>
 
-![python](./Images/python.jpg)
+![python](./Images/python3.png)
 
 ## ¿Que es Python? 💻
 
