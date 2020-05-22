@@ -34,30 +34,21 @@ En 1991, van Rossum publicó el código de la versión 0.9.0 en alt.sources. En 
 
 📦 [Install python](https://www.python.org/) Instalador de Python.<br>
 📦 [Install Anaconda](https://www.anaconda.com/) Intalador de Anaconda
+📦 [Install Visual studio Code](https://code.visualstudio.com/) Intalador de Visual Studio Code
 [BLOG](https://www.anaconda.com/blog).<br>
 
 
-| Theme                      |   GitHub    |  CodeMirror  |    Jupyter   |
-|----------------------------|:-----------:|:------------:|:------------:|
-| Ambiance                   |      ✔️     |      ✔️     |      ❌      |
-| Base16 Ocean Dark          |      ❌     |      ✔️     |      ✔️      |
-| Chaos                      |      ✔️     |      ❌     |      ❌      |
-| Clouds Midnight            |      ✔️     |      ❌     |      ❌      |
-| Cobalt                     |      ✔️     |      ✔️     |      ❌      |
-| Dracula                    |      ❌     |      ✔️     |      ✔️      |
-| GitHub Dark                |      ✔️     |      ❌     |      ✔️      |
-| Idle Fingers               |      ✔️     |      ❌     |      ✔️      |
-| Kr Theme                   |      ✔️     |      ❌     |      ❌      |
+| Caracteristicas            |    |  vc |     |  Anaconda | 
+|----------------------------|:-----------:|:------------:|
+| Codigo abierto             |      ❌     |      ✔️     |      
+| Multiplatadorma            |      ✔️     |      ✔️     |      
+| Soporte                    |      ✔️     |      ✔️     |      
+| Actualizacion              |      ✔️     |      ✔️     |      
+| Dark Theme                 |      ✔️     |      ✔️     |      
+| Ciencia de datos           |      ❌     |      ✔️     |     
 
 
-- Support for [Codemirror](https://codemirror.net/demo/theme.html) and [Jupyter notebook](https://github.com/sujitpal/statlearning-notebooks/blob/master/src/chapter2.ipynb) syntax highlighting themes as listed above.
-- Please provide a pull request if you have or want to create a missing theme, or help complete the theme(s) designated with a construction symbol (🚧).
+## Notas
 
-## Notes
+- Puedes utilizar otro editor de codigo pero no tendras soporte. se recomienda usar los editores mensionados. 
 
-- Puedes utilizar otra IDE pero no tendras soporte.
-
-
-Thanks to all that have [contributed](./AUTHORS) so far!
-
-And thanks for the shoutout on the [JS Party](https://changelog.com/jsparty/20#transcript-71) podcast!
