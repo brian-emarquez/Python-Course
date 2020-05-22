@@ -1,11 +1,13 @@
 
 <h2 align="center">Curso de Python&nbsp;:heart:&nbsp;</h2>
 
-## Instalación 💻
+## ¿Que es Python? 💻
 
 Python es un lenguaje de programación interpretado cuya filosofía hace hincapié en la legibilidad de su código. Se trata de un lenguaje de programación multiparadigma, ya que soporta orientación a objetos, programación imperativa y, en menor medida, programación funcional. Es un lenguaje interpretado, dinámico y multiplataforma.
 
 Es administrado por la Python Software Foundation. Posee una licencia de código abierto, denominada Python Software Foundation License, que es compatible con la Licencia pública general de GNU a partir de la versión 2.1.1, e incompatible en ciertas versiones anteriores.
+- `C:\>C:\Python27\python.exe`: Ejecutar Aplicaciones en Windows.
+- `$ /usr/bin/python`: Ejecutar Aplicaciones en Linux
 
 ## Versión 🧑‍💻
 
@@ -22,7 +24,7 @@ python -m pip install --upgrade pip
 ```
 
 
-## Historia 📋
+## Historia 📖
 Python fue creado a finales de los ochenta por Guido van Rossum en el Centro para las Matemáticas y la Informática (CWI, Centrum Wiskunde & Informatica), en los Países Bajos, como un sucesor del lenguaje de programación ABC, capaz de manejar excepciones e interactuar con el sistema operativo Amoeba.
 
 El nombre del lenguaje proviene de la afición de su creador por los humoristas británicos Monty Python.
@@ -46,7 +48,7 @@ En 1991, van Rossum publicó el código de la versión 0.9.0 en alt.sources. En 
 | Ciencia de datos           |      ❌     |      ✔️     |  
 | Rapidez                    |      ✔️     |      ✔️     |      
 
-## Notas 📖
+## Notas 📋
 
 - Puedes utilizar otro editor de codigo pero no tendras soporte. se recomienda usar los editores mensionados. 
 
