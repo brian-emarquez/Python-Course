@@ -33,7 +33,7 @@ En 1991, van Rossum publicó el código de la versión 0.9.0 en alt.sources. En 
 [WIKIPEDIA](https://es.wikipedia.org/wiki/Python).<br>
 
 📦 [Install python](https://www.python.org/) Instalador de Python.<br>
-📦 [Install Anaconda](https://www.anaconda.com/) Intalador de Anaconda
+📦 [Install Anaconda](https://www.anaconda.com/) Intalador de Anaconda.<br>
 📦 [Install Visual studio Code](https://code.visualstudio.com/) Intalador de Visual Studio Code
 [BLOG](https://www.anaconda.com/blog).<br>
 
