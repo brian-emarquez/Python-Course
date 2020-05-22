@@ -38,17 +38,21 @@ En 1991, van Rossum publicó el código de la versión 0.9.0 en alt.sources. En 
 [BLOG](https://www.anaconda.com/blog).<br>
 
 
-| Caracteristicas            |    |  vc |     |  Anaconda | 
+| Caracteristicas            | Visual Code |   Anaconda   |   
 |----------------------------|:-----------:|:------------:|
-| Codigo abierto             |      ❌     |      ✔️     |      
-| Multiplatadorma            |      ✔️     |      ✔️     |      
+| Codigo Abierto             |      ❌     |      ✔️     |      
+| Multiplataforma            |      ✔️     |      ✔️     |     
 | Soporte                    |      ✔️     |      ✔️     |      
-| Actualizacion              |      ✔️     |      ✔️     |      
-| Dark Theme                 |      ✔️     |      ✔️     |      
-| Ciencia de datos           |      ❌     |      ✔️     |     
-
+| Ciencia de datos           |      ❌     |      ✔️     |  
+| Rapidez                    |      ✔️     |      ✔️     |      
 
 ## Notas
 
 - Puedes utilizar otro editor de codigo pero no tendras soporte. se recomienda usar los editores mensionados. 
 
+
+## Autores ✒️
+
+* **Brian Marquez** - *Documentación* - [Brian Marquez](#fulanito-de-tal)
+
+También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
