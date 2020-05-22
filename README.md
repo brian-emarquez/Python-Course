@@ -50,9 +50,12 @@ En 1991, van Rossum publicó el código de la versión 0.9.0 en alt.sources. En 
 
 - Puedes utilizar otro editor de codigo pero no tendras soporte. se recomienda usar los editores mensionados. 
 
+## Ramas
+
+[Todas las Ramas]https://github.com/BrianMarquez3/Python-Course/settings/branches
 
 ## Autores ✒️
 
-* **Brian Marquez** - *Documentación* - [Brian Marquez](#fulanito-de-tal)
+* **Brian Marquez** - *Documentación* - [Brian Marquez]()
 
-También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
+
