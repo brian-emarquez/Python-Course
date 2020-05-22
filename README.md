@@ -17,8 +17,9 @@ Van Rossum es el principal autor de Python, y su continuo rol central en decidir
 En 1991, van Rossum publicó el código de la versión 0.9.0 en alt.sources. En esta etapa del desarrollo ya estaban presentes clases con herencia, manejo de excepciones, funciones y los tipos modulares, como: str, list, dict, entre otros. Además en este lanzamiento inicial aparecía un sistema de módulos adoptado de Modula-3; van Rossum describe el módulo como «una de las mayores unidades de programación de Python». El modelo de excepciones en Python es parecido al de Modula-3, con la adición de una cláusula else. En el año 1994 se formó comp.lang.python, el foro de discusión principal de Python, marcando un hito en el crecimiento del grupo de usuarios de este lenguaje.
 
 
-📦 [Install the python](https://www.python.org/) Instalacion de Python.<br>
-📦 [Install GitHub-Dark Script](https://raw.githubusercontent.com/StylishThemes/GitHub-Dark-Script/master/github-dark-script.user.js) which supports automatic updates and customization. Refer to its [README](https://github.com/StylishThemes/GitHub-Dark-Script/blob/master/README.md).<br>
+📦 [Install python](https://www.python.org/) Instalador de Python.<br>
+📦 [Install Anaconda - Jupyter](https://www.anaconda.com/) Intalador de Anaconda
+[BLOG](https://www.anaconda.com/blog).<br>
 
 
 
