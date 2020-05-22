@@ -1,13 +1,5 @@
-<p align="center">
-  <img alt="githubdark-logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="480">
-  <br>
-  
-</p>
+
 <h2 align="center">Curso de Python&nbsp;:heart:&nbsp;you.</h2>
-
-## Preview
-
-![Preview of GitHub Dark](./images/screenshots/after_blue.png)
 
 ## Installation
 
