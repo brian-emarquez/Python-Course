@@ -7,6 +7,15 @@ Python es un lenguaje de programación interpretado cuya filosofía hace hincapi
 
 Es administrado por la Python Software Foundation. Posee una licencia de código abierto, denominada Python Software Foundation License, que es compatible con la Licencia pública general de GNU a partir de la versión 2.1.1, e incompatible en ciertas versiones anteriores.
 
+### Version
+
+_Verifica la versión de Python_
+
+```
+python --version
+```
+
+
 ### Historia 📋
 Python fue creado a finales de los ochenta por Guido van Rossum en el Centro para las Matemáticas y la Informática (CWI, Centrum Wiskunde & Informatica), en los Países Bajos, como un sucesor del lenguaje de programación ABC, capaz de manejar excepciones e interactuar con el sistema operativo Amoeba.
 
@@ -18,10 +27,8 @@ En 1991, van Rossum publicó el código de la versión 0.9.0 en alt.sources. En 
 [WIKIPEDIA](https://es.wikipedia.org/wiki/Python).<br>
 
 📦 [Install python](https://www.python.org/) Instalador de Python.<br>
-📦 [Install Anaconda - Jupyter](https://www.anaconda.com/) Intalador de Anaconda
+📦 [Install Anaconda](https://www.anaconda.com/) Intalador de Anaconda
 [BLOG](https://www.anaconda.com/blog).<br>
-
-
 
 ## Available Syntax Highlighting Themes ([Demo](https://stylishthemes.github.io/GitHub-Dark/))
 
