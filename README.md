@@ -6,9 +6,19 @@
 Python es un lenguaje de programación interpretado cuya filosofía hace hincapié en la legibilidad de su código. Se trata de un lenguaje de programación multiparadigma, ya que soporta orientación a objetos, programación imperativa y, en menor medida, programación funcional. Es un lenguaje interpretado, dinámico y multiplataforma.
 
 Es administrado por la Python Software Foundation. Posee una licencia de código abierto, denominada Python Software Foundation License, que es compatible con la Licencia pública general de GNU a partir de la versión 2.1.1, e incompatible en ciertas versiones anteriores.
-- `C:\>C:\Python27\python.exe`: Ejecutar Aplicaciones en Windows.
-- `$ /usr/bin/python`: Ejecutar Aplicaciones en Linux
+- `C:\Python27\python.exe`: Ejecutar Aplicaciones en Windows.
+- `usr/bin/python`: Ejecutar Aplicaciones en Linux
 
+### Ejemplos
+```
+>>> 2 + 3
+5
+```
+
+```
+>>> 2 ** 3
+8
+```
 ## Versión 🧑‍💻
 
 _Verifica la versión de Python_
