@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="githubdark-logo" src="https://programacion.net/files/article/20160721020723_python-logo.png" width="580">
+  <img alt="githubdark-logo" src="https://s3-us-west-2.amazonaws.com/devcodepro/media/tutorials/funciones-en-python-t1.jpg">
   <br>
   <a href="https://github.com/StylishThemes/GitHub-Dark/tags">
     <img src="https://img.shields.io/github/tag/StylishThemes/GitHub-Dark.svg?label=version&style=flat" alt="Version">
