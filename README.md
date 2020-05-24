@@ -73,7 +73,8 @@ Ver todas las Ramas [Ramas](https://github.com/BrianMarquez3/Python-Course/setti
 * **Brian Marquez** - *Documentación* - [Brian Marquez]()
 
 ## Spotify
-Music Python [Music Spotify]https://open.spotify.com/playlist/11AwbhmXyh2jKlsHmaxcP9)
+Music Python [List on Spotify](https://open.spotify.com/playlist/11AwbhmXyh2jKlsHmaxcP9)
+
 
 
 
