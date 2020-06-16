@@ -12,6 +12,7 @@ print(next(cuidades_devuelta))
 print(next(cuidades_devuelta))
 
 print("\n")
+
 #Yield from
 def devuelve_ciudades_1(*cuidades ): #el * sifnifica que va a resivir un numero indetermiad de elementos en forma de tupla
     for elementos in cuidades:
