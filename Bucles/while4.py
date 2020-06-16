@@ -10,8 +10,9 @@ for i in "Python2":
 
 nombre = "brian marquez 3"
 contador = 0
+
 for i in nombre:
-    if(i==""):
+    if(i==" "):# si se encuntr en un espacio en blanco que ignore
         continue
     contador+=1
 
