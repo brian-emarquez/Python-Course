@@ -1,5 +1,5 @@
 
-#Generadores
+#Generadores 2
 #Yield from  : simplificar el codigo de los generadores en el caso de utilizar bucles anidados
 
 def devuelve_ciudades(*cuidades ): #el * sifnifica que va a resivir un numero indetermiad de elementos en forma de tupla
