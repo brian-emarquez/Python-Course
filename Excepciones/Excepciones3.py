@@ -8,12 +8,15 @@ def divide ():
         op2=(float(input("Introduce el segundo Numero:                                                                         ")))
 
         print("La Division es: " +str(op1/op2))
-        
+
     except ValueError:
         print("Caracteres no aceptados")
+
     except ZeroDivisionError:
         print("No se aceptar divicion entrer 0")
-    print("Calculo finalizado")
+
+    finally:
+        print("Calculo finalizado")#siempre se ejecutara
 
 divide()
 
