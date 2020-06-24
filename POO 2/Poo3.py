@@ -1,11 +1,11 @@
 #Poo3
-
+#Envio de un valor
 
 class Coche(): #clase
     largoChasis = 200 #propiedades
     anchoClasis = 120
     ruedas = 4
-    enmarcha = False
+    enmarcha = True
 
 
     def arrancar(self,arrancamos): #metodo
@@ -23,16 +23,17 @@ class Coche(): #clase
 #Objeto
 micoche=Coche() #Instanciar un clase
 
-print("El largo del coche es: ",micoche.largoChasis) #Nomenchatura del punto
-print("El Coche tiene: ", micoche.ruedas, "ruedas")
+
 print(micoche.arrancar(True))
 micoche.estado()
 
-print("----------SEGUNDO OBJETO-----------")
+print("----------SEGUNDO OBJETO-----------\n")
 micoche2=Coche() #Instanciar un clase
 
-print("El largo del coche es: ",micoche.largoChasis) #Nomenchatura del punto
-print("El Coche tiene: ", micoche.ruedas, "ruedas")
+
 print(micoche2.arrancar(False))
 micoche2.estado()
+
+
+
 
