@@ -1,8 +1,9 @@
-#Herencia
-#Principal funcion en la POO es la Reuilizacion de Codigo
+#Herencia 2 
+#Sobre escritura de metodos
+#Herencia simple y muliple
 
-#¿QUE CARACTERISTICAS EN COMUN TIENE TODOS LO OBJETOS?
 #que comportamientos en comun tienen todos los objetos?
+#Sobre escritura de metodos
 
 #superclase
 class Vehiculos():
@@ -34,9 +35,22 @@ class Vehiculos():
 
 #Herencia
 class Moto(Vehiculos):
-    pass
+    hcaballito = None
+    #hcaballito = ""
+
+    def caballito(self):
+        self.hcaballito="Voy haciendo el caballito"
+
+    #Remplaza al "Estado de la Super clase
+    #Sobre escritura de metodos
+    def estado(self):
+        print("Marca: ", self.marca, "\nModelo: ", self.modelo, "\nEn Marcha: ",
+        self.enmarcha, "\nAcelerando: ", self.acelera, "\nFrenando: ", self.frena, "\n",self.hcaballito)
+    
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 miMoto = Moto("Holda","CBR")
+miMoto.caballito()
 miMoto.estado()
 
 
