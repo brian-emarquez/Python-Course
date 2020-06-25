@@ -9,7 +9,7 @@ class Coche(): #clase
         self.__largoChasis = 250 #Self
         self.__anchoClasis = 120
         self.__ruedas = 4 
-        self.__enmarcha = True
+        self.__enmarcha = False
 
 
     def arrancar(self,arrancamos): #metodo
@@ -26,6 +26,7 @@ class Coche(): #clase
 
         else:
             return "El coche esta parado"
+
 
     def estado(self):
         print("El auto tiene ", self.__ruedas, " ruedas. un ancho de ", self.__anchoClasis, "y un largo de ", self.__largoChasis)       
