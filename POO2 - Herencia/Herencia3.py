@@ -1,4 +1,4 @@
-#Herencia 3
+#Herencia 3 - Herencia Multiple
 
 #superclase
 class Vehiculos():
