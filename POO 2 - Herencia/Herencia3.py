@@ -66,9 +66,6 @@ class BicicletaElectrica(VElectricos, Vehiculos):
 
 
 
-
-    
-    
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 print("------Obejeto 1-------\n")
 miMoto = Moto("Holda","CBR")
