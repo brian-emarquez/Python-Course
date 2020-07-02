@@ -1,1 +1,2 @@
 python setup.py sdist
+pip3 install paqueteCalculos-.1.0.0.tar.gz 

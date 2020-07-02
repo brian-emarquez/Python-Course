@@ -1,4 +1,4 @@
-from setuptools import setup
+paq from setuptools import setup
 
 setup(
     name="PaquetesCalculos",
