@@ -5,11 +5,11 @@
 #nos vinculamos a la carpeta Calculos y al archivo CalculoGenerales.py
 
 from Calculos.CalculoGenerales import dividir
-from Calculos.OperacionBasica.Operacion_Basica import sumar
-from Calculos.RedondeaPotencia.Redondea_Potencia import redondear
+#from Calculos.OperacionBasica.Operacion_Basica import sumar
+#from Calculos.RedondeaPotencia.Redondea_Potencia import redondear
 
 
 dividir(100, 15)
-sumar(50, 50)
-redondear(5.9)
+#sumar(50, 50)
+#redondear(5.9)
 
