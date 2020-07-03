@@ -1,6 +1,6 @@
 import pickle
 
-class Personas:
+class Persona:
 
     def __init__(self, nombre, genero, edad):
         self.nombre=nombre
@@ -52,16 +52,6 @@ class ListaPersonas:
 
 # Objetos
 miLista = ListaPersonas()
-persona = Personas("sandra ","Femenino ", 29)
+persona = Persona("sandras ","Femeninos ", 30)
 miLista.agregarPersonas(persona)
 miLista.mostarPersonas()
-
-
-
-
-
-
-
-
-
-
