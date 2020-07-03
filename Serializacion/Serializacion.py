@@ -1,4 +1,4 @@
-# Serializacion
+# Serializacion Colecciones
 # Guardar en fichero externo codificado en codigo binario "01010101010101010"
 # Se usa la biblioteca Pickle - se usa lo metodos: dump() y load()
 
