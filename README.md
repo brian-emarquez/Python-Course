@@ -67,6 +67,22 @@ En 1991, van Rossum publicó el código de la versión 0.9.0 en alt.sources. En 
 
 Ver todas las Ramas [Ramas](https://github.com/BrianMarquez3/Python-Course/settings/branches)
 
+## POO (Programación orientada a objetos)
+
+La programación orientada a objetos (POO, u OOP según sus siglas en inglés) es un paradigma de programación que viene a innovar la forma de obtener resultados. Los objetos manipulan los datos de entrada para la obtención de datos de salida específicos, donde cada objeto ofrece una funcionalidad especial.
+
+Muchos de los objetos prediseñados de los lenguajes de programación actuales permiten la agrupación en bibliotecas o librerías, sin embargo, muchos de estos lenguajes permiten al usuario la creación de sus propias bibliote
+
+```
+class Persona:
+    """Clase que representa una Persona"""
+    cedula = "V-13458796"
+    nombre = "Leonardo"
+    apellido = "Caballero"
+    sexo = "M"
+```
+
+
 ## Interface Grafica (GUI)
 
 ###Tkinter
