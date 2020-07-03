@@ -35,9 +35,6 @@ _Actualiza el  PIP de Python_
 python -m pip install --upgrade pip
 ```
 
-## A. I Programming with Python
-![python](./Images/python2.jpg)
-
 ## Historia 📖
 Python fue creado a finales de los ochenta por Guido van Rossum en el Centro para las Matemáticas y la Informática (CWI, Centrum Wiskunde & Informatica), en los Países Bajos, como un sucesor del lenguaje de programación ABC, capaz de manejar excepciones e interactuar con el sistema operativo Amoeba.
 
@@ -80,6 +77,11 @@ Ejecutar desde la línea de comando debería abrir una ventana que demuestre una
 from tkinter import *
 ```
 ![python](./Images/Gui.PNG)
+
+## A. I Programming with Python
+
+![python](./Images/python2.jpg)
+
 ## Spotify
 Music Python [List on Spotify](https://open.spotify.com/playlist/11AwbhmXyh2jKlsHmaxcP9)
 
