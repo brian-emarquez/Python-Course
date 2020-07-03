@@ -78,6 +78,9 @@ La programación orientada a objetos (POO, u OOP según sus siglas en inglés) e
 - acoplamiento.
 - encapsulación.
 
+![python](./Images/poo.png)
+
+
 Muchos de los objetos prediseñados de los lenguajes de programación actuales permiten la agrupación en bibliotecas o librerías, sin embargo, muchos de estos lenguajes permiten al usuario la creación de sus propias bibliote
 
 ```
