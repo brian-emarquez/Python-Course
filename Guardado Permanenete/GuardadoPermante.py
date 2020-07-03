@@ -50,8 +50,10 @@ class ListaPersonas:
         for p in self.personas:
             print(p)
 
+
 # Objetos
 miLista = ListaPersonas()
-persona = Persona("sandras ","Femeninos ", 30)
+persona = Persona("eduardo ","masculino ", 20)
 miLista.agregarPersonas(persona)
 miLista.mostarPersonas()
+
