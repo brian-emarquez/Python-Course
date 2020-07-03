@@ -35,6 +35,7 @@ _Actualiza el  PIP de Python_
 python -m pip install --upgrade pip
 ```
 
+![python](./Images/Gui.png)
 
 ## Historia 📖
 Python fue creado a finales de los ochenta por Guido van Rossum en el Centro para las Matemáticas y la Informática (CWI, Centrum Wiskunde & Informatica), en los Países Bajos, como un sucesor del lenguaje de programación ABC, capaz de manejar excepciones e interactuar con el sistema operativo Amoeba.
@@ -68,13 +69,16 @@ En 1991, van Rossum publicó el código de la versión 0.9.0 en alt.sources. En 
 
 Ver todas las Ramas [Ramas](https://github.com/BrianMarquez3/Python-Course/settings/branches)
 
-## Autores ✒️
+## Interface Grafica (GUI)
 
-* **Brian Marquez** - *Documentación* - [Brian Marquez]()
+El Tkintermódulo ("interfaz Tk") es la interfaz estándar de Python para el kit de herramientas Tk GUI. Tanto Tk como Tkinterestán disponibles en la mayoría de las plataformas Unix, así como en los sistemas Windows. (Tk en sí no es parte de Python; se mantiene en ActiveState).
+
+Ejecutar desde la línea de comando debería abrir una ventana que demuestre una interfaz Tk simple, que le permita saber que está instalado correctamente en su sistema y que también muestre qué versión de Tcl / Tk está instalada, para que pueda leer la documentación específica de Tcl / Tk versión.python -m TkinterTkinter
+
+```
+from tkinter import *
+```
 
 ## Spotify
 Music Python [List on Spotify](https://open.spotify.com/playlist/11AwbhmXyh2jKlsHmaxcP9)
-
-
-
 
