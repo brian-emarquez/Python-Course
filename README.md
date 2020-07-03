@@ -35,7 +35,8 @@ _Actualiza el  PIP de Python_
 python -m pip install --upgrade pip
 ```
 
-![python](./Images/Gui.png)
+## A. I Programming with Python
+![python](./Images/python2.jpg)
 
 ## Historia 📖
 Python fue creado a finales de los ochenta por Guido van Rossum en el Centro para las Matemáticas y la Informática (CWI, Centrum Wiskunde & Informatica), en los Países Bajos, como un sucesor del lenguaje de programación ABC, capaz de manejar excepciones e interactuar con el sistema operativo Amoeba.
