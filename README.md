@@ -71,6 +71,13 @@ Ver todas las Ramas [Ramas](https://github.com/BrianMarquez3/Python-Course/setti
 
 La programación orientada a objetos (POO, u OOP según sus siglas en inglés) es un paradigma de programación que viene a innovar la forma de obtener resultados. Los objetos manipulan los datos de entrada para la obtención de datos de salida específicos, donde cada objeto ofrece una funcionalidad especial.
 
+- herencia.
+- cohesión.
+- abstracción.
+- polimorfismo.
+- acoplamiento.
+- encapsulación.
+
 Muchos de los objetos prediseñados de los lenguajes de programación actuales permiten la agrupación en bibliotecas o librerías, sin embargo, muchos de estos lenguajes permiten al usuario la creación de sus propias bibliote
 
 ```
