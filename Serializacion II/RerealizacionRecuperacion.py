@@ -1,7 +1,7 @@
 # Recuperar Objetos
 
 import pickle
-from SerializacionII import *
+from SerializacionII import Vehiculos
 
 ficheroApertura = open("LosCoches","rb")
 
