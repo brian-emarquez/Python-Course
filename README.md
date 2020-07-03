@@ -1,5 +1,5 @@
 
-<h2 align="center">Curso de Python&nbsp;:heart:&nbsp;</h2>
+<h2 align="center">Python Course - Learn Python &nbsp;:heart:&nbsp;</h2>
 
 ![python](./Images/python3.png)
 
