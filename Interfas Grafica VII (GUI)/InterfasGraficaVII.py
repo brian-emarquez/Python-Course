@@ -3,7 +3,6 @@
 # Llamadas a funciones 
 # Funciones lambda o anonimas
 
-
 from tkinter import *
 
 raiz = Tk()
@@ -25,7 +24,6 @@ pantalla.config(background="black",fg="#2EF907", justify="right", width=30)
 
 def numeroPulsado(num):
     numeroPantalla.set(numeroPantalla.get() + num)
-
 
 
 #-------------------------------1 Fila-----------------------------------
