@@ -1,4 +1,5 @@
 # Interfas Grafica V
+# Scroll
 # Botones
 
 from tkinter import *
@@ -8,8 +9,10 @@ raiz = Tk()
 miFrame = Frame(raiz, width=1200, height=600)
 miFrame.pack()
 
+minombre=StringVar()
+
 #Frame
-cuadroNombre=Entry(miFrame)
+cuadroNombre=Entry(miFrame, textvariable=minombre)
 cuadroNombre.grid(row=0, column=1, padx=10, pady=10)
 cuadroNombre.config(fg="red", justify="center")
 
@@ -48,6 +51,16 @@ direccionDireccion.grid(row=3, column=0, sticky="e", padx=10, pady=10)
 
 comentarioLabel=Label(miFrame, text="Comentarios:")
 comentarioLabel.grid(row=4, column=0, sticky="e", padx=10, pady=10)
+
+#Botones
+
+def codigoBoton():
+
+    minombre.set("brian")
+
+botonEnvio=Button(raiz, text="Enviar", command= codigoBoton)
+botonEnvio.pack()
+
 
 
 
