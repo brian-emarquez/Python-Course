@@ -70,12 +70,4 @@ butonIgual.grid(row=5, column=3)
 botonSuma=Button(miFrame, text="+", width=3)
 botonSuma.grid(row=5, column=4)
 
-
-
-
-
-
-
-
-
 raiz.mainloop()
