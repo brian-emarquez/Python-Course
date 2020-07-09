@@ -85,4 +85,6 @@ butonIgual.grid(row=5, column=3)
 botonSuma=Button(miFrame, text="+", width=7, height=3 , command=lambda:numeroPulsado("+"))
 botonSuma.grid(row=5, column=4)
 
+
+
 raiz.mainloop()
