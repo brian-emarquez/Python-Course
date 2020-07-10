@@ -1,8 +1,5 @@
 # Interfas Grafica VIII
-# Interfas Calculadora
-# Llamadas a funciones 
-# Funciones lambda o anonimas
-
+# Operacion Matematicas
 
 from tkinter import *
 
@@ -10,6 +7,8 @@ raiz = Tk()
 
 miFrame=Frame(raiz)
 miFrame.pack()
+operacion =""
+resultado=0
 
 #Entry
 #------------------------------Pantalla---------------------------------
@@ -24,7 +23,30 @@ pantalla.config(background="black",fg="#2EF907", justify="right", width=30)
 
 
 def numeroPulsado(num):
-    numeroPantalla.set(numeroPantalla.get() + num)
+
+    global operacion
+    if operacion!="":
+        numeroPantalla.set(num)
+        operacion=""
+    else:
+        numeroPantalla.set(numeroPantalla.get() + num)
+    
+
+#------------------------------Funcion Suma------------------------------
+
+def suma(num):
+    global operacion
+    global resultado
+    resultado=resultado+int(num)
+    operacion="suma"
+    numeroPantalla.set(resultado)
+
+#------------------------------Funcion Resultado------------------------------
+
+def el_resultado():
+
+    global resultado
+    numeroPantalla.set(resultado+int(numeroPantalla.get()))
 
 
 
@@ -53,7 +75,7 @@ buton5.grid(row=3, column=2)
 buton6=Button(miFrame, text="6", width=7, height=3, command=lambda:numeroPulsado("6"))
 buton6.grid(row=3, column=3)
 
-botonMul=Button(miFrame, text="*", width=7, height=3, command=lambda:numeroPulsado("7"))
+botonMul=Button(miFrame, text="*", width=7, height=3)
 botonMul.grid(row=3, column=4)
 
 #-------------------------------3 Fila-----------------------------------
@@ -67,7 +89,7 @@ buton2.grid(row=4, column=2)
 buton3=Button(miFrame, text="3", width=7, height=3 , command=lambda:numeroPulsado("3"))
 buton3.grid(row=4, column=3)
 
-botonRes=Button(miFrame, text="-",width=7, height=3, command=lambda:numeroPulsado("-"))
+botonRes=Button(miFrame, text="-",width=7, height=3)
 botonRes.grid(row=4, column=4)
 
 
@@ -76,13 +98,13 @@ botonRes.grid(row=4, column=4)
 buton0=Button(miFrame, text="0", width=7, height=3, command=lambda:numeroPulsado("0"))
 buton0.grid(row=5, column=1)
 
-butonComa=Button(miFrame, text=".", width=7, height=3, command=lambda:numeroPulsado(","))
+butonComa=Button(miFrame, text=".", width=7, height=3)
 butonComa.grid(row=5, column=2)
 
-butonIgual=Button(miFrame, text="=", width=7, height=3, command=lambda:numeroPulsado("="))
+butonIgual=Button(miFrame, text="=", width=7, height=3, command=lambda:el_resultado())
 butonIgual.grid(row=5, column=3)
 
-botonSuma=Button(miFrame, text="+", width=7, height=3 , command=lambda:numeroPulsado("+"))
+botonSuma=Button(miFrame, text="+", width=7, height=3, command=lambda:suma(numeroPantalla.get()))
 botonSuma.grid(row=5, column=4)
 
 raiz.mainloop()
