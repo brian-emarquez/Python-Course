@@ -1,5 +1,4 @@
 # Interfas Grafica IX 
-# Raddio Button
 
 from tkinter import *
 

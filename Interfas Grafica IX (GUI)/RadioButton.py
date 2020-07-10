@@ -21,7 +21,7 @@ Label(root, text="Genero:").pack()
 Radiobutton(root, text="Masculino", variable= varOpcion, value=1, comman=imprimir).pack()
 Radiobutton(root, text="Femenino", variable= varOpcion, value=2, comman=imprimir).pack()
 
-etiqueta=Label(root)
+etiqueta=Label(root)#linea de texto
 etiqueta.pack()
 
 root.mainloop()
