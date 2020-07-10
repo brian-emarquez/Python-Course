@@ -47,6 +47,7 @@ def el_resultado():
 
     global resultado
     numeroPantalla.set(resultado+int(numeroPantalla.get()))
+    resultado=0
 
 
 
