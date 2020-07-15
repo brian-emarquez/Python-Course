@@ -35,13 +35,6 @@ _Actualiza el  PIP de Python_
 python -m pip install --upgrade pip
 ```
 
-_Actualiza el  PIP de Python_
-
-```
-python -m pip install --upgrade pip
-```
-
-
 _Creacion de un .exe_
 
 ```
