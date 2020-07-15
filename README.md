@@ -21,7 +21,7 @@ Es administrado por la Python Software Foundation. Posee una licencia de código
 >>> 2 ** 3
 8
 ```
-## Versión 🧑‍💻
+## Comandos 🧑‍💻
 
 _Verifica la versión de Python_
 
@@ -34,6 +34,38 @@ _Actualiza el  PIP de Python_
 ```
 python -m pip install --upgrade pip
 ```
+
+_Actualiza el  PIP de Python_
+
+```
+python -m pip install --upgrade pip
+```
+
+
+_Creacion de un .exe_
+
+```
+pip install pyinstaller
+```
+
+_Listado de Modulos instalados en Python_
+
+```
+pip list 
+```
+
+_Desinstalar Modulos_
+
+```
+pip uninstall nombreModulo
+```
+
+_Conectar Base de datos SQL SERVER_
+
+```
+pip install pyodbc
+```
+
 
 ## Historia 📖
 Python fue creado a finales de los ochenta por Guido van Rossum en el Centro para las Matemáticas y la Informática (CWI, Centrum Wiskunde & Informatica), en los Países Bajos, como un sucesor del lenguaje de programación ABC, capaz de manejar excepciones e interactuar con el sistema operativo Amoeba.
