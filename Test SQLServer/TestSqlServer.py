@@ -40,7 +40,7 @@ def delete(conn):
 conn = pyodbc.connect(
 
     "Driver={SQL Server Native Client 11.0};"
-    "Server=briandb;"
+    "Server=DESKTOP-URCHNPM;"
     "Database=test;"
     "password=briandb;"
     "Trusted_Connection=yes;"
