@@ -53,10 +53,16 @@ _Desinstalar Modulos_
 pip uninstall nombreModulo
 ```
 
-_Conectar Base de datos SQL SERVER_
+_Conectar Base de datos - SQL SERVER_
 
 ```
 pip install pyodbc
+```
+
+_Conectar Base de datos - MariaDB_
+
+```
+pip3 install mariadb
 ```
 
 
