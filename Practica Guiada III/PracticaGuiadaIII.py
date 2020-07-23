@@ -5,14 +5,41 @@ from tkinter import *
 from tkinter import messagebox
 import sqlite3
 
+# -------------------- Comienzo de campos--------------------
+def conexionBBDD():
+    miConexion=sqlite3.connect("Practica Guiada III/Usuarios")
+    miCursor=miConexion.cursor()
+
+    try:
+        miCursor.execute('''
+            CREATE TABLE DATOSUSUARIOS(
+            ID INTEGER PRIMARY KEY AUTOINCREMENT,
+            NOMBRE_USUARIO VARCHAR(50),
+            PASSWORD VARCHAR(50),
+            APELLIDO VARCHAR(10),
+            DIRECCION VARCHAR(50),
+            COMENTARIOS VARCHAR (100))
+            ''')
+
+        messagebox.showinfo("BBDD", "BBDD creada con exito")
+
+    except:
+        messagebox.showwarning("Atencion", "La BBDD ya existe")
+
+def salirAplicacion():
+    valor=messagebox.askquestion("Salir","Deseas salir de la aplicacion")
+    if valor=="yes":
+        root.destroy()
+
+#------------------------------------------------------
 root=Tk()
 
 barraMenu=Menu(root)
 root.config(menu=barraMenu, width=300, height=300)
 
 bbddMenu=Menu(barraMenu, tearoff=0)
-bbddMenu.add_command(label="Conectar")
-bbddMenu.add_command(label="Salir")
+bbddMenu.add_command(label="Conectar", command=conexionBBDD)
+bbddMenu.add_command(label="Salir", command=salirAplicacion)
 
 borrarMenu=Menu(barraMenu, tearoff=0)
 borrarMenu.add_command(label="Borrar Campos")
@@ -100,26 +127,6 @@ botonActualizar.grid(row=1, column=2, sticky="e", padx=10, pady=10 )
 
 botonBorrar=Button(miFrame2, text="Delete")
 botonBorrar.grid(row=1, column=3, sticky="e", padx=10, pady=10 )
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 root.mainloop()
 
