@@ -69,8 +69,18 @@ def leer():
 
     miConexion.commit()
 
+def Actualizar():
+    miConexion=sqlite3.connect("Practica Guiada V/Usuarios")
+    miCursor=miConexion.cursor()
+    miCursor.execute("UPDATE DATOSUSUARIOS SET NOMBRE_USUARIO='" + miNombre.get() +
+        "', PASSWORD= '" + miPass.get() +
+        "', APELLIDO= '" + miApellido.get() +
+        "', DIRECCION= '" + miDireccion.get() +
+        "', COMENTARIOS= '" + textoComentario.get("1.0", END) +
+        "'WHERE ID=" + miId.get())
 
-
+    miConexion.commit()
+    messagebox.showinfo("BBDD", "Registro actualizado con Exito")
 
 
 #------------------------------------------------------
@@ -89,7 +99,7 @@ borrarMenu.add_command(label="Borrar Campos", command=limpiarCampos)
 crudMenu=Menu(barraMenu, tearoff=0)
 crudMenu.add_command(label="Crear", command=crear)
 crudMenu.add_command(label="Leer", command=leer)
-crudMenu.add_command(label="Actualizar")
+crudMenu.add_command(label="Actualizar", command=Actualizar)
 crudMenu.add_command(label="Borrar")
 
 ayudaMenu=Menu(barraMenu, tearoff=0)
@@ -171,7 +181,7 @@ botonCrear.grid(row=1, column=0, sticky="e", padx=10, pady=10 )
 botonLeer=Button(miFrame2, text="Read", command=leer)
 botonLeer.grid(row=1, column=1, sticky="e", padx=10, pady=10 )
 
-botonActualizar=Button(miFrame2, text="Update")
+botonActualizar=Button(miFrame2, text="Update", command=Actualizar)
 botonActualizar.grid(row=1, column=2, sticky="e", padx=10, pady=10 )
 
 botonBorrar=Button(miFrame2, text="Delete")
