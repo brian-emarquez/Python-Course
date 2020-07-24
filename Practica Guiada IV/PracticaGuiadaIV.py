@@ -42,7 +42,7 @@ def limpiarCampos():
     textoComentario.delete(1.0, END)
 
 def crear():
-    miConexion=sqlite3.connect("Usuarios")
+    miConexion=sqlite3.connect("Practica Guiada IV/Usuarios")
     miCursor=miConexion.cursor()
     miCursor.execute("INSERT INTO DATOSUSUARIOS VALUES(NULL, '" + miNombre.get() + 
         "','" + miPass.get() +
