@@ -1,4 +1,4 @@
-# Aplicacion Grafica Guiada I
+# Aplicacion Grafica Guiada II
 # Aplicacion Grafica CRUD
 
 from tkinter import *
