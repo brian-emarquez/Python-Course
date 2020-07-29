@@ -44,7 +44,7 @@ pip install pyinstaller
 _Creacion de un .exe_
 
 ```
-pyinstaller --windowed  CalculadoraGrafica.py
+pyinstaller --windowed nombreArchivo.py
 ```
 
 _Listado de Modulos instalados en Python_
