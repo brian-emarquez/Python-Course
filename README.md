@@ -50,7 +50,7 @@ pyinstaller --windowed nombreArchivo.py
 _Creacion de un .exe - un solo archivo_
 
 ```
-pyinstaller --windowed --onefile CalculadoraGrafica.py
+pyinstaller --windowed --onefile nombreArchivo.py
 ```
 
 _Listado de Modulos instalados en Python_
