@@ -47,6 +47,12 @@ _Creacion de un .exe_
 pyinstaller --windowed nombreArchivo.py
 ```
 
+_Creacion de un .exe - un solo archivo_
+
+```
+pyinstaller --windowed --onefile CalculadoraGrafica.py
+```
+
 _Listado de Modulos instalados en Python_
 
 ```
