@@ -35,10 +35,16 @@ _Actualiza el  PIP de Python_
 python -m pip install --upgrade pip
 ```
 
-_Creacion de un .exe_
+_Creacion de un Instalador_
 
 ```
 pip install pyinstaller
+```
+
+_Creacion de un .exe_
+
+```
+pyinstaller --windowed  CalculadoraGrafica.py
 ```
 
 _Listado de Modulos instalados en Python_
