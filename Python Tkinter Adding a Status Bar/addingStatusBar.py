@@ -17,10 +17,14 @@ myimg6 = ImageTk.PhotoImage(Image.open("Python Tkinter Build an Imagen Viewer/6.
 
 image_list = [myimg1,myimg2, myimg3, myimg4, myimg5, myimg6]
 
+status = Label(root, text="Image 1 of " + str(len(image_list)), bd=1, relief=SUNKEN, anchor=E) # Mensaje en pantalla - anchor=W-E
+
+
+
 my_label = Label(image=myimg1)
 my_label.grid(row=0, column=0, columnspan=3)
 
-# Funciones
+#-------------------------------------------- FUNCIONES ----------------------------------------------
 
 def forward(image_number):
     global my_label
@@ -40,6 +44,11 @@ def forward(image_number):
     Button_back.grid(row=1, column=0)
     Button_forward.grid(row=1, column=2)
 
+    status = Label(root, text="Image "+ str(image_number) +" of " + str(len(image_list)), bd=1, relief=SUNKEN, anchor=E) # Mensaje en pantalla - anchor=W-E
+    status.grid(row=2, column=0, columnspan=3, sticky=W+E)
+
+# ----------------------------------------------------------------------------------------------------
+
 
 def back(image_number):
     global my_label
@@ -52,12 +61,13 @@ def back(image_number):
     Button_back = Button(root, text="<<", command=lambda: back(image_number-1))
 
     if image_number == 1:
-        Button_back = Button(root, text="<<", state=DISABLED)
+        Button_back = Button(root, text="<<", state=DISABLED) # desabilitar
 
     my_label.grid(row=0, column=0, columnspan=3)
     Button_back.grid(row=1, column=0)
     Button_forward.grid(row=1, column=2)
 
+# ----------------------------------------------------------------------------------------------------
 
 Button_back = Button(root, text="<<", command = lambda: back, state=DISABLED) 
 Button_exit = Button(root, text="EXIT PROGRAM", command = root.quit)
@@ -65,6 +75,8 @@ Button_forward = Button(root, text=">>", command = lambda: forward(2))
 
 Button_back.grid(row=1, column=0)
 Button_exit.grid(row=1, column=1)
-Button_forward.grid(row=1, column=2)
+Button_forward.grid(row=1, column=2, pady=10)
+status.grid(row=2, column=0, columnspan=3, sticky=W+E) # Linea Horizoantal
+
 
 root.mainloop()
