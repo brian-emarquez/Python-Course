@@ -1,8 +1,5 @@
 # Pyhton Tkinter Adding Frames
 
-# Python Tkinter Build an Imagen Viewer
-# Intercambio de Imagenes
-
 from tkinter import *
 from PIL import ImageTk, Image
 
