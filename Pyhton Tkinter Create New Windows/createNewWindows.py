@@ -1,4 +1,4 @@
-# Pyhton Tkinter Message Boxes
+# Python Tkinter Create New Window
 
 from tkinter import *
 from PIL import ImageTk, Image
