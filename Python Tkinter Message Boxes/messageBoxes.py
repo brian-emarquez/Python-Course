@@ -1,4 +1,4 @@
-# Pyhton Tkinter Adding Frames
+# Pyhton Tkinter Message Boxes
 
 from tkinter import *
 from PIL import ImageTk, Image
