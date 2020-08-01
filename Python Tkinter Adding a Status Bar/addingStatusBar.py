@@ -24,7 +24,7 @@ status = Label(root, text="Image 1 of " + str(len(image_list)), bd=1, relief=SUN
 my_label = Label(image=myimg1)
 my_label.grid(row=0, column=0, columnspan=3)
 
-#-------------------------------------------- FUNCIONES ----------------------------------------------
+#-------------------------------------------- FUNCIONES ------------------------------------------------------------
 
 def forward(image_number):
     global my_label
@@ -47,7 +47,7 @@ def forward(image_number):
     status = Label(root, text="Image "+ str(image_number) +" of " + str(len(image_list)), bd=1, relief=SUNKEN, anchor=E) # Mensaje en pantalla - anchor=W-E
     status.grid(row=2, column=0, columnspan=3, sticky=W+E)
 
-# ----------------------------------------------------------------------------------------------------
+# ---------------------------------------------------------------------------------------------------------------
 
 
 def back(image_number):
@@ -66,8 +66,13 @@ def back(image_number):
     my_label.grid(row=0, column=0, columnspan=3)
     Button_back.grid(row=1, column=0)
     Button_forward.grid(row=1, column=2)
+    
+    #Uodate status bar
+    status = Label(root, text="Image "+ str(image_number) +" of " + str(len(image_list)), bd=1, relief=SUNKEN, anchor=E) # Mensaje en pantalla - anchor=W-E
+    status.grid(row=2, column=0, columnspan=3, sticky=W+E)
 
-# ----------------------------------------------------------------------------------------------------
+
+# --------------------------------------------------------------------------------------------------------------
 
 Button_back = Button(root, text="<<", command = lambda: back, state=DISABLED) 
 Button_exit = Button(root, text="EXIT PROGRAM", command = root.quit)
