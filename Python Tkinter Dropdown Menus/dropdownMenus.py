@@ -21,7 +21,7 @@ options = [
 ]
 
 clicked = StringVar()
-clicked.set(options[0])
+clicked.set("Dias de la Semana") #options[0]
 
 drop = OptionMenu(root, clicked, *options)
 drop.pack()
