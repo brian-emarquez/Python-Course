@@ -22,10 +22,8 @@ vertical.pack()
 horizontal =  Scale(root, from_=0, to=400, orient=HORIZONTAL)
 horizontal.pack()
 
-
 #---------------------------------------------------------------------
 mylabel = Label(root, text=horizontal.get()).pack()
 mybtn = Button(text="Click Me!", command=slide).pack()
-
 
 root.mainloop()
