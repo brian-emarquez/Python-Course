@@ -5,7 +5,7 @@ from PIL import ImageTk, Image
 import sqlite3
 
 root = Tk()
-root.title('Learn to Tkinter')
+root.title('Python Tkinter building Out')
 root.iconbitmap('Python Tkinter Building Out/db.ico')
 root.geometry("400x400") 
 
@@ -58,10 +58,23 @@ def submit():
 #Create Query Function
 
 def query():
-    return
+    conn = sqlite3.connect('Python Tkinter Building Out/address_book.db')
+    c = conn.cursor()
 
+    #query the databaseç
+    c.execute("SELECT * , oid FROM adreesses ")
+    records = c.fetchall()  # fetchone, fetchmany(45)
+    print(records)
 
+    print_records=''
+    for record in records[0]:
+        print_records += str(record) + '\n'
+    
+    query_label = Label(root, text=print_records)
+    query_label.grid(row=8, column=0, columnspan=2)
 
+    conn.commit()
+    conn.close()
 
 # Create Tsext Box
 f_name = Entry(root, width=30)
@@ -109,7 +122,7 @@ submit_btn.grid(row=6, column=0, columnspan=2, pady=10, padx=10, ipadx=100)
 
 # Create a Query Button
 query_btn = Button(root, text="Show Records", command=query)
-query_btn.grid(row=7, columnpan=2, pady=10, padx=10, ipdx=137)
+query_btn.grid(row=7, column=0, columnspan=2, pady=10, padx=10, ipadx=137)
 
 # Commit changes
 conn.commit()
