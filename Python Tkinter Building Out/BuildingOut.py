@@ -1,8 +1,5 @@
 # Python Tkinter building Out
 
-
-# Python Tkinter Using Databases
-
 from tkinter import *
 from PIL import ImageTk, Image
 import sqlite3
@@ -31,6 +28,26 @@ c = conn.cursor()
 # Create submit Function For database
 def submit():
 
+    conn = sqlite3.connect('Python Tkinter Building Out/address_book.db')
+    
+    c = conn.cursor()
+    
+    c = execute("INSERT INTO addresses Values(:f_name, :l_name, :address, :city, :state, :zipcode )",
+
+        {
+            'f_name':f_name.get(),
+
+        }
+    
+    
+    )
+    
+
+    conn.commit()
+    
+    conn.close()
+
+    # clear the Text Boxes
     f_name.delete(0, END)
     l_name.delete(0, END)
     address.delete(0, END)
