@@ -17,14 +17,15 @@ conn = sqlite3.connect('Python Tkinter Building Out/address_book.db')
 c = conn.cursor()
 
 # Create Tables
-'''c. execute("""CREATE TABLE adreesses (
-            first_name text, 
-            last_name text,
+c. execute("""CREATE TABLE adreesses (
+            f_name text, 
+            l_name text,
             address text,
             city text,
+            state text,
             zipcode integer
             )""")
-'''
+
 # Create submit Function For database
 def submit():
 
@@ -32,19 +33,18 @@ def submit():
     
     c = conn.cursor()
     
-    c = execute("INSERT INTO addresses Values(:f_name, :l_name, :address, :city, :state, :zipcode )",
+    c.execute("INSERT INTO adreesses VALUES(:f_name, :l_name, :address, :city, :state, :zipcode)",
 
         {
-            'f_name':f_name.get(),
-
-        }
+            'f_name': f_name.get(),
+            'l_name': l_name.get(),
+            'address': address.get(),
+            'city': city.get(),
+            'state': state.get(),
+            'zipcode': zipcode.get()
+        })
     
-    
-    )
-    
-
     conn.commit()
-    
     conn.close()
 
     # clear the Text Boxes
@@ -54,6 +54,14 @@ def submit():
     city.delete(0, END)
     state.delete(0, END)
     zipcode.delete(0, END)
+
+#Create Query Function
+
+def query():
+    return
+
+
+
 
 # Create Tsext Box
 f_name = Entry(root, width=30)
@@ -98,6 +106,10 @@ zipcode_label.grid(row=5, column=0)
 #Create submit button
 submit_btn = Button(root, text="Add record to Database", command=submit)
 submit_btn.grid(row=6, column=0, columnspan=2, pady=10, padx=10, ipadx=100)
+
+# Create a Query Button
+query_btn = Button(root, text="Show Records", command=query)
+query_btn.grid(row=7, columnpan=2, pady=10, padx=10, ipdx=137)
 
 # Commit changes
 conn.commit()
