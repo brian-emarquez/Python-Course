@@ -66,9 +66,9 @@ def query():
     records = c.fetchall()  # fetchone, fetchmany(45)
     print(records)
 
-    print_records=''
-    for record in records[0]:
-        print_records += str(record) + '\n'
+    print_records = ''
+    for record in records:
+        print_records += str(record[0]) + " " + str(record[1]) + "\n"
     
     query_label = Label(root, text=print_records)
     query_label.grid(row=8, column=0, columnspan=2)
@@ -129,5 +129,4 @@ conn.commit()
 
 # Close connection
 conn.close()
-
 root.mainloop()
