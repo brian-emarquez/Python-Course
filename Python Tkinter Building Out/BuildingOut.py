@@ -61,7 +61,7 @@ def query():
     conn = sqlite3.connect('Python Tkinter Building Out/address_book.db')
     c = conn.cursor()
 
-    #query the databaseç
+    #query the database
     c.execute("SELECT * , oid FROM adreesses ")
     records = c.fetchall()  # fetchone, fetchmany(45)
     print(records)
