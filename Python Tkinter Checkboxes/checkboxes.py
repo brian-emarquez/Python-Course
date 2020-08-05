@@ -4,8 +4,8 @@ from tkinter import *
 from PIL import ImageTk, Image
 
 root = Tk()
-root.title('Learn to Tkinter')
-root.iconbitmap('Pyhton Tkinter Checkboxes/icon.ico')
+root.title('Learn to Checkboxes')
+root.iconbitmap('Python Tkinter Checkboxes/icon.ico')
 root.geometry("400x400") 
 # Funciones
 def show():

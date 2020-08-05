@@ -5,7 +5,7 @@ from PIL import ImageTk, Image
 
 root = Tk()
 root.title('Learn to Python')
-root.iconbitmap('Pyhton Tkinter Adding Frames/icon.ico')
+root.iconbitmap('Python Tkinter Adding Frames/icon.ico')
 
 
 frame = LabelFrame(root, text="This my  Frame... ", padx=50, pady=50)

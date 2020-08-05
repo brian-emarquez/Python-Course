@@ -1,17 +1,17 @@
-# Python Tkinter Update a Record
+# Python Tkinter Delete A Records our Database
 
 from tkinter import *
 from PIL import ImageTk, Image
 import sqlite3
 
 root = Tk()
-root.title('Python Tkinter Update a Record')
-root.iconbitmap('Python Tkinter Update a Record/db.ico')
-root.geometry("400x400") 
+root.title('Python Tkinter Delete a Record')
+root.iconbitmap('Python Tkinter Delete a Record/db.ico')
+root.geometry("380x550") 
 
 # Databases
 # Create a database or connect to one
-conn = sqlite3.connect('Python Tkinter Update a Recordd/address_book.db')
+conn = sqlite3.connect('Python Tkinter Delete a Record/address_book.db')
 
 # create cursor
 c = conn.cursor()
@@ -26,10 +26,24 @@ c = conn.cursor()
             zipcode integer
             )""")
 '''
+# Create Function to delete a Record
+def delete():
+    # create a database or conect to one
+    conn = sqlite3.connect('Python Tkinter Delete a Record/address_book.db')
+    c = conn.cursor()
+
+    #query the database
+    c.execute("DELETE from adreesses WHERE oid = " + delete_box.get())
+    
+    delete_box.delete(0, END)
+
+    conn.commit()
+    conn.close()
+
 # Create submit Function For database
 def submit():
 
-    conn = sqlite3.connect('Python Tkinter Update a Record/address_book.db')
+    conn = sqlite3.connect('Python Tkinter Delete a Record/address_book.db')
     
     c = conn.cursor()
     
@@ -58,47 +72,49 @@ def submit():
 #Create Query Function
 
 def query():
-    conn = sqlite3.connect('Python Tkinter Update a Record/address_book.db')
+    conn = sqlite3.connect('Python Tkinter Delete a Record/address_book.db')
     c = conn.cursor()
 
-    #query the database
+    #query the databaseç
     c.execute("SELECT * , oid FROM adreesses ")
     records = c.fetchall()  # fetchone, fetchmany(45)
     print(records)
 
     print_records = ''
     for record in records:
-        print_records += str(record[0]) + " " + str(record[1]) + "\n"
+        print_records += str(record[0]) + " " + str(record[1]) + " " + "\t" + str(record[6]) + "\n"
     
     query_label = Label(root, text=print_records)
-    query_label.grid(row=8, column=0, columnspan=2)
+    query_label.grid(row=11, column=0, columnspan=2)
 
     conn.commit()
     conn.close()
 
-# Create Tsext Box
+# Create Text Boxes
 f_name = Entry(root, width=30)
-f_name.grid(row=0, column=1, padx=20)
+f_name.grid(row=0, column=1, padx=20, pady=(10, 0))
 
 l_name = Entry(root, width=30)
 l_name.grid(row=1, column=1, padx=20)
 
 address = Entry(root, width=30)
-address.grid(row=2, column=1, padx=20)
+address.grid(row=2, column=1)
 
 city = Entry(root, width=30)
-city.grid(row=3, column=1, padx=20)
+city.grid(row=3, column=1)
 
 state = Entry(root, width=30)
-state.grid(row=4, column=1, padx=20)
+state.grid(row=4, column=1)
 
 zipcode = Entry(root, width=30)
-zipcode.grid(row=5, column=1, padx=20)
+zipcode.grid(row=5, column=1)
+
+delete_box = Entry(root, width=30)
+delete_box.grid(row=9, column=1, pady=5)
 
 # Create text box labels
-
 f_name_label = Label(root, text="First Nane")
-f_name_label.grid(row=0, column=0)
+f_name_label.grid(row=0, column=0, pady=(10, 0))
 
 l_name_label = Label(root, text="Last Name")
 l_name_label.grid(row=1, column=0)
@@ -115,6 +131,9 @@ state_label.grid(row=4, column=0)
 zipcode_label = Label(root, text="Zipcode")
 zipcode_label.grid(row=5, column=0)
 
+delete_box_label = Label(root, text="Delete ID")
+delete_box_label.grid(row=9, column=0, pady=5)
+
 
 #Create submit button
 submit_btn = Button(root, text="Add record to Database", command=submit)
@@ -122,7 +141,12 @@ submit_btn.grid(row=6, column=0, columnspan=2, pady=10, padx=10, ipadx=100)
 
 # Create a Query Button
 query_btn = Button(root, text="Show Records", command=query)
-query_btn.grid(row=7, column=0, columnspan=2, pady=10, padx=10, ipadx=137)
+query_btn.grid(row=7, column=0, columnspan=2, pady=10, padx=10, ipadx=135)
+
+# Create A Delete Button
+
+delete_btn = Button(root, text="Delete Record", command=delete)
+delete_btn.grid(row=10, column=0, columnspan=2, pady=10, padx=10, ipadx=135)
 
 # Commit changes
 conn.commit()

@@ -1,23 +1,15 @@
-# Creating Input fields
+# Pyhton Tkinter Creating input Fields
 
-# Python Tkinter Positioning
 from tkinter import *
-
-root = Tk()
-
-e = Entry(root, width=50)
-e.pack()
-e.insert(0, "Enter Your Name: ")
+root=  Tk()
 
 def myClick():
-    hello = "hello " + e.get()
-    myLabel = Label(root, text= hello)
+    myLabel = Label(root, text= "Look i click a button!")
     myLabel.pack()
 
 
 
-myButton = Button(root, text="Enter Your Name", command=myClick)
+myButton = Button(root, text="Click Me!", padx=50, command=myClick)
 myButton.pack()
-
 
 root.mainloop()

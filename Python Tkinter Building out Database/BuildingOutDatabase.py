@@ -17,7 +17,7 @@ conn = sqlite3.connect('Python Tkinter Building out Database/address_book.db')
 c = conn.cursor()
 
 # Create Tables
-c. execute("""CREATE TABLE adreesses (
+'''c. execute("""CREATE TABLE adreesses (
             f_name text, 
             l_name text,
             address text,
@@ -25,7 +25,7 @@ c. execute("""CREATE TABLE adreesses (
             state text,
             zipcode integer
             )""")
-
+'''
 # Create submit Function For database
 def submit():
 
