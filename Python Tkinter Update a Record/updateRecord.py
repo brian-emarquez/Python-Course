@@ -7,7 +7,7 @@ import sqlite3
 root = Tk()
 root.title('Python Tkinter Update a Record')
 root.iconbitmap('Python Tkinter Update a Record/db.ico')
-root.geometry("380x550") 
+root.geometry("380x500") 
 
 # Databases
 # Create a database or connect to one
@@ -26,6 +26,75 @@ c = conn.cursor()
             zipcode integer
             )""")
 '''
+
+# create function Update a record
+def edit(): # abrir nueva ventana
+    editor = Tk()
+    editor.title('New Update a Record')
+    editor.iconbitmap('Python Tkinter Update a Record/db.ico')
+    editor.geometry("380x500") 
+
+    conn = sqlite3.connect('Python Tkinter Update a Record/address_book.db')
+    c = conn.cursor()
+
+    record_id = delete_box.get()
+
+    c.execute("SELECT * FROM adreesses WHERE oid= " + record_id)
+    records = c.fetchall()
+
+    # Create Text Boxes
+    f_name_editor = Entry(editor, width=30)
+    f_name_editor.grid(row=0, column=1, padx=20, pady=(10, 0))
+
+    l_name_editor = Entry(editor, width=30)
+    l_name_editor.grid(row=1, column=1, padx=20)
+
+    address_editor = Entry(editor, width=30)
+    address_editor.grid(row=2, column=1)
+
+    city_editor = Entry(editor, width=30)
+    city_editor.grid(row=3, column=1)
+
+    state_editor = Entry(editor, width=30)
+    state_editor.grid(row=4, column=1)
+
+    zipcode_editor = Entry(editor, width=30)
+    zipcode_editor.grid(row=5, column=1)
+
+    # Create text box labels
+    f_name_label = Label(editor, text="First Nane")
+    f_name_label.grid(row=0, column=0, pady=(10, 0))
+
+    l_name_label = Label(editor, text="Last Name")
+    l_name_label.grid(row=1, column=0)
+
+    address_label = Label(editor, text="Address")
+    address_label.grid(row=2, column=0)
+
+    city_label = Label(editor, text="City")
+    city_label.grid(row=3, column=0)
+
+    state_label = Label(editor, text="State")
+    state_label.grid(row=4, column=0)
+
+    zipcode_label = Label(editor, text="Zipcode")
+    zipcode_label.grid(row=5, column=0)
+
+    # Loop thru results
+    for record in records:
+        f_name_editor.insert(0, record[0])
+        l_name_editor.insert(0, record[1])
+        address_editor.insert(0, record[2])
+        city_editor.insert(0, record[3])
+        state_editor.insert(0, record[4])
+        zipcode_editor.insert(0, record[5])
+
+    # Create A Save Button To save edited record
+    edit_btn = Button(editor, text="Save Record", command=edit)
+    edit_btn.grid(row=7, column=0, columnspan=2, pady=10, padx=10, ipadx=145)
+
+
+
 # Create Function to delete a Record
 def delete():
     # create a database or conect to one
@@ -85,7 +154,7 @@ def query():
         print_records += str(record[0]) + " " + str(record[1]) + " " + "\t" + str(record[6]) + "\n"
     
     query_label = Label(root, text=print_records)
-    query_label.grid(row=11, column=0, columnspan=2)
+    query_label.grid(row=12, column=0, columnspan=2)
 
     conn.commit()
     conn.close()
@@ -131,22 +200,25 @@ state_label.grid(row=4, column=0)
 zipcode_label = Label(root, text="Zipcode")
 zipcode_label.grid(row=5, column=0)
 
-delete_box_label = Label(root, text="Delete ID")
+delete_box_label = Label(root, text="Select ID")
 delete_box_label.grid(row=9, column=0, pady=5)
 
 
 #Create submit button
 submit_btn = Button(root, text="Add record to Database", command=submit)
-submit_btn.grid(row=6, column=0, columnspan=2, pady=10, padx=10, ipadx=100)
+submit_btn.grid(row=6, column=0, columnspan=2, pady=10, padx=10, ipadx=110)
 
 # Create a Query Button
 query_btn = Button(root, text="Show Records", command=query)
-query_btn.grid(row=7, column=0, columnspan=2, pady=10, padx=10, ipadx=135)
+query_btn.grid(row=7, column=0, columnspan=2, pady=10, padx=10, ipadx=137)
 
 # Create A Delete Button
-
 delete_btn = Button(root, text="Delete Record", command=delete)
-delete_btn.grid(row=10, column=0, columnspan=2, pady=10, padx=10, ipadx=135)
+delete_btn.grid(row=10, column=0, columnspan=2, pady=10, padx=10, ipadx=136)
+
+# Create A Update Button
+edit_btn = Button(root, text="Edit Record", command=edit)
+edit_btn.grid(row=11, column=0, columnspan=2, pady=10, padx=10, ipadx=143)
 
 # Commit changes
 conn.commit()
