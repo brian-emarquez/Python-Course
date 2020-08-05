@@ -1,17 +1,17 @@
-# Python Tkinter Delete A Records our Database
+# Python Tkinter Update a Record
 
 from tkinter import *
 from PIL import ImageTk, Image
 import sqlite3
 
 root = Tk()
-root.title('Python Tkinter Delete a Record')
-root.iconbitmap('Python Tkinter Delete a Record/db.ico')
+root.title('Python Tkinter Update a Record')
+root.iconbitmap('Python Tkinter Update a Record/db.ico')
 root.geometry("380x550") 
 
 # Databases
 # Create a database or connect to one
-conn = sqlite3.connect('Python Tkinter Delete a Record/address_book.db')
+conn = sqlite3.connect('Python Tkinter Update a Record/address_book.db')
 
 # create cursor
 c = conn.cursor()
@@ -29,7 +29,7 @@ c = conn.cursor()
 # Create Function to delete a Record
 def delete():
     # create a database or conect to one
-    conn = sqlite3.connect('Python Tkinter Delete a Record/address_book.db')
+    conn = sqlite3.connect('Python Tkinter Update a Record/address_book.db')
     c = conn.cursor()
 
     #query the database
@@ -43,7 +43,7 @@ def delete():
 # Create submit Function For database
 def submit():
 
-    conn = sqlite3.connect('Python Tkinter Delete a Record/address_book.db')
+    conn = sqlite3.connect('Python Tkinter Update a Record/address_book.db')
     
     c = conn.cursor()
     
@@ -72,7 +72,7 @@ def submit():
 #Create Query Function
 
 def query():
-    conn = sqlite3.connect('Python Tkinter Delete a Record/address_book.db')
+    conn = sqlite3.connect('Python Tkinter Update a Record/address_book.db')
     c = conn.cursor()
 
     #query the databaseç
