@@ -1,17 +1,17 @@
-# Python Tkinter building Out
+# Python Tkinter building Out the GUI for our database APP
 
 from tkinter import *
 from PIL import ImageTk, Image
 import sqlite3
 
 root = Tk()
-root.title('Python Tkinter building Out')
-root.iconbitmap('Python Tkinter Building Out/db.ico')
+root.title('Python Tkinter Building out Database')
+root.iconbitmap('Python Tkinter Building out Database/db.ico')
 root.geometry("400x400") 
 
 # Databases
 # Create a database or connect to one
-conn = sqlite3.connect('Python Tkinter Building Out/address_book.db')
+conn = sqlite3.connect('Python Tkinter Building out Database/address_book.db')
 
 # create cursor
 c = conn.cursor()
@@ -29,7 +29,7 @@ c. execute("""CREATE TABLE adreesses (
 # Create submit Function For database
 def submit():
 
-    conn = sqlite3.connect('Python Tkinter Building Out/address_book.db')
+    conn = sqlite3.connect('Python Tkinter Building out Database/address_book.db')
     
     c = conn.cursor()
     
@@ -58,7 +58,7 @@ def submit():
 #Create Query Function
 
 def query():
-    conn = sqlite3.connect('Python Tkinter Building Out/address_book.db')
+    conn = sqlite3.connect('Python Tkinter Building out Database/address_book.db')
     c = conn.cursor()
 
     #query the database
