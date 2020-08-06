@@ -17,7 +17,7 @@ conn = sqlite3.connect('Python Tkinter Update a Record II/address_book.db')
 c = conn.cursor()
 
 # Create Tables
-'''c. execute("""CREATE TABLE addreesses (
+'''c. execute("""CREATE TABLE addresses (
             f_name text, 
             l_name text,
             address text,
@@ -27,7 +27,7 @@ c = conn.cursor()
             )""")
 '''
 
-#
+# ccreate function Update
 def update():
 
     conn = sqlite3.connect('Python Tkinter Update a Record II/address_book.db')
@@ -36,22 +36,22 @@ def update():
     record_id = delete_box.get()
 
     c.execute("""UPDATE addresses SET
-        first_name = :first,
-        last_name = :last,
-        address = : addreess,
+        f_name = :first,
+        l_name = :last,
+        address = :address,
         city = :city,
         state = :state,
         zipcode = :zipcode
 
         WHERE oid = :oid""",
         {
-        'first':f_name_editor.get(),
-        'last':l_name_editor.get(),
-        'addreess':address_editor.get(),
-        'city':city_editor.get(),
-        'state':state_editor.get(),
-        'zipcode':zipcode_editor.get(),
-        'oid':record_id
+        'first': f_name_editor.get(),
+        'last': l_name_editor.get(),
+        'address': address_editor.get(),
+        'city': city_editor.get(),
+        'state': state_editor.get(),
+        'zipcode': zipcode_editor.get(),
+        'oid': record_id
         })
 
 
@@ -72,7 +72,7 @@ def edit(): # abrir nueva ventana
 
     record_id = delete_box.get()
 
-    c.execute("SELECT * FROM addreesses WHERE oid= " + record_id)
+    c.execute("SELECT * FROM addresses WHERE oid= " + record_id)
     records = c.fetchall()
 
     # Create Global Variables for text box names
@@ -144,7 +144,7 @@ def delete():
     c = conn.cursor()
 
     #query the database
-    c.execute("DELETE from addreesses WHERE oid = " + delete_box.get())
+    c.execute("DELETE from addresses WHERE oid = " + delete_box.get())
     
     delete_box.delete(0, END)
 
@@ -158,7 +158,7 @@ def submit():
     
     c = conn.cursor()
     
-    c.execute("INSERT INTO addreesses VALUES(:f_name, :l_name, :address, :city, :state, :zipcode)",
+    c.execute("INSERT INTO addresses VALUES(:f_name, :l_name, :address, :city, :state, :zipcode)",
 
         {
             'f_name': f_name.get(),
@@ -187,7 +187,7 @@ def query():
     c = conn.cursor()
 
     #query the databaseç
-    c.execute("SELECT * , oid FROM adreesses ")
+    c.execute("SELECT *, oid FROM addresses ")
     records = c.fetchall()  # fetchone, fetchmany(45)
     print(records)
 
