@@ -17,7 +17,7 @@ conn = sqlite3.connect('Python Tkinter Update a Record II/address_book.db')
 c = conn.cursor()
 
 # Create Tables
-'''c. execute("""CREATE TABLE adreesses (
+'''c. execute("""CREATE TABLE addreesses (
             f_name text, 
             l_name text,
             address text,
@@ -27,8 +27,41 @@ c = conn.cursor()
             )""")
 '''
 
+#
+def update():
+
+    conn = sqlite3.connect('Python Tkinter Update a Record II/address_book.db')
+    c = conn.cursor()
+
+    record_id = delete_box.get()
+
+    c.execute("""UPDATE addresses SET
+        first_name = :first,
+        last_name = :last,
+        address = : addreess,
+        city = :city,
+        state = :state,
+        zipcode = :zipcode
+
+        WHERE oid = :oid""",
+        {
+        'first':f_name_editor.get(),
+        'last':l_name_editor.get(),
+        'addreess':address_editor.get(),
+        'city':city_editor.get(),
+        'state':state_editor.get(),
+        'zipcode':zipcode_editor.get(),
+        'oid':record_id
+        })
+
+
+    conn.commit()
+    conn.close()
+    editor.destroy()
+
 # create function Update a record
 def edit(): # abrir nueva ventana
+    global editor
     editor = Tk()
     editor.title('New Update a Record')
     editor.iconbitmap('Python Tkinter Update a Record II/db.ico')
@@ -39,8 +72,17 @@ def edit(): # abrir nueva ventana
 
     record_id = delete_box.get()
 
-    c.execute("SELECT * FROM adreesses WHERE oid= " + record_id)
+    c.execute("SELECT * FROM addreesses WHERE oid= " + record_id)
     records = c.fetchall()
+
+    # Create Global Variables for text box names
+    global f_name_editor
+    global l_name_editor
+    global address_editor
+    global city_editor
+    global state_editor
+    global zipcode_editor
+
 
     # Create Text Boxes
     f_name_editor = Entry(editor, width=30)
@@ -90,7 +132,7 @@ def edit(): # abrir nueva ventana
         zipcode_editor.insert(0, record[5])
 
     # Create A Save Button To save edited record
-    edit_btn = Button(editor, text="Save Record", command=edit)
+    edit_btn = Button(editor, text="Save Record", command=update)
     edit_btn.grid(row=7, column=0, columnspan=2, pady=10, padx=10, ipadx=145)
 
 
@@ -102,7 +144,7 @@ def delete():
     c = conn.cursor()
 
     #query the database
-    c.execute("DELETE from adreesses WHERE oid = " + delete_box.get())
+    c.execute("DELETE from addreesses WHERE oid = " + delete_box.get())
     
     delete_box.delete(0, END)
 
@@ -116,7 +158,7 @@ def submit():
     
     c = conn.cursor()
     
-    c.execute("INSERT INTO adreesses VALUES(:f_name, :l_name, :address, :city, :state, :zipcode)",
+    c.execute("INSERT INTO addreesses VALUES(:f_name, :l_name, :address, :city, :state, :zipcode)",
 
         {
             'f_name': f_name.get(),
