@@ -61,11 +61,12 @@ def update():
 
 # create function Update a record
 def edit(): # abrir nueva ventana
+
     global editor
     editor = Tk()
     editor.title('New Update a Record')
     editor.iconbitmap('Python Tkinter Update a Record II/db.ico')
-    editor.geometry("380x500") 
+    editor.geometry("380x300") 
 
     conn = sqlite3.connect('Python Tkinter Update a Record II/address_book.db')
     c = conn.cursor()
