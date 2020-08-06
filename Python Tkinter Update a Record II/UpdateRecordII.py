@@ -57,7 +57,7 @@ def update():
 
     conn.commit()
     conn.close()
-    editor.destroy()
+    editor.destroy() # cierra la pagina web
 
 # create function Update a record
 def edit(): # abrir nueva ventana
