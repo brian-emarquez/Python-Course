@@ -79,7 +79,7 @@ pip install mysql-connector
 _Instalar Mysql_
 
 ```
-pip install matplotlib
+pip install mysql-connector
 ```
 
 _Instalar Pillow_
