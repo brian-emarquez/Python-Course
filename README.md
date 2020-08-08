@@ -18,8 +18,7 @@ Es administrado por la Python Software Foundation. Posee una licencia de código
 ```
 
 ```
->>> 2 ** 3
-8
+print("Hello, World!")
 ```
 ## Comandos 🧑‍💻
 
@@ -74,7 +73,13 @@ pip install pyodbc
 _Conectar Base de datos - MariaDB_
 
 ```
-pip3 install mariadb
+pip install mysql-connector
+```
+
+_Instalar Mysql_
+
+```
+pip install matplotlib
 ```
 
 _Instalar Pillow_
