@@ -81,6 +81,12 @@ _Conector Base de datos - Mysql_
 ```
 pip install mysql-connector
 ```
+```
+pip install mysql-connector-python
+```
+```
+pip install mysql-connector-python-rf
+```
 
 _Instalar Pillow_
 
