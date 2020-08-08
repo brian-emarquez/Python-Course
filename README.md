@@ -64,19 +64,19 @@ _Desinstalar Modulos_
 pip uninstall nombreModulo
 ```
 
-_Conectar Base de datos - SQL SERVER_
+_Conector Base de datos - SQL SERVER_
 
 ```
 pip install pyodbc
 ```
 
-_Conectar Base de datos - MariaDB_
+_Conector Base de datos - MariaDB_
 
 ```
-pip install mysql-connector
+pip3 install mariadb
 ```
 
-_Instalar Mysql_
+_Conector Base de datos - Mysql_
 
 ```
 pip install mysql-connector
