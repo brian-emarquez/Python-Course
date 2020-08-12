@@ -2,20 +2,21 @@
 
 from tkinter import *
 from PIL import ImageTk, Image
-import mysql.connector
+#import mysql.connector
+import mysql.connector as mariadb
 
 root = Tk()
 root.title('Python Tkinter Add Input Boxes For Our CRM Tool')
 root.iconbitmap('Python Tkinter Add Input Boxes For Our CRM Tool/check.ico')
 root.geometry("400x200") 
 
-#Connect to MYSQL
-mydb = mysql.connector.connect(
+mydb = mariadb.connect(
+#mydb = mysql.connector.connect(
     host="127.0.0.1",
     port = 3308,
     user="briandb",
-    password="briandb",
-    database = "crm",
+    password="briandb"
+    #database = "crm",
 )
 
 #Chack to see if connection to MYSQL was created
