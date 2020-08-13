@@ -110,6 +110,21 @@ def add_customer():
     mydb.commit()
     clear_fields()
 
+# List Customers
+def list_customer():
+    list_customer_query =Tk()
+    list_customer_query.title("List All Customers")
+    list_customer_query.iconbitmap('Python Tkinter Lookup all CustomersCRM/check.ico')
+    list_customer_query.geometry("800x600") 
+
+    # Query
+    my_cursor.execute("SELECT * FROM customers")
+    result = my_cursor.fetchall()
+        for x in result:
+        Lookup_label =label()
+        print (x)
+
+
 # Create Entry Boxes
 first_name_box = Entry(root)
 first_name_box.grid(row=1, column=1)
@@ -157,6 +172,12 @@ add_customers_button.grid(row=14, column=0, padx=10, pady=10)
 
 clear_fields_button = Button(root, text= "Cler Fileds", command=clear_fields)
 clear_fields_button.grid(row=14, column=1)
+
+# list_customer_button
+list_customer_button = Button(root, text="List Customer", command= list_customer)
+list_customer_button.grid(row=15, column=0, sticky=W, padx=10)
+
+
 
 my_cursor.execute("SELECT * FROM customers")
 result = my_cursor.fetchall()
