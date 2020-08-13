@@ -45,22 +45,30 @@ my_cursor.execute("CREATE TABLE IF NOT EXISTS customers (first_name VARCHAR(255)
     user_id INT AUTO_INCREMENT PRIMARY KEY)")
 
 # Alter Table
-my_cursor.execute("ALTER TABLE customers ADD (\
-    email VARCHAR(255),\
-    address_1 VARCHAR(255), \
-    address_2  VARCHAR(255), \
-    city VARCHAR(50),\
-    state VARCHAR(50),\
-    country VARCHAR(255),\
-    phone VARCHAR(255),\
-    payment_method VARCHAR(255),\
-    dicount_code VARCHAR(255))")
+#my_cursor.execute("ALTER TABLE customers ADD (\
+#    email VARCHAR(255),\
+#    address_1 VARCHAR(255), \
+#    address_2  VARCHAR(255), \
+#    city VARCHAR(50),\
+#    state VARCHAR(50),\
+#    country VARCHAR(255),\
+#    phone VARCHAR(255),\
+#    payment_method VARCHAR(255),\
+#    dicount_code VARCHAR(255))")
 
 # Show table
-my_cursor.execute("SELECT * FROM customers")
+#my_cursor.execute("SELECT * FROM customers")
 #print(my_cursor.description)
 
-for thing in my_cursor.description:
-    print(thing)
+#for thing in my_cursor.description:
+#    print(thing)
+
+#create label
+title_label = Label (root, text="MariaDb customer database", font=("helvetica", 16))
+title_label.grid(row=0, column=0, columnspan=2, pady="10")
+
+# create Main to Enter customer Data
+
+
 
 root.mainloop()
