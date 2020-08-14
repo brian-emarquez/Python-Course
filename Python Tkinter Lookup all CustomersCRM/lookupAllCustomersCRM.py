@@ -81,9 +81,7 @@ def clear_fields():
     dicount_cod_box.delete(0, END)
     price_paid_box.delete(0, END)
 
-#create label
-title_label = Label (root, text="MariaDb customer database", font=("helvetica", 16))
-title_label.grid(row=0, column=0, columnspan=2, pady="10")
+
 
 # create Main to Enter customer Data
 first_name_label = Label(root, text="First Name").grid(row=1, column=0)
@@ -120,10 +118,17 @@ def list_customer():
     # Query
     my_cursor.execute("SELECT * FROM customers")
     result = my_cursor.fetchall()
-        for x in result:
-        Lookup_label =label()
-        print (x)
+    
+    for index, x in enumerate(result):
+        num=0
+        for y in x:
+            lookup_label =Label(list_customer_query, text=y)
+            lookup_label.grid(row=index, column=num)
+            num +=1
 
+#create label
+title_label = Label (root, text="MariaDb customer database", font=("helvetica", 16))
+title_label.grid(row=0, column=0, columnspan=2, pady="10")
 
 # Create Entry Boxes
 first_name_box = Entry(root)
