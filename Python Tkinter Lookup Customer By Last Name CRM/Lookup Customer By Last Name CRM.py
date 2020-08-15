@@ -1,4 +1,4 @@
-# Lookup Customer By Last Name CRM
+# Python Tkinter Lookup Customer By Last Name CRM
 
 from tkinter import *
 from PIL import ImageTk, Image
@@ -7,8 +7,8 @@ import mysql.connector as mariadb
 import csv
 
 root = Tk()
-root.title('Lookup Customer By Last Name CRM!')
-root.iconbitmap('Lookup Customer By Last Name CRM/db.ico')
+root.title('Python Tkinter Lookup Customer By Last Name CRM!')
+root.iconbitmap('Python Tkinter Lookup Customer By Last Name CRM/db.ico')
 root.geometry("400x600") 
 
 # Connect DATABASE
