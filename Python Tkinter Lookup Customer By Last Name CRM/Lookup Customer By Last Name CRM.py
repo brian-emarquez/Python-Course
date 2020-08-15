@@ -117,12 +117,26 @@ def write_to_csv(result):
 
 # List Customers
 def search_customer():
-    search_customer=Tk()
-    search_customer.title("Search All Customers")
-    search_customer.iconbitmap('Python Tkinter Lookup Customer By Last Name CRM/db.ico')
-    search_customer.geometry("800x600") 
+    search_customers=Tk()
+    search_customers.title("Search All Customers")
+    search_customers.iconbitmap('Python Tkinter Lookup Customer By Last Name CRM/db.ico')
+    search_customers.geometry("800x600") 
+
+    def seach_now():
+        return
 
 
+    #Entry box search for customers
+    search_box = Entry(search_customers)
+    search_box.grid(row=0, column=1, padx=10, pady=10)
+
+    # Entry box label search for costumers
+    search_box_label = Label(search_customers, text="Search Customers By Last Name: ")
+    search_box_label.grid(row=0, column=0, padx=10, pady=10)
+
+    # Entry box Label Button search for costumers.
+    search_button = Button(search_customers, text="Search Customers", command=seach_now)
+    search_button.grid(row=1, column=0, padx=10, pady=10)
 
 # List Customers
 def list_customer():
@@ -204,7 +218,5 @@ list_customer_button.grid(row=15, column=0, sticky=W, padx=10)
 # Search Customers
 search_customers_button = Button(root, text="Save Customers", command = search_customer)
 search_customers_button.grid(row=15, column=1, sticky=W, padx=10)
-
-
 
 root.mainloop()
