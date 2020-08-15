@@ -83,8 +83,6 @@ def clear_fields():
     dicount_cod_box.delete(0, END)
     price_paid_box.delete(0, END)
 
-Python Tkinter Lookup Customer By Last Name CRM
-
 # create Main to Enter customer Data
 first_name_label = Label(root, text="First Name").grid(row=1, column=0)
 last_name_label = Label(root, text="Last Name").grid(row=2, column=0)
@@ -112,7 +110,7 @@ def add_customer():
 
 # Write to CSV Excel Function
 def write_to_csv(result):
-    with open('Python Tkinter Export CRM Database to Excel File/customers.csv', 'a') as f:
+    with open('Python Tkinter Lookup Customer By Last Name CRM/customers.csv', 'a') as f:
         w = csv.writer(f, dialect='excel')
         for record in result:
             w.writerow(record)
@@ -121,7 +119,7 @@ def write_to_csv(result):
 def list_customer():
     list_customer_query =Tk()
     list_customer_query.title("List All Customers")
-    list_customer_query.iconbitmap('Python Tkinter Export CRM Database to Excel File/db.ico')
+    list_customer_query.iconbitmap('Python Tkinter Lookup Customer By Last Name CRM/db.ico')
     list_customer_query.geometry("800x600") 
 
     # Query the Database
