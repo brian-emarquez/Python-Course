@@ -123,7 +123,18 @@ def search_customer():
     search_customers.geometry("800x600") 
 
     def seach_now():
-        return
+        searched = search_box.get()
+        sql = "SELECT * FROM customers WHERE last_name = %s"
+        name = (searched, )
+        result = my_cursor.execute(sql, name)
+        result = my_cursor.fetchall()
+
+        if not result:
+            result="Record not found..."
+        
+        searched_label = Label(search_customers, text=result)
+        searched_label.grid(row=2, column=0, padx=10, columnspan=2)
+        
 
 
     #Entry box search for customers
