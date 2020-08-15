@@ -99,7 +99,7 @@ payment_method_label = Label(root, text="Payment Method").grid(row=11, column=0)
 dicount_code_label = Label(root, text="Discount Code").grid(row=12, column=0)
 price_paid_label = Label(root, text="Price Paid").grid(row=13, column=0)
 
-# Submit cistomer To Database
+# Submit customer To Database
 def add_customer():
     sql_command = "INSERT INTO customers(first_name, last_name, address_1, address_2, city, state, zipcade, country, phone, email, payment_method, dicount_code, price_paid) Values (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)"
     values = (first_name_box.get(), last_name_box.get(), address_1_box.get() ,address_2_box.get(), city_box.get(), state_box.get(), zipcade_box.get(), country_box.get(), phone_box.get(), email_box.get(), payment_method_box.get(), dicount_cod_box.get(), price_paid_box.get())
@@ -114,6 +114,15 @@ def write_to_csv(result):
         w = csv.writer(f, dialect='excel')
         for record in result:
             w.writerow(record)
+
+# List Customers
+def search_customer():
+    search_customer=Tk()
+    search_customer.title("Search All Customers")
+    search_customer.iconbitmap('Python Tkinter Lookup Customer By Last Name CRM/db.ico')
+    search_customer.geometry("800x600") 
+
+
 
 # List Customers
 def list_customer():
@@ -192,9 +201,10 @@ clear_fields_button.grid(row=14, column=1)
 list_customer_button = Button(root, text="List Customer", command= list_customer)
 list_customer_button.grid(row=15, column=0, sticky=W, padx=10)
 
-my_cursor.execute("SELECT * FROM customers")
-result = my_cursor.fetchall()
-for x in result:
-    print (x)
+# Search Customers
+search_customers_button = Button(root, text="Save Customers", command = search_customer)
+search_customers_button.grid(row=15, column=1, sticky=W, padx=10)
+
+
 
 root.mainloop()
