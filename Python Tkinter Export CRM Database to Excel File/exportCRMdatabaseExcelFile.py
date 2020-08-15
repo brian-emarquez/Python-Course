@@ -1,13 +1,14 @@
-# Pyhton Tkinter Export CRM Database to Excel File
+# Python Tkinter Export CRM Database to Excel File
 
 from tkinter import *
 from PIL import ImageTk, Image
 #import mysql.connector
 import mysql.connector as mariadb
+import csv
 
 root = Tk()
-root.title('Pyhton Tkinter Export CRM Database to Excel File')
-root.iconbitmap('Pyhton Tkinter Export CRM Database to Excel File/check.ico')
+root.title('Python Tkinter Export CRM Database to Excel File!')
+root.iconbitmap('Python Tkinter Export CRM Database to Excel File/db.ico')
 root.geometry("400x600") 
 
 # Connect DATABASE
@@ -17,7 +18,7 @@ mydb = mariadb.connect(
     port = 3307,
     user="briandb",
     password="briandb",
-    database = "cmd"
+    database = "cmd",
 )
 
 #Check to see if connection to MYSQL was created
@@ -46,16 +47,17 @@ my_cursor.execute("CREATE TABLE IF NOT EXISTS customers (first_name VARCHAR(255)
     user_id INT AUTO_INCREMENT PRIMARY KEY)")
 
 # Alter Table
-#my_cursor.execute("ALTER TABLE customers ADD (\
-#    email VARCHAR(255),\
-#    address_1 VARCHAR(255), \
-#    address_2  VARCHAR(255), \
-#    city VARCHAR(50),\
-#    state VARCHAR(50),\
-#    country VARCHAR(255),\
-#    phone VARCHAR(255),\
-#    payment_method VARCHAR(255),\
-#    dicount_code VARCHAR(255))")
+'''my_cursor.execute("ALTER TABLE customers ADD (\
+    email VARCHAR(255),\
+    address_1 VARCHAR(255), \
+    address_2  VARCHAR(255), \
+    city VARCHAR(50),\
+    state VARCHAR(50),\
+    country VARCHAR(255),\
+    phone VARCHAR(255),\
+    payment_method VARCHAR(255),\
+    dicount_code VARCHAR(255))")
+'''
 
 # Show table
 #my_cursor.execute("SELECT * FROM customers")
@@ -80,8 +82,6 @@ def clear_fields():
     payment_method_box.delete(0, END)
     dicount_cod_box.delete(0, END)
     price_paid_box.delete(0, END)
-
-
 
 # create Main to Enter customer Data
 first_name_label = Label(root, text="First Name").grid(row=1, column=0)
@@ -108,26 +108,36 @@ def add_customer():
     mydb.commit()
     clear_fields()
 
+# Write to CSV Excel Function
+def write_to_csv(result):
+    with open('Python Tkinter Export CRM Database to Excel File/customers.csv', 'a') as f:
+        w = csv.writer(f, dialect='excel')
+        for record in result:
+            w.writerow(record)
+
 # List Customers
 def list_customer():
     list_customer_query =Tk()
     list_customer_query.title("List All Customers")
-    list_customer_query.iconbitmap('Python Tkinter Lookup all CustomersCRM/check.ico')
+    list_customer_query.iconbitmap('Python Tkinter Export CRM Database to Excel File/db.ico')
     list_customer_query.geometry("800x600") 
 
-    # Query
+    # Query the Database
     my_cursor.execute("SELECT * FROM customers")
     result = my_cursor.fetchall()
     
     for index, x in enumerate(result):
-        num=0
+        num = 0
         for y in x:
-            lookup_label =Label(list_customer_query, text=y)
+            lookup_label = Label(list_customer_query, text=y)
             lookup_label.grid(row=index, column=num)
             num +=1
 
+    csv_button = Button(list_customer_query, text="Save to Excel", command = lambda: write_to_csv(result))
+    csv_button.grid(row=index+1, column=0)
+
 #create label
-title_label = Label (root, text="MariaDb customer database", font=("helvetica", 16))
+title_label = Label (root, text="MariaDb customer database", font=("Helvetica", 16))
 title_label.grid(row=0, column=0, columnspan=2, pady="10")
 
 # Create Entry Boxes
@@ -181,8 +191,6 @@ clear_fields_button.grid(row=14, column=1)
 # list_customer_button
 list_customer_button = Button(root, text="List Customer", command= list_customer)
 list_customer_button.grid(row=15, column=0, sticky=W, padx=10)
-
-
 
 my_cursor.execute("SELECT * FROM customers")
 result = my_cursor.fetchall()
