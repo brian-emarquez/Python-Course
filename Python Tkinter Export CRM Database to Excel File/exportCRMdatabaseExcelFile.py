@@ -1,4 +1,5 @@
 # Python Tkinter Export CRM Database to Excel File
+# Python Tkinter Exportar la base de datos CRM a un archivo de Excel
 
 from tkinter import *
 from PIL import ImageTk, Image

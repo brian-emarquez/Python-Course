@@ -1,4 +1,5 @@
-# Creating Input fields
+# Creating Input fie
+# Creando campos de entradas
 
 # Python Tkinter Positioning
 from tkinter import *

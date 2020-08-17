@@ -1,4 +1,5 @@
 # Python Tkinter Checkboxes
+# Casillas de verificación de Python Tkinter
 
 from tkinter import *
 from PIL import ImageTk, Image

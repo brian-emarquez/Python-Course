@@ -1,4 +1,5 @@
 # Python Tkinter building Out the GUI for our database APP
+# Python Tkinter construyendo la GUI para nuestra aplicación de base de datos
 
 from tkinter import *
 from PIL import ImageTk, Image

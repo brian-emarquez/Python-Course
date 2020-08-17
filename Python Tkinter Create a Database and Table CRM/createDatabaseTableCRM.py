@@ -1,5 +1,5 @@
 # Python Tkinter Create a Database and Table CRM
-# 
+# Python Tkinter Crea una base de datos y una tabla CRM
 
 from tkinter import *
 from PIL import ImageTk, Image

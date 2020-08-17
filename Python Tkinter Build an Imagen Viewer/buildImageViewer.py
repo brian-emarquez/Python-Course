@@ -1,4 +1,5 @@
 # Python Tkinter Build an Imagen Viewer
+# Python Tkinter Construye un visor de imágenes
 # Intercambio de Imagenes
 
 from tkinter import *

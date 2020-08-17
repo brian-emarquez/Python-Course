@@ -1,4 +1,5 @@
 # Python Tkinter Delete A Records our Database
+# Python Tkinter Delete A Records nuestra base de datos
 
 from tkinter import *
 from PIL import ImageTk, Image

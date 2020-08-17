@@ -1,4 +1,5 @@
 # Python Tkinter Create New Window
+# Python Tkinter Crear nueva ventana
 
 from tkinter import *
 from PIL import ImageTk, Image

@@ -1,5 +1,5 @@
 # Python Tkinter Change Colors Weather App
-#
+# Python Tkinter Cambiar colores Aplicación del tiempo
 
 
 from tkinter import *

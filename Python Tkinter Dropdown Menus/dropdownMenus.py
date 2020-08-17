@@ -1,4 +1,6 @@
 # Python Tkinter Dropdown Menus
+# Menús desplegables de Python Tkinter
+
 
 from tkinter import *
 from PIL import ImageTk, Image

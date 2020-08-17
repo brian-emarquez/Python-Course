@@ -1,4 +1,5 @@
 # Pyhton Tkinter Adding Frames
+# Pyhton Tkinter Adición de marcos
 
 from tkinter import *
 from PIL import ImageTk, Image

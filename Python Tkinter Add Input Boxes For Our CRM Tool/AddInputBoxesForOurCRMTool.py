@@ -1,4 +1,5 @@
 # Python Tkinter Add Input Boxes For Our CRM Tool
+# Python Tkinter agrega cuadros de entrada para nuestra herramienta CRM
 
 from tkinter import *
 from PIL import ImageTk, Image

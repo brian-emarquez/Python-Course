@@ -1,4 +1,5 @@
 # Python Tkinter Lookup Customer By Last Name CRM
+# Python Tkinter Buscar cliente por apellido CRM
 
 from tkinter import *
 from PIL import ImageTk, Image
