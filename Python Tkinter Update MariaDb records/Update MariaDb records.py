@@ -7,7 +7,7 @@ from tkinter import *
 from PIL import ImageTk, Image
 #import mysql.connector
 import mysql.connector as mariadb
-import csv # Archicos excell
+import csv # Archivos excell
 from tkinter import ttk
 
 root = Tk()
@@ -124,29 +124,24 @@ def search_customer():
     search_customers=Tk()
     search_customers.title("Search All Customers")
     search_customers.iconbitmap('Python Tkinter Update MariaDb records/db.ico')
-    search_customers.geometry("1000x600") 
+    search_customers.geometry("1100x600") 
 
     def seach_now():
 
         selected = drop.get()
-        sql=""
+        sql= " "
         if selected == "Search By...":
             test = Label(search_customers, text="Hey! You Forgot to pick a drop")
             test.grid(row=3, column=0)
         if selected == "Last name":
             sql = "SELECT * FROM customers WHERE last_name = %s"
-            #test = Label(search_customers, text="You picked Last Name")
-            #test.grid(row=2, column=0)
+            
         if selected == "Email Address":
             sql = "SELECT * FROM customers WHERE email = %s"
-            #test = Label(search_customers, text="You picked Last Email Address")
-            #test.grid(row=2, column=0)
+            
         if selected == "Customers ID":
             sql = "SELECT * FROM customers WHERE user_id = %s"
-            #test = Label(search_customers, text="You picked Customers Id")
-            #test.grid(row=2, column=0)
-
-
+            
         searched = search_box.get()
         #sql = "SELECT * FROM customers WHERE last_name = %s"
         name = (searched, )
@@ -161,6 +156,9 @@ def search_customer():
             for index, x in enumerate(result):
                 num = 0
                 index +=2
+                edit_button= Button(search_customers, text="Edit")
+                edit_button.grid(row=index, column=num)
+
                 for y in x:
                     searched_label = Label(search_customers, text=y)
                     searched_label.grid(row=index, column=num)
@@ -261,7 +259,7 @@ price_paid_box.grid(row=13, column=1, pady=5)
 add_customers_button = Button(root, text= "Add customer To Database", command=add_customer)
 add_customers_button.grid(row=14, column=0, padx=10, pady=10)
 
-clear_fields_button = Button(root, text= "Cler Fileds", command=clear_fields)
+clear_fields_button = Button(root, text= "Clear Fileds", command=clear_fields)
 clear_fields_button.grid(row=14, column=1)
 
 # list_customer_button
@@ -269,7 +267,7 @@ list_customer_button = Button(root, text="List Customer", command= list_customer
 list_customer_button.grid(row=15, column=0, sticky=W, padx=10)
 
 # Search Customers
-search_customers_button = Button(root, text="Save Customers", command = search_customer)
+search_customers_button = Button(root, text="Save/Edit Customers", command = search_customer)
 search_customers_button.grid(row=15, column=1, sticky=W, padx=10)
 
 root.mainloop()
