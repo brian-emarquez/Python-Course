@@ -123,63 +123,72 @@ def search_customer():
     search_customers=Tk()
     search_customers.title("Search All Customers")
     search_customers.iconbitmap('Python Tkinter Update MariaDb records/db.ico')
-    search_customers.geometry("1100x600") 
+    search_customers.geometry("1100x800") 
 
-    def edit_now(id, row):
-    
-    first_name_label = Label(root, text="First Name").grid(row=1, column=0)
-    last_name_label = Label(root, text="Last Name").grid(row=2, column=0)
-    address_1_label = Label(root, text="Address 1").grid(row=3, column=0)
-    address_2_label = Label(root, text="Address 2").grid(row=4, column=0)
-    city_label = Label(root, text="City").grid(row=5, column=0)
-    state_label = Label(root, text="State").grid(row=6, column=0)
-    zipcade_label = Label(root, text="Zipcode").grid(row=7, column=0)
-    country_label = Label(root, text="Country").grid(row=8, column=0)
-    phone_label = Label(root, text="Phone Number").grid(row=9, column=0)
-    email_label = Label(root, text="Email Address").grid(row=10, column=0)
-    payment_method_label = Label(root, text="Payment Method").grid(row=11, column=0)
-    dicount_code_label = Label(root, text="Discount Code").grid(row=12, column=0)
-    price_paid_label = Label(root, text="Price Paid").grid(row=13, column=0)
+    def edit_now(id, index):
 
-    # Create Entry Boxes
-    first_name_box = Entry(root)
-    first_name_box.grid(row=1, column=1)
+        index +=1
+        first_name_label = Label(search_customers, text="First Name").grid(row=index+1, column=0, sticky=W, padx=10, pady=10)
+        last_name_label = Label(search_customers, text="Last Name").grid(row=index+2, column=0, sticky=W, padx=10)
+        address_1_label = Label(search_customers, text="Address 1").grid(row=index+3, column=0, sticky=W, padx=10)
+        address_2_label = Label(search_customers, text="Address 2").grid(row=index+4, column=0, sticky=W, padx=10)
+        city_label = Label(search_customers, text="City").grid(row=index+5, column=0, sticky=W, padx=10)
+        state_label = Label(search_customers, text="State").grid(row=index+6, column=0, sticky=W, padx=10)
+        zipcade_label = Label(search_customers, text="Zipcode").grid(row=index+7, column=0, sticky=W, padx=10)
+        country_label = Label(search_customers, text="Country").grid(row=index+8, column=0, sticky=W, padx=10)
+        phone_label = Label(search_customers, text="Phone Number").grid(row=index+9, column=0, sticky=W, padx=10)
+        email_label = Label(search_customers, text="Email Address").grid(row=index+10, column=0, sticky=W, padx=10)
+        payment_method_label = Label(search_customers, text="Payment Method").grid(row=index+11, column=0, sticky=W, padx=10)
+        dicount_code_label = Label(search_customers, text="Discount Code").grid(row=index+12, column=0, sticky=W, padx=10)
+        price_paid_label = Label(search_customers, text="Price Paid").grid(row=index+13, column=0, sticky=W, padx=10)
+        id_label = Label(search_customers, text="User ID").grid(row=index+14, column=0, sticky=W, padx=10)
 
-    last_name_box = Entry(root)
-    last_name_box.grid(row=2, column=1, pady=5)
+        # Create Entry Boxes
+        first_name_box2 = Entry(search_customers)
+        first_name_box2.grid(row=index+1, column=1, pady=10)
 
-    address_1_box = Entry(root)
-    address_1_box.grid(row=3, column=1, pady=5)
+        last_name_box2 = Entry(search_customers)
+        last_name_box2.grid(row=index+2, column=1, pady=5)
 
-    address_2_box = Entry(root)
-    address_2_box.grid(row=4, column=1, pady=5)
+        address_1_box2 = Entry(search_customers)
+        address_1_box2.grid(row=index+3, column=1, pady=5)
 
-    city_box = Entry(root)
-    city_box.grid(row=5, column=1, pady=5)
+        address_2_box2 = Entry(search_customers)
+        address_2_box2.grid(row=index+4, column=1, pady=5)
 
-    state_box = Entry(root)
-    state_box.grid(row=6, column=1, pady=5)
+        city_box2 = Entry(search_customers)
+        city_box2.grid(row=index+5, column=1, pady=5)
 
-    zipcade_box = Entry(root)
-    zipcade_box.grid(row=7, column=1, pady=5)
+        state_box2 = Entry(search_customers)
+        state_box2.grid(row=index+6, column=1, pady=5)
 
-    country_box = Entry(root)
-    country_box.grid(row=8, column=1, pady=5)
+        zipcade_box2 = Entry(search_customers)
+        zipcade_box2.grid(row=index+7, column=1, pady=5)
 
-    phone_box = Entry(root)
-    phone_box.grid(row=9, column=1, pady=5)
+        country_box2 = Entry(search_customers)
+        country_box2.grid(row=index+8, column=1, pady=5)
 
-    email_box = Entry(root)
-    email_box.grid(row=10, column=1, pady=5)
+        phone_box2 = Entry(search_customers)
+        phone_box2.grid(row=index+9, column=1, pady=5)
 
-    payment_method_box = Entry(root)
-    payment_method_box.grid(row=11, column=1, pady=5)
+        email_box2 = Entry(search_customers)
+        email_box2.grid(row=index+10, column=1, pady=5)
 
-    dicount_cod_box = Entry(root)
-    dicount_cod_box.grid(row=12, column=1, pady=5)
+        payment_method_box2 = Entry(search_customers)
+        payment_method_box2.grid(row=index+11, column=1, pady=5)
 
-    price_paid_box = Entry(root)
-    price_paid_box.grid(row=13, column=1, pady=5)
+        dicount_cod_box2 = Entry(search_customers)
+        dicount_cod_box2.grid(row=index+12, column=1, pady=5)
+
+        price_paid_box2 = Entry(search_customers)
+        price_paid_box2.grid(row=index+13, column=1, pady=5)
+
+        id_paid_box2 = Entry(search_customers)
+        id_paid_box2.grid(row=index+14, column=1, pady=5)
+
+        save_record = Button(search_customers, text="Update Records")
+        save_record.grid(row=index+15, column=0, padx=10)
+
 
     def seach_now():
 
@@ -212,12 +221,12 @@ def search_customer():
                 num = 0
                 index +=2
                 id_reference = str(x[4])
-                edit_button= Button(search_customers, text="Edit ", command=Lambda:edit_now(id_reference, index))
+                edit_button= Button(search_customers, text="Edit ", command = lambda: edit_now(id_reference, index))
                 edit_button.grid(row=index, column=num)
 
                 for y in x:
                     searched_label = Label(search_customers, text=y)
-                    searched_label.grid(row=index, column=num)
+                    searched_label.grid(row=index, column=num+1)
                     num +=1
 
         
