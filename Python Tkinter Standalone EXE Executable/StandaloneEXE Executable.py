@@ -1,12 +1,12 @@
-# Python Tkinter Standalone EXE Executable
-# Ejecutable EXE independiente de Python Tkinter
+# Python Tkinter Random Winner Generador
+# Generador de ganador aleatorio de Python Tkinter
 
 from tkinter import *
 from random import randint
 
 root = Tk()
-root.title('Python Tkinter Standalone EXE Executable!')
-root.iconbitmap('Python Tkinter Standalone EXE Executable/umbrella.ico')
+root.title('Python Tkinter Random Winner Generador!')
+root.iconbitmap('Python Tkinter Random Winner Generador/umbrella.ico')
 root.geometry("400x600") 
 
 def pick():
