@@ -1,4 +1,6 @@
 # Python Tkinter How To Riseze Entry Box height
+# Python Tkinter Cómo elevar la altura del cuadro de entrada
+
 
 from tkinter import *
 
