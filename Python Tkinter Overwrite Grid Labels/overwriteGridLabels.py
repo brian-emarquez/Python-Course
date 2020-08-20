@@ -4,8 +4,8 @@
 from tkinter import *
 
 root = Tk()
-root.title('Python Tkinter Remove Labels!')
-root.iconbitmap('Python Tkinter Remove Labels/pc.ico')
+root.title('Python Tkinter Overwrite Grid Labels!')
+root.iconbitmap('Python Tkinter Overwrite Grid Labels/pc.ico')
 root.geometry("400x400") 
 
 
