@@ -1,28 +1,23 @@
 # Python Tkinter Keyboard Event Binding
+# Enlace de eventos de teclado Python Tkinter
 
 from tkinter import *
 
 root = Tk()
 root.title('Python Tkinter Keyboard Event Binding!')
-root.iconbitmap('Python Tkinter Keyboard Event Binding/classes.ico')
+#root.iconbitmap('Python Tkinter Keyboard Event Binding/classes.ico')
 root.geometry("400x400") 
 
+def clicker(event):
+    #myLabel = Label(root, text="You clicked a button" + str(event.x) + " " + str(event.y))
+    myLabel = Label(root, text="You clicked a button")
+    myLabel.pack()
 
+MyButton = Button(root, text="Click Me")
+MyButton.bind("<Key>", clicker)
+#MyButton.bind("<Leave>", clicker)  # boton sencible a mouse
+#MyButton.bind("<Button-3>", clicker) # posicion de boton de mouse y evento de click
 
-class Brian:
-
-    def __init__(self, master):
-        myFrame = Frame(master)
-        myFrame.pack()
-
-        self.myButton = Button(master, text="Click Me!", command=self.clicker)
-        self.myButton.pack(pady=20)
-
-    def clicker(self):
-        print("Loook at you.. you clicked a button!")
-
-e = Brian(root)
-
-
+MyButton.pack(pady=20)
 
 root.mainloop()
