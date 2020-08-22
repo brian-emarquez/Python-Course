@@ -176,13 +176,29 @@ class Persona:
 
 ![python](./Images/Tkinter-Grid.jpg)
 
-El Tkintermódulo ("interfaz Tk") es la interfaz estándar de Python para el kit de herramientas Tk GUI. Tanto Tk como Tkinterestán disponibles en la mayoría de las plataformas Unix, así como en los sistemas Windows. (Tk en sí no es parte de Python; se mantiene en ActiveState).
+El Tkinter módulo ("interfaz Tk") es la interfaz estándar de Python para el kit de herramientas Tk GUI. Tanto Tk como Tkinterestán disponibles en la mayoría de las plataformas Unix, así como en los sistemas Windows. (Tk en sí no es parte de Python; se mantiene en ActiveState).
 
 Ejecutar desde la línea de comando debería abrir una ventana que demuestre una interfaz Tk simple, que le permita saber que está instalado correctamente en su sistema y que también muestre qué versión de Tcl / Tk está instalada, para que pueda leer la documentación específica de Tcl / Tk versión.python -m TkinterTkinter
 
 ```
 from tkinter import *
 ```
+
+### Ejemplo
+```
+from tkinter import *
+root = Tk()
+label1 = Label(root,text="This is a tutorial about Python Tkinter")
+label1.pack(side=TOP,expand=True)
+label2 = Label(root,text="Do you wish to learn?",fg="blue")
+label2.pack(side=TOP,expand=True)
+button1 = Button(root, text="Accept", fg="green",command=root.destroy)
+button1.pack(side=LEFT,expand=True)
+button2 = Button(root, text="Close", fg="red",command=root.destroy)
+button2.pack(side=RIGHT,expand=True)
+root.mainloop()
+```
+
 ![python](./Images/Gui.PNG)
 
 ## A. I Programming with Python 🤖
