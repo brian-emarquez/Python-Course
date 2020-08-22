@@ -12,9 +12,10 @@
   <a href="https://github.com/BrianMarquez3/Python-Course/network">
     <img src="https://img.shields.io/github/forks/BrianMarquez3/Python-Course.svg?style=flat" alt="Forks">
   </a>
-   <a href="https://github.com/BrianMarquez3/Python-Course/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/BrianMarquez3/Python-Course.svg?style=flat" alt="Forks">
+  <a>
+    <img src="https://img.shields.io/badge/Next%20Release-Aug%2017-green">
   </a>
+  
 </p>
   
 ![python](./Images/python3.png)
