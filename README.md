@@ -183,6 +183,12 @@ if __name__ == '__main__':
     app.mainloop()
 ```
 
+Los siguientes son los pasos para crear una aplicación Tkinter junto con la sintaxis:
+
+- Primero, necesitamos importar el módulo Tkinter.
+- En segundo lugar, necesitamos crear una ventana de contenedor.
+- Luego, agregamos cualquier número de widgets a la ventana del contenedor.
+- Por último, aplicamos el activador de eventos en los widgets.
 
 ## Interface Grafica (GUI)
 
@@ -213,7 +219,8 @@ button2.pack(side=RIGHT,expand=True)
 root.mainloop()
 ```
 
-![python](./Images/Gui.PNG)
+![python](./Images/Tkinter-Grid2.jpg)
+<!--![python](./Images/Gui.PNG)-->
 
 ## A. I Programming with Python 🤖
 
