@@ -194,7 +194,8 @@ Los siguientes son los pasos para crear una aplicación Tkinter junto con la sin
 
 ### Tkinter
 
-![python](./Images/Tkinter-Grid.jpg)
+![python](./Images/Tkinter-Grid2.jpg)
+<!--![python](./Images/Gui.PNG)-->
 
 El Tkinter módulo ("interfaz Tk") es la interfaz estándar de Python para el kit de herramientas Tk GUI. Tanto Tk como Tkinterestán disponibles en la mayoría de las plataformas Unix, así como en los sistemas Windows. (Tk en sí no es parte de Python; se mantiene en ActiveState).
 
@@ -218,6 +219,19 @@ button2 = Button(root, text="Close", fg="red",command=root.destroy)
 button2.pack(side=RIGHT,expand=True)
 root.mainloop()
 ```
+
+| Python Tkinter                                               |             |  
+|--------------------------------------------------------------|:-----------:|
+| Pyhton Tkinter Add ZipCode                                   |      ✔️     |    
+| Python Tkinter Add Input Boxes For Our CRM Tool              |      ✔️     |       
+| Python Tkinter Adding a Status Bar                           |      ✔️     |          
+| Python Tkinter Adding Frames                                 |      ✔️     |      
+| Python Tkinter Binding Dropdown Menus and Combo Boxes        |      ✔️     |    
+| Python Tkinter Build a Geography Flashcard APP               |      ✔️     |     
+| Python Tkinter Build a Weather App                           |      ✔️     |     
+| Python Tkinter Build an Imagen Viewer                        |      ✔️     |  
+| Python Tkinter Building out Database                         |      ✔️     |  
+
 
 ![python](./Images/Tkinter-Grid2.jpg)
 <!--![python](./Images/Gui.PNG)-->
