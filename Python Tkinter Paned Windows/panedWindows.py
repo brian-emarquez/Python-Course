@@ -3,7 +3,6 @@
 
 from tkinter import *
 
-
 root = Tk()
 root.title('Python Tkinter Paned Windows!')
 root.iconbitmap('Python Tkinter Paned Windows/menu.ico')
