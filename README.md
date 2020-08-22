@@ -255,9 +255,23 @@ root.mainloop()
 | Python Tkinter Matplolib Charts                              |      ✔️     |  
 | Python Tkinter Menu Bars                                     |      ✔️     |  
 | Python Tkinter Message Boxes                                 |      ✔️     |  
-| Python Tkinter Multiple CRM search Results                   |      ✔️     |  
-
-
+| Python Tkinter Multiple CRM search Results                   |      ✔️     | 
+| Python Tkinter Open Files Dialog Box                         |      ✔️     | 
+| Python Tkinter Overwrite Grid Labels                         |      ✔️     | 
+| Python Tkinter Paned Windows                                 |      ✔️     | 
+| Python Tkinter Positioning                                   |      ✔️     | 
+| Python Tkinter Radio Butttons                                |      ✔️     | 
+| Python Tkinter Random Winner Generador                       |      ✔️     | 
+| Python Tkinter Remove Labels                                 |      ✔️     | 
+| Python Tkinter Sliders                                       |      ✔️     | 
+| Python Tkinter Standalone EXE Executable                     |      ✔️     | 
+| Python Tkinter Unicode Character & Special Characters        |      ✔️     | 
+| Python Tkinter Update a Record                               |      ✔️     | 
+| Python Tkinter Update a Record II                            |      ✔️     | 
+| Python Tkinter Update MariaDb records                        |      ✔️     | 
+| Python Tkinter Using Databases                               |      ✔️     | 
+| Python Tkinter Using Frames with Menus                       |      ✔️     | 
+| Python Tkinter Using Icons, Image                            |      ✔️     | 
 
 
 ## A. I Programming with Python 🤖
