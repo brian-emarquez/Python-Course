@@ -172,7 +172,9 @@ class Persona:
 
 ## Interface Grafica (GUI)
 
-###Tkinter
+### Tkinter
+
+![python](./Images/Tkinter-Grid.jpg)
 
 El Tkintermódulo ("interfaz Tk") es la interfaz estándar de Python para el kit de herramientas Tk GUI. Tanto Tk como Tkinterestán disponibles en la mayoría de las plataformas Unix, así como en los sistemas Windows. (Tk en sí no es parte de Python; se mantiene en ActiveState).
 
