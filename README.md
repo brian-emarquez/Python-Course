@@ -231,10 +231,34 @@ root.mainloop()
 | Python Tkinter Build a Weather App                           |      ✔️     |     
 | Python Tkinter Build an Imagen Viewer                        |      ✔️     |  
 | Python Tkinter Building out Database                         |      ✔️     |  
+| Python Tkinter Change Colors Weather App                     |      ✔️     |  
+| Python Tkinter Checkboxes                                    |      ✔️     |  
+| Python Tkinter Classes                                       |      ✔️     |  
+| Python Tkinter Color Picker                                  |      ✔️     |  
+| Python Tkinter Create a Database and Table CRM               |      ✔️     |  
+| Python Tkinter Create CRM database Tool                      |      ✔️     |  
+| Python Tkinter Create New Windows                            |      ✔️     |  
+| Python Tkinter Creating Buttons                              |      ✔️     |  
+| Python Tkinter Building out Database                         |      ✔️     |  
+| Python Tkinter Creating input Fields                         |      ✔️     |  
+| Python Tkinter Creating Input fields II                      |      ✔️     |  
+| Python Tkinter Delete a Record                               |      ✔️     |  
+| Python Tkinter Delete Frame Children Widgets                 |      ✔️     |  
+| Python Tkinter Drop Box Database Search CRM                  |      ✔️     |  
+| Python Tkinter Dropdown Menus                                |      ✔️     |  
+| Python Tkinter Export CRM Database to Excel File             |      ✔️     |  
+| Python Tkinter How To Risize Entry Box height                |      ✔️     |  
+| Python Tkinter Keyboard Event Binding                        |      ✔️     |  
+| Python Tkinter Lookup all CustomersCRM                       |      ✔️     |  
+| Python Tkinter Lookup Customer By Last Name CRM              |      ✔️     |  
+| Python Tkinter MariaDB                                       |      ✔️     |  
+| Python Tkinter Matplolib Charts                              |      ✔️     |  
+| Python Tkinter Menu Bars                                     |      ✔️     |  
+| Python Tkinter Message Boxes                                 |      ✔️     |  
+| Python Tkinter Multiple CRM search Results                   |      ✔️     |  
 
 
-![python](./Images/Tkinter-Grid2.jpg)
-<!--![python](./Images/Gui.PNG)-->
+
 
 ## A. I Programming with Python 🤖
 
