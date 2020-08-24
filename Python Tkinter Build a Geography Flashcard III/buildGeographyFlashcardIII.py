@@ -31,9 +31,22 @@ def states():
     show_state = Label(state_frame, image=state_image)
     show_state.pack(pady=15)
 
+    answer_input = Entry (state_frame, font=("Helvetica", 18))
+    answer_input.pack(pady=15)
+
     # Create Button randomize state Images
     randon_button = Button(state_frame, text="New State", command=states)
     randon_button.pack(pady=10)
+
+    # Create a Button Answer the question
+    answer_button = Button (state_frame, text="Answer", command=state_answer)
+    answer_button.pack(pady=5)
+
+    # Create a Label to tell us if we got the answer right or not
+    global answer_label
+    answer_label = Label (state_frame, text="", font=("Helvetica", 18))
+    answer_label.pack(pady=15)
+
 
 # Create State Capital Flashcard Function
 def state_capitals():
