@@ -13,7 +13,17 @@ root.geometry("500x600")
 
 # Create answer function
 def state_answer():
-    answer_label.config(text=answer_input.get())
+
+    answer = answer_input.get()
+    answer = answer.replace(" ", "") # Remplaza, quitando el espacio
+
+    # Determine if our answer if right or wring!
+    if answer.lower() == our_states[rando]:
+        response = "Correct!"
+    else:
+        response="Incorrect!"
+
+    answer_label.config(text=response)
 
 # Create state flascard Function
 def states():
@@ -23,9 +33,11 @@ def states():
     #my_label = Label(state_frame, text="States").pack()
 
     # Create list of state names
+    global our_states
     our_states = ['california', 'florida', 'illinois', 'kentucky','nebraska', 'newyork', 'oregon', 'texas']
 
     # Generate a random number
+    global rando
     rando = randint(0, len(our_states)-1)
     state = "Python Tkinter Build a Geography Flashcard III/states/" + our_states[rando] + ".png"
 
