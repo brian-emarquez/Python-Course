@@ -5,32 +5,13 @@ from tkinter import *
 from PIL import ImageTk, Image
 from random import randint
 
-
 root = Tk()
 root.title('Python Tkinter Build a Geography Flashcard IV')
 root.iconbitmap('Python Tkinter Build a Geography Flashcard IV/avatar.ico')
 root.geometry("500x600")
 
-# Create answer function
-def state_answer():
-
-    answer = answer_input.get()
-    answer = answer.replace(" ", "") # Remplaza, quitando el espacio
-
-    # Determine if our answer if right or wring!
-    if answer.lower() == our_states[rando]:
-        response = "Correct!"
-    else:
-        response="Incorrect!"
-
-    answer_label.config(text=response)
-
-# Create state flascard Function
-def states():
-    # Hide previous frames
-    hice_all_frames() # borra el frame anterior
-    state_frame.pack(fill="both", expand=1)
-    #my_label = Label(state_frame, text="States").pack()
+# Create Radomizing state function
+def random_state():
 
     # Create list of state names
     global our_states
@@ -44,12 +25,56 @@ def states():
     # Create our State Images
     global state_image
     state_image = ImageTk.PhotoImage(Image.open(state))
-    show_state = Label(state_frame, image=state_image)
+    show_state.config(image=state_image)
+    
+
+# Create answer function
+def state_answer():
+
+    answer = answer_input.get()
+    answer = answer.replace(" ", "") # Remplaza, quitando el espacio
+
+    # Determine if our answer if right or wring!
+    if answer.lower() == our_states[rando]:
+        response = "Correct " + our_states[rando].title()
+    else:
+        response="Incorrect " + our_states[rando].title()
+
+    answer_label.config(text=response)
+    
+    # clear the entrey box
+    answer_input.delete(0, 'end')
+
+    random_state()
+
+# Create state flascard Function
+def states():
+    # Hide previous frames
+    hide_all_frames() # borra el frame anterior
+    state_frame.pack(fill="both", expand=1)
+    #my_label = Label(state_frame, text="States").pack()
+    '''
+    # Create list of state names
+    global our_states
+    our_states = ['california', 'florida', 'illinois', 'kentucky','nebraska', 'newyork', 'oregon', 'texas']
+
+    # Generate a random number
+    global rando
+    rando = randint(0, len(our_states)-1)
+    state = "Python Tkinter Build a Geography Flashcard IV/states/" + our_states[rando] + ".png"
+
+    # Create our State Images
+    global state_image
+    state_image = ImageTk.PhotoImage(Image.open(state))
+    '''
+    global show_state
+    show_state = Label(state_frame)
     show_state.pack(pady=15)
+    random_state()
 
     # Create a aswer input box
     global answer_input
-    answer_input = Entry (state_frame, font=("Helvetica", 18))
+    answer_input = Entry (state_frame, font=("Helvetica", 18), bg="white")
     answer_input.pack(pady=15)
 
     # Create Button randomize state Images
@@ -62,13 +87,13 @@ def states():
 
     # Create a Label to tell us if we got the answer right or not
     global answer_label
-    answer_label = Label(state_frame, text="",  font=("Helvetica", 18))
+    answer_label = Label(state_frame, text="",  font=("Helvetica", 18), bg="white")
     answer_label.pack(pady=15)
 
 # Create State Capital Flashcard Function
 def state_capitals():
     # Hide previous frames
-    hice_all_frames() # borra el frame anterior
+    hide_all_frames() # borra el frame anterior
     state_capitals_frame.pack(fill="both", expand=1)
     #my_label = Label(state_capitals_frame, text="States Capitals").pack()
 
@@ -77,7 +102,7 @@ my_menu = Menu(root)
 root.config(menu=my_menu)
 
 # Hide all previous frames
-def hice_all_frames():
+def hide_all_frames():
     for Widget in state_frame.winfo_children():
         Widget.destroy()
 
@@ -96,7 +121,7 @@ states_menu.add_separator()
 states_menu.add_command(label="Exit", command=root.quit)
 
 # Create our Frames
-state_frame = Frame(root, width=500, height=500)
+state_frame = Frame(root, width=500, height=50, bg="white")
 state_capitals_frame = Frame(root, width=500, height=500)
 
 root.mainloop()
