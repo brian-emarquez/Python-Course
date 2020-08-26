@@ -15,7 +15,7 @@ def random_state():
 
     # Create list of state names
     global our_states
-    our_states = ['california', 'florida', 'illinois', 'kentucky','nebraska', 'newyork', 'oregon', 'texas']
+    our_states = ['california', 'florida', 'illinois', 'kentucky','nebraska', 'nevada', 'newyork', 'oregon', 'texas']
 
     # Generate a random number
     global rando
@@ -53,6 +53,7 @@ def states():
     hide_all_frames() # borra el frame anterior
     state_frame.pack(fill="both", expand=1)
     #my_label = Label(state_frame, text="States").pack()
+
     '''
     # Create list of state names
     global our_states
@@ -67,6 +68,7 @@ def states():
     global state_image
     state_image = ImageTk.PhotoImage(Image.open(state))
     '''
+
     global show_state
     show_state = Label(state_frame)
     show_state.pack(pady=15)
