@@ -4,6 +4,7 @@
 from tkinter import *
 from PIL import ImageTk, Image
 from random import randint
+import random
 
 root = Tk()
 root.title('Python Tkinter Build a Geography Flashcard VI')
@@ -99,12 +100,69 @@ def state_capitals():
     state_capitals_frame.pack(fill="both", expand=1)
     #my_label = Label(state_capitals_frame, text="States Capitals").pack()
 
-# Create our Menu
-my_menu = Menu(root)
-root.config(menu=my_menu)
+    global show_state
+    show_state = Label(state_capitals_frame)
+    show_state.pack(pady=15)
+
+    global our_states
+    our_states = ['california', 'florida', 'illinois', 'kentucky','nebraska', 'nevada', 'newyork', 'oregon', 'texas']
+
+    global our_state_capitals
+    our_state_capitals = {
+    'california':"sacramento",
+    'florida':"tallahasse", 
+    'illinois':"sorinfield", 
+    'kentucky':"frankfort",
+    'nebraska': "lincoln", 
+    'nevada':"carson city", 
+    'newyork': "albany", 
+    'oregon': "salem", 
+    'texas':"austin"
+    }
+
+    # create empty answer list and counter
+    answer_list =[]
+    count = 1
+
+    # Generate our theree randon capitals
+    while count < 4:
+        # if first selection, make it our answer
+        rando = randint(0, len(our_states)-1)
+        if count == 1: 
+            answer = our_states[rando]
+            global state_image
+            state = "Python Tkinter Build a Geography Flashcard VI/states/" + our_states[rando] + ".png"
+            state_image = ImageTk.PhotoImage(Image.open(state))
+            show_state.config(image=state_image)
+
+        # add our first selection to a new list
+        answer_list.append(our_states[rando])
+
+        # Remove from old list
+        our_states.remove(our_states[rando])
+
+        # Shuffle our original list
+        random.shuffle(our_states)
+
+        count += 1
+
+    random.shuffle(answer_list)
+
+    global capital_radio
+    capital_radio = IntVar()
+
+    capital_radio_button1 = Radiobutton(state_capitals_frame, text=our_state_capitals[answer_list[0]], variable=capital_radio, value=1).pack()
+    capital_radio_button2 = Radiobutton(state_capitals_frame, text=our_state_capitals[answer_list[1]], variable=capital_radio, value=2).pack()
+    capital_radio_button3 = Radiobutton(state_capitals_frame, text=our_state_capitals[answer_list[2]], variable=capital_radio, value=3).pack()
+
+    # Add a Pass Button
+    pass_button = Button(state_capitals_frame, text="Pass", command=state_capitals)
+    pass_button.pack()
+
 
 # Hide all previous frames
 def hide_all_frames():
+    # Loop thru and destroy all children in previous frames
     for Widget in state_frame.winfo_children():
         Widget.destroy()
 
@@ -113,6 +171,10 @@ def hide_all_frames():
 
     state_frame.pack_forget()
     state_capitals_frame.pack_forget()
+
+# Create our menu
+my_menu = Menu(root)
+root.config(menu=my_menu)
 
 # Create Geography Menu Items
 states_menu = Menu(my_menu)
@@ -125,5 +187,6 @@ states_menu.add_command(label="Exit", command=root.quit)
 # Create our Frames
 state_frame = Frame(root, width=500, height=50, bg="white")
 state_capitals_frame = Frame(root, width=500, height=500)
+
 
 root.mainloop()
