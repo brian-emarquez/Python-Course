@@ -1,4 +1,4 @@
-# Python Tkinter Build a Geography Flashcard VII
+# Python Tkinter Build a Geography Flashcard VIII
 # Python Tkinter Construye una tarjeta de geografía
 
 from tkinter import *
