@@ -30,12 +30,12 @@ def random_state():
     
 # create state capital answer
 def state_capital_answer():
-    
+    if capital_radio.get() == our_state_capitals[answer]:
+        response = "Correct " + our_state_capitals[answer] + "is the capital of " + answer.title()
+    else:
+        response = "Incorrect " + our_state_capitals[answer] + "is the capital of " + answer.title()
 
-
-
-
-
+    answer_label_capitals.config(text= response)
 
 # Create answer function
 def state_answer():
@@ -131,7 +131,8 @@ def state_capitals():
     # create empty answer list and counter
     answer_list =[]
     count = 1
-
+    global answer
+    
     # Generate our theree randon capitals
     while count < 4:
         # if first selection, make it our answer
@@ -158,23 +159,26 @@ def state_capitals():
 
     global capital_radio
     capital_radio = StringVar()
-
-    capital_radio_button1 = Radiobutton(state_capitals_frame, text=our_state_capitals[answer_list[0]], value=our_state_capitals[answer_list[0]]).pack()
-    capital_radio_button2 = Radiobutton(state_capitals_frame, text=our_state_capitals[answer_list[1]], value=our_state_capitals[answer_list[0]]).pack()
-    capital_radio_button3 = Radiobutton(state_capitals_frame, text=our_state_capitals[answer_list[2]], value=our_state_capitals[answer_list[0]]).pack()
+    capital_radio.set(our_state_capitals[answer_list[0]])
+    
+    capital_radio_butto1 = Radiobutton(state_capitals_frame, text=our_state_capitals[answer_list[0]].title(), variable=capital_radio, value=our_state_capitals[answer_list[0]]).pack()
+    capital_radio_butto2 = Radiobutton(state_capitals_frame, text=our_state_capitals[answer_list[1]].title(), variable=capital_radio, value=our_state_capitals[answer_list[1]]).pack()
+    capital_radio_butto3 = Radiobutton(state_capitals_frame, text=our_state_capitals[answer_list[2]].title(), variable=capital_radio, value=our_state_capitals[answer_list[2]]).pack()
 
     # Add a Pass Button
     pass_button = Button(state_capitals_frame, text="Pass", command=state_capitals)
-    pass_button.pack()
+    pass_button.pack(pady=15)
 
     # Create a button to answer
-    capital_anwer_button = Button(our_state_capitals, text="Answer", command=state_capital_answer)
+    capital_anwer_button = Button(state_capitals_frame, text="Answer", command=state_capital_answer)
     capital_anwer_button.pack(pady=15)
 
     # Create an answer label
     global answer_label_capitals
-    answer_label_capitals = Label(state_capitals_frame, text="", font=("helvetica"), 18)
+    answer_label_capitals = Label(state_capitals_frame, text="", font=("helvetica", 15))
     answer_label_capitals.pack(pady=15)
+
+
 
 # Hide all previous frames
 def hide_all_frames():
