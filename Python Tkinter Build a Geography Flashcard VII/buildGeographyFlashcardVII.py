@@ -28,6 +28,14 @@ def random_state():
     state_image = ImageTk.PhotoImage(Image.open(state))
     show_state.config(image=state_image)
     
+# create state capital answer
+def state_capital_answer():
+    
+
+
+
+
+
 
 # Create answer function
 def state_answer():
@@ -149,16 +157,24 @@ def state_capitals():
     random.shuffle(answer_list)
 
     global capital_radio
-    capital_radio = IntVar()
+    capital_radio = StringVar()
 
-    capital_radio_button1 = Radiobutton(state_capitals_frame, text=our_state_capitals[answer_list[0]], variable=capital_radio, value=1).pack()
-    capital_radio_button2 = Radiobutton(state_capitals_frame, text=our_state_capitals[answer_list[1]], variable=capital_radio, value=2).pack()
-    capital_radio_button3 = Radiobutton(state_capitals_frame, text=our_state_capitals[answer_list[2]], variable=capital_radio, value=3).pack()
+    capital_radio_button1 = Radiobutton(state_capitals_frame, text=our_state_capitals[answer_list[0]], value=our_state_capitals[answer_list[0]]).pack()
+    capital_radio_button2 = Radiobutton(state_capitals_frame, text=our_state_capitals[answer_list[1]], value=our_state_capitals[answer_list[0]]).pack()
+    capital_radio_button3 = Radiobutton(state_capitals_frame, text=our_state_capitals[answer_list[2]], value=our_state_capitals[answer_list[0]]).pack()
 
     # Add a Pass Button
     pass_button = Button(state_capitals_frame, text="Pass", command=state_capitals)
     pass_button.pack()
 
+    # Create a button to answer
+    capital_anwer_button = Button(our_state_capitals, text="Answer", command=state_capital_answer)
+    capital_anwer_button.pack(pady=15)
+
+    # Create an answer label
+    global answer_label_capitals
+    answer_label_capitals = Label(state_capitals_frame, text="", font=("helvetica"), 18)
+    answer_label_capitals.pack(pady=15)
 
 # Hide all previous frames
 def hide_all_frames():
