@@ -204,6 +204,12 @@ states_menu.add_command(label="State Capitals", command=state_capitals)
 states_menu.add_separator()
 states_menu.add_command(label="Exit", command=root.quit)
 
+
+# Math Flashcard Menu
+math_menu = Menu(my_menu)
+my_menu.add_cascade(label="Math", menu=math_menu)
+math_menu.add_command(label="Addtion", command=add)
+
 # Create our Frames
 state_frame = Frame(root, width=500, height=50, bg="white")
 state_capitals_frame = Frame(root, width=500, height=500)
