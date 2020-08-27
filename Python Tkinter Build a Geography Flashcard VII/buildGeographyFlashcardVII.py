@@ -1,4 +1,4 @@
-# Python Tkinter Build a Geography Flashcard VI
+# Python Tkinter Build a Geography Flashcard VII
 # Python Tkinter Construye una tarjeta de geografía
 
 from tkinter import *
@@ -7,8 +7,8 @@ from random import randint
 import random
 
 root = Tk()
-root.title('Python Tkinter Build a Geography Flashcard VI')
-root.iconbitmap('Python Tkinter Build a Geography Flashcard VI/avatar.ico')
+root.title('Python Tkinter Build a Geography Flashcard VII')
+root.iconbitmap('Python Tkinter Build a Geography Flashcard VII/avatar.ico')
 root.geometry("500x600")
 
 # Create Radomizing state function
@@ -21,7 +21,7 @@ def random_state():
     # Generate a random number
     global rando
     rando = randint(0, len(our_states)-1)
-    state = "Python Tkinter Build a Geography Flashcard VI/states/" + our_states[rando] + ".png"
+    state = "Python Tkinter Build a Geography Flashcard VII/states/" + our_states[rando] + ".png"
 
     # Create our State Images
     global state_image
@@ -131,7 +131,7 @@ def state_capitals():
         if count == 1: 
             answer = our_states[rando]
             global state_image
-            state = "Python Tkinter Build a Geography Flashcard VI/states/" + our_states[rando] + ".png"
+            state = "Python Tkinter Build a Geography Flashcard VII/states/" + our_states[rando] + ".png"
             state_image = ImageTk.PhotoImage(Image.open(state))
             show_state.config(image=state_image)
 
