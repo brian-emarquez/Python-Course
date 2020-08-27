@@ -11,6 +11,36 @@ root.title('Python Tkinter Build a Geography Flashcard VIII')
 root.iconbitmap('Python Tkinter Build a Geography Flashcard VIII/avatar.ico')
 root.geometry("500x600")
 
+
+# Create Addition math flashcards
+def add():
+    pass
+    add_frame.pack(fill="both", expand=1)
+
+    add_label = Label(add_frame, text="Addition Flshcards", font=("Helvetica", 18)).pack(pady=15)
+    pic_frame = Frame(add_frame, width = 400, height=300)
+    pic_frame.pack()
+
+    # Generate a random number
+    global rando
+    num_1 = randint(0, len(our_states)-1)
+    num_2 = randint(0, len(our_states)-1)
+    math_sign = Label(pic_frame)
+
+    # Create 3 labes inside our pic frame, frame
+    add_1 = Label(pic_frame)
+    add_2 = Label(pic_frame)
+    math_sign = Label(pic_frame)
+    
+    # Grid our label
+    add_1.grid(row=0, column=0)
+    math_sign.grid(row=0, column=1)
+    add_2.grid(row=0, column=2)
+
+
+
+    # create 2 labels inside out pic frame, frame
+
 # Create Radomizing state function
 def random_state():
 
@@ -189,6 +219,10 @@ def hide_all_frames():
     for Widget in state_capitals_frame.winfo_children():
         Widget.destroy()
 
+    for Widget in add_frame.winfo_children():
+        Widget.destroy()
+
+    add_label.pack_forget()
     state_frame.pack_forget()
     state_capitals_frame.pack_forget()
 
@@ -213,6 +247,9 @@ math_menu.add_command(label="Addtion", command=add)
 # Create our Frames
 state_frame = Frame(root, width=500, height=50, bg="white")
 state_capitals_frame = Frame(root, width=500, height=500)
+
+# addition Frame
+add_frame = Frame(root, width=500, height=500)
 
 
 root.mainloop()
