@@ -14,32 +14,42 @@ root.geometry("500x600")
 
 # Create Addition math flashcards
 def add():
-    pass
+    hide_all_frames()
     add_frame.pack(fill="both", expand=1)
 
-    add_label = Label(add_frame, text="Addition Flshcards", font=("Helvetica", 18)).pack(pady=15)
+    add_label = Label(add_frame, text="Addition Flashcards", font=("Helvetica", 18)).pack(pady=15)
     pic_frame = Frame(add_frame, width = 400, height=300)
     pic_frame.pack()
 
     # Generate a random number
     global rando
-    num_1 = randint(0, len(our_states)-1)
-    num_2 = randint(0, len(our_states)-1)
-    math_sign = Label(pic_frame)
+    num_1 = randint(0, 10)
+    num_2 = randint(0, 10)
+    #math_sign = Label(pic_frame)
 
     # Create 3 labes inside our pic frame, frame
     add_1 = Label(pic_frame)
     add_2 = Label(pic_frame)
-    math_sign = Label(pic_frame)
+    math_sign = Label(pic_frame, text="+", font=("Helvetica", 28))
     
     # Grid our label
     add_1.grid(row=0, column=0)
     math_sign.grid(row=0, column=1)
     add_2.grid(row=0, column=2)
 
+    global add_image1
+    global add_image2
 
+    card1 = "Python Tkinter Build a Geography Flashcard VIII/flashcards/" + str(num_1) + ".jpg"
+    card2 = "Python Tkinter Build a Geography Flashcard VIII/flashcards/" + str(num_2) + ".jpg"
 
-    # create 2 labels inside out pic frame, frame
+    add_image1 = ImageTk.PhotoImage(Image.open(card1))
+    add_image2 = ImageTk.PhotoImage(Image.open(card2))
+
+    # put flashcard images on the screen
+    add_1.config(image=add_image1)
+    add_2.config(image=add_image2)
+
 
 # Create Radomizing state function
 def random_state():
@@ -222,7 +232,7 @@ def hide_all_frames():
     for Widget in add_frame.winfo_children():
         Widget.destroy()
 
-    add_label.pack_forget()
+    add_frame.pack_forget()
     state_frame.pack_forget()
     state_capitals_frame.pack_forget()
 
@@ -242,7 +252,7 @@ states_menu.add_command(label="Exit", command=root.quit)
 # Math Flashcard Menu
 math_menu = Menu(my_menu)
 my_menu.add_cascade(label="Math", menu=math_menu)
-math_menu.add_command(label="Addtion", command=add)
+math_menu.add_command(label="Addition", command=add)
 
 # Create our Frames
 state_frame = Frame(root, width=500, height=50, bg="white")
