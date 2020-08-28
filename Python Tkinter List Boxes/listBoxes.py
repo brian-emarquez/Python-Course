@@ -25,9 +25,9 @@ my_list = ["One", "Two", "Three"]
 for item in my_list:
     my_listbox.insert(END, item)
 
-
 def delete():
     my_listbox.delete(ANCHOR)
+    my_label.config(text='')
 
 def select():
     my_label.config(text=my_listbox.get(ANCHOR))
