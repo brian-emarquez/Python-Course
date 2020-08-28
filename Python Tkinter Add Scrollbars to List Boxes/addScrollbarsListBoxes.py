@@ -1,12 +1,12 @@
-# Python Tkinter ListBox
-# 
+# Python Tkinter Add Scrollbars to List Boxes
+# Python Tkinter agrega barras de desplazamiento a cuadros de lista
 
 from tkinter import *
 from PIL import ImageTk, Image
 
 root = Tk()
-root.title('Python Tkinter List Boxes')
-root.iconbitmap('Python Tkinter List Boxes/avatar.ico')
+root.title('Python Tkinter Add Scrollbars to List Boxes')
+root.iconbitmap('Python Tkinter Add Scrollbars to List Boxess/avatar.ico')
 root.geometry("400x400")
 
 # List Box
