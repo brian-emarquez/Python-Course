@@ -1,4 +1,4 @@
-# Python Tkinter Build a Geography Flashcard VIII
+# Python Tkinter Build a Geography Flashcard IX
 # Python Tkinter Construye una tarjeta de geografía
 
 from tkinter import *
@@ -11,6 +11,15 @@ root.title('Python Tkinter Build a Geography Flashcard IX')
 root.iconbitmap('Python Tkinter Build a Geography Flashcard IX/avatar.ico')
 root.geometry("500x600")
 
+# Create addition answer function
+def answer_add():
+    answer = num_1 + num_2
+    if int(add_answer.get()) == answer:
+        response = "Correct"
+    else:
+        response = "Wrong"
+
+    answer_message.config(text=response)
 
 # Create Addition math flashcards
 def add():
@@ -22,10 +31,10 @@ def add():
     pic_frame.pack()
 
     # Generate a random number
-    global rando
+    global  num_1
+    global  num_2
     num_1 = randint(0, 10)
     num_2 = randint(0, 10)
-    #math_sign = Label(pic_frame)
 
     # Create 3 labes inside our pic frame, frame
     add_1 = Label(pic_frame)
@@ -51,13 +60,19 @@ def add():
     add_2.config(image=add_image2)
 
     # Create anwer box and button
+    global add_answer
     add_answer = Entry (add_frame, font=("Helvetica", 18))
     add_answer.pack(pady=50)
 
-    add_answer_button = Button(add_frame, text="Answer")
+    add_answer_button = Button(add_frame, text="Answer", command=answer_add)
     add_answer_button.pack()
 
+    global answer_message
+    answer_message = Label(add_frame, text="", font=("Helvetica", 18))
+    answer_message.pack(pady=20)
 
+
+    
 # Create Radomizing state function
 def random_state():
 
