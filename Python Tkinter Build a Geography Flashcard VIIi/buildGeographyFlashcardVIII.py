@@ -50,6 +50,13 @@ def add():
     add_1.config(image=add_image1)
     add_2.config(image=add_image2)
 
+    # Create anwer box and button
+    add_answer = Entry (add_frame, font=("Helvetica", 18))
+    add_answer.pack(pady=50)
+
+    add_answer_button = Button(add_frame, text="Answer")
+    add_answer_button.pack()
+
 
 # Create Radomizing state function
 def random_state():
