@@ -11,15 +11,39 @@ root.title('Python Tkinter Build a Geography Flashcard IX')
 root.iconbitmap('Python Tkinter Build a Geography Flashcard IX/avatar.ico')
 root.geometry("500x600")
 
+# create flashcards randomization
+def math_random():
+    # Generate a random number
+    global  num_1
+    global  num_2
+
+    num_1 = randint(0, 10)
+    num_2 = randint(0, 10)
+
+    global add_image1
+    global add_image2
+
+    card1 = "Python Tkinter Build a Geography Flashcard IX/flashcards/" + str(num_1) + ".jpg"
+    card2 = "Python Tkinter Build a Geography Flashcard IX/flashcards/" + str(num_2) + ".jpg"
+
+    add_image1 = ImageTk.PhotoImage(Image.open(card1))
+    add_image2 = ImageTk.PhotoImage(Image.open(card2))
+
+    # put flashcard images on the screen
+    add_1.config(image=add_image1)
+    add_2.config(image=add_image2)
+
 # Create addition answer function
 def answer_add():
     answer = num_1 + num_2
     if int(add_answer.get()) == answer:
-        response = "Correct"
+        response = "Correct " + str(num_1) + " + " + str(num_2) + " = " + str(answer)
     else:
-        response = "Wrong"
+        response = "Wrong " + str(num_1) + " + " + str(num_2) + " = " + str(answer) + " Not " + add_answer.get()
 
     answer_message.config(text=response)
+    add_answer.delete(0, "end")
+    math_random() # ejecuta la cuncion amath random()
 
 # Create Addition math flashcards
 def add():
@@ -37,6 +61,8 @@ def add():
     num_2 = randint(0, 10)
 
     # Create 3 labes inside our pic frame, frame
+    global add_1
+    global add_2
     add_1 = Label(pic_frame)
     add_2 = Label(pic_frame)
     math_sign = Label(pic_frame, text="+", font=("Helvetica", 28))
