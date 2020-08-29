@@ -1,29 +1,5 @@
-# BBDD I
-# Coneccion con base de datos
-# SGDB
-# Sql server, Oracle, Mysql, SQLITE, PostSQL, etc
 
-# Module Imports
-#import mariadb
-#import sys
-
-# Connect to MariaDB Platform
-#try:
-#    conn = mariadb.connect(
-#        user="briandb",
-#        password="briandb",
-#        host="127.0.0.1",
-#        port=3307,
-#        database="test2"
-#    )
-    
-#except mariadb.Error as e:
-#    print(f"Error connecting to MariaDB Platform: {e}")
-#    sys.exit(1)
-
-# Get Cursor
-#cur = conn.cursor()
-
+# CONECTAR CON MARIADB
 import mariadb
 import sys
 
@@ -39,3 +15,14 @@ try:
 except mariadb.Error as error:
     print("Error: {}".format(error))
 mariadb_conexion.close()
+
+# CONECTAR CON SQL SERVER
+#conn = pyodbc.connect(
+#
+#    "Driver={SQL Server Native Client 11.0};"
+#    "Server=DESKTOP-URCHNPM;"
+#    "Database=test;"
+#    "password=briandb;"
+#    "Trusted_Connection=yes;"
+#)
+
