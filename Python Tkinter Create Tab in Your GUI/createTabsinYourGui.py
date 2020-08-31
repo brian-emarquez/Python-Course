@@ -1,10 +1,11 @@
-# Python TKinter Using config() to update widget
+# Python Tkinter Create Tabs in Your GUI Interface Using Notebook
+# Python Tkinter Cree pestañas en su interfaz GUI usando Notebook
 
 from tkinter import *
 
 root = Tk()
-root.title('Python TKinter Using config() to update widget')
-root.iconbitmap('Python TKinter Using config() to update widget/api.ico')
+root.title('Python Tkinter Create Tab in Your GUI')
+root.iconbitmap('Python Tkinter Create Tab in Your GUI/api.ico')
 root.geometry("400x400")
 
 def something():
