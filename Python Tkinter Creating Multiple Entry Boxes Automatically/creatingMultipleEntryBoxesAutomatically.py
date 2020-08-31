@@ -17,7 +17,7 @@ def something():
         entry_list = entry_list + str(entries.get()) + '\n' # Envio de valores
         my_label.config(text=entry_list)
     
-    #print(my_entries[3].get())
+    print(my_entries[].get())
 
     # Row Lopp
 for y in range(5):
