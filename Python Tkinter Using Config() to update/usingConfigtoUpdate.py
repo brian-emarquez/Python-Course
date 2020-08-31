@@ -4,8 +4,8 @@
 from tkinter import *
 
 root = Tk()
-root.title('Pyhton Tkinter Using Config() to update')
-root.iconbitmap('Pyhton Tkinter Using Config() to update/avatar.ico')
+root.title('Python Tkinter Using Config() to update')
+root.iconbitmap('Python Tkinter Using Config() to update/avatar.ico')
 root.geometry("400x600")
 
 
