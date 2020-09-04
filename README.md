@@ -42,6 +42,10 @@ _Verifica la versión de Python_
 ```
 python --version
 ```
+_Actualizar Git_
+```
+git update
+```
 
 _Actualiza el  PIP de Python_
 
