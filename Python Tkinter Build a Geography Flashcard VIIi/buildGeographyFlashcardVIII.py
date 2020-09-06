@@ -11,7 +11,6 @@ root.title('Python Tkinter Build a Geography Flashcard VIII')
 root.iconbitmap('Python Tkinter Build a Geography Flashcard VIII/avatar.ico')
 root.geometry("500x600")
 
-
 # Create Addition math flashcards
 def add():
     hide_all_frames()
