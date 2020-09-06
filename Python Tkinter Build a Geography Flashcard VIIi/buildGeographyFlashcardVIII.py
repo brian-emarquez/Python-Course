@@ -11,22 +11,61 @@ root.title('Python Tkinter Build a Geography Flashcard VIII')
 root.iconbitmap('Python Tkinter Build a Geography Flashcard VIII/avatar.ico')
 root.geometry("500x600")
 
+# Create flashcard randomization
+def math_random():
+
+    # Generate a random number
+    global num_1
+    global num_2
+    num_1 = randint(0, 9)
+    num_2 = randint(0, 9)
+    #math_sign = Label(pic_frame)
+
+    global add_image1
+    global add_image2
+
+    card1 = "Python Tkinter Build a Geography Flashcard VIII/flashcards/" + str(num_1) + ".jpg"
+    card2 = "Python Tkinter Build a Geography Flashcard VIII/flashcards/" + str(num_2) + ".jpg"
+
+    add_image1 = ImageTk.PhotoImage(Image.open(card1))
+    add_image2 = ImageTk.PhotoImage(Image.open(card2))
+
+    # put flashcard images on the screen
+    add_1.config(image=add_image1)
+    add_2.config(image=add_image2)
+
+
+# Create addition answer function
+def answer_add():
+    answer = num_1 + num_2
+    if int(add_answer.get()) == answer:
+        response = "Correct " + str(num_1) + " + " + str(num_2) + " = " + str(answer)
+    else:
+        response = "Wrong " + str(num_1) + " + " + str(num_2) + " = " + str(answer) + " Not " + add_answer.get()
+
+    answer_message.config(text=response)
+    add_answer.delete(0, "end")
+    math_random() #funtion math_ramdom
+
 # Create Addition math flashcards
 def add():
     hide_all_frames()
     add_frame.pack(fill="both", expand=1)
 
-    add_label = Label(add_frame, text="Addition Flashcards", font=("Helvetica", 18)).pack(pady=15)
+    add_label = Label(add_frame, text="Addition Flashcards", font=("Helvetica", 18)).pack(pady=5)
     pic_frame = Frame(add_frame, width = 400, height=300)
     pic_frame.pack()
 
     # Generate a random number
-    global rando
-    num_1 = randint(0, 10)
-    num_2 = randint(0, 10)
+    global num_1
+    global num_2
+    num_1 = randint(0, 9)
+    num_2 = randint(0, 9)
     #math_sign = Label(pic_frame)
 
     # Create 3 labes inside our pic frame, frame
+    global add_1
+    global add_2
     add_1 = Label(pic_frame)
     add_2 = Label(pic_frame)
     math_sign = Label(pic_frame, text="+", font=("Helvetica", 28))
@@ -50,12 +89,16 @@ def add():
     add_2.config(image=add_image2)
 
     # Create anwer box and button
+    global add_answer 
     add_answer = Entry (add_frame, font=("Helvetica", 18))
     add_answer.pack(pady=50)
 
-    add_answer_button = Button(add_frame, text="Answer")
+    add_answer_button = Button(add_frame, text="Answer", command=answer_add)
     add_answer_button.pack()
 
+    global answer_message
+    answer_message = Label(add_frame, text="", font=("Helvetica", 18))
+    answer_message.pack(pady=20)
 
 # Create Radomizing state function
 def random_state():
@@ -266,6 +309,5 @@ state_capitals_frame = Frame(root, width=500, height=500)
 
 # addition Frame
 add_frame = Frame(root, width=500, height=500)
-
 
 root.mainloop()
