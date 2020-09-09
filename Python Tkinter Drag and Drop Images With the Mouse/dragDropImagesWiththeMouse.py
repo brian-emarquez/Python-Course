@@ -21,30 +21,25 @@ my_canvas.pack(pady=10)
 img = PhotoImage(file="Python Tkinter Drag and Drop Images With the Mouse/eddy.png")
 my_image = my_canvas.create_image(260,125, anchor=NW, image=img)
 
-def left(event):
-    x = -10
-    y= 0
-    my_canvas.move(my_image, x, y)
+def move(e):
 
-def right(event):
-    x = 10
-    y= 0
-    my_canvas.move(my_image , x, y)
+    global img
+    img = PhotoImage(file="Python Tkinter Drag and Drop Images With the Mouse/eddy.png")
+    my_image = my_canvas.create_image(e.x, e.y, image=img)
+    my_label.config(text="Coordinates x: " + str(e.x) + " y: " + str(e.y)) # Movimiento
+    
 
-def up(event):
-    x =0
-    y= -10
-    my_canvas.move(my_image , x, y)
 
-def down(event):
-    x =0
-    y= 10
-    my_canvas.move(my_image , x, y)
+#root.bind("<Left>", left)
+#root.bind("<Right>", right)
+#root.bind("<Up>", up)
+#root.bind("<Down>", down)
+my_label = Label(root, text="")
+my_label.pack(pady=50)
 
-root.bind("<Left>", left)
-root.bind("<Right>", right)
-root.bind("<Up>", up)
-root.bind("<Down>", down)
+my_canvas.bind('<B1-Motion>', move)
+
+
 
 root.mainloop()
 
