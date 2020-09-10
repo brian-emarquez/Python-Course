@@ -141,6 +141,17 @@ _Instalar Pyttsx3_
 ```
 pip install pyttsx3
 ```
+_Instalar Pip Riview_
+
+```
+pip install pip-review
+```
+
+_Actualisar todos lo Paquetes_
+
+```
+pip-review --local --interactive
+```
 
 ## Historia 📖
 Python fue creado a finales de los ochenta por Guido van Rossum en el Centro para las Matemáticas y la Informática (CWI, Centrum Wiskunde & Informatica), en los Países Bajos, como un sucesor del lenguaje de programación ABC, capaz de manejar excepciones e interactuar con el sistema operativo Amoeba.
