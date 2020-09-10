@@ -9,4 +9,10 @@ root.geometry("600x600")
 root.title('Python Tkinter Text to Speechn')
 
 
+
+
+
+
+
+
 root.mainloop()
