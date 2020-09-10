@@ -1,0 +1,459 @@
+<!DOCTYPE html>
+<!-- saved from url=(0037)https://uniwebsidad.com/libros/python -->
+<html lang="es"><link type="text/css" rel="stylesheet" id="dark-mode-general-link"><link type="text/css" rel="stylesheet" id="dark-mode-custom-link"><style type="text/css" id="dark-mode-custom-style"></style><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<meta name="viewport" content="width=device-width">
+<meta name="theme-color" content="#003580">
+<title>Python para principiantes</title>
+<style type="text/css">
+                .border{border:1px solid #dee2e6!important}.border-top{border-top:1px solid #dee2e6!important}.border-right{border-right:1px solid #dee2e6!important}.border-bottom{border-bottom:1px solid #dee2e6!important}.border-left{border-left:1px solid #dee2e6!important}.d-none{display:none!important}.d-block{display:block!important}.d-flex,.metric{display:flex!important}@media (min-width:576px){.d-sm-none{display:none!important}}@media (min-width:768px){.d-md-inline{display:inline!important}.d-md-block{display:block!important}}@media (min-width:992px){.d-lg-none{display:none!important}.d-lg-block{display:block!important}}.embed-responsive{position:relative;display:block;width:100%;padding:0;overflow:hidden}.embed-responsive:before{display:block;content:""}.embed-responsive .embed-responsive-item,.embed-responsive iframe{position:absolute;top:0;bottom:0;left:0;width:100%;height:100%;border:0}.embed-responsive-16by9:before{padding-top:56.25%}.flex-row{flex-direction:row!important}.metric{flex-direction:column!important}.flex-fill{flex:1 1 auto!important}.justify-content-center,.metric{justify-content:center!important}.justify-content-between{justify-content:space-between!important}.sr-only{position:absolute;width:1px;height:1px;padding:0;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}.w-100{width:100%!important}.text-nowrap{white-space:nowrap!important}.text-right{text-align:right!important}.metric{text-align:center!important}@media (min-width:576px){.text-sm-right{text-align:right!important}}.font-weight-normal{font-weight:400!important}.text-danger{color:#dc3545!important}a.text-danger:focus,a.text-danger:hover{color:#a71d2a!important}.text-muted{color:#6c757d!important}*,:after,:before{box-sizing:border-box}html{font-family:sans-serif;line-height:1.15;-webkit-text-size-adjust:100%;-webkit-tap-highlight-color:rgba(11,12,12,0)}article,aside,figcaption,footer,header,main,nav,section{display:block}body{margin:0;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;font-size:1rem;font-weight:400;line-height:1.5;color:#212529;text-align:left;background-color:#fff}[tabindex="-1"]:focus{outline:0!important}hr{box-sizing:content-box;height:0;overflow:visible}h1,h2,h3,h4{margin-top:0;margin-bottom:.5rem}p{margin-top:0;margin-bottom:1rem}abbr[data-original-title],abbr[title]{text-decoration:underline;text-decoration:underline dotted;cursor:help;border-bottom:0;text-decoration-skip-ink:none}dl,ol,ul{margin-bottom:1rem}dl,ol,ul{margin-top:0}ol ol,ol ul,ul ol,ul ul{margin-bottom:0}dt{font-weight:700}dd{margin-bottom:.5rem;margin-left:0}b,strong{font-weight:bolder}small{font-size:80%}a{text-decoration:none;background-color:transparent}a:hover{text-decoration:underline}a:not([href]):not([tabindex]),a:not([href]):not([tabindex]):focus,a:not([href]):not([tabindex]):hover{color:inherit;text-decoration:none}a:not([href]):not([tabindex]):focus{outline:0}code,pre{font-family:SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace;font-size:1em}pre{margin-top:0;margin-bottom:1rem;overflow:auto}img{border-style:none}img,svg{vertical-align:middle}svg{overflow:hidden}table{border-collapse:collapse}caption{padding-top:.75rem;padding-bottom:.75rem;color:#6c757d;text-align:left;caption-side:bottom}th{text-align:inherit}label{display:inline-block;margin-bottom:.5rem}button{border-radius:0}button:focus{outline:1px dotted;outline:5px auto -webkit-focus-ring-color}button,input{margin:0;font-family:inherit;font-size:inherit;line-height:inherit}button,input{overflow:visible}button{text-transform:none}[type=button],[type=reset],[type=submit],button{-webkit-appearance:button}[type=button]::-moz-focus-inner,[type=reset]::-moz-focus-inner,[type=submit]::-moz-focus-inner,button::-moz-focus-inner{padding:0;border-style:none}input[type=checkbox],input[type=radio]{box-sizing:border-box;padding:0}input[type=date],input[type=datetime-local],input[type=month],input[type=time]{-webkit-appearance:listbox}legend{display:block;width:100%;max-width:100%;padding:0;margin-bottom:.5rem;font-size:1.5rem;line-height:inherit;color:inherit;white-space:normal}[type=number]::-webkit-inner-spin-button,[type=number]::-webkit-outer-spin-button{height:auto}[type=search]{outline-offset:-2px;-webkit-appearance:none}[type=search]::-webkit-search-decoration{-webkit-appearance:none}::-webkit-file-upload-button{font:inherit;-webkit-appearance:button}[hidden]{display:none!important}.container{width:100%;padding-right:15px;padding-left:15px;margin-right:auto;margin-left:auto}@media (min-width:576px){.container{max-width:540px}}@media (min-width:768px){.container{max-width:720px}}@media (min-width:992px){.container{max-width:960px}}@media (min-width:1200px){.container{max-width:1140px}}.row{display:flex;flex-wrap:wrap;margin-right:-15px;margin-left:-15px}.col,.col-12,.col-lg-3,.col-lg-5,.col-lg-9,.col-md-2,.col-md-6,.col-md-auto,.col-sm,.col-sm-2,.col-sm-4,.col-sm-6,.col-sm-8{position:relative;width:100%;padding-right:15px;padding-left:15px}.col{flex-basis:0;flex-grow:1;max-width:100%}.col-12{flex:0 0 100%;max-width:100%}@media (min-width:576px){.col-sm{flex-basis:0;flex-grow:1;max-width:100%}.col-sm-2{flex:0 0 16.66667%;max-width:16.66667%}.col-sm-4{flex:0 0 33.33333%;max-width:33.33333%}.col-sm-6{flex:0 0 50%;max-width:50%}.col-sm-8{flex:0 0 66.66667%;max-width:66.66667%}}@media (min-width:768px){.col-md-auto{flex:0 0 auto;width:auto;max-width:100%}.col-md-2{flex:0 0 16.66667%;max-width:16.66667%}.col-md-6{flex:0 0 50%;max-width:50%}}@media (min-width:992px){.col-lg-3{flex:0 0 25%;max-width:25%}.col-lg-5{flex:0 0 41.66667%;max-width:41.66667%}.col-lg-9{flex:0 0 75%;max-width:75%}}.pagination{display:flex;padding-left:0;list-style:none;border-radius:.25rem}.page-link{position:relative;display:block;padding:.5rem .75rem;margin-left:-1px;line-height:1.25;color:#0358d8;background-color:#fff;border:1px solid #dee2e6}.page-link:hover{z-index:2;color:#d86c5c;text-decoration:none;background-color:#e9ecef;border-color:#dee2e6}.page-link:focus{z-index:2;outline:0;box-shadow:0 0 0 .2rem rgba(3,88,216,.25)}.page-link:not(:disabled):not(.disabled){cursor:pointer}.page-item:first-child .page-link{margin-left:0;border-top-left-radius:.25rem;border-bottom-left-radius:.25rem}.page-item:last-child .page-link{border-top-right-radius:.25rem;border-bottom-right-radius:.25rem}.page-item.active .page-link{z-index:1;color:#fff;background-color:#0358d8;border-color:#0358d8}.page-item.disabled .page-link{color:#6c757d;pointer-events:none;cursor:auto;background-color:#fff;border-color:#dee2e6}.nav{display:flex;flex-wrap:wrap;padding-left:0;margin-bottom:0;list-style:none}
+
+/*! purgecss start ignore */.hljs-comment{color:#998;font-style:italic}.hljs-string{color:#183691}.hljs-keyword{color:#ce2068}.hljs-number{color:#099}.hljs-symbol{color:#0086b3}.hljs-tag .hljs-name{color:#63a35c}.hljs-tag .hljs-attr{color:#795da3}.hljs-class .hljs-title{color:#0086b3}.hljs-function .hljs-title{color:#795da3}.hljs-variable{color:#183691}.hljs-selector-class,.hljs-selector-id{color:#795da3}.hljs-selector-tag{color:#63a35c}.hljs-built_in{color:#c57633}.javascript .hljs-function .hljs-title{color:inherit}.json .hljs-attr{color:#ce2068}.json .hljs-literal{color:#0086b3}.json .hljs-string{color:#63a35c}.python .hljs-meta{color:#099}.yaml .hljs-attr{color:#63a35c}.yaml .hljs-number{color:#0086b3}
+
+/*! purgecss end ignore */
+
+/*! purgecss start ignore */.m-b-0{margin-bottom:0!important}.m-b-5{margin-bottom:5px!important}.m-b-15{margin-bottom:15px!important}.m-b-30{margin-bottom:30px!important}.m-b-45{margin-bottom:45px!important}.m-l-15{margin-left:15px!important}.m-r-10{margin-right:10px!important}.m-r-15{margin-right:15px!important}.m-t-0{margin-top:0!important}.m-t-10{margin-top:10px!important}.m-t-30{margin-top:30px!important}.text-bold{font-weight:700}.text-italic{font-style:italic}.text-large{font-size:20px}.text-normal{font-size:16px}.text-small{font-size:13px}.text-nodecoration{text-decoration:none}.text-nowrap{white-space:nowrap}html{height:100%}body{display:flex;flex-direction:column;min-height:100%;overflow-wrap:break-word}.container{max-width:100%}main{flex:1}section+section{margin-top:45px}img{max-width:100%}.avatar{border-radius:50%;border:1px solid #f7f7f7;height:50px;width:50px}.avatar--large{height:75px;width:75px}.svg-image svg{height:auto!important;max-width:100%}.svg-logo{padding:10px}.svg-logo svg{max-height:150px!important;max-width:250px}a{color:#0358d8;text-decoration:underline}a:hover{color:#d86c5c;text-decoration:none}h1 a,h2 a,h3 a,h4 a,h5 a,h6 a{color:inherit;text-decoration:none}.link-muted{color:#6c757d;text-decoration:none}.link-muted:hover{color:#d86c5c;text-decoration:underline}.link-nodecoration{text-decoration:none}.link-text{color:#24292e}.link-more{font-weight:700;text-decoration:none}dl,ol,p,pre,table,ul{margin-top:0;margin-bottom:16px}abbr[title]{text-decoration:none}h1,h2,h3,h4,h5,h6{color:#2f363c;margin-top:24px;margin-bottom:16px;font-weight:700;line-height:1.25}.h1,h1{margin-top:0;font-size:24px}.h2,h2{font-size:21px}.h3,.h4,.h5,.h6,h3,h4,h5,h6{font-size:18px}.h6,h6{color:#dee0e2}article h1:first-child,article h2:first-child,article h3:first-child{margin-top:0}ul{padding-left:1.1em}ul ul{margin-top:15px}dt,li{margin-bottom:8px}.list--unstyled{list-style:none;margin-left:0;padding-left:0}table{display:block;width:100%;overflow:auto}tr{background-color:#fff;border-top:1px solid #c6cbd1}tr:nth-child(2n){background-color:#f6f8fa}td,th{border:1px solid #dfe2e5;padding:5px 10px}th{font-size:15px}.table--listing,.table--listing td,.table--listing tr{border:0;vertical-align:top}.table--listing tr,.table--listing tr:nth-child(2n){background-color:transparent}hr.divider{border:1px solid #f7f7f7;margin:30px 0}header .brand{background:#003580;height:52px}header svg{height:auto;margin-left:-3px;margin-top:8px;width:200px}footer{background:#f7f7f7;color:#6f777b;font-size:13px;line-height:2;padding:30px 0 0}footer a{color:#6f777b;text-decoration:none}aside{margin-top:30px}.google-auto-placed,.google-auto-placed+main .headline{margin-top:15px}.headline{border-bottom:1px solid #d5d5d5;margin:20px 0;padding-bottom:20px}.headline .title{color:#2f363c;font-size:28px;font-weight:700;letter-spacing:-.015em;line-height:1.04;margin-bottom:0;word-spacing:-.02em}.headline .pretitle{color:#6f777b;margin-bottom:8px}.headline .subtitle{color:#6f777b;font-size:16px;margin-bottom:0;margin-top:8px}aside .book__toc{margin-bottom:0;padding-left:5px}aside .book__toc li{list-style:none;margin-bottom:5px}aside .book__toc a{text-decoration:none}aside .book__toc li.level-2{margin-left:15px}aside .book__toc .active a{color:#24292e;font-weight:700}.pager a{text-decoration:none}.pagination .page-link{color:#0358d8;text-decoration:none}.taglist{display:flex;flex-wrap:wrap}.tag{background:#e4ebf6;border-radius:2px;color:#24292e;display:inline-flex;font-size:14px;margin:0 10px 10px 0;padding:1px 7px 2px;text-decoration:none}.tag:before{content:"#";color:#0358d8;font-weight:700;margin-right:2px}.tag--active,.tag--active:before,.tag:hover,.tag:hover:before{background:#d86c5c;color:#fff}.blankslate{background-color:#f7f7f7;border:1px solid #e1e4e8;border-radius:3px;box-shadow:inset 0 0 10px #dee0e2;padding:75px 45px;text-align:center}.blankslate--clean{background:transparent;border:0;box-shadow:none}.toc{list-style:none;margin:0;padding:0}.toc a{text-decoration:none}.toc a:hover{text-decoration:underline}.toc--level-1{font-size:18px;font-weight:700}.toc--level-2{margin-left:15px}.toc--level-2+.toc--level-1{margin-top:30px}.metric{background:#f7f7f7;color:#6f777b;padding:10px}.metric .value{font-size:28px;line-height:1.04}.metric .label{display:block;font-size:13px}.fileicon,.fileicon:hover{background:#f7f7f7;border:2px solid #998;border-radius:2px;display:block;height:90px;position:relative;width:70px}.fileicon:after,.fileicon:hover:after{content:"";border-left:16px solid #998;border-top:16px solid #fff;display:block;height:0;position:absolute;right:-2px;top:-2px;width:0}.fileicon__label{background:#6f777b;border-radius:1px;bottom:28%;color:#fff;display:block;font-size:1rem;font-weight:700;left:-4px;padding:4px;position:absolute;text-align:center;width:74px}.fileicon--epub .fileicon__label{background:#4bba1b}.fileicon--html .fileicon__label{background:#00508e}.fileicon--key .fileicon__label{background:#ff8b3d}.fileicon--mp3 .fileicon__label{background:#5893cc}.fileicon--pdf .fileicon__label{background:#cc1414}.fileicon--ppt .fileicon__label{background:#ff8b3d}.fileicon--zip .fileicon__label{background:#fc3;color:#24292e!important}.admonition,.box{-webkit-column-break-inside:avoid;-moz-column-break-inside:avoid;column-break-inside:avoid;background:#f7f7f7;border-radius:2px;margin:15px 0;padding:15px}.box--small{padding:15px}.box--micro{border-radius:2px;display:inline-block;margin:0;padding:5px}.box--shadow{background:none;box-shadow:0 1px 6px rgba(0,0,0,.2)}.box--white{background:#fff}.box--outline{border:2px solid #dee0e2;background:none}.box--dashed{border:2px dashed #dee0e2;background:none}.box--active{background:#6f777b;border-color:#6f777b;color:#fff}.box--warning{background:#fffccc;border:1px solid rgba(0,0,0,.1)}.admonition{padding:20px 20px 5px}.admonition .title{display:block}.admonition.sidebar .title{font-size:20px}.admonition.note .title{color:#4073bf}.admonition.tip .title{color:#58a775}.admonition.caution .title{color:#ee6d6d}.admonition.bestpractice .title{color:#bf8a40}.admonition.note{background:#e6f0ff}.admonition.tip{background:#e8f3ec}.admonition.caution{background:#fce8de}.admonition.bestpractice{background:#fff4e6}.admonition.sidebar{border:2px solid #dee0e2;padding:30px 30px 15px}code,pre{background:#f6f8fa;color:#333;font-family:SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace;font-size:14px;font-size-adjust:.5;white-space:pre-wrap;word-break:break-all}code{border-radius:2px;padding:1px 2px}.admonition .title code,.book__toc code,.breadcrumb code,.navigation code,.pager code,.toc code,a code,h1 code,h2 code,h3 code,h4 code,h5 code,h6 code{background:inherit;color:inherit;font:inherit!important;padding:0}div.code,pre{margin:1em 0}pre{background:#fff;border:none;border-radius:0;color:#24292e;line-height:2;padding:15px}.code pre.code{background:#f6f8fa}.code.bash,.code.cli{background-color:#1e2125;border:solid #555;border-width:30px 3px 4px 4px;border-radius:3px 3px 0 0;color:#fff;position:relative}.code.bash:before,.code.cli:before{background-color:#777;border-radius:50%;box-shadow:0 0 0 3px #777,24px 0 0 3px #777,48px 0 0 3px #777;content:"";display:block;height:7px;left:14px;position:absolute;top:-18px;width:7px}.code.bash pre,.code.bash span,.code.cli pre,.code.cli span{color:#fff;font-style:normal}.code.bash .hljs-comment,.code.cli .hljs-comment{color:#8a8a8a}.code.bash pre,.code.cli pre{background:transparent;margin:0}.admonition code,.admonition pre{background:hsla(0,0%,100%,.3)!important}.admonition .code.bash pre,.admonition .code.cli pre{background:#1e2125!important}.configuration-block .code,.configuration-block .code pre{margin-top:0}.configuration-block .nav-link{border-radius:2px;color:#24292e;font-size:13px;padding:5px 10px;text-decoration:none}.configuration-block .nav-tabs{border-bottom:1px solid #998}.configuration-block .nav-tabs .nav-link:hover{border-color:transparent}.configuration-block .nav-link.active,.configuration-block .nav-link.active:hover{border-color:#998 #998 #fff;font-weight:700}.exercise{background:#f7f7f7;margin-bottom:30px;padding:15px}.exercise .title{font-weight:700}.property.css th{min-width:130px}.example{background:#f7f7f7;border:1px solid #dee0e2;font-family:SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace;font-size:13px;font-size-adjust:.5;margin:1em 0;overflow:auto;padding:.5em}.example table{margin:.25em}.example table td,.example table th{border:1px solid #998;font-size:13px}.example .box,.example .innerbox{background:rgba(3,88,216,.1);border:2px solid rgba(3,88,216,.6);margin:5px;min-height:50px;padding:5px;width:300px}.example .innerbox{background:hsla(8,61%,60%,.15);border-color:hsla(8,61%,60%,.6);height:40px;margin:3px;width:200px}.example .wide{width:400px}.example .innerwide{width:350px}.example .color1{color:#268822}#banner-gdpr{background:#24292e;bottom:0;color:#998;font-size:13px;padding:4px 0;position:fixed;text-align:center;width:100%;z-index:10000}#banner-gdpr a{color:#998}#banner-gdpr button{background:#6f777b;border:0;border-radius:2px;color:#dee0e2;cursor:pointer;font-size:12px;font-weight:700;margin-left:5px;padding:1px 5px}@media (min-width:768px){.container{max-width:96%}.h1,h1{font-size:32px}.h2,h2{font-size:28px}.h3,h3{font-size:24px}.h4,h4{font-size:21px}.h5,.h6,h5,h6{font-size:18px}ul{padding-left:2em}.list--complex{column-count:2;column-gap:45px}.menu{background:#f7f7f7;border-bottom:1px solid #dee0e2;position:static;transition:box-shadow .28s cubic-bezier(.4,0,.2,1);width:100%;z-index:10000}.menu ul{align-items:center;height:32px;list-style:none;padding:0}.menu li{font-size:12px;font-weight:700;margin-right:28px;text-transform:uppercase}.menu a{color:#003580;line-height:1;text-decoration:none}.menu .active a{background:#003580;border-radius:2px;color:#fff;padding:3px 8px}.menu.scrolling{background:#003580;border-bottom:0;box-shadow:0 2px 5px rgba(0,0,0,.3);position:fixed;top:0}.menu.scrolling a{color:#fff}.menu.scrolling .active a{background:#fff;color:#003580}.toc--full{column-count:2;column-gap:45px}.toc--level-2{margin-left:30px}aside section{font-size:14px;margin-bottom:30px}aside section h3{font-size:21px;margin-top:0}aside .book__toc{column-count:2;column-gap:30px}.headline{margin:30px 0;padding-bottom:30px}.headline .title{font-size:36px}.headline .pretitle,.headline .subtitle,.headline .title{padding-right:90px}}@media (min-width:992px){.container{max-width:960px}.list--complex{column-count:3}aside{margin-top:0}aside .book__toc{column-count:1}.headline{margin:45px 0;padding-bottom:45px}.headline .title{font-size:48px}.headline .pretitle,.headline .subtitle,.headline .title{padding-right:135px}.headline .pretitle,.headline .subtitle{font-size:18px}}@media (min-width:1200px){.container{max-width:1060px}.headline .pretitle,.headline .subtitle,.headline .title{padding-right:251px}}
+
+/*! purgecss end ignore */
+            </style>
+<script async="" src="./Python para principiantes_files/f.txt" type="text/javascript"></script>
+<script type="text/javascript">
+    (adsbygoogle = window.adsbygoogle || []).push({
+        google_ad_client: "ca-pub-1491000300253750",
+        enable_page_level_ads: true
+    });
+</script>
+<script type="text/javascript">
+            window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+            ga('create', 'UA-82842-6', 'auto');
+            ga('send', 'pageview');
+        </script>
+<script async="" src="./Python para principiantes_files/analytics.js.descarga" type="text/javascript"></script>
+<meta name="apple-mobile-web-app-title" content="uniwebsidad">
+<link href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABHklEQVR4Ae1WTarCMBDO27/N43kLl5qsqht7o15gKmhFKO3SO+minsWfVUEzUIwMOjU4WRTywYA6mO9nMhAVETE8jOGX7QWFgZWawlFNYKQokuJPaTjYfhmOXMMNy4kg5K5fSpNv8WBSzUOEzjPax/9IOydFktBQvOiXIZy3b5L4sZ8rkSQY55Uyy5ntnagIsSQY5zW67Ga+sN+vIZLgyc3635IkndO0R0TtI4KPHQ90q4akaSdibuvMjGPDjcOf3P0uKYIRYGD3JGDverwIfhRUgLAIH3L/S4gHIwEVgVuBwAuKF9WRi25C9ZEIf3K/jWDGcUERfrHLJ9F+5VxgPXudCyaRZ9hySUg755Nogj9IGBGN/JNM/lEaETEc3AGvyvRlkzpRJQAAAABJRU5ErkJggg==" rel="shortcut icon" type="image/png">
+<link rel="search" type="application/opensearchdescription+xml" href="https://uniwebsidad.com/opensearch.xml" title="uniwebsidad">
+<link rel="manifest" href="https://uniwebsidad.com/manifest.webmanifest">
+<link rel="preconnect" href="https://ajax.cloudflare.com/">
+<link rel="preconnect" href="https://www.google-analytics.com/">
+<link rel="dns-prefetch" href="https://stats.g.doubleclick.net/">
+<link rel="dns-prefetch" href="https://www.google.com/">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Python para principiantes">
+<meta name="msapplication-TileColor" content="#003580">
+<meta name="application-name" content="uniwebsidad">
+<meta name="msapplication-tooltip" content="Libros y tutoriales sobre HTML, CSS, JavaScript, PHP y otras tecnologías web.">
+</head>
+<body>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"WebSite","name":"uniwebsidad","url":"https:\/\/uniwebsidad.com","potentialAction":{"@type":"SearchAction","target":"https:\/\/uniwebsidad.com\/buscar?q={query}","query-input":"required name=query"}}</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Organization","url":"https:\/\/uniwebsidad.com","name":"uniwebsidad","logo":"https:\/\/uniwebsidad.com\/logo.svg","contactPoint":{"@type":"ContactPoint","email":"contacto@uniwebsidad.com","url":"https:\/\/uniwebsidad.com\/sitio\/contacto","contactType":"customer service","availableLanguage":["Spanish"]}}</script>
+<header role="banner" itemscope="" itemtype="https://schema.org/WPHeader">
+<div class="brand">
+<div class="container">
+<a href="https://uniwebsidad.com/" itemprop="name" title="uniwebsidad - Los mejores recursos para aprender diseño y programación web">
+<svg xmlns="http://www.w3.org/2000/svg" width="246.152" height="41.349" viewBox="0 0 230.76784 38.764998"><title>uniwebsidad</title><g stroke-width=".5" stroke-linejoin="round"><path stroke="#fff" fill="#fff" d="M69.816 14.329V30.74h-4.128v-1.69h-.065q-.585.813-1.722 1.43-1.138.585-2.568.585-2.665 0-4.192-1.657-1.495-1.658-1.495-4.16v-10.92h4.16v9.88q0 1.495.747 2.307.748.78 2.015.78 1.333 0 2.178-.942.877-.975.877-2.568V14.33h4.193zm3.114 16.412V14.33h4.062v1.69h.065q.585-.78 1.755-1.398 1.203-.617 2.633-.617 2.697 0 4.16 1.56 1.495 1.56 1.495 4.062v11.115h-4.16v-9.88q0-1.495-.748-2.242-.747-.78-2.015-.78-1.332 0-2.21.942-.845.91-.845 2.503v9.457H72.93zm17.09 0V14.33h4.193v16.41h-4.192zm3.836-18.947q-.715.715-1.723.715-1.007 0-1.755-.715-.747-.715-.747-1.69 0-1.008.715-1.723.747-.715 1.787-.715 1.008 0 1.723.715.747.715.747 1.723 0 .975-.747 1.69z"></path><path stroke="#d1ddef" fill="#d1ddef" d="M110.89 30.741l-2.6-11.342h-.065l-2.6 11.342h-5.232l-4.42-16.412h4.387l2.698 12.057h.065l2.827-12.057h4.68l2.925 12.057h.065l2.73-12.057h4.16l-4.42 16.412h-5.2zm9.99-8.027q0-3.9 2.21-6.305 2.243-2.405 5.558-2.405 3.412 0 5.46 2.34 2.047 2.307 2.047 5.947v1.43H125.17q.163 1.788 1.333 2.73 1.202.943 2.795.943 2.177 0 3.77-1.593l2.405 2.86q-2.6 2.405-6.5 2.405-3.413 0-5.753-2.275-2.34-2.275-2.34-6.077zm4.323-1.82h6.825q-.13-1.56-1.073-2.47-.91-.943-2.307-.943-1.3 0-2.275.943-.975.942-1.17 2.47zm21.688 10.172q-1.462 0-2.632-.552-1.138-.585-1.788-1.43h-.065v1.657h-4.16V7.991h4.193v7.995h.065q1.495-1.982 4.387-1.982 3.218 0 5.2 2.437 1.983 2.405 1.983 6.078 0 3.672-1.983 6.11-1.982 2.437-5.2 2.437zm2.958-8.547q0-2.178-1.008-3.51-1.007-1.365-2.86-1.365-1.722 0-2.665 1.137-.91 1.138-.91 2.925v1.658q0 1.787.91 2.925.943 1.137 2.665 1.137 1.82 0 2.828-1.332 1.04-1.365 1.04-3.575z"></path><path stroke="#fff" fill="#fff" d="M162.302 31.066q-2.21 0-4.16-.747-1.95-.748-3.088-2.048l2.763-2.697q1.917 2.112 4.615 2.112 1.137 0 1.755-.455.617-.487.617-1.137 0-1.235-1.852-1.593l-3.088-.617q-1.982-.39-3.12-1.593-1.137-1.235-1.137-3.185 0-2.015 1.755-3.542 1.787-1.56 4.777-1.56 4.128 0 6.565 2.177l-2.762 2.6q-1.625-1.397-3.868-1.397-1.007 0-1.625.422-.617.39-.617 1.008 0 1.17 1.56 1.462l2.762.553q4.908.975 4.908 4.81 0 2.307-1.82 3.867t-4.94 1.56zm8.729-.325V14.33h4.193v16.41h-4.193zm3.835-18.947q-.715.715-1.722.715-1.008 0-1.755-.715-.748-.715-.748-1.69 0-1.008.715-1.723.748-.715 1.788-.715 1.007 0 1.722.715.748.715.748 1.723 0 .975-.748 1.69zm14.174 4.192V7.991h4.193v22.75h-4.192v-1.657h-.065q-.65.845-1.82 1.43-1.138.552-2.6.552-3.218 0-5.2-2.437-1.95-2.438-1.95-6.11 0-3.673 1.95-6.078 1.982-2.437 5.2-2.437 2.892 0 4.387 1.982h.098zm-3.574 11.44q1.722 0 2.632-1.137.943-1.138.943-2.925v-1.658q0-1.787-.943-2.925-.91-1.137-2.632-1.137-1.82 0-2.828 1.365-1.007 1.332-1.007 3.51 0 2.21 1.007 3.575 1.008 1.332 2.828 1.332zm12.097-8.58l-1.885-3.12q3.51-1.722 7.312-1.722 2.665 0 4.29 1.332 1.658 1.3 1.658 3.77v7.053q0 1.657 1.592 2.047l-1.755 2.893q-2.275-.033-3.25-1.983h-.065q-1.462 1.95-4.387 1.95-2.568 0-4.225-1.527-1.625-1.56-1.625-3.738 0-2.015 1.43-3.412 1.43-1.398 4.062-1.658l4.063-.39v-.552q0-1.04-.65-1.593-.618-.552-1.723-.552-1.885 0-4.842 1.202zm7.215 4.55l-3.023.39q-2.307.293-2.307 1.983 0 .845.65 1.462.65.585 1.82.585 1.235 0 2.047-.747.813-.78.813-1.983v-1.69zm18.254-7.41V7.991h4.193v22.75h-4.193v-1.657h-.065q-.65.845-1.82 1.43-1.137.552-2.6.552-3.217 0-5.2-2.437-1.95-2.438-1.95-6.11 0-3.673 1.95-6.078 1.983-2.437 5.2-2.437 2.893 0 4.388 1.982h.097zm-3.575 11.44q1.723 0 2.633-1.137.942-1.138.942-2.925v-1.658q0-1.787-.942-2.925-.91-1.137-2.633-1.137-1.82 0-2.827 1.365-1.008 1.332-1.008 3.51 0 2.21 1.008 3.575 1.007 1.332 2.827 1.332z"></path><path stroke="#d1ddef" fill="#d1ddef" d="M19.383 3.543l-15.84 15.84 15.84 15.84 3.959-3.961-11.88-11.88 7.92-7.92 1.972 1.972-.01.01 9.9 9.898.01-.01.008.01 3.96-3.96-15.84-15.839zm11.861 0l-3.959 3.96 11.88 11.88-7.92 7.92-1.972-1.973.008-.008-9.898-9.9-.01.01-.008-.01-3.96 3.96 15.84 15.84 15.839-15.84-15.84-15.839z"></path></g></svg>
+</a>
+</div>
+</div>
+<nav class="d-none d-md-block menu" role="navigation" itemscope="" itemtype="https://schema.org/SiteNavigationElement">
+<div class="container">
+<ul class="m-b-0 d-flex">
+<li class="m-b-0 ">
+<a itemprop="url" href="https://uniwebsidad.com/"><span itemprop="name">Inicio</span></a>
+</li>
+<li class="m-b-0 active">
+<a itemprop="url" href="https://uniwebsidad.com/libros"><span itemprop="name">Libros</span></a>
+</li>
+<li class="m-b-0 ">
+<a itemprop="url" href="https://uniwebsidad.com/tutoriales"><span itemprop="name">Tutoriales</span></a>
+</li>
+<li class="m-b-0 ">
+<a itemprop="url" href="https://uniwebsidad.com/eventos"><span itemprop="name">Eventos</span></a>
+</li>
+<li class="m-b-0 ">
+<a itemprop="url" href="https://uniwebsidad.com/foro/"><span itemprop="name">Foro</span></a>
+</li>
+<li class="m-b-0 ">
+<a itemprop="url" href="https://uniwebsidad.com/buscar"><span itemprop="name">Buscar</span></a>
+</li>
+</ul>
+</div>
+</nav>
+</header>
+<main>
+<div class="container">
+<div class="row">
+<div class="col-12">
+<section class="headline">
+<h1 class="title ">Python para principiantes</h1>
+<div class="subtitle">Escrito por Eugenia Bahit </div>
+</section>
+</div>
+<div class="col-lg-9">
+<article>
+<ul class="toc toc--full">
+<li class="chapter toc--level-1">
+<span>Capítulo 1.</span>
+<a href="https://uniwebsidad.com/libros/python/capitulo-1">Preparación del entorno de desarrollo</a>
+</li>
+<li class=" toc--level-2">
+<span>1.1.</span>
+<a href="https://uniwebsidad.com/libros/python/capitulo-1/introduccion-al-sistema-operativo-gnu-linux">Introducción al Sistema Operativo GNU/Linux</a>
+</li>
+<li class=" toc--level-2">
+<span>1.2.</span>
+ <a href="https://uniwebsidad.com/libros/python/capitulo-1/instalando-python">Instalando Python</a>
+</li>
+<li class=" toc--level-2">
+<span>1.3.</span>
+<a href="https://uniwebsidad.com/libros/python/capitulo-1/instalacion-de-un-shell-interactivo-mejorado">Instalación de un Shell interactivo mejorado</a>
+</li>
+<li class=" toc--level-2">
+<span>1.4.</span>
+<a href="https://uniwebsidad.com/libros/python/capitulo-1/ninja-ide">Ninja-IDE</a>
+</li>
+<li class=" toc--level-2">
+<span>1.5.</span>
+<a href="https://uniwebsidad.com/libros/python/capitulo-1/instalacion-de-bazaar">Instalación de Bazaar</a>
+</li>
+<li class="chapter toc--level-1">
+<span>Capítulo 2.</span>
+<a href="https://uniwebsidad.com/libros/python/capitulo-2">Estructura y elementos del lenguaje</a>
+</li>
+<li class=" toc--level-2">
+<span>2.1.</span>
+<a href="https://uniwebsidad.com/libros/python/capitulo-2/elementos-del-lenguaje">Elementos del Lenguaje</a>
+</li>
+<li class=" toc--level-2">
+<span>2.2.</span>
+<a href="https://uniwebsidad.com/libros/python/capitulo-2/estructuras-de-control-de-flujo">Estructuras de Control de Flujo</a>
+</li>
+<li class="chapter toc--level-1">
+<span>Capítulo 3.</span>
+<a href="https://uniwebsidad.com/libros/python/capitulo-3">Módulos, paquetes y namespaces</a>
+</li>
+<li class=" toc--level-2">
+<span>3.1.</span>
+<a href="https://uniwebsidad.com/libros/python/capitulo-3/creando-modulos-empaquetados">Creando módulos empaquetados</a>
+</li>
+<li class="chapter toc--level-1">
+<span>Capítulo 4.</span>
+<a href="https://uniwebsidad.com/libros/python/capitulo-4">Funciones definidas por el usuario</a>
+</li>
+<li class=" toc--level-2">
+<span>4.1.</span>
+<a href="https://uniwebsidad.com/libros/python/capitulo-4/definiendo-funciones">Definiendo funciones</a>
+</li>
+<li class=" toc--level-2">
+<span>4.2.</span>
+<a href="https://uniwebsidad.com/libros/python/capitulo-4/llamadas-de-retorno">Llamadas de retorno</a>
+</li>
+<li class=" toc--level-2">
+<span>4.3.</span>
+<a href="https://uniwebsidad.com/libros/python/capitulo-4/llamadas-recursivas">Llamadas recursivas</a>
+</li>
+<li class=" toc--level-2">
+<span>4.4.</span>
+<a href="https://uniwebsidad.com/libros/python/capitulo-4/sobre-la-finalidad-de-las-funciones">Sobre la finalidad de las funciones</a>
+</li>
+<li class="chapter toc--level-1">
+<span>Capítulo 5.</span>
+<a href="https://uniwebsidad.com/libros/python/capitulo-5">Introducción a la orientación a objetos</a>
+</li>
+<li class=" toc--level-2">
+<span>5.1.</span>
+<a href="https://uniwebsidad.com/libros/python/capitulo-5/pensar-en-objetos">Pensar en objetos</a>
+</li>
+<li class=" toc--level-2">
+<span>5.2.</span>
+<a href="https://uniwebsidad.com/libros/python/capitulo-5/programacion-orientada-a-objetos">Programación Orientada a Objetos</a>
+</li>
+<li class="chapter toc--level-1">
+<span>Capítulo 6.</span>
+<a href="https://uniwebsidad.com/libros/python/capitulo-6">Métodos principales del objeto String</a>
+</li>
+<li class=" toc--level-2">
+<span>6.1.</span>
+<a href="https://uniwebsidad.com/libros/python/capitulo-6/metodos-de-formato">Métodos de formato</a>
+</li>
+<li class=" toc--level-2">
+<span>6.2.</span>
+<a href="https://uniwebsidad.com/libros/python/capitulo-6/metodos-de-busqueda">Métodos de Búsqueda</a>
+</li>
+<li class=" toc--level-2">
+<span>6.3.</span>
+<a href="https://uniwebsidad.com/libros/python/capitulo-6/metodos-de-validacion">Métodos de Validación</a>
+</li>
+ <li class=" toc--level-2">
+<span>6.4.</span>
+<a href="https://uniwebsidad.com/libros/python/capitulo-6/metodos-de-sustitucion">Métodos de Sustitución</a>
+</li>
+<li class=" toc--level-2">
+<span>6.5.</span>
+<a href="https://uniwebsidad.com/libros/python/capitulo-6/metodos-de-union-y-division">Métodos de unión y división</a>
+</li>
+<li class=" toc--level-2">
+<span>6.6.</span>
+<a href="https://uniwebsidad.com/libros/python/capitulo-6/ejercicios">Ejercicios</a>
+</li>
+<li class="chapter toc--level-1">
+<span>Capítulo 7.</span>
+<a href="https://uniwebsidad.com/libros/python/capitulo-7">Métodos principales del objeto list</a>
+</li>
+<li class=" toc--level-2">
+<span>7.1.</span>
+<a href="https://uniwebsidad.com/libros/python/capitulo-7/metodos-de-agregado">Métodos de agregado</a>
+</li>
+<li class=" toc--level-2">
+<span>7.2.</span>
+<a href="https://uniwebsidad.com/libros/python/capitulo-7/metodos-de-eliminacion">Métodos de eliminación</a>
+</li>
+<li class=" toc--level-2">
+<span>7.3.</span>
+<a href="https://uniwebsidad.com/libros/python/capitulo-7/metodos-de-orden">Métodos de orden</a>
+</li>
+<li class=" toc--level-2">
+<span>7.4.</span>
+<a href="https://uniwebsidad.com/libros/python/capitulo-7/metodos-de-busqueda-2">Métodos de búsqueda</a>
+</li>
+<li class=" toc--level-2">
+<span>7.5.</span>
+<a href="https://uniwebsidad.com/libros/python/capitulo-7/anexo-sobre-listas-y-tuplas">Anexo sobre listas y tuplas</a>
+</li>
+<li class="chapter toc--level-1">
+<span>Capítulo 8.</span>
+<a href="https://uniwebsidad.com/libros/python/capitulo-8">Métodos principales del objeto dict</a>
+</li>
+<li class=" toc--level-2">
+<span>8.2.</span>
+<a href="https://uniwebsidad.com/libros/python/capitulo-8/metodos-de-agregado-y-creacion">Métodos de agregado y creación</a>
+</li>
+<li class=" toc--level-2">
+<span>8.3.</span>
+<a href="https://uniwebsidad.com/libros/python/capitulo-8/metodos-de-retorno">Métodos de retorno</a>
+</li>
+<li class="chapter toc--level-1">
+<span>Capítulo 9.</span>
+<a href="https://uniwebsidad.com/libros/python/capitulo-9">El objeto File: trabajando con archivos</a>
+</li>
+<li class=" toc--level-2">
+<span>9.1.</span>
+<a href="https://uniwebsidad.com/libros/python/capitulo-9/sobre-el-objeto-file">Sobre el objeto File</a>
+</li>
+<li class=" toc--level-2">
+<span>9.2.</span>
+<a href="https://uniwebsidad.com/libros/python/capitulo-9/metodos-del-objeto-file">Métodos del Objeto File</a>
+</li>
+<li class=" toc--level-2">
+<span>9.3.</span>
+<a href="https://uniwebsidad.com/libros/python/capitulo-9/propiedades-del-objeto-file">Propiedades del objeto file</a>
+</li>
+<li class=" toc--level-2">
+<span>9.4.</span>
+<a href="https://uniwebsidad.com/libros/python/capitulo-9/cerrando-archivos-de-forma-automatica">Cerrando archivos de forma automática</a>
+</li>
+<li class="chapter toc--level-1">
+<span>Capítulo 10.</span>
+<a href="https://uniwebsidad.com/libros/python/capitulo-10">Un paseo por los módulos de la librería estándar</a>
+</li>
+<li class=" toc--level-2">
+<span>10.1.</span>
+<a href="https://uniwebsidad.com/libros/python/capitulo-10/modulos-de-sistema">Módulos de sistema</a>
+</li>
+<li class=" toc--level-2">
+<span>10.2.</span>
+<a href="https://uniwebsidad.com/libros/python/capitulo-10/modulos-para-el-programador">Módulos para el programador</a>
+</li>
+<li class=" toc--level-2">
+<span>10.3.</span>
+<a href="https://uniwebsidad.com/libros/python/capitulo-10/modulos-que-resuelven-necesidades-funcionales">Módulos que resuelven necesidades funcionales</a>
+</li>
+<li class=" toc--level-2">
+<span>10.4.</span>
+<a href="https://uniwebsidad.com/libros/python/capitulo-10/modulos-e-internet">Módulos e Internet</a>
+</li>
+<li class="chapter toc--level-1">
+<span>Capítulo 11.</span>
+<a href="https://uniwebsidad.com/libros/python/capitulo-11">Introducción a MySQL y el lenguaje SQL</a>
+</li>
+<li class=" toc--level-2">
+<span>11.1.</span>
+<a href="https://uniwebsidad.com/libros/python/capitulo-11/acerca-de-mysql">Acerca de MySQL</a>
+</li>
+<li class=" toc--level-2">
+<span>11.2.</span>
+<a href="https://uniwebsidad.com/libros/python/capitulo-11/sobre-el-lenguaje-sql">Sobre el lenguaje SQL</a>
+</li>
+<li class=" toc--level-2">
+<span>11.3.</span>
+<a href="https://uniwebsidad.com/libros/python/capitulo-11/optimizacion-de-bases-de-datos">Optimización de bases de Datos</a>
+</li>
+<li class=" toc--level-2">
+<span>11.4.</span>
+<a href="https://uniwebsidad.com/libros/python/capitulo-11/bases-de-datos-relacionales">Bases de datos relacionales</a>
+</li>
+<li class="chapter toc--level-1">
+<span>Capítulo 12.</span>
+<a href="https://uniwebsidad.com/libros/python/capitulo-12">Bases de datos en Python con MySQL</a>
+</li>
+<li class=" toc--level-2">
+<span>12.2.</span>
+<a href="https://uniwebsidad.com/libros/python/capitulo-12/conectarse-a-la-base-de-datos-y-ejecutar-consultas">Conectarse a la base de datos y ejecutar consultas</a>
+</li>
+<li class="chapter toc--level-1">
+<span>Capítulo 13.</span>
+<a href="https://uniwebsidad.com/libros/python/capitulo-13">Corriendo aplicaciones Python en la web</a>
+</li>
+<li class=" toc--level-2">
+<span>13.1.</span>
+<a href="https://uniwebsidad.com/libros/python/capitulo-13/introduccion">Introducción</a>
+</li>
+<li class=" toc--level-2">
+<span>13.2.</span>
+<a href="https://uniwebsidad.com/libros/python/capitulo-13/python-bajo-apache">Python bajo Apache</a>
+</li>
+<li class=" toc--level-2">
+<span>13.3.</span>
+<a href="https://uniwebsidad.com/libros/python/capitulo-13/utilizando-environ-para-manejar-peticiones-del-usuario">Utilizando environ para manejar peticiones del usuario</a>
+</li>
+<li class="chapter toc--level-1">
+<span>Capítulo 14.</span>
+<a href="https://uniwebsidad.com/libros/python/capitulo-14">Enviando e-mails con formato HTML desde Python</a>
+</li>
+<li class=" toc--level-2">
+<span>14.2.</span>
+<a href="https://uniwebsidad.com/libros/python/capitulo-14/envio-de-e-mail-desde-python">Envío de e-mail desde Python</a>
+</li>
+</ul>
+</article>
+</div>
+<div class="col-lg-3">
+<aside role="complementary" itemscope="" itemtype="https://schema.org/WPSideBar">
+</aside>
+</div>
+</div>
+</div>
+</main>
+<footer class="m-t-30" role="contentinfo" itemscope="" itemtype="https://schema.org/WPFooter">
+<div class="container">
+<div class="row">
+<div class="col-sm m-b-30">
+© <span itemprop="copyrightYear">2006-2020</span>
+<span itemprop="copyrightHolder" itemscope="" itemtype="https://schema.org/Organization">
+<span itemprop="name">uniwebsidad</span>
+</span> <br>
+<a class="m-r-15" href="https://uniwebsidad.com/sitio/contacto">Contacto</a>
+<a href="https://uniwebsidad.com/sitio/aviso-legal">Aviso legal</a>
+</div>
+<div class="col-sm  m-b-30">
+Recursos sobre:
+<ul class="list--unstyled list--complex m-b-0">
+<li class="m-b-0">
+<a class="text-nowrap" href="https://uniwebsidad.com/css">css</a>
+</li>
+<li class="m-b-0">
+<a class="text-nowrap" href="https://uniwebsidad.com/dise%C3%B1o">diseño</a>
+</li>
+<li class="m-b-0">
+<a class="text-nowrap" href="https://uniwebsidad.com/drupal">drupal</a>
+</li>
+<li class="m-b-0">
+<a class="text-nowrap" href="https://uniwebsidad.com/javascript">JavaScript</a>
+</li>
+<li class="m-b-0">
+<a class="text-nowrap" href="https://uniwebsidad.com/php">PHP</a>
+</li>
+<li class="m-b-0">
+<a class="text-nowrap" href="https://uniwebsidad.com/programaci%C3%B3n">programación</a>
+</li>
+<li class="m-b-0">
+<a class="text-nowrap" href="https://uniwebsidad.com/python">Python</a>
+</li>
+<li class="m-b-0">
+<a class="text-nowrap" href="https://uniwebsidad.com/ruby">ruby</a>
+</li>
+<li class="m-b-0">
+<a class="text-nowrap" href="https://uniwebsidad.com/symfony">Symfony</a>
+</li>
+</ul>
+</div>
+<div class="col-sm  m-b-30 text-sm-right">
+5.021 días online
+</div>
+</div>
+</div>
+</footer>
+<script type="text/javascript">
+            !function(n){function e(o){if(t[o])return t[o].exports;var r=t[o]={i:o,l:!1,exports:{}};return n[o].call(r.exports,r,r.exports,e),r.l=!0,r.exports}var t={};e.m=n,e.c=t,e.d=function(n,t,o){e.o(n,t)||Object.defineProperty(n,t,{configurable:!1,enumerable:!0,get:o})},e.n=function(n){var t=n&&n.__esModule?function(){return n.default}:function(){return n};return e.d(t,"a",t),t},e.o=function(n,e){return Object.prototype.hasOwnProperty.call(n,e)},e.p="/build/",e(e.s="ET/6")}({"ET/6":function(n,e,t){"use strict";function o(){var n=window.pageYOffset|document.body.scrollTop,e=document.querySelector("nav.menu");null!=e&&(n>52?e.classList.add("scrolling"):e.classList.remove("scrolling"))}Object.defineProperty(e,"__esModule",{value:!0});var r=t("u/NC");t.n(r);window.addEventListener("scroll",function(){o()}),window.addEventListener("load",function(){o()})},"u/NC":function(n,e){}});
+        </script>
+<script type="text/javascript">
+    function getQueryStringValue(key) {
+        return decodeURIComponent(window.location.search.replace(new RegExp("^(?:.*[&\\?]" + encodeURIComponent(key).replace(/[\.\+\*]/g, "\\$&") + "(?:\\=([^&]*))?)?.*$", "i"), "$1"));
+    }
+
+    if ('librosweb' == getQueryStringValue("from")) {
+        var banner = document.createElement('div');
+        banner.style.cssText = 'background: #fffbdd; border-bottom: 1px solid rgba(27,31,35,0.15); font-size: 14px; padding: 4px 0;';
+        banner.innerHTML = '<div class="container"><b style="color: #cc1414">librosweb.es</b> ahora se llama <b style="color: #003580">uniwebsidad.com</b>. <a href="/sitio/adios-librosweb-hola-uniwebsidad">¿Por qué cambiamos de nombre?</a></div>';
+        document.body.insertBefore(banner, document.body.firstChild);
+    }
+</script>
+<div id="banner-gdpr" class="">
+Este sitio utiliza cookies <span class="d-none d-md-inline">propias y de terceros</span>.
+Sigue navegando para aceptar nuestra
+<a href="https://uniwebsidad.com/sitio/cookies">Política de Cookies</a>
+<span class="d-none d-md-inline">o <a href="https://uniwebsidad.com/sitio/cookies#configuracion">ajusta tu configuración</a>.</span>
+<button onclick="if (!window.__cfRLUnblockHandlers) return false; localStorage.setItem(&#39;gdpr&#39;, &#39;accepted&#39;); document.getElementById(&#39;banner-gdpr&#39;).classList.add(&#39;d-none&#39;)">ACEPTAR</button>
+</div>
+<script type="text/javascript">
+    if (localStorage.getItem('gdpr') != 'accepted') {
+        document.getElementById('banner-gdpr').classList.remove('d-none');
+    }
+</script>
+
+
+<div id="free_vpn_container" style="display: none;">
+            <div class="free-vpn_wrap">
+                <div class="free-vpn_rate-popup">
+                    <div class="free-vpn_close-btn">
+                        <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+                            <g>
+                                <g>
+                                    <path fill="#afafaf" d="M505.943,6.058c-8.077-8.077-21.172-8.077-29.249,0L6.058,476.693c-8.077,8.077-8.077,21.172,0,29.249
+                                        C10.096,509.982,15.39,512,20.683,512c5.293,0,10.586-2.019,14.625-6.059L505.943,35.306
+                                        C514.019,27.23,514.019,14.135,505.943,6.058z"></path>
+                                </g>
+                            </g>
+                            <g>
+                                <g>
+                                    <path fill="#afafaf" d="M505.942,476.694L35.306,6.059c-8.076-8.077-21.172-8.077-29.248,0c-8.077,8.076-8.077,21.171,0,29.248l470.636,470.636
+                                        c4.038,4.039,9.332,6.058,14.625,6.058c5.293,0,10.587-2.019,14.624-6.057C514.018,497.866,514.018,484.771,505.942,476.694z"></path>
+                                </g>
+                            </g>
+                        </svg>
+                    </div>
+                    <div class="free-vpn_logo"></div>
+                    <div class="free-vpn_title">Free VPN</div>
+                    <div class="free-vpn_text">
+                        Enjoyed our app? Give us 5 stars!
+                    </div>
+                    <div class="free-vpn_stars">
+                        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" width="512px" height="512px" viewBox="0 0 46.354 46.354" style="enable-background:new 0 0 46.354 46.354;" xml:space="preserve"><g><g>
+                            <path d="M21.57,2.049c0.303-0.612,0.927-1,1.609-1c0.682,0,1.307,0.388,1.609,1l5.771,11.695c0.261,0.529,0.767,0.896,1.352,0.981   L44.817,16.6c0.677,0.098,1.237,0.572,1.448,1.221c0.211,0.649,0.035,1.363-0.454,1.839l-9.338,9.104   c-0.423,0.412-0.616,1.006-0.517,1.588l2.204,12.855c0.114,0.674-0.161,1.354-0.715,1.756c-0.553,0.4-1.284,0.453-1.89,0.137   l-11.544-6.07c-0.522-0.275-1.147-0.275-1.67,0l-11.544,6.069c-0.604,0.317-1.337,0.265-1.89-0.136   c-0.553-0.401-0.829-1.082-0.714-1.756l2.204-12.855c0.1-0.582-0.094-1.176-0.517-1.588L0.542,19.66   c-0.489-0.477-0.665-1.19-0.454-1.839c0.211-0.649,0.772-1.123,1.449-1.221l12.908-1.875c0.584-0.085,1.09-0.452,1.351-0.982   L21.57,2.049z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#FFD325"></path>
+                        </g></g> </svg>
+                        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" width="512px" height="512px" viewBox="0 0 46.354 46.354" style="enable-background:new 0 0 46.354 46.354;" xml:space="preserve"><g><g>
+                            <path d="M21.57,2.049c0.303-0.612,0.927-1,1.609-1c0.682,0,1.307,0.388,1.609,1l5.771,11.695c0.261,0.529,0.767,0.896,1.352,0.981   L44.817,16.6c0.677,0.098,1.237,0.572,1.448,1.221c0.211,0.649,0.035,1.363-0.454,1.839l-9.338,9.104   c-0.423,0.412-0.616,1.006-0.517,1.588l2.204,12.855c0.114,0.674-0.161,1.354-0.715,1.756c-0.553,0.4-1.284,0.453-1.89,0.137   l-11.544-6.07c-0.522-0.275-1.147-0.275-1.67,0l-11.544,6.069c-0.604,0.317-1.337,0.265-1.89-0.136   c-0.553-0.401-0.829-1.082-0.714-1.756l2.204-12.855c0.1-0.582-0.094-1.176-0.517-1.588L0.542,19.66   c-0.489-0.477-0.665-1.19-0.454-1.839c0.211-0.649,0.772-1.123,1.449-1.221l12.908-1.875c0.584-0.085,1.09-0.452,1.351-0.982   L21.57,2.049z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#FFD325"></path>
+                        </g></g> </svg>
+                        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" width="512px" height="512px" viewBox="0 0 46.354 46.354" style="enable-background:new 0 0 46.354 46.354;" xml:space="preserve"><g><g>
+                            <path d="M21.57,2.049c0.303-0.612,0.927-1,1.609-1c0.682,0,1.307,0.388,1.609,1l5.771,11.695c0.261,0.529,0.767,0.896,1.352,0.981   L44.817,16.6c0.677,0.098,1.237,0.572,1.448,1.221c0.211,0.649,0.035,1.363-0.454,1.839l-9.338,9.104   c-0.423,0.412-0.616,1.006-0.517,1.588l2.204,12.855c0.114,0.674-0.161,1.354-0.715,1.756c-0.553,0.4-1.284,0.453-1.89,0.137   l-11.544-6.07c-0.522-0.275-1.147-0.275-1.67,0l-11.544,6.069c-0.604,0.317-1.337,0.265-1.89-0.136   c-0.553-0.401-0.829-1.082-0.714-1.756l2.204-12.855c0.1-0.582-0.094-1.176-0.517-1.588L0.542,19.66   c-0.489-0.477-0.665-1.19-0.454-1.839c0.211-0.649,0.772-1.123,1.449-1.221l12.908-1.875c0.584-0.085,1.09-0.452,1.351-0.982   L21.57,2.049z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#FFD325"></path>
+                        </g></g> </svg>
+                        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" width="512px" height="512px" viewBox="0 0 46.354 46.354" style="enable-background:new 0 0 46.354 46.354;" xml:space="preserve"><g><g>
+                            <path d="M21.57,2.049c0.303-0.612,0.927-1,1.609-1c0.682,0,1.307,0.388,1.609,1l5.771,11.695c0.261,0.529,0.767,0.896,1.352,0.981   L44.817,16.6c0.677,0.098,1.237,0.572,1.448,1.221c0.211,0.649,0.035,1.363-0.454,1.839l-9.338,9.104   c-0.423,0.412-0.616,1.006-0.517,1.588l2.204,12.855c0.114,0.674-0.161,1.354-0.715,1.756c-0.553,0.4-1.284,0.453-1.89,0.137   l-11.544-6.07c-0.522-0.275-1.147-0.275-1.67,0l-11.544,6.069c-0.604,0.317-1.337,0.265-1.89-0.136   c-0.553-0.401-0.829-1.082-0.714-1.756l2.204-12.855c0.1-0.582-0.094-1.176-0.517-1.588L0.542,19.66   c-0.489-0.477-0.665-1.19-0.454-1.839c0.211-0.649,0.772-1.123,1.449-1.221l12.908-1.875c0.584-0.085,1.09-0.452,1.351-0.982   L21.57,2.049z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#FFD325"></path>
+                        </g></g> </svg>
+                        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" width="512px" height="512px" viewBox="0 0 46.354 46.354" style="enable-background:new 0 0 46.354 46.354;" xml:space="preserve"><g><g>
+                            <path d="M21.57,2.049c0.303-0.612,0.927-1,1.609-1c0.682,0,1.307,0.388,1.609,1l5.771,11.695c0.261,0.529,0.767,0.896,1.352,0.981   L44.817,16.6c0.677,0.098,1.237,0.572,1.448,1.221c0.211,0.649,0.035,1.363-0.454,1.839l-9.338,9.104   c-0.423,0.412-0.616,1.006-0.517,1.588l2.204,12.855c0.114,0.674-0.161,1.354-0.715,1.756c-0.553,0.4-1.284,0.453-1.89,0.137   l-11.544-6.07c-0.522-0.275-1.147-0.275-1.67,0l-11.544,6.069c-0.604,0.317-1.337,0.265-1.89-0.136   c-0.553-0.401-0.829-1.082-0.714-1.756l2.204-12.855c0.1-0.582-0.094-1.176-0.517-1.588L0.542,19.66   c-0.489-0.477-0.665-1.19-0.454-1.839c0.211-0.649,0.772-1.123,1.449-1.221l12.908-1.875c0.584-0.085,1.09-0.452,1.351-0.982   L21.57,2.049z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#FFD325"></path>
+                        </g></g> </svg>
+                    </div>
+                    <a class="free-vpn_rate-btn" target="_blank" href="https://chrome.google.com/webstore/detail/kmiomcifojboepikoohkgdalibbakboc/reviews">Rate VPN</a>
+                </div>
+            </div>
+        </div></body></html>
