@@ -13,7 +13,8 @@
 
 from tkinter import *
 from tkinter.ttk import Scale
-from tkinter import colorchooser
+from tkinter import colorchooser, filedialog, messagebox
+import PIL.ImageGrab as ImageGrab
 
 class Paint():
     def __init__(self, root):
@@ -24,7 +25,8 @@ class Paint():
         self.root.resizable(0,0)
 
         # imp thing
-        self.pen_color = 'black'
+        self.pen_color = "black"
+        self.eraser_color = "white"
 
 
 
@@ -44,10 +46,10 @@ class Paint():
         self.eraser_button = Button(self.root, text="ERASER", bd=4, bg="white", command=self.eraser, width=8, relief=RIDGE)
         self.eraser_button.place(x=0, y=187)
 
-        self.clear_button = Button(self.root, text="Clear", bd=4, bg="white", command=None, width=8, relief=RIDGE)
+        self.clear_button = Button(self.root, text="Clear", bd=4, bg="white", command=lambda : self.canvas.delete("all"), width=8, relief=RIDGE)
         self.clear_button.place(x=0, y=217)
 
-        self.save_button = Button(self.root, text="Save", bd=4, bg="white", command=None, width=8, relief=RIDGE)
+        self.save_button = Button(self.root, text="Save", bd=4, bg="white", command=self.save_paint, width=8, relief=RIDGE)
         self.save_button.place(x=0, y=247)
 
         self.canvas_color_button = Button(self.root, text="Canvas", bd=4, bg="white", command=self.canvas_color, width=8, relief=RIDGE)
@@ -80,11 +82,36 @@ class Paint():
         self.pen_color = col
 
     def eraser(self):
-        self.pen_color ="white"
+        self.pen_color = self.eraser_color
 
     def canvas_color(self):
         color = colorchooser.askcolor()
         self.canvas.config(background=color[1])
+        self.eraser_color = color[1]
+
+    def save_paint(self):
+        try:
+            filename = filedialog.asksaveasfilename(defaultextension = ".jpg")
+            print(filename)
+            x = self.root.winfo_rootx() + self.canvas.winfo_x() 
+            print(x, self.canvas.winfo_x()) 
+            y = self.root.winfo_rooty() + self.canvas.winfo_y()
+            print(y)
+            x1 = x + self.canvas.winfo_width()
+            print(x1)
+            y1 = y + self.canvas.winfo_height()
+            print(y1)
+            ImageGrab.grab().crop((x, y, x1, y1)).save(filename)
+            messagebox.showinfo('paint says', 'image is saved as' + str(filename))
+
+        except:
+            print("Not saved somo thing want wrong")
+
+
+
+
+
+
 
 
 if __name__=="__main__":
