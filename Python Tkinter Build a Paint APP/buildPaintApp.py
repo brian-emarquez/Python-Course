@@ -30,7 +30,7 @@ class Paint():
                 i=0
                 j=1
 
-        self.eraser_button = Button(self.root, text="ERASER", bd=4, bg="white", command=None, width=8, relief=RIDGE)
+        self.eraser_button = Button(self.root, text="ERASER", bd=4, bg="white", command=self.eraser, width=8, relief=RIDGE)
         self.eraser_button.place(x=0, y=187)
 
         self.clear_button = Button(self.root, text="Clear", bd=4, bg="white", command=None, width=8, relief=RIDGE)
@@ -67,6 +67,9 @@ class Paint():
 
     def select_color(self, col):
         self.pen_color = col
+
+    def eraser(self):
+        self.pen_color ="white"
 
 
 if __name__=="__main__":
