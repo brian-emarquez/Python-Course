@@ -2,13 +2,13 @@
 # Python Tkinter crea una aplicación de pintura
 
 from tkinter import *
-import time
+from tkinter.ttk import Scale
 
 class Paint():
     def __init__(self, root):
         self.root = root
-        self.root.title("Paint")
-        self.root.geometry("500x500")
+        self.root.title("Paint in Python")
+        self.root.geometry("800x520")
         self.root.configure(background="white")
         self.root.resizable(0,0)
 
@@ -35,7 +35,20 @@ class Paint():
         self.save_button.place(x=0, y=247)
 
         self.canvas_color_button = Button(self.root, text="Canvas", bd=4, bg="white", command=None, width=8, relief=RIDGE)
-        self.canvas_color_button.place(x=0, y=227)
+        self.canvas_color_button.place(x=0, y=277)
+
+        # creating a scale for pen and araser size..
+
+        self.pen_size_scale_frame = LabelFrame(self.root, text="size", bd=5, bg="white", font=('arial', 15, 'bold'), relief=RIDGE)
+        self.pen_size_scale_frame.place(x=0, y=310, height=200, width=70)
+
+        self.pen_size = Scale(self.pen_size_scale_frame, orient=VERTICAL, from_ = 50,  to = 0, length=170)
+        self.pen_size.set(1)
+        self.pen_size.grid(row=0, column=1, padx=15)
+
+        # creating canvas
+        self.canvas = Canvas (self.root, bg='white', bd=5, relief=GROOVE, height=500, width=700)
+        self.canvas.place(x=80, y=0)
 
 
 if __name__=="__main__":
