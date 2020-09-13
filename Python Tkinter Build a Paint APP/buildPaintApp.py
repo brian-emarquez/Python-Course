@@ -1,8 +1,19 @@
-# Python Tkinter Build a Paint APP
+#--------------------------------------------------------#
+#  Python Tkinter Build a Paint APP
 # Python Tkinter crea una aplicación de pintura
+
+# 1 bind and draw
+# 2 select color
+# 3 erase
+# 4 canvas color
+# 5 clear canvas
+# 6 save image
+
+#--------------------------------------------------------#
 
 from tkinter import *
 from tkinter.ttk import Scale
+from tkinter import colorchooser
 
 class Paint():
     def __init__(self, root):
@@ -39,7 +50,7 @@ class Paint():
         self.save_button = Button(self.root, text="Save", bd=4, bg="white", command=None, width=8, relief=RIDGE)
         self.save_button.place(x=0, y=247)
 
-        self.canvas_color_button = Button(self.root, text="Canvas", bd=4, bg="white", command=None, width=8, relief=RIDGE)
+        self.canvas_color_button = Button(self.root, text="Canvas", bd=4, bg="white", command=self.canvas_color, width=8, relief=RIDGE)
         self.canvas_color_button.place(x=0, y=277)
 
         # creating a scale for pen and araser size..
@@ -70,6 +81,10 @@ class Paint():
 
     def eraser(self):
         self.pen_color ="white"
+
+    def canvas_color(self):
+        color = colorchooser.askcolor()
+        self.canvas.config(background=color[1])
 
 
 if __name__=="__main__":
