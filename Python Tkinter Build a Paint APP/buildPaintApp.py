@@ -43,16 +43,16 @@ class Paint():
                 i=0
                 j=1
 
-        self.eraser_button = Button(self.root, text="ERASER", bd=4, bg="white", command=self.eraser, width=8, relief=RIDGE)
+        self.eraser_button = Button(self.root, text="Borrador", bd=4, bg="white", command=self.eraser, width=8, relief=RIDGE)
         self.eraser_button.place(x=0, y=187)
 
-        self.clear_button = Button(self.root, text="Clear", bd=4, bg="white", command=lambda : self.canvas.delete("all"), width=8, relief=RIDGE)
+        self.clear_button = Button(self.root, text="Limpiar", bd=4, bg="white", command=lambda : self.canvas.delete("all"), width=8, relief=RIDGE)
         self.clear_button.place(x=0, y=217)
 
-        self.save_button = Button(self.root, text="Save", bd=4, bg="white", command=self.save_paint, width=8, relief=RIDGE)
+        self.save_button = Button(self.root, text="Guardar", bd=4, bg="white", command=self.save_paint, width=8, relief=RIDGE)
         self.save_button.place(x=0, y=247)
 
-        self.canvas_color_button = Button(self.root, text="Canvas", bd=4, bg="white", command=self.canvas_color, width=8, relief=RIDGE)
+        self.canvas_color_button = Button(self.root, text="Lienzo", bd=4, bg="white", command=self.canvas_color, width=8, relief=RIDGE)
         self.canvas_color_button.place(x=0, y=277)
 
         # creating a scale for pen and araser size..
@@ -106,13 +106,6 @@ class Paint():
 
         except:
             print("Not saved somo thing want wrong")
-
-
-
-
-
-
-
 
 if __name__=="__main__":
     root = Tk()
