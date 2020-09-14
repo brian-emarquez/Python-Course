@@ -1,4 +1,4 @@
-# Pyhton Tkinter Get Height and Width
+# Python Tkinter Word Jumble Game
 # Pyhton Tkinter Obtener altura y ancho
 
 from tkinter import *
@@ -6,8 +6,8 @@ from random import choice
 from random import shuffle
 
 root = Tk()
-root.title('Pyhton Tkinter Get Height and Width')
-root.iconbitmap('Pyhton Tkinter Get Height and Width/liam.ico')
+root.title('Python Tkinter Word Jumble Game')
+root.iconbitmap('Python Tkinter Word Jumble Game/liam.ico')
 root.geometry("600x400+-50+50") 
 
 my_label = Label(root, text="", font=("Helvetica", 48))
