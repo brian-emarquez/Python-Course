@@ -147,13 +147,13 @@ _Instalar Pip Riview_
 pip install pip-review
 ```
 
-_Actualisar todos lo Paquetes_
+_Actualizar todos lo Paquetes_
 
 ```
 pip-review --local --interactive
 ```
 
-_Installar Pygame_
+_Instalar Pygame_
 
 ```
 pip install pygame
