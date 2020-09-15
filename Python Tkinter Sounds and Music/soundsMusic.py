@@ -1,6 +1,9 @@
 # Python Tkinter Sounds and Music
 # Sonidos y música de Python Tkinter
 
+# pip install pygame
+
+
 from tkinter import *
 from random import choice
 from random import shuffle
