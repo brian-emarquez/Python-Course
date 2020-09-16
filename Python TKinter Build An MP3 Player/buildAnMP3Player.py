@@ -1,6 +1,8 @@
 # Python TKinter Build An MP3 Player
 # Python TKinter construye un reproductor MP3 
 
+# pip install pygame
+
 from tkinter import *
 import pygame
 
@@ -17,7 +19,7 @@ song_box = Listbox(root, bg="black", fg="green", width=60)
 song_box.pack(pady=20)
 
 # Define Button Images For Controls
-back_btn_img = PhotoImage(file='Python TKinter Build An MP3 Player/images/1.png')
+back_btn_img = PhotoImage(file='Python TKinter Build An MP3 Player/images/back50.png')
 forward_btn_img = PhotoImage(file='Python TKinter Build An MP3 Player/images/forward50.png')
 play_btn_img = PhotoImage(file='Python TKinter Build An MP3 Player/images/play50.png')
 pause_btn_img = PhotoImage(file='Python TKinter Build An MP3 Player/images/pause50.png')
