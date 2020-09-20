@@ -7,7 +7,7 @@ import tkinter.ttk as ttk
 
 root = Tk()
 
-root.title("MP3 Player")
+root.title("Reproductor MP3")
 root.geometry("500x400")
 
 # Initialize Pygame
@@ -27,7 +27,7 @@ def play_time():
 
 	# Reconstruct song with directory structure stuff
 	song = playlist_box.get(ACTIVE)
-	song = f'Python TKinter Build An MP3 Player/audio/{song}.mp3'
+	song = f'C:/mp3/audio/{song}.mp3'
 
 	# Find Current Song Length
 	song_mut = MP3(song)
@@ -80,7 +80,7 @@ def add_many_songs():
 	# Loop thru song list and replace directory structure and mp3 from song name
 	for song in songs:
 		# Strip out directory structure and .mp3 from song title
-		song = song.replace("C:/mp3/audio/", "")
+		song = song.replace("c", "")
 		song = song.replace(".mp3", "")
 		# Add To End of Playlist
 		playlist_box.insert(END, song)
@@ -103,8 +103,7 @@ def play():
 
 	# Reconstruct song with directory structure stuff
 	song = playlist_box.get(ACTIVE)
-	song = f'Python TKinter Build An MP3 Player/audio/{song}.mp3'
-	
+	song = f'C:/mp3/audio/{song}.mp3'	
 	#Load song with pygame mixer
 	pygame.mixer.music.load(song)
 	#Play song with pygame mixer
