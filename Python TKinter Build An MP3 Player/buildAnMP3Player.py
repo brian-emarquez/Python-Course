@@ -27,7 +27,7 @@ def play_time():
 
 	# Reconstruct song with directory structure stuff
 	song = playlist_box.get(ACTIVE)
-	song = f'C:/mp3/audio/{song}.mp3'
+	song = f'Python TKinter Build An MP3 Player/audio/{song}.mp3'
 
 	# Find Current Song Length
 	song_mut = MP3(song)
@@ -103,7 +103,7 @@ def play():
 
 	# Reconstruct song with directory structure stuff
 	song = playlist_box.get(ACTIVE)
-	song = f'C:/mp3/audio/{song}.mp3'
+	song = f'Python TKinter Build An MP3 Player/audio/{song}.mp3'
 	
 	#Load song with pygame mixer
 	pygame.mixer.music.load(song)
