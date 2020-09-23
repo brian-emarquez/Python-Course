@@ -18,23 +18,22 @@ my_canvas = Canvas(main_frame)
 my_canvas.pack(side=LEFT, fill=BOTH, expand=1)
 
 # add A Scrollbar To the canvas
-my_scrollbar = ttk.ScrollBar(main_frame, orient=VERTICAL, command=my_canvas.yview)
-my_scrollbar.apck(side=RIGHT, fill=Y)
+my_scrollbar = ttk.Scrollbar(main_frame, orient=VERTICAL, command=my_canvas.yview)
+my_scrollbar.pack(side=RIGHT, fill=Y)
 
 #  Configure The canvas
-my_canvas.configure(yscrollcommand=my_canvas.yview)
-my_canvas.bind('<Configure>', lambda e: my_canvas.configure(Scrollbarregion = my_canvas.bbox("all")))
+my_canvas.configure(yscrollcommand=my_scrollbar.set)
+my_canvas.bind('<Configure>', lambda e: my_canvas.configure(scrollregion = my_canvas.bbox("all")))
 
-# Create ANOTHER frame INISE th canvas
+# Create ANOTHER frame INISE th canvas 
 second_frame = Frame(my_canvas)
 
 # add that New frame to a window In Th Canvas
 my_canvas.create_window((0,0), window=second_frame, anchor="nw")
 
-
 for thing in range(100):
-    Button(root, text=f'Button {thing} Yo!').grid(row=thing, column=0, pady=10, padx=10)
-
-
+    Button(second_frame, text=f'Button {thing} Yo!').grid(row=thing, column=0, pady=10, padx=10)
+    
+my_label = Label(second_frame, text="It's Friday Yo!").grid(row=4, column=2)
 
 root.mainloop()
