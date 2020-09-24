@@ -1,13 +1,13 @@
-# Python Tkinter Read and Write to Text Files
-# Python Tkinter leer y escribir en archivos de texto
+# Python Tkinter  Add Images to Text Box
+# Python Tkinter Agregar imágenes al cuadro de texto
 
 from tkinter import *
 from tkinter import filedialog
 
 root = Tk()
 
-root.title('Python Tkinter Read and Write to Text Files')
-root.iconbitmap('Python Tkinter Text-Box/panda.ico')
+root.title('Python Tkinter  Add Images to Text Box')
+root.iconbitmap('Python Tkinter  Add Images to Text Box/panda.ico')
 root.geometry("600x700")
 
 # Read Only r
