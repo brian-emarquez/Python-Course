@@ -1,4 +1,4 @@
-# Python Tkinter Build A text Editor III - Open and Save as Files
+# Python Tkinter Build A text Editor III - Saves Files
 # Python Tkinter Build A editor de texto
 
 from tkinter import *
