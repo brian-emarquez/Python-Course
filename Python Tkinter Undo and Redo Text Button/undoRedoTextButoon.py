@@ -6,8 +6,8 @@ from tkinter import filedialog
 from tkinter import font
 
 root = Tk()
-root.title('Python Tkinter Undo and Redo Text Button)
-root.iconbitmap('Python Tkinter Undo and Redo Text Buttont/icons/panda.ico')
+root.title('Python Tkinter Undo and Redo Text Button')
+root.iconbitmap('Python Tkinter Undo and Redo Text Button/icons/panda.ico')
 root.geometry("600x600")
 
 # Read Only r
