@@ -43,6 +43,7 @@ edit_menu = Menu(my_menu, tearoff=False)
 my_menu.add_cascade(label="Edit", menu=edit_menu)
 edit_menu.add_command(label="Cut")
 edit_menu.add_command(label="Copy")
+edit_menu.add_command(label="Paste")
 edit_menu.add_command(label="Undo")
 edit_menu.add_command(label="Redo")
 
