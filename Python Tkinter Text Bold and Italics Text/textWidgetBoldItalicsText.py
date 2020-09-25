@@ -59,6 +59,7 @@ def bolder():
 
 
 def italics_it():
+    
     italic_font = font.Font(my_text, my_text.cget("font"))
     italic_font.configure(slant="italic")
 
