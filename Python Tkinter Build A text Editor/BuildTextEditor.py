@@ -30,20 +30,24 @@ my_menu = Menu(root)
 root.config(menu=my_menu)
 
 #A Add File Menu
-file_menu = Menu(my_menu)
+file_menu = Menu(my_menu, tearoff=False)
 my_menu.add_cascade(label="File", menu=file_menu)
 file_menu.add_command(label="New")
 file_menu.add_command(label="Open")
 file_menu.add_command(label="Save")
 file_menu.add_separator()
-file_menu.add_command(label="Exit")
+file_menu.add_command(label="Exit", command=root.quit)
 
 # Add Edit Menu
-edit_menu = Menu(my_menu)
+edit_menu = Menu(my_menu, tearoff=False)
 my_menu.add_cascade(label="Edit", menu=edit_menu)
 edit_menu.add_command(label="Cut")
 edit_menu.add_command(label="Copy")
 edit_menu.add_command(label="Undo")
 edit_menu.add_command(label="Redo")
+
+# Add Status Bar To Botton of App
+status_bar = Label(root, text="Ready    ", anchor=E)
+status_bar.pack(fill=X, side=BOTTOM, ipady=5)
 
 root.mainloop()
