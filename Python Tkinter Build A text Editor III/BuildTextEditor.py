@@ -22,6 +22,9 @@ def new_file():
     root.title("New File - TextPad!")
     status_bar.config(text="New File        ")
 
+    global open_status_name
+    open_status_name = False
+
 # Open Files
 def open_file():
     # Delete Precios Text
@@ -72,7 +75,16 @@ def save_as_file():
 def save_file():
     global open_status_name
     if open_status_name:
+        # Save File
+        text_file = open(open_status_name, "w")
+        text_file.write(my_text.get(1.0, END))
+        #close the file
+        text_file.close()
+        # put status
+        status_bar.config(text=f'{open_status_name}         ')
 
+    else:
+        save_as_file()
 
 
 # Creare Main Frame

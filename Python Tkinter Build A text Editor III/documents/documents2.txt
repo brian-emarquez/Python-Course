@@ -1,1 +1,2 @@
-this is document2
+this is document2 text
+
