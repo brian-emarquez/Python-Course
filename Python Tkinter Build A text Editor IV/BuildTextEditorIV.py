@@ -152,4 +152,10 @@ edit_menu.add_command(label="Redo")
 status_bar = Label(root, text="Ready        ", anchor=E)
 status_bar.pack(fill=X, side=BOTTOM, ipady=5)
 
+# Edit Bindings
+root.bing('<Control-Key-x>', cut_text)
+root.bing('<Control-Key-c>', copy_text)
+root.bing('<Control-Key-v>', paste_text)
+
+
 root.mainloop()
