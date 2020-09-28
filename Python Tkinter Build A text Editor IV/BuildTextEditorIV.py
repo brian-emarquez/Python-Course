@@ -91,24 +91,41 @@ def save_file():
 # cut Text
 def cut_text(e):
     global selected
-    if my_text.selection_get():
+    
+    if e:
+        selected = root.clipboard_get()
 
-        selected = my_text.selection_get()
-        # Delected selected text from box
-        my_text.delete("sel.first", "sel.last")
+    else:
+        if my_text.selection_get():
+            selected = my_text.selection_get()
+            # Delected selected text from box
+            my_text.delete("sel.first", "sel.last")
+            #clear the clipboard then append
+            root.clipboard_clear()
+            root.clipboard_append(selected)
 
 # copy Text
 def copy_text(e):
     global selected
+    #CHECK TO SEE IF WE USED KEYBOARD SHORTCUTS
+    if e:
+        selected = root.clipboard_get()
+
     if my_text.selection_get():
         # Grab selected text from text box
         selected = my_text.selection_get()
+        root.clipboard_clear()
+        root.clipboard_append(selected)
 
 # paste Text
 def paste_text(e):
-    if selected:
-        position = my_text.index(INSERT)
-        my_text.insert(position, selected)
+    global selected
+    if e:
+        selected = root.clipboard_get()
+    else:
+        if selected:
+            position = my_text.index(INSERT)
+            my_text.insert(position, selected)
 
 
 # Creare Main Frame
@@ -142,9 +159,9 @@ file_menu.add_command(label="Exit", command=root.quit)
 # Add Edit Menu
 edit_menu = Menu(my_menu, tearoff=False)
 my_menu.add_cascade(label="Edit", menu=edit_menu)
-edit_menu.add_command(label="Cut", command=lambda: cut_text(False))
-edit_menu.add_command(label="Copy", command=lambda: copy_text(False))
-edit_menu.add_command(label="Paste", command=lambda: paste_text(False))
+edit_menu.add_command(label="Cut (Ctrl+x)", command=lambda: cut_text(False))
+edit_menu.add_command(label="Copy (Ctrl+c)", command=lambda: copy_text(False))
+edit_menu.add_command(label="Paste (Ctrl+v)", command=lambda: paste_text(False))
 edit_menu.add_command(label="Undo")
 edit_menu.add_command(label="Redo")
 
@@ -153,9 +170,8 @@ status_bar = Label(root, text="Ready        ", anchor=E)
 status_bar.pack(fill=X, side=BOTTOM, ipady=5)
 
 # Edit Bindings
-root.bing('<Control-Key-x>', cut_text)
-root.bing('<Control-Key-c>', copy_text)
-root.bing('<Control-Key-v>', paste_text)
-
+root.bind('<Control-Key-x>', cut_text)
+root.bind('<Control-Key-c>', copy_text)
+root.bind('<Control-Key-v>', paste_text)
 
 root.mainloop()
