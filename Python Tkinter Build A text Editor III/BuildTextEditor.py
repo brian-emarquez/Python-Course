@@ -82,7 +82,6 @@ def save_file():
         text_file.close()
         # put status
         status_bar.config(text=f'{open_status_name}         ')
-
     else:
         save_as_file()
 

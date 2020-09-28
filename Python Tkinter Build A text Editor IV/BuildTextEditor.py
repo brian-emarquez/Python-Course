@@ -14,6 +14,9 @@ root.geometry("1000x660")
 global open_status_name
 open_status_name = False
 
+global selected
+selected = False
+
 # Create New File Function
 def new_file():
     # Delete previos text
@@ -85,6 +88,28 @@ def save_file():
     else:
         save_as_file()
 
+# cut Text
+def cut_text(e):
+    global selected
+    if my_text.selection_get():
+
+        selected = my_text.selection_get()
+        # Delected selected text from box
+        my_text.delete("sel.first", "sel.last")
+
+# copy Text
+def copy_text(e):
+    global selected
+    if my_text.selection_get():
+        # Grab selected text from text box
+        selected = my_text.selection_get()
+
+# paste Text
+def paste_text(e):
+    if selected:
+        position = my_text.index(INSERT)
+        my_text.insert(position, selected)
+
 
 # Creare Main Frame
 my_frame = Frame(root)
@@ -117,9 +142,9 @@ file_menu.add_command(label="Exit", command=root.quit)
 # Add Edit Menu
 edit_menu = Menu(my_menu, tearoff=False)
 my_menu.add_cascade(label="Edit", menu=edit_menu)
-edit_menu.add_command(label="Cut")
-edit_menu.add_command(label="Copy")
-edit_menu.add_command(label="Paste")
+edit_menu.add_command(label="Cut", command=lambda: cut_text(False))
+edit_menu.add_command(label="Copy", command=lambda: copy_text(False))
+edit_menu.add_command(label="Paste", command=lambda: paste_text(False))
 edit_menu.add_command(label="Undo")
 edit_menu.add_command(label="Redo")
 
