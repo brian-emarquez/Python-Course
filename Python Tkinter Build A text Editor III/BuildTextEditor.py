@@ -10,6 +10,10 @@ root.title('Python Tkinter Build A text Editor III')
 root.iconbitmap('Python Tkinter Build A text Editor III/icons/document.ico')
 root.geometry("1000x660")
 
+# Set Variable for opne file name
+global open_status_name
+open_status_name = False
+
 # Create New File Function
 def new_file():
     # Delete previos text
@@ -26,6 +30,12 @@ def open_file():
     # Grab Filename
     text_file = filedialog.askopenfilename(initialdir="Python Tkinter Build A text Editor III/documents/", title="Open File", filetypes=(("Text Files", "*.txt"), ("HTML Files", "*.html"), ("Python Files", "*.py"), ("All Files", "*.*")))
     
+    # Check to see if there is a file name
+    if text_file:
+        # Make filename global so we can access it later
+        global open_status_name
+        open_status_name = text_file
+
     # Updaet status bars
     name = text_file
     status_bar.config(text=f'{name}         ')
@@ -55,7 +65,15 @@ def save_as_file():
         # Save File
         text_file = open(text_file, "w")
         text_file.write(my_text.get(1.0, END))
+        #close the file
         text_file.close()
+
+# Save File
+def save_file():
+    global open_status_name
+    if open_status_name:
+
+
 
 # Creare Main Frame
 my_frame = Frame(root)
@@ -81,7 +99,7 @@ file_menu = Menu(my_menu, tearoff=False)
 my_menu.add_cascade(label="File", menu=file_menu)
 file_menu.add_command(label="New", command=new_file)
 file_menu.add_command(label="Open", command=open_file)
-file_menu.add_command(label="Save")
+file_menu.add_command(label="Save", command=save_file)
 file_menu.add_command(label="Save As", command=save_as_file)
 file_menu.add_command(label="Exit", command=root.quit)
 
