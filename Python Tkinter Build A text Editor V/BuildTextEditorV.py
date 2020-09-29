@@ -159,9 +159,9 @@ file_menu.add_command(label="Exit", command=root.quit)
 # Add Edit Menu
 edit_menu = Menu(my_menu, tearoff=False)
 my_menu.add_cascade(label="Edit", menu=edit_menu)
-edit_menu.add_command(label="Cut (Ctrl+x)", command=lambda: cut_text(False))
-edit_menu.add_command(label="Copy (Ctrl+c)", command=lambda: copy_text(False))
-edit_menu.add_command(label="Paste (Ctrl+v)", command=lambda: paste_text(False))
+edit_menu.add_command(label="Cut", command=lambda: cut_text(False), accelerator="(Ctrl+x)")
+edit_menu.add_command(label="Copy", command=lambda: copy_text(False), accelerator="(Ctrl+c)")
+edit_menu.add_command(label="Paste", command=lambda: paste_text(False), accelerator="(Ctrl+v)")
 edit_menu.add_command(label="Undo")
 edit_menu.add_command(label="Redo")
 
