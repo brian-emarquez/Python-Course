@@ -4,11 +4,13 @@
 from tkinter import *
 from tkinter import filedialog
 from tkinter import font
+from tkinter import colorchooser
+
 
 root = Tk()
 root.title('Python Tkinter Build A text Editor VII')
 root.iconbitmap('Python Tkinter Build A text Editor VII/icons/document.ico')
-root.geometry("1000x680")
+root.geometry("1000x700")
 
 # Set Variable for opne file name
 global open_status_name
@@ -17,6 +19,7 @@ open_status_name = False
 global selected
 selected = False
 
+#-------------------------------------------------------------------------------------------------------#
 # Create New File Function
 def new_file():
     # Delete previos text
@@ -28,6 +31,7 @@ def new_file():
     global open_status_name
     open_status_name = False
 
+#-------------------------------------------------------------------------------------------------------#
 # Open Files
 def open_file():
     # Delete Precios Text
@@ -58,6 +62,7 @@ def open_file():
     # Add File textbox
     my_text.insert(END, stuff)
 
+#-------------------------------------------------------------------------------------------------------#
 #Save as file
 def save_as_file():
     text_file = filedialog.asksaveasfilename(defaultextension=".*", initialdir="C:/Users/brian/Documents/Python-Course/Python Tkinter Build A text Editor VII/documents/", title="Save File", filetypes=(("Text Files", "*.txt"), ("HTML Files", "*.html"), ("Python Files", "*.py"), ("All Files", "*.*")))
@@ -74,6 +79,7 @@ def save_as_file():
         #close the file
         text_file.close()
 
+#-------------------------------------------------------------------------------------------------------#
 # Save File
 def save_file():
     global open_status_name
@@ -88,6 +94,7 @@ def save_file():
     else:
         save_as_file()
 
+#-------------------------------------------------------------------------------------------------------#
 # cut Text
 def cut_text(e):
     global selected
@@ -104,6 +111,7 @@ def cut_text(e):
             root.clipboard_clear()
             root.clipboard_append(selected)
 
+#-------------------------------------------------------------------------------------------------------#
 # copy Text
 def copy_text(e):
     global selected
@@ -117,6 +125,7 @@ def copy_text(e):
         root.clipboard_clear()
         root.clipboard_append(selected)
 
+#-------------------------------------------------------------------------------------------------------#
 # paste Text
 def paste_text(e):
     global selected
@@ -127,6 +136,7 @@ def paste_text(e):
             position = my_text.index(INSERT)
             my_text.insert(position, selected)
 
+#-------------------------------------------------------------------------------------------------------#
 # Bold Text
 def bold_it():
     # Create our font
@@ -146,6 +156,7 @@ def bold_it():
     else:
         my_text.tag_add("bold", "sel.first", "sel.last")
 
+#-------------------------------------------------------------------------------------------------------#
 # Italics Text
 def italics_it():
     # Create our font
@@ -164,11 +175,39 @@ def italics_it():
 
     else:
         my_text.tag_add("italic", "sel.first", "sel.last")
-# Create a tollbar frame
+
+#-------------------------------------------------------------------------------------------------------#
+# Change Selected text Color
+def text_color():
+
+    # Pick a color
+    my_color = colorchooser.askcolor()
+    status_bar.config(text=my_color)
+
+    # Create our font
+    color_font = font.Font(my_text, my_text.cget("font"))
+
+    # Configure a Tag
+    my_text.tag_configure("colored", font=color_font, foreground=my_color)
+
+    # define Current tag
+    current_tags = my_text.tag_names("sel.first")
+
+    # If stament to see if tag has been set
+    if "colored" in current_tags:
+        my_text.tag_remove("colored", "sel.first", "sel.last")
+
+    else:
+        my_text.tag_add("colored", "sel.first", "sel.last")
+
+
+#-------------------------------------------------------------------------------------------------------#
+
+# Create a toolbar frame
 toolbar_frame = Frame(root)
 toolbar_frame.pack(fill=X)
 
-#-----------------------------------------------------------------------#
+#-------------------------------------------------------------------------------------------------------#
 # Creare Main Frame
 my_frame = Frame(root)
 my_frame.pack(pady=5)
@@ -222,6 +261,9 @@ root.bind('<Control-Key-x>', cut_text)
 root.bind('<Control-Key-c>', copy_text)
 root.bind('<Control-Key-v>', paste_text)
 
+#fee = "Brian Marquez"
+#my_label = Label(root, text=fee[:-1]).pack()
+
 # Create Button
 
 # Bold Button
@@ -238,5 +280,8 @@ undo_button.grid(row=0, column=2, padx=5)
 redo_button = Button(toolbar_frame, text="Redo", command=my_text.edit_redo)
 redo_button.grid(row=0, column=3, padx=5)
 
+# Tet Color
+color_text_button = Button(toolbar_frame, text="Text Color", command=text_color)
+color_text_button.grid(row=0, column=4, padx=5)
 
 root.mainloop()
