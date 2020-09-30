@@ -238,4 +238,5 @@ undo_button.grid(row=0, column=2, padx=5)
 redo_button = Button(toolbar_frame, text="Redo", command=my_text.edit_redo)
 redo_button.grid(row=0, column=3, padx=5)
 
+
 root.mainloop()
