@@ -148,7 +148,22 @@ def bold_it():
 
 # Italics Text
 def italics_it():
-    pass
+    # Create our font
+    italic_font = font.Font(my_text, my_text.cget("font"))
+    italic_font.configure(slant="italic")
+
+    # Configure a Tag
+    my_text.tag_configure("italic", font=italic_font)
+
+    # define Current tag
+    current_tags = my_text.tag_names("sel.first")
+
+    # If stament to see if tag has been set
+    if "italic" in current_tags:
+        my_text.tag_remove("italic", "sel.first", "sel.last")
+
+    else:
+        my_text.tag_add("italic", "sel.first", "sel.last")
 # Create a tollbar frame
 toolbar_frame = Frame(root)
 toolbar_frame.pack(fill=X)
