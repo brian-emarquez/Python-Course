@@ -8,7 +8,7 @@ from tkinter import font
 root = Tk()
 root.title('Python Tkinter Build A text Editor V')
 root.iconbitmap('Python Tkinter Build A text Editor V/icons/document.ico')
-root.geometry("1000x660")
+root.geometry("1000x680")
 
 # Set Variable for opne file name
 global open_status_name
@@ -174,7 +174,7 @@ edit_menu.add_command(label="Redo", command=my_text.edit_redo, accelerator="(Ctr
 
 # Add Status Bar To Botton of App
 status_bar = Label(root, text="Ready        ", anchor=E)
-status_bar.pack(fill=X, side=BOTTOM, ipady=5)
+status_bar.pack(fill=X, side=BOTTOM, ipady=15)
 
 # Edit Bindings
 root.bind('<Control-Key-x>', cut_text)
