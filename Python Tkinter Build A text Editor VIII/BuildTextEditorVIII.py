@@ -5,6 +5,9 @@ from tkinter import *
 from tkinter import filedialog
 from tkinter import font
 from tkinter import colorchooser
+import os, sys
+import win32print
+import win32api
 
 
 root = Tk()
@@ -216,10 +219,16 @@ def all_text_color():
     if my_color:
         my_text.config(bg=my_color)
 
+#-------------------------------------------------------------------------------------------------------#
+# Print File Fuction
+def print_file():
+    #printer_name = win32print.GetDefaultPrinter()
+    #status_bar.config(text=printer_name) # detencio de nombre de impresora
 
+    file_to_print = filedialog.asksaveasfilename(defaultextension=".*", initialdir="C:/Users/brian/Documents/Python-Course/Python Tkinter Build A text Editor VIII/documents/", title="Save File", filetypes=(("Text Files", "*.txt"), ("HTML Files", "*.html"), ("Python Files", "*.py"), ("All Files", "*.*")))
 
-
-
+    if file_to_print:
+        win32api.ShellExecute(0, "print", file_to_print, None, ".", 0)
 
 
 #-------------------------------------------------------------------------------------------------------#
@@ -259,6 +268,8 @@ file_menu.add_command(label="New", command=new_file)
 file_menu.add_command(label="Open", command=open_file)
 file_menu.add_command(label="Save", command=save_file)
 file_menu.add_command(label="Save As", command=save_as_file)
+file_menu.add_separator()
+file_menu.add_command(label="Print File", command=print_file)
 file_menu.add_separator()
 file_menu.add_command(label="Exit", command=root.quit)
 
