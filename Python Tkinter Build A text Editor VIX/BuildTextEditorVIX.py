@@ -1,4 +1,4 @@
-# Python Tkinter Build A text Editor VIX - Print A File - Build A Text Editor
+# Python Tkinter Build A text Editor VIX - Select All and Clear
 # Python Tkinter Build A editor de texto
 
 from tkinter import *
@@ -230,6 +230,21 @@ def print_file():
     if file_to_print:
         win32api.ShellExecute(0, "print", file_to_print, None, ".", 0)
 
+#-------------------------------------------------------------------------------------------------------#
+# Select All text
+def selected_all(e):
+    # add sel tag to sel"ect all text
+    my_text.tag_add("sel", "1.0", "end")
+
+#-------------------------------------------------------------------------------------------------------#
+# clear All text
+def clear_all(e):
+    my_text.delete(1.0, END)
+
+
+
+
+
 
 #-------------------------------------------------------------------------------------------------------#
 # Create a toolbar frame
@@ -282,6 +297,10 @@ edit_menu.add_command(label="Paste", command=lambda: paste_text(False), accelera
 edit_menu.add_separator()
 edit_menu.add_command(label="Undo", command=my_text.edit_undo, accelerator="(Ctrl+z)")
 edit_menu.add_command(label="Redo", command=my_text.edit_redo, accelerator="(Ctrl+y)")
+edit_menu.add_separator()
+edit_menu.add_command(label="Select All", command=lambda: selected_all(True), accelerator="(Ctrl+a)")
+edit_menu.add_command(label="Clear", command=lambda: clear_all(True), accelerator="(Ctrl+x)")
+
 
 # Add color Menu
 color_menu = Menu(my_menu, tearoff=False)
@@ -300,11 +319,16 @@ root.bind('<Control-Key-x>', cut_text)
 root.bind('<Control-Key-c>', copy_text)
 root.bind('<Control-Key-v>', paste_text)
 
-#fee = "Brian Marquez"
-#my_label = Label(root, text=fee[:-1]).pack()
+
+# Select Binding
+root.bind("Control-A", selected_all)
+root.bind("Control-a", selected_all)
+
+root.bind("Control-X", clear_all)
+root.bind("Control-x", clear_all)
+
 
 # Create Button
-
 # Bold Button
 bold_button = Button(toolbar_frame, text="Bold", command=bold_it)
 bold_button.grid(row=0, column=0, sticky=W, padx=5)
