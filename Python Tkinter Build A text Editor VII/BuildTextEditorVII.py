@@ -1,4 +1,4 @@
-# Python Tkinter Build A text Editor VI - Creating Bold and Italic Text
+# Python Tkinter Build A text Editor V - Creating Bold and Italic Text
 # Python Tkinter Build A editor de texto
 
 from tkinter import *
@@ -60,7 +60,7 @@ def open_file():
 
 #Save as file
 def save_as_file():
-    text_file = filedialog.asksaveasfilename(defaultextension=".*", initialdir="C:/Users/brian/Documents/Python-Course/Python Tkinter Build A text Editor VI/documents/", title="Save File", filetypes=(("Text Files", "*.txt"), ("HTML Files", "*.html"), ("Python Files", "*.py"), ("All Files", "*.*")))
+    text_file = filedialog.asksaveasfilename(defaultextension=".*", initialdir="C:/Users/brian/Documents/Python-Course/Python Tkinter Build A text Editor V/documents/", title="Save File", filetypes=(("Text Files", "*.txt"), ("HTML Files", "*.html"), ("Python Files", "*.py"), ("All Files", "*.*")))
     if text_file:
         # Updates Status Bars
         name = text_file
