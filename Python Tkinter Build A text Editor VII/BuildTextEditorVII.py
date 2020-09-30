@@ -1,4 +1,4 @@
-# Python Tkinter Build A text Editor V - Creating Bold and Italic Text
+# Python Tkinter Build A text Editor VII - Creating Bold and Italic Text
 # Python Tkinter Build A editor de texto
 
 from tkinter import *
@@ -6,8 +6,8 @@ from tkinter import filedialog
 from tkinter import font
 
 root = Tk()
-root.title('Python Tkinter Build A text Editor VI')
-root.iconbitmap('Python Tkinter Build A text Editor VI/icons/document.ico')
+root.title('Python Tkinter Build A text Editor VII')
+root.iconbitmap('Python Tkinter Build A text Editor VII/icons/document.ico')
 root.geometry("1000x680")
 
 # Set Variable for opne file name
@@ -34,7 +34,7 @@ def open_file():
     my_text.delete("1.0", END)
 
     # Grab Filename
-    text_file = filedialog.askopenfilename(initialdir="Python Tkinter Build A text Editor VI/documents/", title="Open File", filetypes=(("Text Files", "*.txt"), ("HTML Files", "*.html"), ("Python Files", "*.py"), ("All Files", "*.*")))
+    text_file = filedialog.askopenfilename(initialdir="Python Tkinter Build A text Editor VII/documents/", title="Open File", filetypes=(("Text Files", "*.txt"), ("HTML Files", "*.html"), ("Python Files", "*.py"), ("All Files", "*.*")))
     
     # Check to see if there is a file name
     if text_file:
@@ -45,7 +45,7 @@ def open_file():
     # Updaet status bars
     name = text_file
     status_bar.config(text=f'{name}         ')
-    name = name.replace("C:/Users/brian/Documents/Python-Course/Python Tkinter Build A text Editor VI/documents/", "")
+    name = name.replace("C:/Users/brian/Documents/Python-Course/Python Tkinter Build A text Editor VII/documents/", "")
     root.title(f'{name} - TextPad!')
 
     # Open the File
@@ -60,12 +60,12 @@ def open_file():
 
 #Save as file
 def save_as_file():
-    text_file = filedialog.asksaveasfilename(defaultextension=".*", initialdir="C:/Users/brian/Documents/Python-Course/Python Tkinter Build A text Editor V/documents/", title="Save File", filetypes=(("Text Files", "*.txt"), ("HTML Files", "*.html"), ("Python Files", "*.py"), ("All Files", "*.*")))
+    text_file = filedialog.asksaveasfilename(defaultextension=".*", initialdir="C:/Users/brian/Documents/Python-Course/Python Tkinter Build A text Editor VII/documents/", title="Save File", filetypes=(("Text Files", "*.txt"), ("HTML Files", "*.html"), ("Python Files", "*.py"), ("All Files", "*.*")))
     if text_file:
         # Updates Status Bars
         name = text_file
         status_bar.config(text=f'{name}         ')
-        name = name.replace("C:/Users/brian/Documents/Python-Course/Python Tkinter Build A text Editor VI/documents/", "")
+        name = name.replace("C:/Users/brian/Documents/Python-Course/Python Tkinter Build A text Editor VII/documents/", "")
         root.title(f'{name} - TextPad!')
         
         # Save File
