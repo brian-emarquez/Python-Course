@@ -129,10 +129,10 @@ def paste_text(e):
 
 # Bold Text
 def bold_it():
-
+    pass
 # Italics Text
 def italics_it():
-
+    pass
 # Create a tollbar frame
 toolbar_frame = Frame(root)
 toolbar_frame.pack(fill=X)
@@ -207,4 +207,4 @@ undo_button.grid(row=0, column=2)
 redo_button = Button(toolbar_frame, text="Redo", command=my_text.edit_redo)
 redo_button.grid(row=0, column=3)
 
-root.mainloop()s
+root.mainloop()
