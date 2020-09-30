@@ -127,7 +127,17 @@ def paste_text(e):
             position = my_text.index(INSERT)
             my_text.insert(position, selected)
 
+# Bold Text
+def bold_it():
 
+# Italics Text
+def italics_it():
+
+# Create a tollbar frame
+toolbar_frame = Frame(root)
+toolbar_frame.pack(fill=X)
+
+#-----------------------------------------------------------------------#
 # Creare Main Frame
 my_frame = Frame(root)
 my_frame.pack(pady=5)
@@ -181,4 +191,20 @@ root.bind('<Control-Key-x>', cut_text)
 root.bind('<Control-Key-c>', copy_text)
 root.bind('<Control-Key-v>', paste_text)
 
-root.mainloop()
+# Create Button
+
+# Bold Button
+bold_button = Button(toolbar_frame, text="Bold", command=bold_it)
+bold_button.grid(row=0, column=0, sticky=W)
+
+# Italics Button
+italics_button = Button(toolbar_frame, text="Italics", command=italics_it)
+italics_button.grid(row=0, column=1)
+
+# Undo/Redo Buttons
+undo_button = Button(toolbar_frame, text="Undo", command=my_text.edit_undo)
+undo_button.grid(row=0, column=2)
+redo_button = Button(toolbar_frame, text="Redo", command=my_text.edit_redo)
+redo_button.grid(row=0, column=3)
+
+root.mainloop()s
