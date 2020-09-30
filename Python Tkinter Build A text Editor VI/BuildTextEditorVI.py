@@ -129,7 +129,23 @@ def paste_text(e):
 
 # Bold Text
 def bold_it():
-    pass
+    # Create our font
+    bold_font = font.Font(my_text, my_text.cget("font"))
+    bold_font.configure(weight="bold")
+
+    # Configure a Tag
+    my_text.tag_configure("bold", font=bold_font)
+
+    # define Current tag
+    current_tags = my_text.tag_names("sel.first")
+
+    # If stament to see if tag has been set
+    if "bold" in current_tags:
+        my_text.tag_remove("bold", "sel.first", "sel.last")
+
+    else:
+        my_text.tag_add("bold", "sel.first", "sel.last")
+
 # Italics Text
 def italics_it():
     pass
@@ -195,16 +211,16 @@ root.bind('<Control-Key-v>', paste_text)
 
 # Bold Button
 bold_button = Button(toolbar_frame, text="Bold", command=bold_it)
-bold_button.grid(row=0, column=0, sticky=W)
+bold_button.grid(row=0, column=0, sticky=W, padx=5)
 
 # Italics Button
 italics_button = Button(toolbar_frame, text="Italics", command=italics_it)
-italics_button.grid(row=0, column=1)
+italics_button.grid(row=0, column=1, padx=5)
 
 # Undo/Redo Buttons
 undo_button = Button(toolbar_frame, text="Undo", command=my_text.edit_undo)
-undo_button.grid(row=0, column=2)
+undo_button.grid(row=0, column=2, padx=5)
 redo_button = Button(toolbar_frame, text="Redo", command=my_text.edit_redo)
-redo_button.grid(row=0, column=3)
+redo_button.grid(row=0, column=3, padx=5)
 
 root.mainloop()
