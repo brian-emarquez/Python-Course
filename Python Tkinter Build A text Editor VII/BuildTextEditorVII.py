@@ -181,28 +181,48 @@ def italics_it():
 def text_color():
 
     # Pick a color
-    my_color = colorchooser.askcolor()
-    status_bar.config(text=my_color)
+    my_color = colorchooser.askcolor()[1]
+    if my_color:
 
-    # Create our font
-    color_font = font.Font(my_text, my_text.cget("font"))
+        status_bar.config(text=my_color)
 
-    # Configure a Tag
-    my_text.tag_configure("colored", font=color_font, foreground=my_color)
+        # Create our font
+        color_font = font.Font(my_text, my_text.cget("font"))
 
-    # define Current tag
-    current_tags = my_text.tag_names("sel.first")
+        # Configure a Tag
+        my_text.tag_configure("colored", font=color_font, foreground=my_color)
 
-    # If stament to see if tag has been set
-    if "colored" in current_tags:
-        my_text.tag_remove("colored", "sel.first", "sel.last")
+        # define Current tag
+        current_tags = my_text.tag_names("sel.first")
 
-    else:
-        my_text.tag_add("colored", "sel.first", "sel.last")
+        # If stament to see if tag has been set
+        if "colored" in current_tags:
+            my_text.tag_remove("colored", "sel.first", "sel.last")
+
+        else:
+            my_text.tag_add("colored", "sel.first", "sel.last")
+
+#-------------------------------------------------------------------------------------------------------#
+# Change bg color
+def bg_colors():
+    my_color = colorchooser.askcolor()[1]
+    if my_color:
+        my_text.config(bg=my_color)
+
+#-------------------------------------------------------------------------------------------------------#
+# Change All text color
+def all_text_color():
+    my_color = colorchooser.askcolor()[1]
+    if my_color:
+        my_text.config(bg=my_color)
+
+
+
+
+
 
 
 #-------------------------------------------------------------------------------------------------------#
-
 # Create a toolbar frame
 toolbar_frame = Frame(root)
 toolbar_frame.pack(fill=X)
@@ -251,6 +271,14 @@ edit_menu.add_command(label="Paste", command=lambda: paste_text(False), accelera
 edit_menu.add_separator()
 edit_menu.add_command(label="Undo", command=my_text.edit_undo, accelerator="(Ctrl+z)")
 edit_menu.add_command(label="Redo", command=my_text.edit_redo, accelerator="(Ctrl+y)")
+
+# Add color Menu
+color_menu = Menu(my_menu, tearoff=False)
+my_menu.add_cascade(label="Colors", menu=color_menu)
+color_menu.add_command(label="Selected Text", command=text_color)
+color_menu.add_command(label="All Text", command=all_text_color)
+color_menu.add_command(label="Background", command=bg_colors)
+
 
 # Add Status Bar To Botton of App
 status_bar = Label(root, text="Ready        ", anchor=E)
