@@ -16,7 +16,16 @@ count = 0
 
 # disable all the buttons
 def disable_all_buttons():
-    pass
+    b1.config(state=DISABLED)
+    b2.config(state=DISABLED)
+    b3.config(state=DISABLED)
+    b4.config(state=DISABLED)
+    b5.config(state=DISABLED)
+    b6.config(state=DISABLED)
+    b6.config(state=DISABLED)
+    b7.config(state=DISABLED)
+    b8.config(state=DISABLED)
+    b9.config(state=DISABLED)
 
 # Check to see if someone won
 def checkifwon():
@@ -28,7 +37,7 @@ def checkifwon():
         b2.config(bg="red")
         b3.config(bg="red")
         winner = True
-        messagebox.showinfo("Tic Tac Toe", "X wins!!")
+        messagebox.showinfo("Tic Tac Toe", "X Es el ganador!!")
         disable_all_buttons()
 
     elif b4["text"] == "X" and b5["text"] == "X" and b6["text"] == "X":
@@ -36,7 +45,7 @@ def checkifwon():
         b5.config(bg="red")
         b6.config(bg="red")
         winner = True
-        messagebox.showinfo("Tic Tac Toe", "X wins!!")
+        messagebox.showinfo("Tic Tac Toe", "X Es el ganador!!")
         disable_all_buttons()
 
     elif b7["text"] == "X" and b8["text"] == "X" and b9["text"] == "X":
@@ -44,7 +53,7 @@ def checkifwon():
         b8.config(bg="red")
         b9.config(bg="red")
         winner = True
-        messagebox.showinfo("Tic Tac Toe", "X wins!!")
+        messagebox.showinfo("Tic Tac Toe", "X Es el ganador!!")
         disable_all_buttons()
 
     elif b1["text"] == "X" and b4["text"] == "X" and b7["text"] == "X":
@@ -52,7 +61,7 @@ def checkifwon():
         b4.config(bg="red")
         b7.config(bg="red")
         winner = True
-        messagebox.showinfo("Tic Tac Toe", "X wins!!")
+        messagebox.showinfo("Tic Tac Toe", "X Es el ganador!!")
         disable_all_buttons()
 
     elif b2["text"] == "X" and b5["text"] == "X" and b8["text"] == "X":
@@ -60,7 +69,7 @@ def checkifwon():
         b5.config(bg="red")
         b8.config(bg="red")
         winner = True
-        messagebox.showinfo("Tic Tac Toe", "X wins!!")
+        messagebox.showinfo("Tic Tac Toe", "X Es el ganador!!")
         disable_all_buttons()
 
     elif b3["text"] == "X" and b6["text"] == "X" and b9["text"] == "X":
@@ -68,7 +77,7 @@ def checkifwon():
         b6.config(bg="red")
         b9.config(bg="red")
         winner = True
-        messagebox.showinfo("Tic Tac Toe", "X wins!!")
+        messagebox.showinfo("Tic Tac Toe", "X Es el ganador!!")
         disable_all_buttons()
 
     elif b1["text"] == "X" and b5["text"] == "X" and b9["text"] == "X":
@@ -76,7 +85,7 @@ def checkifwon():
         b5.config(bg="red")
         b9.config(bg="red")
         winner = True
-        messagebox.showinfo("Tic Tac Toe", "X wins!!")
+        messagebox.showinfo("Tic Tac Toe", "X Es el ganador!!")
         disable_all_buttons()
 
     elif b3["text"] == "X" and b5["text"] == "X" and b7["text"] == "X":
@@ -84,7 +93,7 @@ def checkifwon():
         b5.config(bg="red")
         b7.config(bg="red")
         winner = True
-        messagebox.showinfo("Tic Tac Toe", "X wins!!")
+        messagebox.showinfo("Tic Tac Toe", "X Es el ganador!!")
         disable_all_buttons()
 
     # Check for o's Win
@@ -94,7 +103,7 @@ def checkifwon():
         b2.config(bg="red")
         b3.config(bg="red")
         winner = True
-        messagebox.showinfo("Tic Tac Toe", "X wins!!")
+        messagebox.showinfo("Tic Tac Toe", "O Es el ganador!!")
         disable_all_buttons()
 
     elif b4["text"] == "O" and b5["text"] == "O" and b6["text"] == "O":
@@ -102,7 +111,7 @@ def checkifwon():
         b5.config(bg="red")
         b6.config(bg="red")
         winner = True
-        messagebox.showinfo("Tic Tac Toe", "X wins!!")
+        messagebox.showinfo("Tic Tac Toe", "O Es el ganador!!")
         disable_all_buttons()
 
     elif b7["text"] == "O" and b8["text"] == "O" and b9["text"] == "O":
@@ -110,7 +119,7 @@ def checkifwon():
         b8.config(bg="red")
         b9.config(bg="red")
         winner = True
-        messagebox.showinfo("Tic Tac Toe", "X wins!!")
+        messagebox.showinfo("Tic Tac Toe", "O Es el ganador!!")
         disable_all_buttons()
 
     elif b1["text"] == "O" and b4["text"] == "O" and b7["text"] == "O":
@@ -118,7 +127,7 @@ def checkifwon():
         b4.config(bg="red")
         b7.config(bg="red")
         winner = True
-        messagebox.showinfo("Tic Tac Toe", "X wins!!")
+        messagebox.showinfo("Tic Tac Toe", "O Es el ganador!!")
         disable_all_buttons()
 
     elif b2["text"] == "O" and b5["text"] == "O" and b8["text"] == "O":
@@ -126,7 +135,7 @@ def checkifwon():
         b5.config(bg="red") 
         b8.config(bg="red")
         winner = True
-        messagebox.showinfo("Tic Tac Toe", "X wins!!")
+        messagebox.showinfo("Tic Tac Toe", "O Es el ganador!!")
         disable_all_buttons()
 
     elif b3["text"] == "O" and b6["text"] == "O" and b9["text"] == "O":
@@ -134,7 +143,7 @@ def checkifwon():
         b6.config(bg="red")
         b9.config(bg="red")
         winner = True
-        messagebox.showinfo("Tic Tac Toe", "X wins!!")
+        messagebox.showinfo("Tic Tac Toe", "O Es el ganador!!")
         disable_all_buttons()
 
     elif b1["text"] == "O" and b5["text"] == "O" and b9["text"] == "O":
@@ -142,7 +151,7 @@ def checkifwon():
         b5.config(bg="red")
         b9.config(bg="red")
         winner = True
-        messagebox.showinfo("Tic Tac Toe", "X wins!!")
+        messagebox.showinfo("Tic Tac Toe", "O Es el ganador!!")
         disable_all_buttons()
 
     elif b3["text"] == "O" and b5["text"] == "O" and b7["text"] == "O":
@@ -150,7 +159,7 @@ def checkifwon():
         b5.config(bg="red")
         b7.config(bg="red")
         winner = True
-        messagebox.showinfo("Tic Tac Toe", "X wins!!")
+        messagebox.showinfo("Tic Tac Toe", "O Es el ganador!!")
         disable_all_buttons()
 
 
@@ -162,11 +171,13 @@ def  b_click(b):
         b["text"] = "X"
         clicked = False
         count += 1
+        checkifwon()
 
     elif b["text"] == " " and clicked == False:
         b["text"] = "O"
         clicked = True
         count += 1
+        checkifwon()
     else:
         messagebox.showerror("Tic Tac Toe", "Hey ! the box has ready been selected○\nPick Another Box...")
 
