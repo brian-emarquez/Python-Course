@@ -12,8 +12,8 @@ import win32api
 
 root = Tk()
 root.title('Python Tkinter Build A text Editor X')
-root.iconbitmap('Python Tkinter Build A text Editor VX/icons/document.ico')
-root.geometry("1000x700")
+root.iconbitmap('Python Tkinter Build A text Editor X/icons/document.ico')
+root.geometry("900x600")
 
 # Set Variable for opne file name
 global open_status_name
@@ -241,8 +241,56 @@ def selected_all(e):
 def clear_all(e):
     my_text.delete(1.0, END)
 
+# Turn on Night
+#-------------------------------------------------------------------------------------------------------#
+def night_on():
+    main_color = "#000000"
+    second_color = "#373737"
+    text_color = "green"
+    
+    root.config(bg=main_color)
+    status_bar.config(bg=main_color, fg=text_color)
+    my_text.config(bg=second_color, fg=text_color)
+    toolbar_frame.config(bg=main_color)
+
+    #Toolsbar butoons
+    bold_button.config(bg=second_color, fg=text_color)
+    italics_button.config(bg=second_color, fg=text_color)
+    redo_button.config(bg=second_color, fg=text_color)
+    undo_button.config(bg=second_color, fg=text_color)
+    color_text_button.config(bg=second_color, fg=text_color)
+
+    # File menu colors
+    file_menu.config(bg=main_color, fg=text_color)
+    edit_menu.config(bg=main_color, fg=text_color)
+    options_menu.config(bg=main_color, fg=text_color)
+    options_menu.config(bg=main_color, fg=text_color)
 
 
+# Turn Off Night
+#-------------------------------------------------------------------------------------------------------#
+def night_off():
+    main_color = "SystemButtonFace"
+    second_color = "SystemButtonFace"
+    text_color = "black"
+    
+    root.config(bg=main_color)
+    status_bar.config(bg=main_color, fg=text_color)
+    my_text.config(bg="white")
+    toolbar_frame.config(bg=main_color)
+
+    #Toolsbar butoons
+    bold_button.config(bg=second_color, fg=text_color)
+    italics_button.config(bg=second_color, fg=text_color)
+    redo_button.config(bg=second_color, fg=text_color)
+    undo_button.config(bg=second_color, fg=text_color)
+    color_text_button.config(bg=second_color, fg=text_color)
+
+    # File menu colors
+    file_menu.config(bg=main_color, fg=text_color)
+    edit_menu.config(bg=main_color, fg=text_color)
+    options_menu.config(bg=main_color, fg=text_color)
+    options_menu.config(bg=main_color, fg=text_color)
 
 
 
@@ -302,12 +350,11 @@ edit_menu.add_command(label="Select All", command=lambda: selected_all(True), ac
 edit_menu.add_command(label="Clear", command=lambda: clear_all(True), accelerator="(Ctrl+x)")
 
 
-# Add color Menu
-color_menu = Menu(my_menu, tearoff=False)
-my_menu.add_cascade(label="Colors", menu=color_menu)
-color_menu.add_command(label="Selected Text", command=text_color)
-color_menu.add_command(label="All Text", command=all_text_color)
-color_menu.add_command(label="Background", command=bg_colors)
+# Add Options Menu
+options_menu = Menu(my_menu, tearoff=False)
+my_menu.add_cascade(label="Options", menu=options_menu)
+options_menu.add_command(label="Night Mode On", command=night_on)
+options_menu.add_command(label="Night Mode Off", command=night_off)
 
 
 # Add Status Bar To Botton of App
