@@ -9,6 +9,24 @@ root.title('Python Tkinter Treeview III Color and Style')
 root.iconbitmap('Python Tkinter Treeview III Color and Style/Icons/cocoa.ico')
 root.geometry("500x600") 
 
+# Add some style
+style = ttk.Style()
+
+# Pick a theme
+style.theme_use("default")
+
+# Configure our treeview colors
+style.configure("Treeview",
+    background="silver",
+    foreground = "black",
+    rowheight=25,
+    fieldbackground="silver"
+    )
+
+# CHange selected color
+style.map('Treeview', 
+    background=[('selected', 'blue')])
+
 my_tree = ttk.Treeview(root)
 
 # Define Our Columns
