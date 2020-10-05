@@ -1,12 +1,12 @@
-# Python Tkinter Treeview IV Striped Rows
+# Python Tkinter Treeview III Color and Style
 # Vista de árbol de Python Tkinter
 
 from tkinter import *
 from tkinter import ttk
 
 root = Tk()
-root.title('Python Tkinter Treeview IV Striped Rows')
-root.iconbitmap('Python Tkinter Treeview IV Striped Rows/Icons/cocoa.ico')
+root.title('Python Tkinter Treeview III Color and Style')
+root.iconbitmap('Python Tkinter Treeview III Color and Style/Icons/cocoa.ico')
 root.geometry("500x600") 
 
 # Add some style
