@@ -28,13 +28,28 @@ my_tree.heading("Favorite Pizza", text="Favorite Pizza", anchor=W)
 
 
 # Add Data
+data = [
+
+    ["John", 1, "Pepperoni"],
+    ["Mary", 2, "Cheese"],
+    ["Tim", 3, "Mushroom"],
+    ["Erin", 4, "Ham"],
+    ["Bob", 5, "Orion"]
+]
+
+count = 0
+for record in data:
+    my_tree.insert(parent='', index='end', iid=count, text="", values=(record[0], record[1], record[2] ))
+    count +=1
+
+'''
 my_tree.insert(parent='', index='end', iid=0, text="", values=("Jhon", 1, "Peperroni"))
 my_tree.insert(parent='', index='end', iid=1, text="", values=("Mary", "2", "Cheese"))
 my_tree.insert(parent='', index='end', iid=2, text="", values=("Tina", "3", "Ham"))
 my_tree.insert(parent='', index='end', iid=3, text="", values=("Bob", "4", "Supreme"))
 my_tree.insert(parent='', index='end', iid=4, text="", values=("Erin", "5", "Cheese"))
 my_tree.insert(parent='', index='end', iid=5, text="", values=("Wes", "6", "Onion"))
-
+'''
 #add child
 #my_tree.insert(parent='', index='end', iid=6, text="Child", values=("Steve", "1.2", "Peppers"))
 #my_tree.move("6", "0", "0")
