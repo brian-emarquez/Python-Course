@@ -7,7 +7,7 @@ from tkinter import ttk
 root = Tk()
 root.title('Python Tkinter Treeview VI update records')
 root.iconbitmap('Python Tkinter Treeview VI update records/Icons/cocoa.ico')
-root.geometry("500x710") 
+root.geometry("500x760") 
 
 # Add some style
 style = ttk.Style()
@@ -180,12 +180,32 @@ def select_record():
     id_box.delete(0, END)
     topping_box.delete(0, END)
 
+    # grab record number
     selected = my_tree.focus()
-    temp_label.config(text=selected)
+
+    # Grab record values
+    values = my_tree.item(selected, "values")
+
+    #temp_label.config(text=values[0]) # selected Records
+    #print(values)
+
+    # output to entry boxes
+    name_box.insert(0, values[0])
+    id_box.insert(0, values[1])
+    topping_box.insert(0, values[2])
 
 # Save Updated Record
 def update_record():
-    pass
+    # grab record number
+    selected = my_tree.focus()
+    # save new data
+    my_tree.item(selected, text="", values=(name_box.get(), id_box.get(), topping_box.get()))
+
+    # Clear Enrty Boxes
+    name_box.delete(0, END)
+    id_box.delete(0, END)
+    topping_box.delete(0, END)
+
 
 # Buttons
 select_button = Button(root, text="Select Records", command=select_record)
