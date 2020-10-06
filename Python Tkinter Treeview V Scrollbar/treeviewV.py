@@ -27,7 +27,22 @@ style.configure("Treeview",
 style.map('Treeview', 
     background=[('selected', 'blue')])
 
-my_tree = ttk.Treeview(root)
+# Create TreeView Frame
+tree_frame = Frame(root)
+tree_frame.pack(pady=20)
+
+# TreeView Scroll
+tree_scroll = Scrollbar(tree_frame)
+tree_scroll.pack(side=RIGHT, fill=Y)
+
+# Create TreeView
+my_tree = ttk.Treeview(tree_frame, yscrollcommand=tree_scroll.set, selectmode="extended")
+my_tree.pack()
+
+# Configure the scrollbar
+tree_scroll.config(command=my_tree.yview)
+
+
 
 # Define Our Columns
 my_tree["columns"] = ("Name", "ID", "Favorite Pizza")
@@ -50,6 +65,20 @@ data = [
 
     ["John", 1, "Pepperoni"],
     ["Mary", 2, "Cheese"],
+    ["Tim", 3, "Mushroom"],
+    ["Erin", 4, "Ham"],
+    ["Bob", 5, "Orion"],
+    ["Steve", 6, "Peppers"],
+    ["Tina", 7, "Cheese"],
+    ["Mark", 8, "Supreme"],
+    ["Ruth", 9, "Vegan"],
+    ["Tim", 3, "Mushroom"],
+    ["Erin", 4, "Ham"],
+    ["Bob", 5, "Orion"],
+    ["Steve", 6, "Peppers"],
+    ["Tina", 7, "Cheese"],
+    ["Mark", 8, "Supreme"],
+    ["Ruth", 9, "Vegan"],
     ["Tim", 3, "Mushroom"],
     ["Erin", 4, "Ham"],
     ["Bob", 5, "Orion"],
@@ -84,12 +113,6 @@ my_tree.insert(parent='', index='end', iid=3, text="", values=("Bob", "4", "Supr
 my_tree.insert(parent='', index='end', iid=4, text="", values=("Erin", "5", "Cheese"))
 my_tree.insert(parent='', index='end', iid=5, text="", values=("Wes", "6", "Onion"))
 '''
-#add child
-#my_tree.insert(parent='', index='end', iid=6, text="Child", values=("Steve", "1.2", "Peppers"))
-#my_tree.move("6", "0", "0")
-
-# Pack to the screen
-my_tree.pack(pady=20)
 
 add_frame = Frame(root)
 add_frame.pack(pady=20)
