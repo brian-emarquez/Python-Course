@@ -1,0 +1,81 @@
+Buenas Practicas En Commits De Git
+
+* Estructura del Mensaje
+
+El mensaje de un commit consiste en 3 diferentes partes separadas por una linea en blanco: el titulo, un cuerpo opcional y un pie opcional. Algo como lo siguiente:-
+
+#--------------------------------------------------------------------#
+#  TYPE : SUBJECT                                                    #   
+#                                                                    #   
+#  BODY                                                              #
+#                                                                    #
+#  FOOTER                                                            #
+#--------------------------------------------------------------------#
+
+
+El titulo consiste en el tipo y asunto del mensaje.
+
+* TYPE / TIPO
+
+
+El tipo es contenido en el titulo y puede ser de alguno de los siguientes casos:
+
+- feat: Una nueva caracteristica.
+
+- fix: Se soluciono un bug.
+
+- docs: Se realizaron cambios en la documentacion.
+
+- style: Se aplico formato, comas y puntos faltantes, etc; Sin cambios en el codigo.
+
+- refactor: Refactorizacion del codigo en produccion.
+
+- test: Se añadieron pruebas, refactorizacion de pruebas; Sin cambios en el codigo.
+
+- chore: Actualizacion de tareas de build, configuracion del admin. de paquetes; Sin cambios en el codigo.
+
+
+* SUBJECT / ASUNTO
+El asunto no debe contener mas de 50 caracteres, debe iniciar con una letra mayuscula y no terminar con un punto. Debemos ser imperativos al momento de redactar nuestro commit, es decir hay que ser objetivos y muy importante tenemos que acostumbrarnos a escribirlos en Ingles esto es una de las mejores practicas que podemos tener en nuestros commits.
+
+Cuando hablo de ser imperativos hago referencia a este sencillo ejemplo: usar change en lugar de "changed" o "changes".
+
+* BODY / CUERPO
+No todos los commits son lo suficientemente complejos como para necesitar de un cuerpo, sin embargo es opcional y se usan en caso de que el commit requiera una explicacion y contexto. Utilizamos el cuerpo para explicar el ¿Que y Porque? de un commit y no el ¿Como? Al escribir el cuerpo, requerimos de una linea en blanco entre el titulo y el cuerpo, ademas debemos limitar la longitud de cada linea a no mas de 72 caracteres.
+
+
+* EJEMPLO DE UN COMMIT MESSAGE
+
+#------------------------------------------------------------------------------------------#
+feat: Resume los cambios en alrededor de 50 caracteres o menos
+
+exto explicativo más detallado, si es necesario. Envuélvalo a unos 72
+personajes más o menos. En algunos contextos, la primera línea se trata como
+asunto de la confirmación y el resto del texto como cuerpo.
+
+La línea en blanco que separa el resuñmen del cuerpo es
+crítico (a menos que omita el cuerpo por completo);
+Varias herramientas como `log`,` shortlog` y `rebase` pueden obtener
+confundido si ejecuta los dos juntos.
+
+Explique el problema que está resolviendo este compromiso.
+Enfóquese en por qué está haciendo este cambio como opuesto
+a cómo (el código explica eso).
+
+¿Hay efectos secundarios u otras consecuencias poco intuitivas de este cambio?
+Este es el lugar para explicarlos.
+Los párrafos adicionales vienen después de las líneas en blanco.
+
+- Las viñetas también están bien
+- Por lo general, se utiliza un guión o asterisco para la viñeta, precedido por un
+espacio único, con líneas en blanco en el medio, pero las convenciones varían aquí
+
+Si usa un rastreador de problemas, coloque referencias a ellos en la parte inferior, así:
+
+Resolves: #123 
+See also: #456, #789
+
+#-------------------------------------------------------------------------------------------#
+
+Articulo
+https://udacity.github.io/git-styleguide/
