@@ -7,7 +7,7 @@ from tkinter import ttk
 root = Tk()
 root.title('Python Tkinter Treeview VI update records')
 root.iconbitmap('Python Tkinter Treeview VI update records/Icons/cocoa.ico')
-root.geometry("500x600") 
+root.geometry("500x710") 
 
 # Add some style
 style = ttk.Style()
@@ -173,12 +173,30 @@ def remove_many():
     for record in x:
         my_tree.delete(record)
 
+#Select Recods
+def select_record():
+    # Clear Enrty Boxes
+    name_box.delete(0, END)
+    id_box.delete(0, END)
+    topping_box.delete(0, END)
 
+    selected = my_tree.focus()
+    temp_label.config(text=selected)
 
+# Save Updated Record
+def update_record():
+    pass
+
+# Buttons
+select_button = Button(root, text="Select Records", command=select_record)
+select_button.pack(pady=20)
+
+update_button = Button(root, text="Save Records", command=update_record)
+update_button.pack(pady=20)
 
 # Buttons
 add_rercord = Button(root, text="Add Record",command=add_records)
-add_rercord.pack(pady=20)
+add_rercord.pack(pady=10)
 
 # Remove All
 remove_All = Button(root, text="Remove All",command=remove_all)
@@ -191,6 +209,9 @@ remove_one.pack(pady=10)
 # Remove many Selected
 remove_many = Button(root, text="Remove Many Selected", command=remove_many)
 remove_many.pack(pady=10)
+
+temp_label = Label(root, text="")
+temp_label.pack(pady=20)
 
 
 root.mainloop()
