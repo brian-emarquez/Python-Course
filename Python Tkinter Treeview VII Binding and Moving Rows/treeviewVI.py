@@ -7,7 +7,7 @@ from tkinter import ttk
 root = Tk()
 root.title('Python Tkinter Treeview VII Binding and Moving Rows')
 root.iconbitmap('Python Tkinter Treeview VII Binding and Moving Rows/Icons/cocoa.ico')
-root.geometry("500x760") 
+root.geometry("500x800") 
 
 # Add some style
 style = ttk.Style()
@@ -206,8 +206,31 @@ def update_record():
     id_box.delete(0, END)
     topping_box.delete(0, END)
 
+# Create binding click Funtions
+def clicker(e):
+    select_record()
+
+# Move Row up
+def move_up():
+    rows = my_tree.selection()
+    for row in rows:
+        my_tree.move(row, my_tree.parent(row), my_tree.index(row)-1)
+
+# Move Row down
+def move_down():
+    rows = my_tree.selection()
+    for row in reversed(rows):
+        my_tree.move(row, my_tree.parent(row), my_tree.index(row)+1)
 
 # Buttons
+move_up = Button(root, text="Move Up", command=move_up)
+move_up.pack(pady=20)
+
+move_down = Button(root, text="Move Down", command=move_down)
+move_down.pack(pady=10)
+
+
+
 select_button = Button(root, text="Select Records", command=select_record)
 select_button.pack(pady=20)
 
@@ -232,6 +255,10 @@ remove_many.pack(pady=10)
 
 temp_label = Label(root, text="")
 temp_label.pack(pady=20)
+
+# Bindings
+#my_tree.bind("<Double-1>", clicker)
+my_tree.bind("<ButtonRelease-1>", clicker)
 
 
 root.mainloop()
