@@ -317,14 +317,14 @@ from tkinter import *
 
 El mensaje de un commit consiste en 3 diferentes partes separadas por una linea en blanco: el titulo, un cuerpo opcional y un pie opcional. Algo como lo siguiente:-
 
-#--------------------------------------------------------------------#
-#  TYPE : SUBJECT                                                    #   
-#                                                                    #   
-#  BODY                                                              #
-#                                                                    #
-#  FOOTER                                                            #
-#--------------------------------------------------------------------#
 
+|--------------------------------------------------------------|
+| TYPE : SUBJECT                                               |
+|                                                              |
+| BODDY                                                        |
+|                                                              | 
+| FOOTER                                                       |                                               
+|--------------------------------------------------------------|
 
 
 ## A. I Programming with Python 🤖
