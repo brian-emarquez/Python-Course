@@ -315,16 +315,18 @@ from tkinter import *
 
  - Estructura del Mensaje
 
-El mensaje de un commit consiste en 3 diferentes partes separadas por una linea en blanco: el titulo, un cuerpo opcional y un pie opcional. Algo como lo siguiente:-
+El mensaje de un commit consiste en 3 diferentes partes separadas por una linea en blanco: el titulo, un cuerpo opcional y un pie opcional. Algo como lo siguiente:
 
 
+| Estructura                                                   |            
 |--------------------------------------------------------------|
-| TYPE : SUBJECT                                               |
-|                                                              |
-| BODDY                                                        |
-|                                                              | 
-| FOOTER                                                       |                                               
+| TYPE: SUBJECT                                                |  
+|                                                              |        
+| BODDY                                                        |        
+|                                                              |     
+| FOOTER        |  
 |--------------------------------------------------------------|
+
 
 
 ## A. I Programming with Python 🤖
