@@ -1,12 +1,12 @@
-# Python Tkinter Treeview III Color and Style
+# Python Tkinter Treeview IV Striped Rows
 # Vista de árbol de Python Tkinter
 
 from tkinter import *
 from tkinter import ttk
 
 root = Tk()
-root.title('Python Tkinter Treeview III Color and Style')
-root.iconbitmap('Python Tkinter Treeview III Color and Style/Icons/cocoa.ico')
+root.title('Python Tkinter Treeview IV Striped Rows')
+root.iconbitmap('Python Tkinter Treeview IV Striped Rows/Icons/cocoa.ico')
 root.geometry("500x600") 
 
 # Add some style
@@ -52,12 +52,28 @@ data = [
     ["Mary", 2, "Cheese"],
     ["Tim", 3, "Mushroom"],
     ["Erin", 4, "Ham"],
-    ["Bob", 5, "Orion"]
+    ["Bob", 5, "Orion"],
+    ["Steve", 6, "Peppers"],
+    ["Tina", 7, "Cheese"],
+    ["Mark", 8, "Supreme"],
+    ["Ruth", 9, "Vegan"]
 ]
 
+# Create striped row tags
+my_tree.tag_configure('oddrow', background="white")
+my_tree.tag_configure('evenrow', background="lightblue")
+
+global count
 count = 0
+
 for record in data:
-    my_tree.insert(parent='', index='end', iid=count, text="", values=(record[0], record[1], record[2] ))
+    if count % 2 == 0:
+
+        my_tree.insert(parent='', index='end', iid=count, text="", values=(record[0], record[1], record[2]), tags=('evenrow',))
+    else:
+
+        my_tree.insert(parent='', index='end', iid=count, text="", values=(record[0], record[1], record[2]), tags=('oddrow',))
+
     count +=1
 
 '''
@@ -100,9 +116,16 @@ topping_box.grid(row=1, column=2)
 
 # Add Records
 def add_records():
+
+    my_tree.tag_configure('oddrow', background="white")
+    my_tree.tag_configure('evenrow', background="lightblue")
+
     global count
-    
-    my_tree.insert(parent='', index='end', iid=count, text="", values=(name_box.get(), id_box.get(), topping_box.get()))
+    if count % 2 == 0:
+        my_tree.insert(parent='', index='end', iid=count, text="", values=(name_box.get(), id_box.get(), topping_box.get()),  tags=('evenrow',))
+    else:
+        my_tree.insert(parent='', index='end', iid=count, text="", values=(name_box.get(), id_box.get(), topping_box.get()),  tags=('oddrow',))
+
     count +=1
 
     # Clear the boxes
