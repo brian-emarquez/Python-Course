@@ -159,10 +159,16 @@ _Instalar Pygame_
 pip install pygame
 ```
 
-_Instalar openpyxl_
+_Instalar Openpyxl_
 
 ```
 pip install openpyxl
+```
+
+_Instalar Pandas_
+
+```
+pip install pandas
 ```
 
 ## Historia 📖
