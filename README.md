@@ -346,8 +346,9 @@ Fundamentos esenciales de la IA: las herramientas de programación (Python, NumP
 
 ![IA](./Images/python2.jpg)
 
-![IA](./Images/IA.jpg)
-
 ## Spotify
 Music Python [List on Spotify](https://open.spotify.com/playlist/11AwbhmXyh2jKlsHmaxcP9)
+
+<div align="center"><img src="./Images/IA.jpg"></div>
+
 
