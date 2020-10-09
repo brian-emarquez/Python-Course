@@ -344,7 +344,9 @@ El mensaje de un commit consiste en 3 diferentes partes separadas por una linea 
 
 Fundamentos esenciales de la IA: las herramientas de programación (Python, NumPy, PyTorch), las matemáticas (cálculo y álgebra lineal) y las técnicas clave de las redes neuronales (descenso de gradiente y propagación hacia atrás).
 
-![python](./Images/python2.jpg)
+![IA](./Images/python2.jpg)
+
+![IA](./Images/IA.jpg)
 
 ## Spotify
 Music Python [List on Spotify](https://open.spotify.com/playlist/11AwbhmXyh2jKlsHmaxcP9)
