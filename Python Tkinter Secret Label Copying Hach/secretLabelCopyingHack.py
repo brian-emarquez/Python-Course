@@ -1,4 +1,4 @@
-# Python Tkinter Secret Label Copying Hach
+# Python Tkinter Secret Label Copying Hack
 # Copia de etiqueta secreta de Python Tkinter Hach
 
 from tkinter import *
@@ -28,6 +28,5 @@ my_entry.insert(0, "This is cool label 2")
 my_entry.config(state="readonly")
 
 my_entry.pack(pady=20)
-
 
 root.mainloop()
