@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/github/forks/BrianMarquez3/Python-Course.svg?style=flat" alt="Forks">
   </a>
   <a>
-    <img src="https://img.shields.io/badge/Next%20Release-Aug%2017-green">
+      <img src="https://img.shields.io/badge/Next%20Release-Set%2020-green">
   </a>
   
 </p>
@@ -344,8 +344,11 @@ El mensaje de un commit consiste en 3 diferentes partes separadas por una linea 
 
 Fundamentos esenciales de la IA: las herramientas de programación (Python, NumPy, PyTorch), las matemáticas (cálculo y álgebra lineal) y las técnicas clave de las redes neuronales (descenso de gradiente y propagación hacia atrás).
 
-![python](./Images/python2.jpg)
+![IA](./Images/python2.jpg)
 
 ## Spotify
 Music Python [List on Spotify](https://open.spotify.com/playlist/11AwbhmXyh2jKlsHmaxcP9)
+
+<div align="center"><img src="./Images/IA.jpg"></div>
+
 
