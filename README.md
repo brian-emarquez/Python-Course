@@ -352,7 +352,35 @@ pip install jupyter
 ```
 jupyter notebook
 ```
+- Instalar Temas
 
+```
+pip install jupyterthemes
+```
+
+- Actualizar Jupyter
+
+```
+pip install --upgrade jupyterthemes
+```
+
+```
+pip install --upgrade notebook
+```
+
+- Seleccionar un Tema
+
+Mostar listado
+
+```
+jt -l
+```
+
+Seleccionar
+
+```
+jt -t
+```
 
 ## A. I Programming with Python 🤖
 
