@@ -341,6 +341,8 @@ El mensaje de un commit consiste en 3 diferentes partes separadas por una linea 
 
 ## Install Jupyter Notebook
 
+![python](./Images/jupyter.png)
+
 ```
 pip install jupyter
 ```
