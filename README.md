@@ -177,7 +177,7 @@ _Instalar xlrd_
 pip install xlrd
 ```
 
-_Instalar Jupyter
+_Instalar Jupyter_
 
 ```
 pip install jupyter
