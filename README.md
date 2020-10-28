@@ -177,6 +177,12 @@ _Instalar xlrd_
 pip install xlrd
 ```
 
+_Instalar Jupyter
+
+```
+pip install jupyter
+```
+
 ## Historia 📖
 Python fue creado a finales de los ochenta por Guido van Rossum en el Centro para las Matemáticas y la Informática (CWI, Centrum Wiskunde & Informatica), en los Países Bajos, como un sucesor del lenguaje de programación ABC, capaz de manejar excepciones e interactuar con el sistema operativo Amoeba.
 
@@ -379,7 +385,7 @@ jt -l
 Seleccionar
 
 ```
-jt -t
+jt -t nombretema
 ```
 
 ## A. I Programming with Python 🤖
