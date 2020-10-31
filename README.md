@@ -377,16 +377,6 @@ Resolves: #123
 See also: #456, #789
 ```
 
-
-- Bullet points are okay, too 
-- Typically a hyphen or asterisk is used for the bullet, preceded by a 
-single space, with blank lines in between, but conventions vary here
-
-If you use an issue tracker, put references to them at the bottom, like this:
-
-Resolves: #123 
-See also: #456, #789
-
 ## Install Jupyter Notebook
 
 ![python](./Images/jupyter.png)
