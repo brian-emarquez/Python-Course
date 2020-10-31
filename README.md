@@ -189,10 +189,16 @@ _Instalar Freeze_
 pip install freeze
 ```
 
-_Instalar Freese_
+_Instalar pyqt5_
 
 ```
 pip install pyqt5
+```
+
+_Instalar pyside2_
+
+```
+pip install pyside2
 ```
 
 ## Historia 📖
@@ -454,7 +460,6 @@ Qt Designer es una herramienta para crear rápidamente interfaces gráficas de u
  cd Scripts
  activate
  python --version
-
  ```
 
   - Librerias
@@ -471,6 +476,11 @@ _Instalar Freese_
 pip install pyqt5
 ```
 
+_Instalar pyside2_
+
+```
+pip install pyside2
+```
 
 ![python](./Images/QtDesigner2.png)
 
