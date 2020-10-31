@@ -183,6 +183,12 @@ _Instalar Jupyter_
 pip install jupyter
 ```
 
+_Instalar Freese_
+
+```
+pip install freeze
+```
+
 ## Historia 📖
 Python fue creado a finales de los ochenta por Guido van Rossum en el Centro para las Matemáticas y la Informática (CWI, Centrum Wiskunde & Informatica), en los Países Bajos, como un sucesor del lenguaje de programación ABC, capaz de manejar excepciones e interactuar con el sistema operativo Amoeba.
 
@@ -428,6 +434,24 @@ jt -t nombretema
 Qt Designer es una herramienta para crear rápidamente interfaces gráficas de usuario con widgets del marco Qt GUI . Le brinda una interfaz simple de arrastrar y soltar para diseñar componentes como botones, campos de texto, cuadros combinados y más. Aquí hay una captura de pantalla de Qt Designer en Windows.
 
 [Qt Designer Download](https://build-system.fman.io/qt-designer-download)
+
+- Crear Entorno
+
+ ```
+ python -m venv entornoQt
+ ``` 
+
+- Ingreso al Entorno
+
+ ```
+ cd entornoQt
+ cd Scripts
+ activate
+ python --version
+
+
+
+ ```
 
 
 ![python](./Images/QtDesigner2.png)
