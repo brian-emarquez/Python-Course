@@ -453,7 +453,7 @@ Qt Designer es una herramienta para crear rápidamente interfaces gráficas de u
  python -m venv entornoQt
  ``` 
 
-- Ingreso al Entorno
+- Ingreso al Entorno(steps)
 
 [`cd entornoQt`](https://github.com/BrianMarquez3/Python-Course) <br>
 [`cd Scripts`](https://github.com/BrianMarquez3/Python-Course) <br>
