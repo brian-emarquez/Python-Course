@@ -493,4 +493,3 @@ Music Python [List on Spotify](https://open.spotify.com/playlist/11AwbhmXyh2jKls
 
 <div align="center"><img src="./Images/IA.jpg"></div>
 
-
