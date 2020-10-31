@@ -388,6 +388,15 @@ Seleccionar
 jt -t nombretema
 ```
 
+
+## Qt Designer
+
+![python](./Images/QtDesigner.png)
+
+Qt Designer es una herramienta para crear rápidamente interfaces gráficas de usuario con widgets del marco Qt GUI . Le brinda una interfaz simple de arrastrar y soltar para diseñar componentes como botones, campos de texto, cuadros combinados y más. Aquí hay una captura de pantalla de Qt Designer en Windows:
+
+![python](./Images/QtDesigner2.png)
+
 ## A. I Programming with Python 🤖
 
 Fundamentos esenciales de la IA: las herramientas de programación (Python, NumPy, PyTorch), las matemáticas (cálculo y álgebra lineal) y las técnicas clave de las redes neuronales (descenso de gradiente y propagación hacia atrás).
