@@ -183,10 +183,16 @@ _Instalar Jupyter_
 pip install jupyter
 ```
 
-_Instalar Freese_
+_Instalar Freeze_
 
 ```
 pip install freeze
+```
+
+_Instalar Freese_
+
+```
+pip install pyqt5
 ```
 
 ## Historia 📖
@@ -449,9 +455,21 @@ Qt Designer es una herramienta para crear rápidamente interfaces gráficas de u
  activate
  python --version
 
-
-
  ```
+
+  - Librerias
+
+ _Instalar Freeze_
+
+```
+pip install freeze
+```
+
+_Instalar Freese_
+
+```
+pip install pyqt5
+```
 
 
 ![python](./Images/QtDesigner2.png)
