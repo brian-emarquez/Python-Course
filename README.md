@@ -480,6 +480,16 @@ _Instalar pyside2_
 pip install pyside2
 ```
 
+- Python
+
+```
+pyside2-uic example.iu.ui > ui_example.py
+```
+
+```
+pyuic5 -x example.iu.ui -o ui_example5.py
+```
+
 ![python](./Images/QtDesigner2.png)
 
 ## A. I Programming with Python 🤖
