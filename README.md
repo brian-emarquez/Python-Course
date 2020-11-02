@@ -490,6 +490,10 @@ pyside2-uic example.iu.ui > ui_example.py
 pyuic5 -x example.iu.ui -o ui_example5.py
 ```
 
+```
+pyrcc5 -o source5.py source.qrc
+```
+
 ![python](./Images/QtDesigner2.png)
 
 ## A. I Programming with Python 🤖
