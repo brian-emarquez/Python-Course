@@ -480,7 +480,7 @@ _Instalar pyside2_
 pip install pyside2
 ```
 
-- Python
+- Generate Python
 
 ```
 pyside2-uic example.iu.ui > ui_example.py
@@ -493,6 +493,11 @@ pyuic5 -x example.iu.ui -o ui_example5.py
 ```
 pyrcc5 -o source5.py source.qrc
 ```
+
+```
+pyside2-rcc source.qrc > source2.py
+```
+
 
 ![python](./Images/QtDesigner2.png)
 

@@ -141,8 +141,8 @@ class Ui_registerMain(object):
         self.label_6.setText(_translate("registerMain", "Contraseña"))
         self.lineEdit_6.setPlaceholderText(_translate("registerMain", "************"))
         self.pushButton.setText(_translate("registerMain", "CREAR CUENTA"))
-        
-import source_rc
+
+import source2
 
 
 if __name__ == "__main__":
