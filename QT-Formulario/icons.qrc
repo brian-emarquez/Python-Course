@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="images">
+    <file>images/cancel.png</file>
+    <file>images/check.png</file>
+    <file>images/images.png</file>
+    <file>images/upgrande.png</file>
+  </qresource>
+</RCC>
