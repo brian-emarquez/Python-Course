@@ -7,7 +7,10 @@ BUILD_ICON: pyside2-rcc.exe icons.qrc -o icons_rc.py
 
 # EXTERNAL TOOLS
 
+Build_UI
+C:\Users\brian\AppData\Local\Programs\Python\Python39\Scripts\pyside2-uic.exe
+$FileDirName$ -o $FileNameWithoutExtension$.py
+$FileDir$
+
 BUILD_UI: pyside2-uic.exe formulario.ui -o formulario.py
 BUILD_ICON: pyside2-rcc.exe icons.qrc -o icons_rc.py
-
-
