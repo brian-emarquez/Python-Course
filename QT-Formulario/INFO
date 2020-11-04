@@ -1,6 +1,13 @@
 
 #INFO QT FORMULARIO
 
-pyside2-uic.exe formulario.ui -o formulario.py
-pyside2-rcc.exe icons.qrc -o icons_rc.py
+BUILD_UI: pyside2-uic.exe formulario.ui -o formulario.py
+BUILD_ICON: pyside2-rcc.exe icons.qrc -o icons_rc.py
+
+
+# EXTERNAL TOOLS
+
+BUILD_UI: pyside2-uic.exe formulario.ui -o formulario.py
+BUILD_ICON: pyside2-rcc.exe icons.qrc -o icons_rc.py
+
 

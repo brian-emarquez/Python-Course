@@ -5,4 +5,7 @@
     <file>images/images.png</file>
     <file>images/upgrande.png</file>
   </qresource>
+  <qresource prefix="icons">
+    <file>icons/board.ico</file>
+  </qresource>
 </RCC>

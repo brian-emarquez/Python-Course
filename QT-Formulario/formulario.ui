@@ -13,6 +13,10 @@
   <property name="windowTitle">
    <string>QT-Formulario</string>
   </property>
+  <property name="windowIcon">
+   <iconset resource="icons.qrc">
+    <normaloff>:/icons/icons/board.ico</normaloff>:/icons/icons/board.ico</iconset>
+  </property>
   <widget class="QWidget" name="centralwidget">
    <layout class="QGridLayout" name="gridLayout">
     <item row="0" column="0">
