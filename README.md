@@ -497,9 +497,14 @@ pyrcc5 -o source5.py source.qrc
 ```
 pyside2-rcc source.qrc > source2.py
 ```
-
+- Home
 
 ![python](./Images/QtDesigner2.png)
+
+- Example
+
+![python](./Images/qt.png)
+
 
 ## A. I Programming with Python 🤖
 
