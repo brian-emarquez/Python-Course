@@ -36,6 +36,10 @@ class MyQtApp(formulario.Ui_MainWindow, QtWidgets.QMainWindow):
             QtWidgets.QMessageBox.about(self,"Name Requiered", "Hey ! fill the name")
             return
         photo = self.photo_LE.text()
+        if not photo:
+            QtWidgets.QMessageBox.about(self,"Photo Requiered", "Hey ! select photo")
+            return
+        QtWidgets.QMessageBox.about(self, "Done", "Submitted")
 
     # show archive route
     def select_photo(self):
