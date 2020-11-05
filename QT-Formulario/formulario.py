@@ -48,20 +48,20 @@ class Ui_MainWindow(object):
         self.frame_4.setFrameShadow(QFrame.Raised)
         self.gridLayout_4 = QGridLayout(self.frame_4)
         self.gridLayout_4.setObjectName(u"gridLayout_4")
-        self.treeWidget = QTreeWidget(self.frame_4)
-        QTreeWidgetItem(self.treeWidget)
-        QTreeWidgetItem(self.treeWidget)
-        QTreeWidgetItem(self.treeWidget)
-        QTreeWidgetItem(self.treeWidget)
-        QTreeWidgetItem(self.treeWidget)
-        QTreeWidgetItem(self.treeWidget)
-        QTreeWidgetItem(self.treeWidget)
-        QTreeWidgetItem(self.treeWidget)
-        QTreeWidgetItem(self.treeWidget)
-        QTreeWidgetItem(self.treeWidget)
-        self.treeWidget.setObjectName(u"treeWidget")
+        self.my_treeWidget = QTreeWidget(self.frame_4)
+        QTreeWidgetItem(self.my_treeWidget)
+        QTreeWidgetItem(self.my_treeWidget)
+        QTreeWidgetItem(self.my_treeWidget)
+        QTreeWidgetItem(self.my_treeWidget)
+        QTreeWidgetItem(self.my_treeWidget)
+        QTreeWidgetItem(self.my_treeWidget)
+        QTreeWidgetItem(self.my_treeWidget)
+        QTreeWidgetItem(self.my_treeWidget)
+        QTreeWidgetItem(self.my_treeWidget)
+        QTreeWidgetItem(self.my_treeWidget)
+        self.my_treeWidget.setObjectName(u"my_treeWidget")
 
-        self.gridLayout_4.addWidget(self.treeWidget, 0, 0, 1, 1)
+        self.gridLayout_4.addWidget(self.my_treeWidget, 0, 0, 1, 1)
 
 
         self.gridLayout_5.addWidget(self.frame_4, 0, 0, 1, 1)
@@ -191,22 +191,22 @@ class Ui_MainWindow(object):
         MainWindow.setWindowTitle(QCoreApplication.translate("MainWindow", u"QT-Formulario", None))
         self.actionClose.setText(QCoreApplication.translate("MainWindow", u"Close", None))
         self.actionReloaded.setText(QCoreApplication.translate("MainWindow", u"Reloaded", None))
-        ___qtreewidgetitem = self.treeWidget.headerItem()
+        ___qtreewidgetitem = self.my_treeWidget.headerItem()
         ___qtreewidgetitem.setText(2, QCoreApplication.translate("MainWindow", u"New Column", None));
         ___qtreewidgetitem.setText(1, QCoreApplication.translate("MainWindow", u"New Column", None));
         ___qtreewidgetitem.setText(0, QCoreApplication.translate("MainWindow", u"New Column", None));
 
-        __sortingEnabled = self.treeWidget.isSortingEnabled()
-        self.treeWidget.setSortingEnabled(False)
-        ___qtreewidgetitem1 = self.treeWidget.topLevelItem(1)
+        __sortingEnabled = self.my_treeWidget.isSortingEnabled()
+        self.my_treeWidget.setSortingEnabled(False)
+        ___qtreewidgetitem1 = self.my_treeWidget.topLevelItem(1)
         ___qtreewidgetitem1.setText(0, QCoreApplication.translate("MainWindow", u"New Item", None));
-        ___qtreewidgetitem2 = self.treeWidget.topLevelItem(2)
+        ___qtreewidgetitem2 = self.my_treeWidget.topLevelItem(2)
         ___qtreewidgetitem2.setText(0, QCoreApplication.translate("MainWindow", u"New Item", None));
-        ___qtreewidgetitem3 = self.treeWidget.topLevelItem(3)
+        ___qtreewidgetitem3 = self.my_treeWidget.topLevelItem(3)
         ___qtreewidgetitem3.setText(0, QCoreApplication.translate("MainWindow", u"New Item", None));
-        ___qtreewidgetitem4 = self.treeWidget.topLevelItem(4)
+        ___qtreewidgetitem4 = self.my_treeWidget.topLevelItem(4)
         ___qtreewidgetitem4.setText(0, QCoreApplication.translate("MainWindow", u"New Item", None));
-        self.treeWidget.setSortingEnabled(__sortingEnabled)
+        self.my_treeWidget.setSortingEnabled(__sortingEnabled)
 
 
         __sortingEnabled1 = self.listWidget.isSortingEnabled()

@@ -38,7 +38,7 @@
          </property>
          <layout class="QGridLayout" name="gridLayout_4">
           <item row="0" column="0">
-           <widget class="QTreeWidget" name="treeWidget">
+           <widget class="QTreeWidget" name="my_treeWidget">
             <column>
              <property name="text">
               <string>New Column</string>
