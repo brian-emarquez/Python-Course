@@ -229,7 +229,7 @@
              </widget>
             </item>
             <item>
-             <widget class="QLineEdit" name="lineEdit">
+             <widget class="QLineEdit" name="name_LE">
               <property name="placeholderText">
                <string/>
               </property>
@@ -247,7 +247,7 @@
              </widget>
             </item>
             <item>
-             <widget class="QComboBox" name="comboBox">
+             <widget class="QComboBox" name="gender_CB">
               <item>
                <property name="text">
                 <string>Male</string>
@@ -272,7 +272,7 @@
              </widget>
             </item>
             <item>
-             <widget class="QLineEdit" name="lineEdit_2"/>
+             <widget class="QLineEdit" name="photo_LE"/>
             </item>
             <item>
              <widget class="QToolButton" name="toolButton">
@@ -297,7 +297,7 @@
            </spacer>
           </item>
           <item row="3" column="1">
-           <widget class="QPushButton" name="pushButton">
+           <widget class="QPushButton" name="submit_PB">
             <property name="maximumSize">
              <size>
               <width>80</width>

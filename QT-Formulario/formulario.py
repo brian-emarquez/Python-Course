@@ -98,10 +98,10 @@ class Ui_MainWindow(object):
 
         self.horizontalLayout.addWidget(self.label)
 
-        self.lineEdit = QLineEdit(self.frame_2)
-        self.lineEdit.setObjectName(u"lineEdit")
+        self.name_LE = QLineEdit(self.frame_2)
+        self.name_LE.setObjectName(u"name_LE")
 
-        self.horizontalLayout.addWidget(self.lineEdit)
+        self.horizontalLayout.addWidget(self.name_LE)
 
 
         self.gridLayout_3.addLayout(self.horizontalLayout, 0, 0, 1, 2)
@@ -113,12 +113,12 @@ class Ui_MainWindow(object):
 
         self.horizontalLayout_2.addWidget(self.label_2)
 
-        self.comboBox = QComboBox(self.frame_2)
-        self.comboBox.addItem("")
-        self.comboBox.addItem("")
-        self.comboBox.setObjectName(u"comboBox")
+        self.gender_CB = QComboBox(self.frame_2)
+        self.gender_CB.addItem("")
+        self.gender_CB.addItem("")
+        self.gender_CB.setObjectName(u"gender_CB")
 
-        self.horizontalLayout_2.addWidget(self.comboBox)
+        self.horizontalLayout_2.addWidget(self.gender_CB)
 
 
         self.gridLayout_3.addLayout(self.horizontalLayout_2, 1, 0, 1, 2)
@@ -130,10 +130,10 @@ class Ui_MainWindow(object):
 
         self.horizontalLayout_3.addWidget(self.label_3)
 
-        self.lineEdit_2 = QLineEdit(self.frame_2)
-        self.lineEdit_2.setObjectName(u"lineEdit_2")
+        self.photo_LE = QLineEdit(self.frame_2)
+        self.photo_LE.setObjectName(u"photo_LE")
 
-        self.horizontalLayout_3.addWidget(self.lineEdit_2)
+        self.horizontalLayout_3.addWidget(self.photo_LE)
 
         self.toolButton = QToolButton(self.frame_2)
         self.toolButton.setObjectName(u"toolButton")
@@ -147,15 +147,15 @@ class Ui_MainWindow(object):
 
         self.gridLayout_3.addItem(self.horizontalSpacer, 3, 0, 1, 1)
 
-        self.pushButton = QPushButton(self.frame_2)
-        self.pushButton.setObjectName(u"pushButton")
-        self.pushButton.setMaximumSize(QSize(80, 16777215))
+        self.submit_PB = QPushButton(self.frame_2)
+        self.submit_PB.setObjectName(u"submit_PB")
+        self.submit_PB.setMaximumSize(QSize(80, 16777215))
         icon3 = QIcon()
         icon3.addFile(u":/images/images/check.png", QSize(), QIcon.Normal, QIcon.Off)
-        self.pushButton.setIcon(icon3)
-        self.pushButton.setIconSize(QSize(13, 13))
+        self.submit_PB.setIcon(icon3)
+        self.submit_PB.setIconSize(QSize(13, 13))
 
-        self.gridLayout_3.addWidget(self.pushButton, 3, 1, 1, 1)
+        self.gridLayout_3.addWidget(self.submit_PB, 3, 1, 1, 1)
 
         self.verticalSpacer = QSpacerItem(20, 40, QSizePolicy.Minimum, QSizePolicy.Expanding)
 
@@ -224,14 +224,14 @@ class Ui_MainWindow(object):
         self.listWidget.setSortingEnabled(__sortingEnabled1)
 
         self.label.setText(QCoreApplication.translate("MainWindow", u"Name:", None))
-        self.lineEdit.setPlaceholderText("")
+        self.name_LE.setPlaceholderText("")
         self.label_2.setText(QCoreApplication.translate("MainWindow", u"Gender:", None))
-        self.comboBox.setItemText(0, QCoreApplication.translate("MainWindow", u"Male", None))
-        self.comboBox.setItemText(1, QCoreApplication.translate("MainWindow", u"Female", None))
+        self.gender_CB.setItemText(0, QCoreApplication.translate("MainWindow", u"Male", None))
+        self.gender_CB.setItemText(1, QCoreApplication.translate("MainWindow", u"Female", None))
 
         self.label_3.setText(QCoreApplication.translate("MainWindow", u"Photo", None))
         self.toolButton.setText(QCoreApplication.translate("MainWindow", u"...", None))
-        self.pushButton.setText(QCoreApplication.translate("MainWindow", u" Submit", None))
+        self.submit_PB.setText(QCoreApplication.translate("MainWindow", u" Submit", None))
         self.menuMenu.setTitle(QCoreApplication.translate("MainWindow", u"Menu", None))
     # retranslateUi
 
