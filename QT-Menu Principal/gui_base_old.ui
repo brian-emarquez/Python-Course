@@ -169,7 +169,7 @@ border: 0 px solid;</string>
         <number>0</number>
        </property>
        <item>
-        <widget class="QFrame" name="frame_lecft_menu">
+        <widget class="QFrame" name="frame_left_menu">
          <property name="maximumSize">
           <size>
            <width>70</width>
@@ -201,7 +201,7 @@ border: 0 px solid;</string>
           <property name="bottomMargin">
            <number>0</number>
           </property>
-          <item>
+          <item alignment="Qt::AlignTop">
            <widget class="QFrame" name="frame_top__menus">
             <property name="frameShape">
              <enum>QFrame::NoFrame</enum>
@@ -209,17 +209,32 @@ border: 0 px solid;</string>
             <property name="frameShadow">
              <enum>QFrame::Raised</enum>
             </property>
-            <widget class="QPushButton" name="Btn_Menu_1">
-             <property name="geometry">
-              <rect>
-               <x>0</x>
-               <y>20</y>
-               <width>75</width>
-               <height>23</height>
-              </rect>
+            <layout class="QVBoxLayout" name="verticalLayout_4">
+             <property name="spacing">
+              <number>0</number>
              </property>
-             <property name="styleSheet">
-              <string notr="true">QPushButton {
+             <property name="leftMargin">
+              <number>0</number>
+             </property>
+             <property name="topMargin">
+              <number>0</number>
+             </property>
+             <property name="rightMargin">
+              <number>0</number>
+             </property>
+             <property name="bottomMargin">
+              <number>0</number>
+             </property>
+             <item>
+              <widget class="QPushButton" name="Btn_Menu_2">
+               <property name="minimumSize">
+                <size>
+                 <width>0</width>
+                 <height>40</height>
+                </size>
+               </property>
+               <property name="styleSheet">
+                <string notr="true">QPushButton {
 	color: rgb(255, 255, 255);
 	background-color: rgb(35, 35, 35);
 	border: 0px solid;
@@ -228,11 +243,61 @@ QPushButton:hover{
 	
 	background-color: rgb(85, 170, 255);
 }</string>
-             </property>
-             <property name="text">
-              <string>Menu 1</string>
-             </property>
-            </widget>
+               </property>
+               <property name="text">
+                <string>Menu 1</string>
+               </property>
+              </widget>
+             </item>
+             <item>
+              <widget class="QPushButton" name="Btn_Menu_1">
+               <property name="minimumSize">
+                <size>
+                 <width>0</width>
+                 <height>40</height>
+                </size>
+               </property>
+               <property name="styleSheet">
+                <string notr="true">QPushButton {
+	color: rgb(255, 255, 255);
+	background-color: rgb(35, 35, 35);
+	border: 0px solid;
+}
+QPushButton:hover{
+	
+	background-color: rgb(85, 170, 255);
+}</string>
+               </property>
+               <property name="text">
+                <string>Menu 1</string>
+               </property>
+              </widget>
+             </item>
+             <item>
+              <widget class="QPushButton" name="Btn_Menu_3">
+               <property name="minimumSize">
+                <size>
+                 <width>0</width>
+                 <height>40</height>
+                </size>
+               </property>
+               <property name="styleSheet">
+                <string notr="true">QPushButton {
+	color: rgb(255, 255, 255);
+	background-color: rgb(35, 35, 35);
+	border: 0px solid;
+}
+QPushButton:hover{
+	
+	background-color: rgb(85, 170, 255);
+}</string>
+               </property>
+               <property name="text">
+                <string>Menu 1</string>
+               </property>
+              </widget>
+             </item>
+            </layout>
            </widget>
           </item>
          </layout>
@@ -240,6 +305,12 @@ QPushButton:hover{
        </item>
        <item>
         <widget class="QFrame" name="frame_pages">
+         <property name="minimumSize">
+          <size>
+           <width>0</width>
+           <height>0</height>
+          </size>
+         </property>
          <property name="frameShape">
           <enum>QFrame::StyledPanel</enum>
          </property>
