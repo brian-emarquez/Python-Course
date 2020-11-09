@@ -505,12 +505,16 @@ pyside2-rcc source.qrc > source2.py
 
 ![python](./Images/qt.png)
 
-- BUILD_UI:
+- BUILD_UI
 
 ```
 pyside2-uic.exe formulario.ui -o formulario.py
 ```
-
+- BUILD_ICON
+ 
+```
+pyside2-rcc.exe icons.qrc -o icons_rc.py
+```
 
 ## A. I Programming with Python 🤖
 
