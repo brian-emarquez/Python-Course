@@ -10,6 +10,11 @@ root.title('Python Tkinter Tile Matching Game II')
 root.iconbitmap('Python Tkinter Tile Matching Game II/icons/icons.ico')
 root.geometry("500x550") 
 
+
+global winner
+# set winner counter to 0
+winner = 0
+
 #create our matches
 matches = [1,1,2,2,3,3,4,4,5,5,6,6] 
 
@@ -18,9 +23,25 @@ count = 0
 answer_list = []
 answer_dict = {}
 
+# Shuffle our matches
+random.shuffle(matches)
+
+#print(matches)
+
+#Create button Frame
+my_frame = Frame(root)
+my_frame.pack(pady=10)
+
+# Create winner fution
+def win():
+    my_label.config(text="Congratulations! you win!!")
+    button_list = [b0,b1,b2,b3,b4,b5,b6,b7,b8,b9,b10,b11]
+    # Loop thru button
+
+
 #Function fir cliching buttons
 def button_click(b, number):
-    global count, answer_list, answer_dict  
+    global count, answer_list, answer_dict , winner 
 
     if b["text"] == ' ' and count < 2:
         b["text"] = matches[number]
@@ -30,9 +51,9 @@ def button_click(b, number):
         answer_dict[b] = matches[number]
         # Increment our Counter
         count += 1
-        print(answer_list)
+        #print(answer_list)
 
-    #Start too determine correct or not
+    # Start too determine correct or not
     if len(answer_list) == 2:
         if matches[answer_list[0]] == matches[answer_list[1]]:
             my_label.config(text="MATCH!")
@@ -41,6 +62,11 @@ def button_click(b, number):
             count = 0
             answer_list = []
             answer_dict = {}
+            # Increment our winner counters
+            winner += 1
+            if winner ==6:
+                win
+
         else:
             my_label.config(text="DOH!")
             count = 0
@@ -56,14 +82,7 @@ def button_click(b, number):
 
 
 
-# Shuffle our matches
-random.shuffle(matches)
 
-#print(matches)
-
-#Create button Frame
-my_frame = Frame(root)
-my_frame.pack(pady=10)
 
 #Define out buttons
 b0 = Button(my_frame, text=' ', font=("Helvetica", 20), height=3, width=6, command=lambda : button_click(b0, 0))
