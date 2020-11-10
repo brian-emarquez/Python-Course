@@ -329,7 +329,7 @@ QPushButton:hover{
             <widget class="QWidget" name="page_1">
              <layout class="QVBoxLayout" name="verticalLayout_6">
               <item>
-               <widget class="QLabel" name="label">
+               <widget class="QLabel" name="label_1">
                 <property name="font">
                  <font>
                   <pointsize>40</pointsize>
@@ -362,6 +362,28 @@ QPushButton:hover{
                 </property>
                 <property name="text">
                  <string>PAGE 2</string>
+                </property>
+                <property name="alignment">
+                 <set>Qt::AlignCenter</set>
+                </property>
+               </widget>
+              </item>
+             </layout>
+            </widget>
+            <widget class="QWidget" name="page_3">
+             <layout class="QVBoxLayout" name="verticalLayout_8">
+              <item>
+               <widget class="QLabel" name="label_3">
+                <property name="font">
+                 <font>
+                  <pointsize>40</pointsize>
+                 </font>
+                </property>
+                <property name="styleSheet">
+                 <string notr="true">color: #fff</string>
+                </property>
+                <property name="text">
+                 <string>PAGE 3</string>
                 </property>
                 <property name="alignment">
                  <set>Qt::AlignCenter</set>
