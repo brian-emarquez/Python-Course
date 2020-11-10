@@ -1304,7 +1304,7 @@ class Ui_MainWindow(object):
         self.label_top_info_1.setText(QCoreApplication.translate("MainWindow", u"C:\\Program Files", None))
         self.label_top_info_2.setText(QCoreApplication.translate("MainWindow", u"| INICIO", None))
         self.label_user_icon.setText(QCoreApplication.translate("MainWindow", u"WM", None))
-        self.label_6.setText(QCoreApplication.translate("MainWindow", u"HOME", None))
+        self.label_6.setText(QCoreApplication.translate("MainWindow", u"INICIO", None))
         self.label.setText(QCoreApplication.translate("MainWindow", u"PAGINA VACIA", None))
         self.label_7.setText(QCoreApplication.translate("MainWindow", u"Page Index 0", None))
         self.labelBoxBlenderInstalation.setText(QCoreApplication.translate("MainWindow", u"BLENDER INSTALLATION", None))
