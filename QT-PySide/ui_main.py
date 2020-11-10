@@ -1,19 +1,3 @@
-# -*- coding: utf-8 -*-
-################################################################################
-##
-## BY: WANDERSON M.PIMENTA
-## PROJECT MADE WITH: Qt Designer and PySide2
-## V: 1.0.0
-##
-## This project can be used freely for all uses, as long as they maintain the
-## respective credits only in the Python scripts, any information in the visual
-## interface (GUI) can be modified without any implication.
-##
-## There are limitations on Qt licenses if you want to use your products
-## commercially, I recommend reading them on the official website:
-## https://doc.qt.io/qtforpython/licenses.html
-##
-################################################################################
 
 from PySide2.QtCore import (QCoreApplication, QMetaObject, QObject, QPoint,
     QRect, QSize, QUrl, Qt)
@@ -1317,11 +1301,11 @@ class Ui_MainWindow(object):
         self.btn_close.setToolTip(QCoreApplication.translate("MainWindow", u"Close", None))
 #endif // QT_CONFIG(tooltip)
         self.btn_close.setText("")
-        self.label_top_info_1.setText(QCoreApplication.translate("MainWindow", u"C:\\Program Files\\Blender Foundation\\Blender 2.82", None))
-        self.label_top_info_2.setText(QCoreApplication.translate("MainWindow", u"| HOME", None))
+        self.label_top_info_1.setText(QCoreApplication.translate("MainWindow", u"C:\\Program Files", None))
+        self.label_top_info_2.setText(QCoreApplication.translate("MainWindow", u"| INICIO", None))
         self.label_user_icon.setText(QCoreApplication.translate("MainWindow", u"WM", None))
         self.label_6.setText(QCoreApplication.translate("MainWindow", u"HOME", None))
-        self.label.setText(QCoreApplication.translate("MainWindow", u"Empyt Page - By: Wanderson M. Pimenta", None))
+        self.label.setText(QCoreApplication.translate("MainWindow", u"PAGINA VACIA", None))
         self.label_7.setText(QCoreApplication.translate("MainWindow", u"Page Index 0", None))
         self.labelBoxBlenderInstalation.setText(QCoreApplication.translate("MainWindow", u"BLENDER INSTALLATION", None))
         self.lineEdit.setPlaceholderText(QCoreApplication.translate("MainWindow", u"Your Password", None))
@@ -1388,6 +1372,5 @@ class Ui_MainWindow(object):
         ___qtablewidgetitem23.setText(QCoreApplication.translate("MainWindow", u"Line", None));
         self.tableWidget.setSortingEnabled(__sortingEnabled)
 
-        self.label_credits.setText(QCoreApplication.translate("MainWindow", u"Registered by: Wanderson M. Pimenta", None))
-        self.label_version.setText(QCoreApplication.translate("MainWindow", u"v1.0.0", None))
+        self.label_credits.setText(QCoreApplication.translate("MainWindow", u"Registered", None))
     # retranslateUi
