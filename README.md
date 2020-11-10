@@ -508,12 +508,12 @@ pyside2-rcc source.qrc > source2.py
 - BUILD_UI
 
 ```
-pyside2-uic.exe formulario.ui -o formulario.py
+pyside2-uic.exe example.ui -o example.py
 ```
 - BUILD_ICON
  
 ```
-pyside2-rcc.exe icons.qrc -o icons_rc.py
+pyside2-rcc.exe example1.qrc -o example1_rc.py
 ```
 
 ## A. I Programming with Python 🤖

@@ -40,7 +40,7 @@
      <number>0</number>
     </property>
     <item>
-     <widget class="QFrame" name="top_bar">
+     <widget class="QFrame" name="Top_bar">
       <property name="maximumSize">
        <size>
         <width>16777215</width>
@@ -106,7 +106,7 @@
            <number>0</number>
           </property>
           <item>
-           <widget class="QPushButton" name="Btn_Toogle">
+           <widget class="QPushButton" name="Btn_Toggle">
             <property name="sizePolicy">
              <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
               <horstretch>0</horstretch>
@@ -118,7 +118,7 @@
 border: 0 px solid;</string>
             </property>
             <property name="text">
-             <string>TOOGLE</string>
+             <string>TOGGLE</string>
             </property>
            </widget>
           </item>
@@ -145,7 +145,7 @@ border: 0 px solid;</string>
      </widget>
     </item>
     <item>
-     <widget class="QFrame" name="content">
+     <widget class="QFrame" name="Content">
       <property name="frameShape">
        <enum>QFrame::NoFrame</enum>
       </property>
@@ -208,7 +208,7 @@ border: 0 px solid;</string>
            <number>0</number>
           </property>
           <item alignment="Qt::AlignTop">
-           <widget class="QFrame" name="frame_top__menus">
+           <widget class="QFrame" name="frame_top_menus">
             <property name="frameShape">
              <enum>QFrame::NoFrame</enum>
             </property>
@@ -232,7 +232,7 @@ border: 0 px solid;</string>
               <number>0</number>
              </property>
              <item>
-              <widget class="QPushButton" name="Btn_Menu_2">
+              <widget class="QPushButton" name="btn_page_2">
                <property name="minimumSize">
                 <size>
                  <width>0</width>
@@ -256,7 +256,7 @@ QPushButton:hover{
               </widget>
              </item>
              <item>
-              <widget class="QPushButton" name="Btn_Menu_1">
+              <widget class="QPushButton" name="btn_page_1">
                <property name="minimumSize">
                 <size>
                  <width>0</width>
@@ -280,7 +280,7 @@ QPushButton:hover{
               </widget>
              </item>
              <item>
-              <widget class="QPushButton" name="Btn_Menu_3">
+              <widget class="QPushButton" name="btn_page_3">
                <property name="minimumSize">
                 <size>
                  <width>0</width>
@@ -327,7 +327,7 @@ QPushButton:hover{
           <item>
            <widget class="QStackedWidget" name="Pages_Widget">
             <property name="currentIndex">
-             <number>1</number>
+             <number>0</number>
             </property>
             <widget class="QWidget" name="page"/>
             <widget class="QWidget" name="page_2"/>
