@@ -1,10 +1,3 @@
-################################################################################
-##
-## BY: WANDERSON M.PIMENTA
-## PROJECT MADE WITH: Qt Designer and PySide2
-## V: 1.0.0
-##
-################################################################################
 
 import sys
 import platform
@@ -151,8 +144,8 @@ class MainWindow(QMainWindow):
         self.timer.timeout.connect(lambda: Functions.calculateTime(self))
 
         ## ==> OPEN LINKS
-        self.ui.btn_artstation.clicked.connect(lambda: webbrowser.open('https://www.artstation.com/vfxonfire'))
-        self.ui.btn_gumroad.clicked.connect(lambda: webbrowser.open('https://gumroad.com/blender_addons'))
+        #self.ui.btn_artstation.clicked.connect(lambda: webbrowser.open('https://www.artstation.com/vfxonfire'))
+        #self.ui.btn_gumroad.clicked.connect(lambda: webbrowser.open('https://gumroad.com/blender_addons'))
 
 
         ########################################################################

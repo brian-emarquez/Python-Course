@@ -1547,14 +1547,14 @@ class Ui_MainWindow(object):
         self.label_day_end.setText(QCoreApplication.translate("MainWindow", u"Ends day 05 at 12h, 49 minutes and 6 seconds", None))
         self.label_version_2.setText(QCoreApplication.translate("MainWindow", u"v2.0.0", None))
         self.label_title_bar_top_2.setText(QCoreApplication.translate("MainWindow", u"RENDER TIME CALCULATOR", None))
-        self.label_credits_2.setText(QCoreApplication.translate("MainWindow", u"by: Wanderson M. Pimenta", None))
+        self.label_credits_2.setText(QCoreApplication.translate("MainWindow", u" ", None))
         self.label_credits_3.setText(QCoreApplication.translate("MainWindow", u"A simple application to calculate rendering time estimates.\n"
 "Now in version 2.0.0 it is supported on Mac, Windows and Linux.", None))
-        self.label_title_bar_top_4.setText(QCoreApplication.translate("MainWindow", u"ArtStation:", None))
-        self.btn_artstation.setText(QCoreApplication.translate("MainWindow", u"artstation.com/vfxonfire", None))
-        self.label_title_bar_top_5.setText(QCoreApplication.translate("MainWindow", u"Gumroad:", None))
-        self.btn_gumroad.setText(QCoreApplication.translate("MainWindow", u"gumroad.com/blender_addons", None))
-        self.label_credits.setText(QCoreApplication.translate("MainWindow", u"by: Wanderson M. Pimenta", None))
-        self.label_version.setText(QCoreApplication.translate("MainWindow", u"v2.0.0", None))
+        self.label_title_bar_top_4.setText(QCoreApplication.translate("MainWindow", u"Test 1:", None))
+        self.btn_artstation.setText(QCoreApplication.translate("MainWindow", u" ", None))
+        self.label_title_bar_top_5.setText(QCoreApplication.translate("MainWindow", u"Text 2:", None))
+        self.btn_gumroad.setText(QCoreApplication.translate("MainWindow", u" ", None))
+        self.label_credits.setText(QCoreApplication.translate("MainWindow", u" ", None))
+        self.label_version.setText(QCoreApplication.translate("MainWindow", u"v1.0.0", None))
     # retranslateUi
 
