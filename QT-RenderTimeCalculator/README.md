@@ -11,4 +11,4 @@ pip install pytimeparse
 ```
 
 ### Image 🔧
-![python](./QT-RenderTimeCalculator/Images/123.png)
+![python](./QT-RenderTimeCalculator/images/123.png)
