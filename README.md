@@ -207,6 +207,11 @@ _Instalar PyPDF2_
 pip install PyPDF2
 ```
 
+_Instalar pytimeparse_
+
+```
+pip install pytimeparse
+```
 
 ## Historia 📖
 Python fue creado a finales de los ochenta por Guido van Rossum en el Centro para las Matemáticas y la Informática (CWI, Centrum Wiskunde & Informatica), en los Países Bajos, como un sucesor del lenguaje de programación ABC, capaz de manejar excepciones e interactuar con el sistema operativo Amoeba.
