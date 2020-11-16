@@ -56,7 +56,7 @@ def spin():
         elif pick_number ==1: # Paper
             win_lose_label.config(text="Paper Cover Rock! you lose...")
         elif pick_number ==2: # scissors
-            win_lose_label.config(text="Rock Smashes Scissors! you Win")
+            win_lose_label.config(text="Rock Smashes Scissors! you Win!!!")
 
     # if user pick paper
     if user_choice_value ==1: #paper
