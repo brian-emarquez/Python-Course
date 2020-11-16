@@ -531,6 +531,7 @@ pyside2-rcc.exe example1.qrc -o example1_rc.py
 - Python Menu
 
 ![python](./Images/HOME.png)
+
 ## A. I Programming with Python 🤖
 
 Fundamentos esenciales de la IA: las herramientas de programación (Python, NumPy, PyTorch), las matemáticas (cálculo y álgebra lineal) y las técnicas clave de las redes neuronales (descenso de gradiente y propagación hacia atrás).
