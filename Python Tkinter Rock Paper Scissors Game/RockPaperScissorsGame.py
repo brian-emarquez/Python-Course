@@ -51,8 +51,30 @@ def spin():
 
     # Determine if we won or lost
     if user_choice_value ==0: #Rock
+        if pick_number ==0: 
+            win_lose_label.config(text="Is's A Tie! Spin Again...")
+        elif pick_number ==1: # Paper
+            win_lose_label.config(text="Paper Cover Rock! you lose...")
+        elif pick_number ==2: # scissors
+            win_lose_label.config(text="Rock Smashes Scissors! you Win")
 
+    # if user pick paper
+    if user_choice_value ==1: #paper
+        if pick_number ==1: 
+            win_lose_label.config(text="Is's A Tie! Spin Again...")
+        elif pick_number ==0: # rock
+            win_lose_label.config(text="Paper Cover Rock! you win...")
+        elif pick_number ==2: # scissors
+            win_lose_label.config(text="Scissors Cuts Paper! you lose...")
 
+    # If user Pick scissors
+    if user_choice_value ==2: # scissors
+        if pick_number ==2: 
+            win_lose_label.config(text="Is's A Tie! Spin Again...")
+        elif pick_number ==0: # rock
+            win_lose_label.config(text="Rock smashes scissors! You Lose...")
+        elif pick_number ==1: # peper
+            win_lose_label.config(text="Scisssor Cuts Paper! You Win...")
 
 # Make  our choice
 user_choice = ttk.Combobox(root, value=("Rock", "Paper", "Scissors"))
@@ -64,7 +86,7 @@ spin_button = Button(root, text="Spin!", command=spin)
 spin_button.pack(pady=10)
 
 # Label for showing
-win_lose_label = Label(root, text="", font=("Helvetica", 18))
+win_lose_label = Label(root, text="", font=("Helvetica", 18), bg="white")
 win_lose_label.pack(pady=50)
 
 
