@@ -16,11 +16,11 @@ root.config(bg="white")
 
 # Define our images
 rock = PhotoImage(file='Python Tkinter Rock Paper Scissors Game/images/rock.png')
-#oImage(file='Python Tkinter Rock Paper Scissors Game/images/paper.jpg')
+paper = PhotoImage(file='Python Tkinter Rock Paper Scissors Game/images/paper.png')
 scissors = PhotoImage(file='Python Tkinter Rock Paper Scissors Game/images/scissor.png')
 
 # Add Images to a list
-image_list = [root,  scissors]
+image_list = [root, paper, scissors]
 
 # Pick random number between 0 and 2
 pick_number = randint(0,2)
