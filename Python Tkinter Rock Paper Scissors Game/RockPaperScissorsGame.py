@@ -20,14 +20,24 @@ paper = PhotoImage(file='Python Tkinter Rock Paper Scissors Game/images/paper.pn
 scissors = PhotoImage(file='Python Tkinter Rock Paper Scissors Game/images/scissor.png')
 
 # Add Images to a list
-image_list = [root, paper, scissors]
+image_list = [rock, paper, scissors]
 
 # Pick random number between 0 and 2
 pick_number = randint(0,2)
 
 #throw uo an image when the program starts
-image_label = Label(root, image=image_list[pick_number])
+image_label = Label(root, image=image_list[pick_number], bd=0 )
 image_label.pack(pady=20)
+
+# Create Spin Function
+def spin():
+    pick_number = randint(0,2)
+    image_label.config(image=image_list[pick_number])
+
+# create spin button
+spin_button = Button(root, text="Spin!", command=spin)
+spin_button.pack(pady=10)
+
 
 
 
