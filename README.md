@@ -537,6 +537,8 @@ pyside2-rcc.exe example1.qrc -o example1_rc.py
 
 ## Anaconda
 
+_Anaconda Navigator_
+
 Anaconda es un distribución libre y abierta1​ de los lenguajes Python y R, utilizada en ciencia de datos, y aprendizaje automático (machine learning). Esto incluye procesamiento de grandes volúmenes de información, análisis predictivo y cómputos científicos. Está orientado a simplificar el despliegue y administración de los paquetes de software. [WIKIPEDIA](https://es.wikipedia.org/wiki/Anaconda_(distribuci%C3%B3n_de_Python)).<br>
 
 ![anaconda](./Images/anaconda.png)
