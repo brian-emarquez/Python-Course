@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/github/forks/BrianMarquez3/Python-Course.svg?style=flat" alt="Forks">
   </a>
   <a>
-      <img src="https://img.shields.io/badge/Next%20Release-Set%2020-green">
+      <img src="https://img.shields.io/badge/Next%20Release-Nov%2020-green">
   </a>
   
 </p>
@@ -360,6 +360,7 @@ from tkinter import *
 | Python Tkinter Using Databases                               |      ✔️     | 
 | Python Tkinter Using Frames with Menus                       |      ✔️     | 
 | Python Tkinter Using Icons, Image                            |      ✔️     | 
+| ...                                                          |      ✔️     | 
 
 ## Buenas Practicas En Commits De Git
 
@@ -536,9 +537,9 @@ pyside2-rcc.exe example1.qrc -o example1_rc.py
 
 ## Anaconda
 
-Anaconda es un distribución libre y abierta1​ de los lenguajes Python y R, utilizada en ciencia de datos, y aprendizaje automático (machine learning). Esto incluye procesamiento de grandes volúmenes de información, análisis predictivo y cómputos científicos. Está orientado a simplificar el despliegue y administración de los paquetes de software. [WIKIPEDIA](https://es.wikipedia.org/wiki/Anaconda_(distribuci%C3%B3n_de_Python).<br>
+Anaconda es un distribución libre y abierta1​ de los lenguajes Python y R, utilizada en ciencia de datos, y aprendizaje automático (machine learning). Esto incluye procesamiento de grandes volúmenes de información, análisis predictivo y cómputos científicos. Está orientado a simplificar el despliegue y administración de los paquetes de software. [WIKIPEDIA](https://es.wikipedia.org/wiki/Anaconda_(distribuci%C3%B3n_de_Python)).<br>
 
-![anaconda](./Images/hero.jpg)
+![anaconda](./Images/anaconda.png)
 
 📦 [Install Anaconda](https://www.anaconda.com/) Intalador de Anaconda.<br>
 
