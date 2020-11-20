@@ -24,17 +24,19 @@
 
 Python es un lenguaje de programación interpretado cuya filosofía hace hincapié en la legibilidad de su código. Se trata de un lenguaje de programación multiparadigma, ya que soporta orientación a objetos, programación imperativa y, en menor medida, programación funcional. Es un lenguaje interpretado, dinámico y multiplataforma.
 
-Es administrado por la Python Software Foundation. Posee una licencia de código abierto, denominada Python Software Foundation License, que es compatible con la Licencia pública general de GNU a partir de la versión 2.1.1, e incompatible en ciertas versiones anteriores.
+Es administrado por la Python Software Foundation. Posee una licencia de código abierto, denominada Python Software Foundation License, que es compatible con la Licencia pública general de GNU a partir de la versión 2.1.1, e incompatible en ciertas versiones anteriores. [WIKIPEDIA](https://es.wikipedia.org/wiki/Python).<br>
 
 ### Ejemplos
+
+```
+print("Hello, World!")
+```
+
 ```
 >>> 2 + 3
 5
 ```
 
-```
-print("Hello, World!")
-```
 ## Comandos 🧑‍💻
 
 _Verifica la versión de Python_
@@ -224,9 +226,9 @@ En 1991, van Rossum publicó el código de la versión 0.9.0 en alt.sources. En 
 [WIKIPEDIA](https://es.wikipedia.org/wiki/Python).<br>
 
 📦 [Install Python](https://www.python.org/) Instalador de Python.<br>
-📦 [Install Anaconda](https://www.anaconda.com/) Intalador de Anaconda.<br>
+📦 [Install Anaconda](https://www.anaconda.com/) Intalador de Anaconda.<br> [BLOG](https://www.anaconda.com/blog).<br>
 📦 [Install Visual studio Code](https://code.visualstudio.com/) Intalador de Visual Studio Code
-[BLOG](https://www.anaconda.com/blog).<br>
+📦 [Install Pycharm](https://www.jetbrains.com/es-es/pycharm/download/#section=windows) Intalador de Pycharm
 
 
 | Caracteristicas            | Visual Code |   Anaconda   |   
@@ -531,6 +533,15 @@ pyside2-rcc.exe example1.qrc -o example1_rc.py
 - Python Menu
 
 ![python](./Images/HOME.png)
+
+## Anaconda
+
+Anaconda es un distribución libre y abierta1​ de los lenguajes Python y R, utilizada en ciencia de datos, y aprendizaje automático (machine learning). Esto incluye procesamiento de grandes volúmenes de información, análisis predictivo y cómputos científicos. Está orientado a simplificar el despliegue y administración de los paquetes de software. [WIKIPEDIA](https://es.wikipedia.org/wiki/Anaconda_(distribuci%C3%B3n_de_Python).<br>
+
+![anaconda](./Images/hero.jpg)
+
+📦 [Install Anaconda](https://www.anaconda.com/) Intalador de Anaconda.<br>
+
 
 ## A. I Programming with Python 🤖
 
