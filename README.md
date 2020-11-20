@@ -360,7 +360,7 @@ from tkinter import *
 | Python Tkinter Using Databases                               |      ✔️     | 
 | Python Tkinter Using Frames with Menus                       |      ✔️     | 
 | Python Tkinter Using Icons, Image                            |      ✔️     | 
-| ...                                                          |      ✔️     | 
+| . . .                                                        |      ✔️     | 
 
 ## Buenas Practicas En Commits De Git
 
