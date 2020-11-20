@@ -18,7 +18,7 @@
   
 </p>
   
-![python](./Images/python3.png)
+![python](./Images/hero.jpg)
 
 ## ¿Que es Python? 💻
 
