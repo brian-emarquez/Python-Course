@@ -34,7 +34,7 @@ my_button1.pack(pady=20)
 
 
 # Label
-mylabel = Label (root, text="More Big Text", font=bigFont)
+mylabel = Label (root, text="More Big Text", font=mediumFont)
 mylabel.pack(pady=20)
 
 root.mainloop()
