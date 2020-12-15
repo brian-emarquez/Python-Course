@@ -70,6 +70,26 @@ my_list2 = Listbox(my_frame)
 my_list1.grid(row=0, column=0)
 my_list2.grid(row=0, column=1, padx=20)
 
+def list_color(e):
+    my_list2.delete(0, END)
 
+    if my_list1.get(ANCHOR) == "Small":
+        for item in small_colors:
+            my_list2.insert(END, item)
+
+    if my_list1.get(ANCHOR) == "Medium":
+        for item in medium_colors:
+            my_list2.insert(END, item)
+
+    if my_list1.get(ANCHOR) == "Large":
+        for item in large_colors:
+            my_list2.insert(END, item)
+
+#add items to list1
+for item in sizes:
+    my_list1.insert(END, item)
+
+# Bind the Listbox
+my_list1.bind("<<ListboxSelect>>", list_color)
 
 root.mainloop()
