@@ -28,11 +28,11 @@ Es administrado por la Python Software Foundation. Posee una licencia de código
 
 ### Ejemplos
 
-```
+```js
 print("Hello, World!")
 ```
 
-```
+```js
 >>> 2 + 3
 5
 ```
@@ -265,7 +265,7 @@ La programación orientada a objetos (POO, u OOP según sus siglas en inglés) e
 
 Muchos de los objetos prediseñados de los lenguajes de programación actuales permiten la agrupación en bibliotecas o librerías, sin embargo, muchos de estos lenguajes permiten al usuario la creación de sus propias bibliote
 
-```
+```js
 #!/usr/bin/env python3
 import tkinter as tk
 
@@ -372,7 +372,7 @@ El mensaje de un commit consiste en 3 diferentes partes separadas por una linea 
 
 [Udacity Git Commit Message Style Guide](https://udacity.github.io/git-styleguide/)
 
-```
+```js
 type: subject
 
 body
@@ -382,7 +382,7 @@ footer
 
 - Example Commit Message
 
-```
+```js
 feat: Summarize changes in around 50 characters or less
 
 More detailed explanatory text, if necessary. Wrap it to about 72
