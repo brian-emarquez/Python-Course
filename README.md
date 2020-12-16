@@ -1,5 +1,5 @@
 
-<h2 align="center">Python Course - Learn Python &nbsp;:heart:&nbsp;</h2>
+<h2 align="center">Python Course - Learn Python &nbsp;🐍&nbsp;</h2>
 
 <p align="center">
   
@@ -382,7 +382,7 @@ footer
 
 - Example Commit Message
 
-```js
+```
 feat: Summarize changes in around 50 characters or less
 
 More detailed explanatory text, if necessary. Wrap it to about 72
