@@ -23,8 +23,9 @@
 ## Tabla de contenidos
 
 - [Que es Python](#Que-es-Python)
-- [Temario](#temario)
-- [Caracteristicas](#caracteristicas)
+- [Creador](#Creador)
+- [Ejemplos](#Ejemplos)
+- [Comandos](#Comandos)
 - [Ejemplo](#ejemplo)
 - [Tipo de datos](#tipo-de-datos)
 - [Instalacion en Visual Studio Code](#instalacion-en-Visual-Studio-Code)
@@ -40,7 +41,16 @@ Python es un lenguaje de programación interpretado cuya filosofía hace hincapi
 
 Es administrado por la Python Software Foundation. Posee una licencia de código abierto, denominada Python Software Foundation License, que es compatible con la Licencia pública general de GNU a partir de la versión 2.1.1, e incompatible en ciertas versiones anteriores. [WIKIPEDIA](https://es.wikipedia.org/wiki/Python).<br>
 
-### Ejemplos
+## Creador
+
+<h2> Guido van Rossum </h2>
+![python](./Images/guido.jpg)
+
+<p>Guido van Rossum es un informático,1​ conocido por ser el autor del lenguaje de programación Python. Nació y creció en los Países Bajos.
+
+En el ambiente de los desarrolladores del lenguaje Python también se le conoce por el título BDFL (Benevolent Dictator for Life), teniendo asignada la tarea de fijar las directrices sobre la evolución de Python, así como la de tomar decisiones finales sobre el lenguaje que todos los desarrolladores acatan. Van Rossum tiene fama de ser bastante conservador, realizando pocos cambios al lenguaje entre versiones sucesivas, intentando mantener siempre la compatibilidad con versiones anteriores. El 12 de julio de 2018, con un mensaje enviado a la lista de python-committers, anunció su retiro de los procesos de decisión. Desde noviembre del 2020 es parte de la División de Desarrolladores de la empresa Microsoft </p>
+
+## Ejemplos
 
 ```js
 print("Hello, World!")
@@ -51,7 +61,7 @@ print("Hello, World!")
 5
 ```
 
-## Comandos 🧑‍💻
+## Comandos
 
 _Verifica la versión de Python_
 
@@ -229,7 +239,7 @@ _Instalar pytimeparse_
 pip install pytimeparse
 ```
 
-## Historia 📖
+## Historia
 
 Python fue creado a finales de los ochenta por Guido van Rossum en el Centro para las Matemáticas y la Informática (CWI, Centrum Wiskunde & Informatica), en los Países Bajos, como un sucesor del lenguaje de programación ABC, capaz de manejar excepciones e interactuar con el sistema operativo Amoeba.
 
