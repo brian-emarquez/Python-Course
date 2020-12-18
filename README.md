@@ -22,7 +22,7 @@
 
 ## Tabla de contenidos
 
-- [¿Que es Python?](#Que-es-Python)
+- [Que es Python](#Que-es-Python)
 - [Temario](#temario)
 - [Caracteristicas](#caracteristicas)
 - [Ejemplo](#ejemplo)
