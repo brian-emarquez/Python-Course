@@ -20,6 +20,21 @@
   
 ![python](./Images/hero.jpg)
 
+## Tabla de contenidos
+
+- [¿Que es Python?](#¿Que-es-Python?)
+- [Temario](#temario)
+- [Caracteristicas](#caracteristicas)
+- [Ejemplo](#ejemplo)
+- [Tipo de datos](#tipo-de-datos)
+- [Instalacion en Visual Studio Code](#instalacion-en-Visual-Studio-Code)
+- [Intalacion en Visual Studio](#Intalacion-en-Visual-Studio)
+- [Instalacion en Visual Studio C++/CLR](#Instalacion-en-Visual-Studio-C++/CLR)
+- [Play List Spotify](#Spotify)
+- [Book](#book)
+- [Games](#games)
+
+
 ## ¿Que es Python? 💻
 
 Python es un lenguaje de programación interpretado cuya filosofía hace hincapié en la legibilidad de su código. Se trata de un lenguaje de programación multiparadigma, ya que soporta orientación a objetos, programación imperativa y, en menor medida, programación funcional. Es un lenguaje interpretado, dinámico y multiplataforma.
