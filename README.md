@@ -29,12 +29,15 @@
 - [Comandos](#Comandos)
 - [Instalación](#Instalación)
 - [Ramas](#Ramas)
-- [POO (Programación orientada a objetos)](#POO-(Programación-orientada-a-objetos))
-- [Intalacion en Visual Studio](#Intalacion-en-Visual-Studio)
-- [Instalacion en Visual Studio C++/CLR](#Instalacion-en-Visual-Studio-C++/CLR)
+- [POO Programación orientada a objetos](#POO-Programación-orientada-a-objetos)
+- [Interface Grafica TKINTER](#Interface-Grafica-TKINTER)
+- [Buenas Practicas En Commits De Git](#Buenas-Practicas-En-Commits-De-Git)
+- [Install Jupyter Notebook](#Install-Jupyter-Notebook)
+- [QT Designer](#QT-Designer)
+- [Anaconda](#Anaconda)
+- [A I Programming with Python](#A-I-Programming-with-Python)
 - [Play List Spotify](#Spotify)
 - [Book](#book)
-- [Games](#games)
 
 ## Que es Python
 
@@ -275,7 +278,7 @@ pip install pytimeparse
 
 Ver todas las Ramas [Ramas](https://github.com/BrianMarquez3/Python-Course/settings/branches)
 
-## POO (Programación orientada a objetos)
+## POO Programación orientada a objetos
 
 La programación orientada a objetos (POO, u OOP según sus siglas en inglés) es un paradigma de programación que viene a innovar la forma de obtener resultados. Los objetos manipulan los datos de entrada para la obtención de datos de salida específicos, donde cada objeto ofrece una funcionalidad especial.
 
@@ -321,9 +324,7 @@ Los siguientes son los pasos para crear una aplicación Tkinter junto con la sin
 - Luego, agregamos cualquier número de widgets a la ventana del contenedor.
 - Por último, aplicamos el activador de eventos en los widgets.
 
-## Interface Grafica (GUI)
-
-### Tkinter
+## Interface Grafica TKINTER
 
 ![python](./Images/Tkinter-Grid2.jpg)
 <!--![python](./Images/Gui.PNG)-->
@@ -482,7 +483,7 @@ jt -t nombretema
 ```
 
 
-## Qt Designer
+## QT Designer
 
 ![python](./Images/QtDesigner.png)
 
@@ -574,7 +575,7 @@ Anaconda es un distribución libre y abierta1​ de los lenguajes Python y R, ut
 📦 [Install Anaconda](https://www.anaconda.com/) Intalador de Anaconda.<br>
 
 
-## A. I Programming with Python 🤖
+## A I Programming with Python
 
 Fundamentos esenciales de la IA: las herramientas de programación (Python, NumPy, PyTorch), las matemáticas (cálculo y álgebra lineal) y las técnicas clave de las redes neuronales (descenso de gradiente y propagación hacia atrás).
 
@@ -585,3 +586,6 @@ Music Python [List on Spotify](https://open.spotify.com/playlist/11AwbhmXyh2jKls
 
 <div align="center"><img src="./Images/IA.jpg"></div>
 
+## Book
+---
+Download book - [Clean Code- python-crash-course - pythonlearn](https://github.com/BrianMarquez3/Python-Course/tree/master/Book)
