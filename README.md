@@ -22,7 +22,7 @@
 
 ## Tabla de contenidos
 
-- [Bjarne Stroustrup](#bjarne-stroustrup)
+- [Que es Python](#Que-es-Python)
 - [Temario](#temario)
 - [Caracteristicas](#caracteristicas)
 - [Ejemplo](#ejemplo)
