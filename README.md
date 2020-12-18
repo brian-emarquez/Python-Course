@@ -48,6 +48,7 @@ Es administrado por la Python Software Foundation. Posee una licencia de código
 ## Creador
 
 <h2> Guido van Rossum </h2>
+
 ![python](./Images/guido.jpg)
 
 <p>Guido van Rossum es un informático,1​ conocido por ser el autor del lenguaje de programación Python. Nació y creció en los Países Bajos.
