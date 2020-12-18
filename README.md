@@ -24,11 +24,12 @@
 
 - [Que es Python](#Que-es-Python)
 - [Creador](#Creador)
+- [Historia](#historia)
 - [Ejemplos](#Ejemplos)
 - [Comandos](#Comandos)
-- [Ejemplo](#ejemplo)
-- [Tipo de datos](#tipo-de-datos)
-- [Instalacion en Visual Studio Code](#instalacion-en-Visual-Studio-Code)
+- [Instalación](#Instalación)
+- [Ramas](#Ramas)
+- [POO (Programación orientada a objetos)](#POO-(Programación-orientada-a-objetos))
 - [Intalacion en Visual Studio](#Intalacion-en-Visual-Studio)
 - [Instalacion en Visual Studio C++/CLR](#Instalacion-en-Visual-Studio-C++/CLR)
 - [Play List Spotify](#Spotify)
@@ -48,7 +49,18 @@ Es administrado por la Python Software Foundation. Posee una licencia de código
 
 <p>Guido van Rossum es un informático,1​ conocido por ser el autor del lenguaje de programación Python. Nació y creció en los Países Bajos.
 
-En el ambiente de los desarrolladores del lenguaje Python también se le conoce por el título BDFL (Benevolent Dictator for Life), teniendo asignada la tarea de fijar las directrices sobre la evolución de Python, así como la de tomar decisiones finales sobre el lenguaje que todos los desarrolladores acatan. Van Rossum tiene fama de ser bastante conservador, realizando pocos cambios al lenguaje entre versiones sucesivas, intentando mantener siempre la compatibilidad con versiones anteriores. El 12 de julio de 2018, con un mensaje enviado a la lista de python-committers, anunció su retiro de los procesos de decisión. Desde noviembre del 2020 es parte de la División de Desarrolladores de la empresa Microsoft </p>
+En el ambiente de los desarrolladores del lenguaje Python también se le conoce por el título BDFL (Benevolent Dictator for Life), teniendo asignada la tarea de fijar las directrices sobre la evolución de Python, así como la de tomar decisiones finales sobre el lenguaje que todos los desarrolladores acatan. Van Rossum tiene fama de ser bastante conservador, realizando pocos cambios al lenguaje entre versiones sucesivas, intentando mantener siempre la compatibilidad con versiones anteriores. El 12 de julio de 2018, con un mensaje enviado a la lista de python-committers, anunció su retiro de los procesos de decisión. Desde noviembre del 2020 es parte de la División de Desarrolladores de la empresa Microsoft [WIKIPEDIA](https://es.wikipedia.org/wiki/Guido_van_Rossum).<br> </p>
+
+## Historia
+
+Python fue creado a finales de los ochenta por Guido van Rossum en el Centro para las Matemáticas y la Informática (CWI, Centrum Wiskunde & Informatica), en los Países Bajos, como un sucesor del lenguaje de programación ABC, capaz de manejar excepciones e interactuar con el sistema operativo Amoeba.
+
+El nombre del lenguaje proviene de la afición de su creador por los humoristas británicos Monty Python.
+
+Van Rossum es el principal autor de Python, y su continuo rol central en decidir la dirección de Python es reconocido, refiriéndose a él como Benevolente Dictador Vitalicio (en inglés: Benevolent Dictator for Life, BDFL); sin embargo el 12 de julio de 2018 declinó de dicha situación de honor sin dejar un sucesor o sucesora y con una declaración altisonante:
+
+En 1991, van Rossum publicó el código de la versión 0.9.0 en alt.sources. En esta etapa del desarrollo ya estaban presentes clases con herencia, manejo de excepciones, funciones y los tipos modulares, como: str, list, dict, entre otros. Además en este lanzamiento inicial aparecía un sistema de módulos adoptado de Modula-3; van Rossum describe el módulo como «una de las mayores unidades de programación de Python». El modelo de excepciones en Python es parecido al de Modula-3, con la adición de una cláusula else. En el año 1994 se formó comp.lang.python, el foro de discusión principal de Python, marcando un hito en el crecimiento del grupo de usuarios de este lenguaje.
+[WIKIPEDIA](https://es.wikipedia.org/wiki/Python).<br>
 
 ## Ejemplos
 
@@ -239,17 +251,6 @@ _Instalar pytimeparse_
 pip install pytimeparse
 ```
 
-## Historia
-
-Python fue creado a finales de los ochenta por Guido van Rossum en el Centro para las Matemáticas y la Informática (CWI, Centrum Wiskunde & Informatica), en los Países Bajos, como un sucesor del lenguaje de programación ABC, capaz de manejar excepciones e interactuar con el sistema operativo Amoeba.
-
-El nombre del lenguaje proviene de la afición de su creador por los humoristas británicos Monty Python.
-
-Van Rossum es el principal autor de Python, y su continuo rol central en decidir la dirección de Python es reconocido, refiriéndose a él como Benevolente Dictador Vitalicio (en inglés: Benevolent Dictator for Life, BDFL); sin embargo el 12 de julio de 2018 declinó de dicha situación de honor sin dejar un sucesor o sucesora y con una declaración altisonante:
-
-En 1991, van Rossum publicó el código de la versión 0.9.0 en alt.sources. En esta etapa del desarrollo ya estaban presentes clases con herencia, manejo de excepciones, funciones y los tipos modulares, como: str, list, dict, entre otros. Además en este lanzamiento inicial aparecía un sistema de módulos adoptado de Modula-3; van Rossum describe el módulo como «una de las mayores unidades de programación de Python». El modelo de excepciones en Python es parecido al de Modula-3, con la adición de una cláusula else. En el año 1994 se formó comp.lang.python, el foro de discusión principal de Python, marcando un hito en el crecimiento del grupo de usuarios de este lenguaje.
-[WIKIPEDIA](https://es.wikipedia.org/wiki/Python).<br>
-
 ## Instalación
 
 📦 [Install Python](https://www.python.org/) Instalador de Python.<br>
@@ -266,11 +267,11 @@ En 1991, van Rossum publicó el código de la versión 0.9.0 en alt.sources. En 
 | Ciencia de datos           |      ❌     |      ✔️     |  
 | Rapidez                    |      ✔️     |      ✔️     |      
 
-## Notas 📋
+## Notas 
 
-- Puedes utilizar otro editor de codigo pero no tendras soporte. se recomienda usar los editores mensionados. 
+- Puedes utilizar otro editor de código pero no tendrás soporte. se recomienda usar los editores mencionados.
 
-## Ramas 👾
+## Ramas
 
 Ver todas las Ramas [Ramas](https://github.com/BrianMarquez3/Python-Course/settings/branches)
 
