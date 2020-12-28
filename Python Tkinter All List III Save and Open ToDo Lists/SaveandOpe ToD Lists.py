@@ -5,6 +5,8 @@
 
 from tkinter import *
 from tkinter.font import Font
+from tkinter import filedialog
+import pickle
 
 root = Tk()
 root.title("Python Tkinter All List III Save and Open ToDo Lists")
@@ -94,13 +96,59 @@ def delete_crossed():
             count += 1
 
 def save_list():
-    pass
+    file_name = filedialog.asksaveasfilename(
+        initialdir="Python Tkinter All List III Save and Open ToDo Lists/data",
+        title="Save File",
+        filetypes=(
+            ("Dat Files", "*.dat"),
+            ("All Files", "*.*"))
+        )
+    if file_name:
+        if file_name.endswith(".dat"):
+            pass
+        else:
+            file_name = f'{file_name}.dat'   
+
+    # Delete crossed off items before save 
+        count = 0
+        while count < my_list.size():
+            if my_list.itemcget(count, "fg") == "#dedede":
+                my_list.delete(my_list.index(count))
+            else:
+                count += 1
+    # Grab all the stuff from the list
+    stuff = my_list.get(0, END)
+
+    # Open the File
+    output_file = open(file_name, 'wb')
+
+    # Actually add the stuff to the fil
+    pickle.dump(stuff, output_file)
 
 def open_list():
-    pass
+    file_name = filedialog.asksaveasfilename(
+        initialdir="Python Tkinter All List III Save and Open ToDo Lists/data",
+        title="open File",
+        filetypes=(
+            ("Dat Files", "*.dat"),
+            ("All Files", "*.*"))
+        )
+    if file_name:
+        # Delete currently open list
+        my_list.delete(0, END)
+
+        # Open the File
+        input_file = open(file_name, 'rb')
+
+        # load thwe data
+        stuff = pickle.load(input_file)
+
+        #out stuff rto the screen
+        for item in stuff:
+            my_list.insert(END, item)
 
 def clear_list():
-    pass
+    my_list.delete(0, END)
 
 # Create Menu
 my_menu = Menu(root)
