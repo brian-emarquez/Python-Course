@@ -7,8 +7,8 @@ from tkinter import *
 from tkinter import ttk
 
 root = Tk()
-root.title('Pyhton Tkinter Window Resizer Control Panel')
-root.iconbitmap('Pyhton Tkinter Window Resizer Control Panel/icons/resize.ico')
+root.title('Python Tkinter Window Resizer Control Panel')
+root.iconbitmap('Python Tkinter Window Resizer Control Panel/icons/resize.ico')
 root.geometry("300x650") 
 
 # Create launch Function
