@@ -3,7 +3,7 @@
 
 <p align="center">
   
-  <a href="https://github.com/BrianMarquez3/Python-Course/Pyhton Tkinter Window Resizer Control Panel/tags">
+  <a href="https://github.com/BrianMarquez3/Python-Course/Python Tkinter Window Resizer Control Panel/tags">
     <img src="https://img.shields.io/github/tag/BrianMarquez3/Python-Course/Pyhton Tkinter Window Resizer Control Panel.svg?label=version&style=flat" alt="Version">
   </a>
   <a href="https://github.com/BrianMarquez3/Python-Course/Pyhton Tkinter-Window-Resizer-Control-Panel/stargazers">
