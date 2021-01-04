@@ -22,3 +22,11 @@ lambda x,y : x + y
 #Para poder utilizarla necesitamos guardarla en una variable.
 suma_dos = lambda x,y : x + y
 ```
+
+## Aplicación de Lambdas
+
+Quiero darte algunas ideas de dónde se podrían aplicar las Lambdas. A continuación he creado algunos ejemplos aplicando las Lambdas con diferentes objetivos. Así podras entender mejor como funcionan.
+
+## Lambda en Pandas DataFrame con el método apply()
+
+Se me ocurre que podemos aplicar una función Lambda a data cleaning en Pandas con el método apply(), algo que creo nos puede ser de utilidad para evitar crear un bucle que vaya recorriendo todo el DataFrame:
