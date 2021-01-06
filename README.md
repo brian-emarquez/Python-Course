@@ -580,6 +580,13 @@ Anaconda es un distribución libre y abierta1​ de los lenguajes Python y R, ut
 
 Fundamentos esenciales de la IA: las herramientas de programación (Python, NumPy, PyTorch), las matemáticas (cálculo y álgebra lineal) y las técnicas clave de las redes neuronales (descenso de gradiente y propagación hacia atrás).
 
+# Artificial Intelligence
+
+- Neural networks
+
+Las redes neuronales son un modelo de aprendizaje automático que forma parte de paraguas gigante de la Inteligencia Artificial
+
+
 ![IA](./Images/python2.jpg)
 
 ## Spotify
