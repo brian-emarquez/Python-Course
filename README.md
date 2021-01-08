@@ -594,6 +594,9 @@ Music Python [List on Spotify](https://open.spotify.com/playlist/11AwbhmXyh2jKls
 
 <div align="center"><img src="./Images/IA.jpg"></div>
 
+- Curso de Inteligencia Artificial
+[Artificial Intelligence](https://github.com/BrianMarquez3/Artificial-intelligence).<br>
+
 ## Book
 ---
 Download book - [Clean Code- python-crash-course - pythonlearn](https://github.com/BrianMarquez3/Python-Course/tree/master/Book)
