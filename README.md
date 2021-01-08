@@ -589,13 +589,13 @@ Las redes neuronales son un modelo de aprendizaje automático que forma parte de
 
 ![IA](./Images/python2.jpg)
 
+- Curso de Inteligencia Artificial
+[Artificial Intelligence](https://github.com/BrianMarquez3/Artificial-intelligence).<br>
+
 ## Spotify
 Music Python [List on Spotify](https://open.spotify.com/playlist/11AwbhmXyh2jKlsHmaxcP9)
 
 <!--<div align="center"><img src="./Images/IA.jpg"></div>-->
-
-- Curso de Inteligencia Artificial
-[Artificial Intelligence](https://github.com/BrianMarquez3/Artificial-intelligence).<br>
 
 ## Book
 ---
