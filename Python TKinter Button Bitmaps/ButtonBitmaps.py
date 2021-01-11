@@ -37,7 +37,7 @@ list = ["error",
 
 
 for map in list:
-    Button(root, bitmap=map, width=50, height=50, fg="darkblue").pack(pady=20)
+    Button(root, bitmap=map, 338 NN, fg="darkblue").pack(pady=20)
 
 
 
