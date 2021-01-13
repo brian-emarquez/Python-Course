@@ -1,5 +1,5 @@
 
-<h2 align="center">Learn Python Programming 🐍 Learn Python by Building Projects</h2>
+<h2 align="center">Learn Python Programming 🐍 from zero to hero #1, building Projects </h2>
 
 <p align="center">
   
