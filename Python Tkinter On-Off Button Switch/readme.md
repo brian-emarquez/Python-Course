@@ -1,3 +1,3 @@
 ## Python Tkinter On-Off Button Switch
 
-![python](./Images/on-off.gif)
+![python](./images/on-off.gif)
