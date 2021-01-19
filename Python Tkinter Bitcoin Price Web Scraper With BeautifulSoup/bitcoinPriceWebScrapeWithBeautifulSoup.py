@@ -5,12 +5,18 @@
 
 from tkinter import *
 from bs4 import BeautifulSoup
+import urllib
+from urllib import request
+from datetime import datetime
 
 root = Tk()
 root.title('Python Tkinter Bitcoin Price Web Scraper With BeautifulSoup')
 root.iconbitmap('Python Tkinter Bitcoin Price Web Scraper With BeautifulSoup/icons/bitcoin.ico')
 root.geometry("550x210")
 root.config(bg="black")
+
+global previous
+previous = False 
 
 # Create a Frame
 my_frame = Frame(root, bg="black")
@@ -38,12 +44,16 @@ latest_price = Label(my_frame, text="move test",
 latest_price.grid(row=1, column=1, sticky="n")
 
 # Grab the bitcoin Price
+def Update():
 
+    global previous
+    page = urllib.request.urlopen("https://www.coindesk.com/price/bitcoin")
 
+    # Grab bitcoin Prince
 
+    # Set timer to 1 minute
+    root.after(30000, Update)
 
-
-
-
-
+# On program start
+Update()
 root.mainloop()
