@@ -255,6 +255,12 @@ _Instalar pytimeparse_
 pip install pytimeparse
 ```
 
+_BeautifulSoup_
+```
+pip install beautifulsoup4
+
+```
+
 ## Instalación
 
 📦 [Install Python](https://www.python.org/) Instalador de Python.<br>
