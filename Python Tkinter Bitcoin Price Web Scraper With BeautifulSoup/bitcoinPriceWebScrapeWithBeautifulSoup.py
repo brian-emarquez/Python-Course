@@ -54,7 +54,7 @@ def Update():
     page = urllib.request.urlopen("https://www.coindesk.com/price/bitcoin").read()
     html = BeautifulSoup(page, 'html.parser')
     price_large = html.find(class_="price-large")
-    print(price_large)
+    #print(price_large)
     # convert to string so we can slice
     price_large1 = str(price_large)
 
@@ -71,6 +71,9 @@ def Update():
     now = datetime.now()
     current_time = now.strftime("%I:%M:%S %p")
 
+    #Update the status bar
+    status_bar.config(text=f'Last Update: {current_time}   ')
+
     # Determine Price Change
     # grab current Prince
     current = price_large2
@@ -80,8 +83,15 @@ def Update():
 
     if previous:
         if float(previous) > float (current):
-            latest_price.config(text=f'Price Down'{float(previous)}, fg="grey")
+            latest_price.config(
+                text=f'Price Down{round(float(previous)-float(current),2)}', fg="red")
 
+        elif float(previous) == float(current):
+            latest_price.config(text="Price Unchange", fg="grey")
+
+        else:
+            latest_price.config( 
+                text=f'Price Up {round(float(current)-float(previous),2)}', fg="gren")
 
     else:
         previous = current
