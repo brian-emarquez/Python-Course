@@ -259,7 +259,11 @@ pip install pytimeparse
 _BeautifulSoup_
 ```
 pip install beautifulsoup4
+```
 
+_Mysqlclient_
+```
+pip install mysqlclient
 ```
 
 ## Instalación
