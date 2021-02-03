@@ -1,5 +1,5 @@
 
-<h2 align="center">Learn Python Programming 🐍 from Zero to Hero #1 - Building Projects 🖥️</h2>
+<h2 align="center">Learn Python Programming 🐍 from Zero to Hero #1 | Building Projects </h2>
 
 <p align="center">
   
@@ -267,9 +267,9 @@ pip install mysqlclient
 ```
 
 _Django_
-```
+
 [https://www.google.com/search?q=django&oq=django&aqs=chrome.0.69i59l2j69i60l5.838j0j7&sourceid=chrome&ie=UTF-8]
-```
+
 
 ## Instalación
 
