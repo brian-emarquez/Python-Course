@@ -1,5 +1,5 @@
 
-<h2 align="center">Learn Python Programming 🐍 from Zero to Hero #1 - Building Projects 🖥️</h2>
+<h2 align="center">Learn Python Programming 🐍 from Zero to Hero #1 | Building Projects </h2>
 
 <p align="center">
   
@@ -265,6 +265,11 @@ _Mysqlclient_
 ```
 pip install mysqlclient
 ```
+
+_Django_
+
+[https://www.djangoproject.com/download/]
+
 
 ## Instalación
 
@@ -611,3 +616,10 @@ Music Python [List on Spotify](https://open.spotify.com/playlist/11AwbhmXyh2jKls
 ## Book
 ---
 ![python](./Images/paypal.png) Download book - [Clean Code- python-crash-course - pythonlearn](https://github.com/BrianMarquez3/Python-Course/tree/master/Book)
+=======
+Download book - [Clean Code- python-crash-course - pythonlearn](https://github.com/BrianMarquez3/Python-Course/tree/master/Book)
+
+## PAYPAL
+
+![python](./Images/paypal.png)Hacer una donacion [PAYPAL](https://github.com/user/repository/issues/new)
+
