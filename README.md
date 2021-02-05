@@ -40,12 +40,14 @@
 - [Play List Spotify](#Spotify)
 - [Book](#book)
 
+---
 ## Que es Python
 
 Python es un lenguaje de programación interpretado cuya filosofía hace hincapié en la legibilidad de su código. Se trata de un lenguaje de programación multiparadigma, ya que soporta orientación a objetos, programación imperativa y, en menor medida, programación funcional. Es un lenguaje interpretado, dinámico y multiplataforma.
 
 Es administrado por la Python Software Foundation. Posee una licencia de código abierto, denominada Python Software Foundation License, que es compatible con la Licencia pública general de GNU a partir de la versión 2.1.1, e incompatible en ciertas versiones anteriores. [WIKIPEDIA](https://es.wikipedia.org/wiki/Python).<br>
 
+---
 ## Creador
 
 <h2> Guido van Rossum </h2>
@@ -56,6 +58,7 @@ Es administrado por la Python Software Foundation. Posee una licencia de código
 
 En el ambiente de los desarrolladores del lenguaje Python también se le conoce por el título BDFL (Benevolent Dictator for Life), teniendo asignada la tarea de fijar las directrices sobre la evolución de Python, así como la de tomar decisiones finales sobre el lenguaje que todos los desarrolladores acatan. Van Rossum tiene fama de ser bastante conservador, realizando pocos cambios al lenguaje entre versiones sucesivas, intentando mantener siempre la compatibilidad con versiones anteriores. El 12 de julio de 2018, con un mensaje enviado a la lista de python-committers, anunció su retiro de los procesos de decisión. Desde noviembre del 2020 es parte de la División de Desarrolladores de la empresa Microsoft [WIKIPEDIA](https://es.wikipedia.org/wiki/Guido_van_Rossum).<br> </p>
 
+---
 ## Historia
 
 Python fue creado a finales de los ochenta por Guido van Rossum en el Centro para las Matemáticas y la Informática (CWI, Centrum Wiskunde & Informatica), en los Países Bajos, como un sucesor del lenguaje de programación ABC, capaz de manejar excepciones e interactuar con el sistema operativo Amoeba.
@@ -67,7 +70,7 @@ Van Rossum es el principal autor de Python, y su continuo rol central en decidir
 En 1991, van Rossum publicó el código de la versión 0.9.0 en alt.sources. En esta etapa del desarrollo ya estaban presentes clases con herencia, manejo de excepciones, funciones y los tipos modulares, como: str, list, dict, entre otros. Además en este lanzamiento inicial aparecía un sistema de módulos adoptado de Modula-3; van Rossum describe el módulo como «una de las mayores unidades de programación de Python». El modelo de excepciones en Python es parecido al de Modula-3, con la adición de una cláusula else. En el año 1994 se formó comp.lang.python, el foro de discusión principal de Python, marcando un hito en el crecimiento del grupo de usuarios de este lenguaje.
 [WIKIPEDIA](https://es.wikipedia.org/wiki/Python).<br>
 
-## Ejemplos
+### Ejemplos
 
 ```js
 print("Hello, World!")
@@ -77,7 +80,7 @@ print("Hello, World!")
 >>> 2 + 3
 5
 ```
-
+---
 ## Comandos
 
 _Verifica la versión de Python_
@@ -270,7 +273,7 @@ _Django_
 
 [https://www.djangoproject.com/download/]
 
-
+---
 ## Instalación
 
 📦 [Install Python](https://www.python.org/) Instalador de Python.<br>
@@ -285,15 +288,17 @@ _Django_
 | Multiplataforma            |      ✔️     |      ✔️     |     
 | Soporte                    |      ✔️     |      ✔️     |      
 | Ciencia de datos           |      ❌     |      ✔️     |  
-| Rapidez                    |      ✔️     |      ✔️     |      
+| Rapidez                    |      ✔️     |      ✔️     |     
 
-## Notas 
+---
+### Notas 
 
 - Puedes utilizar otro editor de código pero no tendrás soporte. se recomienda usar los editores mencionados.
 
-## Ramas
+### Ramas
 
 Ver todas las Ramas [Ramas](https://github.com/BrianMarquez3/Python-Course/settings/branches)
+---
 
 ## POO Programación orientada a objetos
 
@@ -341,6 +346,7 @@ Los siguientes son los pasos para crear una aplicación Tkinter junto con la sin
 - Luego, agregamos cualquier número de widgets a la ventana del contenedor.
 - Por último, aplicamos el activador de eventos en los widgets.
 
+---
 ## Interface Grafica TKINTER
 
 ![python](./Images/Tkinter-Grid2.jpg)
@@ -408,6 +414,7 @@ from tkinter import *
 | Python Tkinter Using Icons, Image                            |      ✔️     | 
 | . . .                                                        |      ✔️     | 
 
+---
 ## Buenas Practicas En Commits De Git
 
  - Estructura del Mensaje
@@ -455,7 +462,7 @@ like this:
 Resolves: #123
 See also: #456, #789
 ```
-
+---
 ## Install Jupyter Notebook
 
 ![python](./Images/jupyter.png)
@@ -499,7 +506,7 @@ Seleccionar
 jt -t nombretema
 ```
 
-
+---
 ## QT Designer
 
 ![python](./Images/QtDesigner.png)
@@ -581,6 +588,7 @@ pyside2-rcc.exe example1.qrc -o example1_rc.py
 
 ![python](./Images/HOME.png)
 
+---
 ## Anaconda
 
 _Anaconda Navigator_
@@ -591,12 +599,12 @@ Anaconda es un distribución libre y abierta1​ de los lenguajes Python y R, ut
 
 📦 [Install Anaconda](https://www.anaconda.com/) Intalador de Anaconda.<br>
 
-
+---
 ## A I Programming with Python
 
 Fundamentos esenciales de la IA: las herramientas de programación (Python, NumPy, PyTorch), las matemáticas (cálculo y álgebra lineal) y las técnicas clave de las redes neuronales (descenso de gradiente y propagación hacia atrás).
 
-## Artificial Intelligence
+### Artificial Intelligence
 
 - Neural networks
 
@@ -608,17 +616,18 @@ Las redes neuronales son un modelo de aprendizaje automático que forma parte de
 - Curso de Inteligencia Artificial
 [Artificial Intelligence Link repository](https://github.com/BrianMarquez3/Artificial-intelligence).<br>
 
+---
 ## Spotify
 Music Python [List on Spotify](https://open.spotify.com/playlist/11AwbhmXyh2jKlsHmaxcP9)
 
 <!--<div align="center"><img src="./Images/IA.jpg"></div>-->
-
-## Book
 ---
+## Book
+
 Download book - [Clean Code- python-crash-course - pythonlearn](https://github.com/BrianMarquez3/Python-Course/tree/master/Book)
 
 ---
 ## PAYPAL
 
-![python](./Images/paypal.png)Hacer una donacion [PAYPAL](https://github.com/user/repository/issues/new)
+🩸 Hacer una donación [PAYPAL](https://www.paypal.com/donate?hosted_button_id=98U3T62494H9Y) 🍵
 
