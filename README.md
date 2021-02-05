@@ -615,10 +615,9 @@ Music Python [List on Spotify](https://open.spotify.com/playlist/11AwbhmXyh2jKls
 
 ## Book
 ---
-![python](./Images/paypal.png) Download book - [Clean Code- python-crash-course - pythonlearn](https://github.com/BrianMarquez3/Python-Course/tree/master/Book)
-=======
 Download book - [Clean Code- python-crash-course - pythonlearn](https://github.com/BrianMarquez3/Python-Course/tree/master/Book)
 
+---
 ## PAYPAL
 
 ![python](./Images/paypal.png)Hacer una donacion [PAYPAL](https://github.com/user/repository/issues/new)
