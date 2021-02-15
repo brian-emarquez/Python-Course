@@ -269,6 +269,11 @@ _Mysqlclient_
 pip install mysqlclient
 ```
 
+_pip install requests_
+```
+pip install requests
+```
+
 _Django_
 
 [https://www.djangoproject.com/download/]
