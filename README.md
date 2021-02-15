@@ -623,7 +623,7 @@ Las redes neuronales son un modelo de aprendizaje automático que forma parte de
 
 ---
 ## Spotify
-Music Python [List on Spotify](https://open.spotify.com/playlist/11AwbhmXyh2jKlsHmaxcP9)
+🎵 Music Python [List on Spotify 🎤](https://open.spotify.com/playlist/11AwbhmXyh2jKlsHmaxcP9)
 
 <!--<div align="center"><img src="./Images/IA.jpg"></div>-->
 ---
