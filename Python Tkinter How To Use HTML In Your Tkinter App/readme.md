@@ -9,3 +9,13 @@ _pip install pillow_
 ```
 pip install pillow
 ```
+
+_tkhtmlview 0.1.0.post1_
+
+[https://pypi.org/project/tkhtmlview/]
+
+
+_tkhtmlview_
+```
+pip install tkhtmlview
+```
