@@ -3,8 +3,10 @@
 
 <p align="center">
   
-  <a href="https://github.com/BrianMarquez3/Python-Course/tags">
-    <img src="https://img.shields.io/github/tag/BrianMarquez3/Python-Course.svg?label=version&style=flat" alt="Version">
+<p align="center">
+  
+   </a>
+    <img src="https://img.shields.io/github/languages/top/BrianMarquez3/Python-Course?color=red">
   </a>
   <a href="https://github.com/BrianMarquez3/Python-Course/stargazers">
     <img src="https://img.shields.io/github/stars/BrianMarquez3/Python-Course.svg?style=flat" alt="Stars">
@@ -12,10 +14,24 @@
   <a href="https://github.com/BrianMarquez3/Python-Course/network">
     <img src="https://img.shields.io/github/forks/BrianMarquez3/Python-Course.svg?style=flat" alt="Forks">
   </a>
-   </a>
-   <a href="https://github.com/BrianMarquez3/PHP-Course/network">
-    <img src="https://img.shields.io/badge/Plataform-Windows-blue">
+    <img src="https://img.shields.io/github/v/tag/BrianMarquez3/Python-Course?color=gren&label=Version&logo=java">
   </a>
+  
+  </a>
+    <img src="https://img.shields.io/github/languages/code-size/BrianMarquez3/Python-Course">
+  </a>
+  
+  </a>
+    <img src="https://img.shields.io/github/downloads/BrianMarquez3/Python-Course/total?color=violet">
+  </a>
+  
+   </a>
+   <a href="https://github.com/BrianMarquez3/Python-Course/network">
+    <img src="https://img.shields.io/badge/Plataform-Windows-blue">
+  </a><br>
+ 
+  <img src="https://img.shields.io/github/last-commit/BrianMarquez3/Python-Course?color=darkred&style=for-the-badge">
+  <img src="https://img.shields.io/github/languages/count/BrianMarquez3/Python-Course?style=for-the-badge">
   
 </p>
   
@@ -23,23 +39,28 @@
 
 ## Tabla de contenidos
 
-- [Que es Python](#Que-es-Python)
-- [Creador](#Creador)
-- [Historia](#historia)
-- [Ejemplos](#Ejemplos)
-- [Comandos](#Comandos)
-- [Instalación](#Instalación)
-- [Ramas](#Ramas)
-- [POO Programación orientada a objetos](#POO-Programación-orientada-a-objetos)
-- [Interface Grafica TKINTER](#Interface-Grafica-TKINTER)
-- [Buenas Practicas En Commits De Git](#Buenas-Practicas-En-Commits-De-Git)
-- [Install Jupyter Notebook](#Install-Jupyter-Notebook)
-- [QT Designer](#QT-Designer)
-- [Anaconda](#Anaconda)
-- [Build A Foreign Language Flashcard App](#Build-A-Foreign-Language-Flashcard-App)
-- [A I Programming with Python](#A-I-Programming-with-Python)
-- [Play List Spotify](#Spotify)
-- [Book](#book)
+
+ Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
+| ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
+|  001   |:heavy_check_mark: | [Que es Python](#Que-es-Python)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  002   |:heavy_check_mark: | [Creador](#Creador)  | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  003   |:heavy_check_mark: | [Historia](#historia)  | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  004   |:heavy_check_mark: | [Ejemplos](#Ejemplos)  | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  005  |:heavy_check_mark: | [Comandos](#Comandos) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  006   |:heavy_check_mark: | [Instalación](#Instalación)  | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  007   |:heavy_check_mark: | [Ramas](#Ramas)  | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  008   |:heavy_check_mark: | [POO Programación orientada a objetos](#POO-Programación-orientada-a-objetos)  | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  009   |:heavy_check_mark: | [Interface Grafica TKINTER](#Interface-Grafica-TKINTER) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+
+|  010   |:heavy_check_mark: | [Buenas Practicas En Commits De Git](#Buenas-Practicas-En-Commits-De-Git) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  011   |:heavy_check_mark: | [Install Jupyter Notebook](#Install-Jupyter-Notebook) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  012   |:heavy_check_mark: | [QT Designer](#QT-Designer) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  013   |:heavy_check_mark: | [Anaconda](#Anaconda) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  014  |:heavy_check_mark: | [Build A Foreign Language Flashcard App](#Build-A-Foreign-Language-Flashcard-App) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+
+|  015   |:heavy_check_mark: | [A I Programming with Python](#A-I-Programming-with-Python) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  016   |:heavy_check_mark: | [Play List Spotify](#Spotify) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  017   |:heavy_check_mark: | [Book](#book)| :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 
 ---
 ## Que es Python
@@ -371,60 +392,6 @@ Ejecutar desde la línea de comando debería abrir una ventana que demuestre una
 ```
 from tkinter import *
 ```
-
-| Python Tkinter                                               |             |  
-|--------------------------------------------------------------|:-----------:|
-| Pyhton Tkinter Add ZipCode                                   |      ✔️     |    
-| Python Tkinter Add Input Boxes For Our CRM Tool              |      ✔️     |       
-| Python Tkinter Adding a Status Bar                           |      ✔️     |          
-| Python Tkinter Adding Frames                                 |      ✔️     |      
-| Python Tkinter Binding Dropdown Menus and Combo Boxes        |      ✔️     |    
-| Python Tkinter Build a Geography Flashcard APP               |      ✔️     |     
-| Python Tkinter Build a Weather App                           |      ✔️     |     
-| Python Tkinter Build an Imagen Viewer                        |      ✔️     |  
-| Python Tkinter Building out Database                         |      ✔️     |  
-| Python Tkinter Change Colors Weather App                     |      ✔️     |  
-| Python Tkinter Checkboxes                                    |      ✔️     |  
-| Python Tkinter Classes                                       |      ✔️     |  
-| Python Tkinter Color Picker                                  |      ✔️     |  
-| Python Tkinter Create a Database and Table CRM               |      ✔️     |  
-| Python Tkinter Create CRM database Tool                      |      ✔️     |  
-| Python Tkinter Create New Windows                            |      ✔️     |  
-| Python Tkinter Creating Buttons                              |      ✔️     |  
-| Python Tkinter Building out Database                         |      ✔️     |  
-| Python Tkinter Creating input Fields                         |      ✔️     |  
-| Python Tkinter Creating Input fields II                      |      ✔️     |  
-| Python Tkinter Delete a Record                               |      ✔️     |  
-| Python Tkinter Delete Frame Children Widgets                 |      ✔️     |  
-| Python Tkinter Drop Box Database Search CRM                  |      ✔️     |  
-| Python Tkinter Dropdown Menus                                |      ✔️     |  
-| Python Tkinter Export CRM Database to Excel File             |      ✔️     |  
-| Python Tkinter How To Risize Entry Box height                |      ✔️     |  
-| Python Tkinter Keyboard Event Binding                        |      ✔️     |  
-| Python Tkinter Lookup all CustomersCRM                       |      ✔️     |  
-| Python Tkinter Lookup Customer By Last Name CRM              |      ✔️     |  
-| Python Tkinter MariaDB                                       |      ✔️     |  
-| Python Tkinter Matplolib Charts                              |      ✔️     |  
-| Python Tkinter Menu Bars                                     |      ✔️     |  
-| Python Tkinter Message Boxes                                 |      ✔️     |  
-| Python Tkinter Multiple CRM search Results                   |      ✔️     | 
-| Python Tkinter Open Files Dialog Box                         |      ✔️     | 
-| Python Tkinter Overwrite Grid Labels                         |      ✔️     | 
-| Python Tkinter Paned Windows                                 |      ✔️     | 
-| Python Tkinter Positioning                                   |      ✔️     | 
-| Python Tkinter Radio Butttons                                |      ✔️     | 
-| Python Tkinter Random Winner Generador                       |      ✔️     | 
-| Python Tkinter Remove Labels                                 |      ✔️     | 
-| Python Tkinter Sliders                                       |      ✔️     | 
-| Python Tkinter Standalone EXE Executable                     |      ✔️     | 
-| Python Tkinter Unicode Character & Special Characters        |      ✔️     | 
-| Python Tkinter Update a Record                               |      ✔️     | 
-| Python Tkinter Update a Record II                            |      ✔️     | 
-| Python Tkinter Update MariaDb records                        |      ✔️     | 
-| Python Tkinter Using Databases                               |      ✔️     | 
-| Python Tkinter Using Frames with Menus                       |      ✔️     | 
-| Python Tkinter Using Icons, Image                            |      ✔️     | 
-| . . .                                                        |      ✔️     | 
 
 ---
 ## Buenas Practicas En Commits De Git
