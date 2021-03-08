@@ -614,7 +614,7 @@ Anaconda es un distribución libre y abierta1​ de los lenguajes Python y R, ut
 
 ## Build A Foreign Language Flashcard App
 
-![python](./images/resp.gif)
+![python](../images/resp.gif)
 
 | Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
 |--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
