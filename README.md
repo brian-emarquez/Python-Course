@@ -51,13 +51,11 @@
 |  007   |:heavy_check_mark: | [Ramas](#Ramas)  | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  008   |:heavy_check_mark: | [POO Programación orientada a objetos](#POO-Programación-orientada-a-objetos)  | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  009   |:heavy_check_mark: | [Interface Grafica TKINTER](#Interface-Grafica-TKINTER) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-
 |  010   |:heavy_check_mark: | [Buenas Practicas En Commits De Git](#Buenas-Practicas-En-Commits-De-Git) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  011   |:heavy_check_mark: | [Install Jupyter Notebook](#Install-Jupyter-Notebook) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  012   |:heavy_check_mark: | [QT Designer](#QT-Designer) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  013   |:heavy_check_mark: | [Anaconda](#Anaconda) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  014  |:heavy_check_mark: | [Build A Foreign Language Flashcard App](#Build-A-Foreign-Language-Flashcard-App) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-
 |  015   |:heavy_check_mark: | [A I Programming with Python](#A-I-Programming-with-Python) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  016   |:heavy_check_mark: | [Play List Spotify](#Spotify) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  017   |:heavy_check_mark: | [Book](#book)| :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
