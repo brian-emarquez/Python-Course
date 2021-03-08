@@ -36,6 +36,7 @@
 - [Install Jupyter Notebook](#Install-Jupyter-Notebook)
 - [QT Designer](#QT-Designer)
 - [Anaconda](#Anaconda)
+- [Build A Foreign Language Flashcard App](#Build-A-Foreign-Language-Flashcard-App)
 - [A I Programming with Python](#A-I-Programming-with-Python)
 - [Play List Spotify](#Spotify)
 - [Book](#book)
