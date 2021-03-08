@@ -22,7 +22,7 @@
   </a>
   
   </a>
-    <img src="https://img.shields.io/github/downloads/BrianMarquez3/Python-Course/total?color=yellow">
+    <img src="https://img.shields.io/github/downloads/BrianMarquez3/Python-Course/total?color=green">
   </a>
   
    </a>
