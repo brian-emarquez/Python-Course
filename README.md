@@ -14,7 +14,7 @@
   <a href="https://github.com/BrianMarquez3/Python-Course/network">
     <img src="https://img.shields.io/github/forks/BrianMarquez3/Python-Course.svg?style=flat" alt="Forks">
   </a>
-    <img src="https://img.shields.io/github/v/tag/BrianMarquez3/Python-Course?color=yellow&label=Version&logo=python">
+    <img src="https://img.shields.io/github/v/tag/BrianMarquez3/Python-Course?color=red&label=Version&logo=python">
   </a>
   
   </a>
