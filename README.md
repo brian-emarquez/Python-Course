@@ -3,8 +3,6 @@
 
 <p align="center">
   
-<p align="center">
-  
    </a>
     <img src="https://img.shields.io/github/languages/top/BrianMarquez3/Python-Course?color=yellow">
   </a>
