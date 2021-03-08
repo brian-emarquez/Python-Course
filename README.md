@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/badge/Plataform-Windows-blue">
   </a><br>
  
-  <img src="https://img.shields.io/github/last-commit/BrianMarquez3/Python-Course?color=darkred&style=for-the-badge">
+  <img src="https://img.shields.io/github/last-commit/BrianMarquez3/Python-Course?color=darkyellow&style=for-the-badge">
   <img src="https://img.shields.io/github/languages/count/BrianMarquez3/Python-Course?style=for-the-badge">
   
 </p>
