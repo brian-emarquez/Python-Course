@@ -611,6 +611,16 @@ Anaconda es un distribución libre y abierta1​ de los lenguajes Python y R, ut
 📦 [Install Anaconda](https://www.anaconda.com/) Intalador de Anaconda.<br>
 
 ---
+
+## Build A Foreign Language Flashcard App
+
+![python](./images/resp.gif)
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Build A Foreign Language Flashcard App](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20Build%20A%20Foreign%20Language%20Flashcard%20App)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+
 ## A I Programming with Python
 
 Fundamentos esenciales de la IA: las herramientas de programación (Python, NumPy, PyTorch), las matemáticas (cálculo y álgebra lineal) y las técnicas clave de las redes neuronales (descenso de gradiente y propagación hacia atrás).
