@@ -6,7 +6,7 @@
 <p align="center">
   
    </a>
-    <img src="https://img.shields.io/github/languages/top/BrianMarquez3/Python-Course?color=red">
+    <img src="https://img.shields.io/github/languages/top/BrianMarquez3/Python-Course?color=yellow">
   </a>
   <a href="https://github.com/BrianMarquez3/Python-Course/stargazers">
     <img src="https://img.shields.io/github/stars/BrianMarquez3/Python-Course.svg?style=flat" alt="Stars">
@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/badge/Plataform-Windows-blue">
   </a><br>
  
-  <img src="https://img.shields.io/github/last-commit/BrianMarquez3/Python-Course?color=mustard&style=for-the-badge">
+  <img src="https://img.shields.io/github/last-commit/BrianMarquez3/Python-Course?color=yellow&style=for-the-badge">
   <img src="https://img.shields.io/github/languages/count/BrianMarquez3/Python-Course?style=for-the-badge">
   
 </p>
