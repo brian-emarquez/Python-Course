@@ -14,7 +14,7 @@
   <a href="https://github.com/BrianMarquez3/Python-Course/network">
     <img src="https://img.shields.io/github/forks/BrianMarquez3/Python-Course.svg?style=flat" alt="Forks">
   </a>
-    <img src="https://img.shields.io/github/v/tag/BrianMarquez3/Python-Course?color=gren&label=Version&logo=python">
+    <img src="https://img.shields.io/github/v/tag/BrianMarquez3/Python-Course?color=yellow&label=Version&logo=python">
   </a>
   
   </a>
@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/badge/Plataform-Windows-blue">
   </a><br>
  
-  <img src="https://img.shields.io/github/last-commit/BrianMarquez3/Python-Course?color=darkyellow&style=for-the-badge">
+  <img src="https://img.shields.io/github/last-commit/BrianMarquez3/Python-Course?color=mustard&style=for-the-badge">
   <img src="https://img.shields.io/github/languages/count/BrianMarquez3/Python-Course?style=for-the-badge">
   
 </p>
