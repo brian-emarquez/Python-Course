@@ -124,9 +124,6 @@
 |  073   |:heavy_check_mark: | [Interface Grafica TKINTER](#Interface-Grafica-TKINTER) | :hourglass: | ✅ | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  074   |:heavy_check_mark: | [Pyhton Tkinter Add ZipCode](#Pyhton-Tkinter-Add-ZipCode)  | :hourglass:     | ✅ | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  074   |:heavy_check_mark: | [Pyhton Tkinter Get Height and Width](#[Pyhton-Tkinter-Get-Height-and-Width)  | :hourglass:     | ✅ | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-
-
-
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
 |  -    |:heavy_check_mark: | [Play List Spotify](#Spotify) | :hourglass: | ✅ | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  -    |:heavy_check_mark: | [Book](#book)| :hourglass: | ✅ | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
