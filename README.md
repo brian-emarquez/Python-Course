@@ -57,7 +57,7 @@
 |  016   |:heavy_check_mark: | [Archivos Externos I](#Archivos-Externos-I)| :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  017   |:heavy_check_mark: | [Archivos Externos II](#Archivos-Externos-II)| :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  018   |:heavy_check_mark: | [BBDD](#BBDD) | :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  019   |:heavy_check_mark: | [A I Programming with Python](#A-I-Programming-with-Python) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  019   |:heavy_check_mark: | [A I Programming with Python](#A-I-Programming-with-Python) | :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  020  |:heavy_check_mark: | [Bucles](#Bucles) | :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  021  |:heavy_check_mark: | [Cadenas](#Cadenas) | :hourglass: |  ✅| 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  022  |:heavy_check_mark: | [Christmas Tree](#Christmas-tree) | :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
@@ -95,7 +95,7 @@
 |  054  |:heavy_check_mark: | [Proyect Dictionary](#Proyect-Dictionary ) | :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  055  |:heavy_check_mark: | [Proyect Game hangmen](#Proyect-Game-hangmen ) | :hourglass: |✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  056  |:heavy_check_mark: | [Reconocimiento Facial](#Reconocimiento-Facial ) | :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  057  |:heavy_check_mark: | [Robot](#Robot ) | :hourglass: | ✅ | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  057  |:heavy_check_mark: | [Robot](#Robot ) | :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  058  |:heavy_check_mark: | [Salida por pantalla](#Salida-por-pantalla ) | :hourglass: |✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  059  |:heavy_check_mark: | [Screenpet](#Screenpet ) | :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  060  |:heavy_check_mark: | [Serializacion](#Serializacion ) | :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
@@ -109,24 +109,24 @@
 
  Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
-|  066   |:heavy_check_mark: | [QT Designer](#QT-Designer) | :hourglass: | ✅ | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  067  |:heavy_check_mark: | [QT-Formulario](#QT-Formulario ) | :hourglass: | ✅ | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  068  |:heavy_check_mark: | [QT-Formulario](#QT-Formulario ) | :hourglass: | ✅ | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  069  |:heavy_check_mark: | [QT-PySide](#QT-PySide ) | :hourglass: | ✅ | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  070  |:heavy_check_mark: | [QT-RegisterUI](#QT-RegisterUI ) | :hourglass: | ✅ | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  071  |:heavy_check_mark: | [QT-RenderTimeCalculator](#QT-RenderTimeCalculator ) | :hourglass: | ✅ | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  072  |:heavy_check_mark: | [QT-Toogle Menu](#QT-Toogle-Menu ) | :hourglass: | ✅ | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  066   |:heavy_check_mark: | [QT Designer](#QT-Designer) | :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  067  |:heavy_check_mark: | [QT-Formulario](#QT-Formulario ) | :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  068  |:heavy_check_mark: | [QT-Formulario](#QT-Formulario ) | :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  069  |:heavy_check_mark: | [QT-PySide](#QT-PySide ) | :hourglass: | ✅ |💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  070  |:heavy_check_mark: | [QT-RegisterUI](#QT-RegisterUI ) | :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  071  |:heavy_check_mark: | [QT-RenderTimeCalculator](#QT-RenderTimeCalculator ) | :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  072  |:heavy_check_mark: | [QT-Toogle Menu](#QT-Toogle-Menu ) | :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 * Pyhotn Tkinter
 
  Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
-|  073   |:heavy_check_mark: | [Interface Grafica TKINTER](#Interface-Grafica-TKINTER) | :hourglass: | ✅ | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  074   |:heavy_check_mark: | [Pyhton Tkinter Add ZipCode](#Pyhton-Tkinter-Add-ZipCode)  | :hourglass:     | ✅ | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  074   |:heavy_check_mark: | [Pyhton Tkinter Get Height and Width](#[Pyhton-Tkinter-Get-Height-and-Width)  | :hourglass:     | ✅ | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  073   |:heavy_check_mark: | [Interface Grafica TKINTER](#Interface-Grafica-TKINTER) | :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  074   |:heavy_check_mark: | [Pyhton Tkinter Add ZipCode](#Pyhton-Tkinter-Add-ZipCode)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  074   |:heavy_check_mark: | [Pyhton Tkinter Get Height and Width](#[Pyhton-Tkinter-Get-Height-and-Width)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
-|  -    |:heavy_check_mark: | [Play List Spotify](#Spotify) | :hourglass: | ✅ | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  -    |:heavy_check_mark: | [Book](#book)| :hourglass: | ✅ | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  -    |:heavy_check_mark: | [Play List Spotify](#Spotify) | :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  -    |:heavy_check_mark: | [Book](#book)| :hourglass: | ✅ | 💾|  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 
 
 
