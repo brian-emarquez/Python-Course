@@ -54,9 +54,14 @@
 |  012   |:heavy_check_mark: | [QT Designer](#QT-Designer) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  013   |:heavy_check_mark: | [Anaconda](#Anaconda) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  014  |:heavy_check_mark: | [Build A Foreign Language Flashcard App](#Build-A-Foreign-Language-Flashcard-App) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  015   |:heavy_check_mark: | [A I Programming with Python](#A-I-Programming-with-Python) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  016   |:heavy_check_mark: | [Play List Spotify](#Spotify) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  017   |:heavy_check_mark: | [Book](#book)| :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  015   |:heavy_check_mark: | [Archivos Externos I](#Archivos-Externos-I)| :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  016   |:heavy_check_mark: | [Archivos Externos II](#Archivos-Externos-II)| :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  017  |:heavy_check_mark: | [BBDD](#BBDD) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  018  |:heavy_check_mark: | [A I Programming with Python](#A-I-Programming-with-Python) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+
+
+|  -  |:heavy_check_mark: | [Play List Spotify](#Spotify) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  -   |:heavy_check_mark: | [Book](#book)| :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 
 ---
 ## Que es Python
@@ -584,6 +589,26 @@ Anaconda es un distribución libre y abierta1​ de los lenguajes Python y R, ut
 |--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
 | [Build A Foreign Language Flashcard App](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20Build%20A%20Foreign%20Language%20Flashcard%20App)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
 
+## Archivos Externos I
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Archivos Externos I](https://github.com/BrianMarquez3/Python-Course/tree/master/Archivos%20Externos%20I)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+## Archivos Externos II
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Archivos Externos II](https://github.com/BrianMarquez3/Python-Course/tree/master/Archivos%20Externos%20I)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+## BBDD
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [BBDD I](https://github.com/BrianMarquez3/Python-Course/tree/master/BBDD%20I)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+| [BBDD II](https://github.com/BrianMarquez3/Python-Course/tree/master/BBDD%20II)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+| [BBDD III](https://github.com/BrianMarquez3/Python-Course/tree/master/BBDD%20III)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+| [BBDD IV](https://github.com/BrianMarquez3/Python-Course/tree/master/BBDD%20IV)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
 
 ## A I Programming with Python
 
