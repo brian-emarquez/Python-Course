@@ -63,6 +63,11 @@
 |  018  |:heavy_check_mark: | [Bucles](#Bucles) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  018  |:heavy_check_mark: | [Cadenas](#Cadenas) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  018  |:heavy_check_mark: | [Christmas Tree](#Christmas-tree) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  018  |:heavy_check_mark: | [Colas](#colas) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  018  |:heavy_check_mark: | [Condicionales](#Condicionales) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  018  |:heavy_check_mark: | [Conjuntos](#Conjuntos) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  018  |:heavy_check_mark: | [Datos por teclado](#Datos-por-teclado) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+
 
 ---
 ## Que es Python
@@ -630,6 +635,41 @@ Anaconda es un distribución libre y abierta1​ de los lenguajes Python y R, ut
 | Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
 |--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
 | [Christmas Tree](https://github.com/BrianMarquez3/Python-Course/tree/master/Christmas%20tree)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+## Colas
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Colas](https://github.com/BrianMarquez3/Python-Course/tree/master/Colas)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+## Condicionales
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Condicionales](https://github.com/BrianMarquez3/Python-Course/tree/master/Condicionales)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+## Conjuntos
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Conjuntos](https://github.com/BrianMarquez3/Python-Course/tree/master/Conjuntos)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+## Datos por teclado
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Datos por teclado](https://github.com/BrianMarquez3/Python-Course/tree/master/Datos%20por%20teclado)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+
+
+
+
+
+
+
+
+
+
 
 
 
