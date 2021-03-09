@@ -58,8 +58,6 @@
 |  016   |:heavy_check_mark: | [Archivos Externos II](#Archivos-Externos-II)| :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  017  |:heavy_check_mark: | [BBDD](#BBDD) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  018  |:heavy_check_mark: | [A I Programming with Python](#A-I-Programming-with-Python) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-
-
 |  -  |:heavy_check_mark: | [Play List Spotify](#Spotify) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  -   |:heavy_check_mark: | [Book](#book)| :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 
