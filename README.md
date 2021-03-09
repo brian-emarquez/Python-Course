@@ -44,82 +44,87 @@
 |  002   |:heavy_check_mark: | [Creador](#Creador)  | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  003   |:heavy_check_mark: | [Historia](#historia)  | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  004   |:heavy_check_mark: | [Ejemplos](#Ejemplos)  | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  005  |:heavy_check_mark: | [Comandos](#Comandos) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  006   |:heavy_check_mark: | [Instalación](#Instalación)  | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  007   |:heavy_check_mark: | [Ramas](#Ramas)  | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  008   |:heavy_check_mark: | [POO Programación orientada a objetos](#POO-Programación-orientada-a-objetos)  | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  009   |:heavy_check_mark: | [Interface Grafica TKINTER](#Interface-Grafica-TKINTER) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  010   |:heavy_check_mark: | [Buenas Practicas En Commits De Git](#Buenas-Practicas-En-Commits-De-Git) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  011   |:heavy_check_mark: | [Install Jupyter Notebook](#Install-Jupyter-Notebook) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  012   |:heavy_check_mark: | [QT Designer](#QT-Designer) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  005   |:heavy_check_mark: | [Comandos](#Comandos) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  006   |:heavy_check_mark: | [Variables](#Variables ) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  007   |:heavy_check_mark: | [Tuplas](#Tuplas ) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  008   |:heavy_check_mark: | [Instalación](#Instalación)  | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  009   |:heavy_check_mark: | [Ramas](#Ramas)  | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  010   |:heavy_check_mark: | [POO Programación orientada a objetos](#POO-Programación-orientada-a-objetos)  | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  012   |:heavy_check_mark: | [Install Jupyter Notebook](#Install-Jupyter-Notebook) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  013   |:heavy_check_mark: | [Anaconda](#Anaconda) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  014  |:heavy_check_mark: | [Build A Foreign Language Flashcard App](#Build-A-Foreign-Language-Flashcard-App) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  015   |:heavy_check_mark: | [Archivos Externos I](#Archivos-Externos-I)| :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  016   |:heavy_check_mark: | [Archivos Externos II](#Archivos-Externos-II)| :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  017  |:heavy_check_mark: | [BBDD](#BBDD) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  018  |:heavy_check_mark: | [A I Programming with Python](#A-I-Programming-with-Python) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  -  |:heavy_check_mark: | [Play List Spotify](#Spotify) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  -   |:heavy_check_mark: | [Book](#book)| :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  018  |:heavy_check_mark: | [Bucles](#Bucles) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  018  |:heavy_check_mark: | [Cadenas](#Cadenas) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  018  |:heavy_check_mark: | [Christmas Tree](#Christmas-tree) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  018  |:heavy_check_mark: | [Colas](#colas) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  018  |:heavy_check_mark: | [Condicionales](#Condicionales) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  018  |:heavy_check_mark: | [Conjuntos](#Conjuntos) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  018  |:heavy_check_mark: | [Datos por teclado](#Datos-por-teclado) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  018  |:heavy_check_mark: | [Decoradores](#Decoradores) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  018  |:heavy_check_mark: | [Diccionarios](#Diccionarios) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  018  |:heavy_check_mark: | [Documentacion y Pruebas](#Documentacion-y-Pruebas) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  018  |:heavy_check_mark: | [Email](#Email) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  018  |:heavy_check_mark: | [Errores y Excepciones](#Errores-y-Excepciones) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  018  |:heavy_check_mark: | [Estructura General](#Estructura-General) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  018  |:heavy_check_mark: | [Excepciones](#Excepciones) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |  
-|  018  |:heavy_check_mark: | [Estructura General](#Estructura-General) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  018  |:heavy_check_mark: | [Funciones Establecidas](#Funciones-Establecidas) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |  
-|  018  |:heavy_check_mark: | [Funciones](#Funciones) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |  
-|  018  |:heavy_check_mark: | [Git](#Git) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |  
-|  018  |:heavy_check_mark: | [Generadores](#Generadores) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |  
-|  018  |:heavy_check_mark: | [Generacion Ejecutables](#Generacion-Ejecutables) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |  
-|  018  |:heavy_check_mark: | [Geographic Map of Peru](#Geographic-Map-of-Peru) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |  
-|  018  |:heavy_check_mark: | [Geographical plottings](#Geographical-plottings) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |  
-|  018  |:heavy_check_mark: | [Guardado Permanenete](#Guardado-Permanenete) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  018  |:heavy_check_mark: | [Interfas Grafica](#Interfas-Grafica) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  018  |:heavy_check_mark: | [Listas](#Listas) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  018  |:heavy_check_mark: | [Metodos de Cadenas](#Metodos-de-Cadenas) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  018  |:heavy_check_mark: | [Modulos Usabiidad](#Modulos-Usabiidad) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  018  |:heavy_check_mark: | [Modulos](#Modulos) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  018  |:heavy_check_mark: | [POO](#POO) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  018  |:heavy_check_mark: | [Paquetes](#Paquetes) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  018  |:heavy_check_mark: | [Paquetes Distribuibles](#Paquetes-Distribuibles) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  018  |:heavy_check_mark: | [Simulando Pilas](#Simulando-Pilas) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  018  |:heavy_check_mark: | [Plotly and cufflinks](#Plotly-and-cufflinks) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  018  |:heavy_check_mark: | [Practica Guiada ](#Practica-Guiada ) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  018  |:heavy_check_mark: | [Proyect Dictionary](#Proyect-Dictionary ) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  018  |:heavy_check_mark: | [Proyect Game hangmen](#Proyect-Game-hangmen ) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  014   |:heavy_check_mark: | [Buenas Practicas En Commits De Git](#Buenas-Practicas-En-Commits-De-Git) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  015  |:heavy_check_mark: | [Build A Foreign Language Flashcard App](#Build-A-Foreign-Language-Flashcard-App) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  016   |:heavy_check_mark: | [Archivos Externos I](#Archivos-Externos-I)| :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  017   |:heavy_check_mark: | [Archivos Externos II](#Archivos-Externos-II)| :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  018   |:heavy_check_mark: | [BBDD](#BBDD) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  019   |:heavy_check_mark: | [A I Programming with Python](#A-I-Programming-with-Python) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  020  |:heavy_check_mark: | [Bucles](#Bucles) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  021  |:heavy_check_mark: | [Cadenas](#Cadenas) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  022  |:heavy_check_mark: | [Christmas Tree](#Christmas-tree) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  023  |:heavy_check_mark: | [Colas](#colas) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  024  |:heavy_check_mark: | [Condicionales](#Condicionales) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  025  |:heavy_check_mark: | [Conjuntos](#Conjuntos) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  026  |:heavy_check_mark: | [Datos por teclado](#Datos-por-teclado) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  027  |:heavy_check_mark: | [Decoradores](#Decoradores) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  028  |:heavy_check_mark: | [Diccionarios](#Diccionarios) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  029  |:heavy_check_mark: | [Documentacion y Pruebas](#Documentacion-y-Pruebas) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  030  |:heavy_check_mark: | [Email](#Email) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  031  |:heavy_check_mark: | [Errores y Excepciones](#Errores-y-Excepciones) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  032  |:heavy_check_mark: | [Estructura General](#Estructura-General) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  033  |:heavy_check_mark: | [Excepciones](#Excepciones) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |  
+|  034  |:heavy_check_mark: | [Estructura General](#Estructura-General) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  035  |:heavy_check_mark: | [Funciones Establecidas](#Funciones-Establecidas) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |  
+|  036  |:heavy_check_mark: | [Funciones](#Funciones) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |  
+|  037  |:heavy_check_mark: | [Git](#Git) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |  
+|  038  |:heavy_check_mark: | [Generadores](#Generadores) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |  
+|  039  |:heavy_check_mark: | [Generacion Ejecutables](#Generacion-Ejecutables) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |  
+|  040  |:heavy_check_mark: | [Geographic Map of Peru](#Geographic-Map-of-Peru) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |  
+|  041  |:heavy_check_mark: | [Geographical plottings](#Geographical-plottings) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |  
+|  042  |:heavy_check_mark: | [Guardado Permanenete](#Guardado-Permanenete) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  043  |:heavy_check_mark: | [Interfas Grafica](#Interfas-Grafica) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  044  |:heavy_check_mark: | [Listas](#Listas) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  045  |:heavy_check_mark: | [Metodos de Cadenas](#Metodos-de-Cadenas) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  046  |:heavy_check_mark: | [Modulos Usabiidad](#Modulos-Usabiidad) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  047  |:heavy_check_mark: | [Modulos](#Modulos) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  048  |:heavy_check_mark: | [POO](#POO) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  049  |:heavy_check_mark: | [Paquetes](#Paquetes) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  050  |:heavy_check_mark: | [Paquetes Distribuibles](#Paquetes-Distribuibles) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  051  |:heavy_check_mark: | [Simulando Pilas](#Simulando-Pilas) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  052  |:heavy_check_mark: | [Plotly and cufflinks](#Plotly-and-cufflinks) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  053  |:heavy_check_mark: | [Practica Guiada ](#Practica-Guiada ) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  054  |:heavy_check_mark: | [Proyect Dictionary](#Proyect-Dictionary ) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  055  |:heavy_check_mark: | [Proyect Game hangmen](#Proyect-Game-hangmen ) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  056  |:heavy_check_mark: | [Reconocimiento Facial](#Reconocimiento-Facial ) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  057  |:heavy_check_mark: | [Robot](#Robot ) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  058  |:heavy_check_mark: | [Salida por pantalla](#Salida-por-pantalla ) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  059  |:heavy_check_mark: | [Screenpet](#Screenpet ) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  060  |:heavy_check_mark: | [Serializacion](#Serializacion ) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  062  |:heavy_check_mark: | [Sets](#Sets ) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  062  |:heavy_check_mark: | [Strings](#Strings ) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  063  |:heavy_check_mark: | [Test SQLServer](#Test-SQLServer ) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  064  |:heavy_check_mark: | [Tipos de datos](#Tipos-de-datos ) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  065  |:heavy_check_mark: | [ValidacionEmail](#ValidacionEmail ) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+
+* Pyhotn QT Designer
+
+ Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
+| ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
+|  012   |:heavy_check_mark: | [QT Designer](#QT-Designer) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  018  |:heavy_check_mark: | [QT-Formulario](#QT-Formulario ) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  018  |:heavy_check_mark: | [QT-Formulario](#QT-Formulario ) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  018  |:heavy_check_mark: | [QT-PySide](#QT-PySide ) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  018  |:heavy_check_mark: | [QT-RegisterUI](#QT-RegisterUI ) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  018  |:heavy_check_mark: | [QT-RenderTimeCalculator](#QT-RenderTimeCalculator ) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  018  |:heavy_check_mark: | [QT-Toogle Menu](#QT-Toogle-Menu ) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  018  |:heavy_check_mark: | [Reconocimiento Facial](#Reconocimiento-Facial ) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  018  |:heavy_check_mark: | [Robot](#Robot ) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  018  |:heavy_check_mark: | [Salida por pantalla](#Salida-por-pantalla ) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  018  |:heavy_check_mark: | [Screenpet](#Screenpet ) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  018  |:heavy_check_mark: | [Serializacion](#Serializacion ) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  018  |:heavy_check_mark: | [Sets](#Sets ) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  018  |:heavy_check_mark: | [Strings](#Strings ) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  018  |:heavy_check_mark: | [Test SQLServer](#Test-SQLServer ) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  018  |:heavy_check_mark: | [Tipos de datos](#Tipos-de-datos ) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  018  |:heavy_check_mark: | [Tuplas](#Tuplas ) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  018  |:heavy_check_mark: | [ValidacionEmail](#ValidacionEmail ) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  018  |:heavy_check_mark: | [Variables](#Variables ) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 * Pyhotn Tkinter
 
  Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
+|  009   |:heavy_check_mark: | [Interface Grafica TKINTER](#Interface-Grafica-TKINTER) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  001   |:heavy_check_mark: | [Pyhton Tkinter Add ZipCode](#Pyhton-Tkinter-Add-ZipCode)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  -    |:heavy_check_mark: | [Play List Spotify](#Spotify) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  -    |:heavy_check_mark: | [Book](#book)| :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 
 
 
@@ -441,20 +446,6 @@ Los siguientes son los pasos para crear una aplicación Tkinter junto con la sin
 - Por último, aplicamos el activador de eventos en los widgets.
 
 ---
-## Interface Grafica TKINTER
-
-![python](./Images/Tkinter-Grid2.jpg)
-<!--![python](./Images/Gui.PNG)-->
-
-El Tkinter módulo ("interfaz Tk") es la interfaz estándar de Python para el kit de herramientas Tk GUI. Tanto Tk como Tkinterestán disponibles en la mayoría de las plataformas Unix, así como en los sistemas Windows. (Tk en sí no es parte de Python; se mantiene en ActiveState).
-
-Ejecutar desde la línea de comando debería abrir una ventana que demuestre una interfaz Tk simple, que le permita saber que está instalado correctamente en su sistema y que también muestre qué versión de Tcl / Tk está instalada, para que pueda leer la documentación específica de Tcl / Tk versión.python -m TkinterTkinter
-
-```
-from tkinter import *
-```
-
----
 ## Buenas Practicas En Commits De Git
 
  - Estructura del Mensaje
@@ -547,88 +538,7 @@ jt -t nombretema
 ```
 
 ---
-## QT Designer
 
-![python](./Images/QtDesigner.png)
-
-Qt Designer es una herramienta para crear rápidamente interfaces gráficas de usuario con widgets del marco Qt GUI . Le brinda una interfaz simple de arrastrar y soltar para diseñar componentes como botones, campos de texto, cuadros combinados y más. Aquí hay una captura de pantalla de Qt Designer en Windows.
-
-[Qt Designer Download](https://build-system.fman.io/qt-designer-download)
-
-- Crear Entorno
-
- ```
- python -m venv entornoQt
- ``` 
-
-- Ingreso al Entorno (Steps)
-
-[`cd entornoQt`](https://github.com/BrianMarquez3/Python-Course) <br>
-[`cd Scripts`](https://github.com/BrianMarquez3/Python-Course) <br>
-[`activate`](https://github.com/BrianMarquez3/Python-Course) <br>
-[`python --version`](https://github.com/BrianMarquez3/Python-Course) <br>
-
-- Librerias
-
- _Instalar Freeze_
-
-```
-pip install freeze
-```
-
-_Instalar Freese_
-
-```
-pip install pyqt5
-```
-
-_Instalar pyside2_
-
-```
-pip install pyside2
-```
-
-- Generate Python
-
-```
-pyside2-uic example.iu.ui > ui_example.py
-```
-
-```
-pyuic5 -x example.iu.ui -o ui_example5.py
-```
-
-```
-pyrcc5 -o source5.py source.qrc
-```
-
-```
-pyside2-rcc source.qrc > source2.py
-```
-- Home
-
-![python](./Images/QtDesigner2.png)
-
-- Example
-
-![python](./Images/qt.png)
-
-- BUILD_UI
-
-```
-pyside2-uic.exe example.ui -o example.py
-```
-- BUILD_ICON
- 
-```
-pyside2-rcc.exe example1.qrc -o example1_rc.py
-```
-
-- Python Menu
-
-![python](./Images/HOME.png)
-
----
 ## Anaconda
 
 _Anaconda Navigator_
@@ -977,41 +887,6 @@ Se me ocurre que podemos aplicar una función Lambda a data cleaning en Pandas c
 |--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
 | [Proyect Game hangmen](https://github.com/BrianMarquez3/Python-Course/tree/master/Proyect%20Game%20hangmen)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
 
-## QT-Formulario
-
-| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
-|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
-| [QT-Formulario](https://github.com/BrianMarquez3/Python-Course/tree/master/QT-Formulario)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
-
-## QT-PySide
-
-
-| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
-|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
-| [QT-PySide](https://github.com/BrianMarquez3/Python-Course/tree/master/QT-PySide)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
-
-
-## QT-RegisterUI
-
-
-| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
-|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
-| [QT-RegisterUI](https://github.com/BrianMarquez3/Python-Course/tree/master/QT-RegisterUI)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
-
-
-## QT-RenderTimeCalculator
-
-
-| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
-|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
-| [QT-RenderTimeCalculator](https://github.com/BrianMarquez3/Python-Course/tree/master/QT-RenderTimeCalculator)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
-
-## QT-Toogle Menu
-
-
-| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
-|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
-| [QT-Toogle Menu](https://github.com/BrianMarquez3/Python-Course/tree/master/QT-Toogle%20Menu)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
 
 
 ## Reconocimiento Facial
@@ -1101,6 +976,142 @@ Se me ocurre que podemos aplicar una función Lambda a data cleaning en Pandas c
 
 
 ## Python Tkinter
+
+### Interface Grafica TKINTER
+
+![python](./Images/Tkinter-Grid2.jpg)
+<!--![python](./Images/Gui.PNG)-->
+
+El Tkinter módulo ("interfaz Tk") es la interfaz estándar de Python para el kit de herramientas Tk GUI. Tanto Tk como Tkinterestán disponibles en la mayoría de las plataformas Unix, así como en los sistemas Windows. (Tk en sí no es parte de Python; se mantiene en ActiveState).
+
+Ejecutar desde la línea de comando debería abrir una ventana que demuestre una interfaz Tk simple, que le permita saber que está instalado correctamente en su sistema y que también muestre qué versión de Tcl / Tk está instalada, para que pueda leer la documentación específica de Tcl / Tk versión.python -m TkinterTkinter
+
+```
+from tkinter import *
+```
+
+---
+
+## QT Designer
+
+![python](./Images/QtDesigner.png)
+
+Qt Designer es una herramienta para crear rápidamente interfaces gráficas de usuario con widgets del marco Qt GUI . Le brinda una interfaz simple de arrastrar y soltar para diseñar componentes como botones, campos de texto, cuadros combinados y más. Aquí hay una captura de pantalla de Qt Designer en Windows.
+
+[Qt Designer Download](https://build-system.fman.io/qt-designer-download)
+
+- Crear Entorno
+
+ ```
+ python -m venv entornoQt
+ ``` 
+
+- Ingreso al Entorno (Steps)
+
+[`cd entornoQt`](https://github.com/BrianMarquez3/Python-Course) <br>
+[`cd Scripts`](https://github.com/BrianMarquez3/Python-Course) <br>
+[`activate`](https://github.com/BrianMarquez3/Python-Course) <br>
+[`python --version`](https://github.com/BrianMarquez3/Python-Course) <br>
+
+- Librerias
+
+ _Instalar Freeze_
+
+```
+pip install freeze
+```
+
+_Instalar Freese_
+
+```
+pip install pyqt5
+```
+
+_Instalar pyside2_
+
+```
+pip install pyside2
+```
+
+- Generate Python
+
+```
+pyside2-uic example.iu.ui > ui_example.py
+```
+
+```
+pyuic5 -x example.iu.ui -o ui_example5.py
+```
+
+```
+pyrcc5 -o source5.py source.qrc
+```
+
+```
+pyside2-rcc source.qrc > source2.py
+```
+- Home
+
+![python](./Images/QtDesigner2.png)
+
+- Example
+
+![python](./Images/qt.png)
+
+- BUILD_UI
+
+```
+pyside2-uic.exe example.ui -o example.py
+```
+- BUILD_ICON
+ 
+```
+pyside2-rcc.exe example1.qrc -o example1_rc.py
+```
+
+- Python Menu
+
+![python](./Images/HOME.png)
+
+---
+## QT-Formulario
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [QT-Formulario](https://github.com/BrianMarquez3/Python-Course/tree/master/QT-Formulario)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+## QT-PySide
+
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [QT-PySide](https://github.com/BrianMarquez3/Python-Course/tree/master/QT-PySide)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+
+## QT-RegisterUI
+
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [QT-RegisterUI](https://github.com/BrianMarquez3/Python-Course/tree/master/QT-RegisterUI)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+
+## QT-RenderTimeCalculator
+
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [QT-RenderTimeCalculator](https://github.com/BrianMarquez3/Python-Course/tree/master/QT-RenderTimeCalculator)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+## QT-Toogle Menu
+
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [QT-Toogle Menu](https://github.com/BrianMarquez3/Python-Course/tree/master/QT-Toogle%20Menu)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+---
+
 ## Pyhton Tkinter Add ZipCode
 
 | Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
