@@ -112,8 +112,8 @@
 |  018  |:heavy_check_mark: | [Test SQLServer](#Test-SQLServer ) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  018  |:heavy_check_mark: | [Tipos de datos](#Tipos-de-datos ) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  018  |:heavy_check_mark: | [Tuplas](#Tuplas ) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-
-
+|  018  |:heavy_check_mark: | [ValidacionEmail](#ValidacionEmail ) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  018  |:heavy_check_mark: | [Variables](#Variables ) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 
 
@@ -866,6 +866,7 @@ Se me ocurre que podemos aplicar una función Lambda a data cleaning en Pandas c
 
 | Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
 |--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Interfas Grafica I (GUI)](https://github.com/BrianMarquez3/Python-Course/tree/master/interfas%20Grafica%20I%20(GUI))          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
 | [Interfas Grafica II (GUI)](https://github.com/BrianMarquez3/Python-Course/tree/master/Interfas%20Grafica%20II%20(Gui))          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
 | [Interfas Grafica III (GUI))](https://github.com/BrianMarquez3/Python-Course/tree/master/Interfas%20Grafica%20III%20(GUI))          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
 | [Interfas Grafica IV (GUI)](https://github.com/BrianMarquez3/Python-Course/tree/master/Interfas%20Grafica%20IV%20(GUI))          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
@@ -1078,6 +1079,25 @@ Se me ocurre que podemos aplicar una función Lambda a data cleaning en Pandas c
 | Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
 |--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
 | [Tuplas](https://github.com/BrianMarquez3/Python-Course/tree/master/Tuplas)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+## ValidacionEmail
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [ValidacionEmail](https://github.com/BrianMarquez3/Python-Course/tree/master/ValidacionEmail)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+
+## Variables
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Variables](https://github.com/BrianMarquez3/Python-Course/tree/master/Variables)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+
+
+
+
+
 
 
 
