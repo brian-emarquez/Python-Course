@@ -97,7 +97,6 @@
 |  018  |:heavy_check_mark: | [Proyect Dictionary](#Proyect-Dictionary ) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  018  |:heavy_check_mark: | [Proyect Game hangmen](#Proyect-Game-hangmen ) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  018  |:heavy_check_mark: | [QT-Formulario](#QT-Formulario ) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-
 |  018  |:heavy_check_mark: | [QT-Formulario](#QT-Formulario ) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  018  |:heavy_check_mark: | [QT-PySide](#QT-PySide ) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  018  |:heavy_check_mark: | [QT-RegisterUI](#QT-RegisterUI ) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
