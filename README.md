@@ -109,20 +109,20 @@
 
  Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
-|  012   |:heavy_check_mark: | [QT Designer](#QT-Designer) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  018  |:heavy_check_mark: | [QT-Formulario](#QT-Formulario ) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  018  |:heavy_check_mark: | [QT-Formulario](#QT-Formulario ) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  018  |:heavy_check_mark: | [QT-PySide](#QT-PySide ) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  018  |:heavy_check_mark: | [QT-RegisterUI](#QT-RegisterUI ) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  018  |:heavy_check_mark: | [QT-RenderTimeCalculator](#QT-RenderTimeCalculator ) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  018  |:heavy_check_mark: | [QT-Toogle Menu](#QT-Toogle-Menu ) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  066   |:heavy_check_mark: | [QT Designer](#QT-Designer) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  067  |:heavy_check_mark: | [QT-Formulario](#QT-Formulario ) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  068  |:heavy_check_mark: | [QT-Formulario](#QT-Formulario ) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  069  |:heavy_check_mark: | [QT-PySide](#QT-PySide ) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  070  |:heavy_check_mark: | [QT-RegisterUI](#QT-RegisterUI ) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  071  |:heavy_check_mark: | [QT-RenderTimeCalculator](#QT-RenderTimeCalculator ) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  072  |:heavy_check_mark: | [QT-Toogle Menu](#QT-Toogle-Menu ) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 * Pyhotn Tkinter
 
  Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
-|  009   |:heavy_check_mark: | [Interface Grafica TKINTER](#Interface-Grafica-TKINTER) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  001   |:heavy_check_mark: | [Pyhton Tkinter Add ZipCode](#Pyhton-Tkinter-Add-ZipCode)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  073   |:heavy_check_mark: | [Interface Grafica TKINTER](#Interface-Grafica-TKINTER) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  074   |:heavy_check_mark: | [Pyhton Tkinter Add ZipCode](#Pyhton-Tkinter-Add-ZipCode)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  -    |:heavy_check_mark: | [Play List Spotify](#Spotify) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  -    |:heavy_check_mark: | [Book](#book)| :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 
