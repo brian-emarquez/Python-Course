@@ -161,19 +161,17 @@
 |  138   |:heavy_check_mark: | [Python Tkinter Creating Buttons](#Python-Tkinter-Creating-Buttons)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  139   |:heavy_check_mark: | [Python Tkinter Creating Input fields ](#Python-Tkinter-Creating-Input-fields )  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  140   |:heavy_check_mark: | [Python Tkinter Creating Multiple Entry Boxes Automatically ](#Python-Tkinter-Creating-Multiple-Entry-Boxes-Automatically )  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  141   |:heavy_check_mark: | [Python-Tkinter-Custom-Message-Box-Popups ](#Python-Tkinter-Custom-Message-Box-Popups )  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  141   |:heavy_check_mark: | [Python-Tkinter-Custom-Message-Box-Popups](#Python-Tkinter-Custom-Message-Box-Popups )  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  142   |:heavy_check_mark: | [Python Tkinter Dates and 2020 Countdown App ](#Python-Tkinter-Dates-and-2020-Countdown-App )  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  143   |:heavy_check_mark: | [Python Tkinter Delete Frame Children Widgets ](#Python-Tkinter-Delete-Frame-Children-Widgets )  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  144  |:heavy_check_mark: | [Python Tkinter Delete Frame Children Widgets ](#Python-Tkinter-Delete-Frame-Children-Widgets )  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  144   |:heavy_check_mark: | [Python Tkinter Delete Frame Children Widgets ](#Python-Tkinter-Delete-Frame-Children-Widgets )  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  145   |:heavy_check_mark: | [Python Tkinter Delete a Record](#Python-Tkinter-Delete-a-Record)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  -    |:heavy_check_mark: | [Play List Spotify](#Spotify) | :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  -    |:heavy_check_mark: | [Book](#book)| :hourglass: | ✅ | 💾|  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  146   |:heavy_check_mark: | [Python Tkinter Dependent Drop Downs and List Boxes](#Python-Tkinter-Dependent-Drop-Downs-and-List-Boxes)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  147   |:heavy_check_mark: | [Python Tkinter Dont Packon the same Line](#Python-Tkinter-Dont-Packon-the-same-Line)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  148   |:heavy_check_mark: | [Python Tkinter Drag and Drop Images With the Mouse](#Python-Tkinter-Drag-and-Drop-Images-With-the-Mouse)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  149   |:heavy_check_mark: | [Python Tkinter Drag and Drop Images With the Mouse](#Python-Tkinter-Drag-and-Drop-Images-With-the-Mouse)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  150   |:heavy_check_mark: | [Python Tkinter Drop Box Database Search CRM](#Python-Tkinter-Drop-Box-Database-Search-CRM)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  151  |:heavy_check_mark: | [Python Tkinter Dropdown Menus](#Python-Tkinter-Dropdown-Menus)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  151   |:heavy_check_mark: | [Python Tkinter Dropdown Menus](#Python-Tkinter-Dropdown-Menus)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  152   |:heavy_check_mark: | [Python Tkinter Dybamically Resize Buttons when Resizing a Window](#Python-Tkinter-Dybamically-Resize-Buttons-when-Resizing-a-Windows)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  153   |:heavy_check_mark: | [Python Tkinter Dynamically Resize Background Images](#Python-Tkinter-Dynamically-Resize-Background-Images)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  154   |:heavy_check_mark: | [Python Tkinter Export CRM Database to Excel File](#Python-Tkinter-Export-CRM-Database-to-Excel-File)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
@@ -185,10 +183,74 @@
 |  160   |:heavy_check_mark: | [Python Tkinter How To Resize Your App With The Sizegrip Widget](#Python-Tkinter-How-To-Resize-Your-App-With-The-Sizegrip-Widget)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  161   |:heavy_check_mark: | [Python Tkinter How To Risize Entry Box heigh](#Python-Tkinter-How-To-Risize-Entry-Box-heigh)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  162   |:heavy_check_mark: | [Python Tkinter How To Use HTML In Your Tkinter App](#Python-Tkinter-How-To-Use-HTML-In-Your-Tkinter-App)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  163   |:heavy_check_mark: | [Python Tkinter How To Use Images as Backgrounds](#Python-Tkinter-How-To-Use-Images-as-Backgrounds)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  164   |:heavy_check_mark: | [Python Tkinter How To Use The Message Widget For Blocks of Text](#Python-Tkinter-How-To-Use-he-Message-Widget-For-Blocks-of-Texts)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  165   |:heavy_check_mark: | [Python Tkinter How To add Excel Spreadsheet columns to listbox](#Python-Tkinter-How-To-add-Excel-Spreadsheet-columns-to-listbox)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  166   |:heavy_check_mark: | [Python Tkinter How To ser Tab Order and Focus](#Python-Tkinter-How-To-ser-Tab-Order-and-Focus)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  167   |:heavy_check_mark: | [Python Tkinter How Validate an Entry Widget Integer](#Python-Tkinter-How-Validate-an-Entry-Widget-Integer)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  168   |:heavy_check_mark: | [Python Tkinter How to Center Windows on the Screen](#Python-Tkinter-How-to-Center-Windows-on-the-Screen)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  169   |:heavy_check_mark: | [Python Tkinter How to Open External Programns](#Python-Tkinter-How-to-Open-External-Programns)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  170   |:heavy_check_mark: | [Python Tkinter How to Reset a Spinbox with Tkinter](#Python-Tkinter-How-to-Reset-a-Spinbox-with-Tkinter)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  171   |:heavy_check_mark: | [Python Tkinter How to Resize Images](#Python-Tkinter-How-to-Resize-Images)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  172   |:heavy_check_mark: | [Python Tkinter How to Resize a Window Dynamically](#Python-Tkinter-How-to-Resize-a-Window-Dynamically)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  173   |:heavy_check_mark: | [Python Tkinter How to Unlock the Hidden Keys of f a Widget](#Python-Tkinter-How-to-Unlock-the-Hidden-Keys-of-f-a-Widget)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  174   |:heavy_check_mark: | [Python Tkinter Image Buttons and Rounded Buttons](#Python-Tkinter-Image-Buttons-and-Rounded-Buttons)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  175   |:heavy_check_mark: | [Python Tkinter Keyboard Event Binding](#Python-Tkinter-Keyboard-Event-Bindings)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  176   |:heavy_check_mark: | [Python Tkinter List Boxes](#Python-Tkinter-List-Boxes)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  177   |:heavy_check_mark: | [Python Tkinter Lookup Customer By Last Name CRM](#Python-Tkinter-Lookup-Customer-By-Last-Name-CRM)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  178   |:heavy_check_mark: | [Python Tkinter Lookup all CustomersCRM](#Python-Tkinter-Lookup-all-CustomersCRM)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  179   |:heavy_check_mark: | [Python Tkinter MariaDB](#Python-Tkinter-MariaDB)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  180   |:heavy_check_mark: | [Python Tkinter Matplolib Charts](#Python-Tkinter-Matplolib-Charts)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  181   |:heavy_check_mark: | [Python Tkinter Menu Bars](#Python-Tkinter-Menu-Bars)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  182   |:heavy_check_mark: | [Python Tkinter Message Boxes](#Python-Tkinter-Message-Boxes)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  183   |:heavy_check_mark: | [Python Tkinter Mouse On Hover Image Animation](#Python-Tkinter-Mouse-On-Hover-Image-Animation)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  184   |:heavy_check_mark: | [Python Tkinter Move Canvas shapes with Arrow Keys](#Python-Tkinter-Move-Canvas-shapes-with-Arrow-Keys)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  185   |:heavy_check_mark: | [Python Tkinter Multiple CRM search Results](#Python-Tkinter-Multiple-CRM-search-Results)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  186   |:heavy_check_mark: | [Python Tkinter On Off Button Switch](#Python-Tkinter-On-Off-Button-Switch)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  187   |:heavy_check_mark: | [Python Tkinter Open Excell Spreadsheet](#Python-Tkinter-Open-Excell-Spreadsheet)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  188   |:heavy_check_mark: | [Python Tkinter Open Files Dialog Box](#Python-Tkinter-Open-Files-Dialog-Box)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  189   |:heavy_check_mark: | [Python Tkinter Overwrite Grid Labels](#Python-Tkinter-Overwrite-Grid-Labels)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  190   |:heavy_check_mark: | [Python Tkinter Paned Windows ](#Python-Tkinter-Paned-Windows)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  191   |:heavy_check_mark: | [Python Tkinter Positioning ](#Python-Tkinter-Positioning )  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  192   |:heavy_check_mark: | [Python Tkinter Progress Bars](#Python-Tkinter-Progress-Bars)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  193   |:heavy_check_mark: | [Python Tkinter Radio Butttons](#Python-Tkinter-Radio-Butttons)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  194   |:heavy_check_mark: | [Python Tkinter Random Winner Generador](#Python-Tkinter-Random-Winner-Generador)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  195   |:heavy_check_mark: | [Python Tkinter Read and Write to Text Files](#Python-Tkinter-Read-and-Write-to-Text-Files)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  196   |:heavy_check_mark: | [Python Tkinter Remove Labels](#ython-Tkinter-Remove-Labels)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  197   |:heavy_check_mark: | [Python Tkinter Right Click Menu Popups](#Python-Tkinter-Right-Click-Menu-Popups)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  198   |:heavy_check_mark: | [Python Tkinter Rock Paper Scissors Game ](#Python-Tkinter-Rock-Paper-Scissors-Game )  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  199   |:heavy_check_mark: | [Python Tkinter Save To Dat File Instead of Databases](#Python-Tkinter-Save-To-Dat-File-Instead-of-Databases)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  200   |:heavy_check_mark: | [Python Tkinter Secret Label Copying Hach](#Python-Tkinter-Secret-Label-Copying-Hach)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  201   |:heavy_check_mark: | [Python Tkinter Sliders](#Python-Tkinter-Sliders)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  202   |:heavy_check_mark: | [Python Tkinter Sounds and Music](#Python-Tkinter-Sounds-and-Music)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  203   |:heavy_check_mark: | [Python Tkinter Spinboxes](#Python-Tkinter-Spinboxes)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  204   |:heavy_check_mark: | [Python Tkinter Standalone EXE Executable ](#Python-Tkinter-Standalone-EXE-Executable)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  205   |:heavy_check_mark: | [Python Tkinter Text Box](#Python-Tkinter-Text-Box )  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  206   |:heavy_check_mark: | [Python Tkinter Threading](#Python-Tkinter-Threading)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  207   |:heavy_check_mark: | [Python Tkinter Tic Tac Toe Game](#Python-Tkinter-Tic-Tac-Toe-Game)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  208   |:heavy_check_mark: | [Python Tkinter Tile Matching Game ](#Python-Tkinter-Tile-Matching-Game )  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  209   |:heavy_check_mark: | [Python Tkinter Timers and Clocks ](#Python-Tkinter-Timers-and-Clocks )  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  210   |:heavy_check_mark: | [Python Tkinter Transparent Windows](#Python-Tkinter-Transparent-Windows)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  211   |:heavy_check_mark: | [Python Tkinter Treeview](#Python-Tkinter-Treeview)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  213   |:heavy_check_mark: | [Python Tkinter Undo and Redo Text Button ](#Python-Tkinter-Undo-and-Redo-Text-Button )  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  214   |:heavy_check_mark: | [Python Tkinter Unicode Character & Special Characters](#Python-Tkinter-Unicode-Character-&-Special-Characters)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  215   |:heavy_check_mark: | [Python ](#Python-Tkinter-Unicode-Character-&-Special-Characters)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  216   |:heavy_check_mark: | [Python Tkinter Unicode Character & Special Characters](#Python-Tkinter-Unicode-Character-&-Special-Characters)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  217   |:heavy_check_mark: | [Python Tkinter Update MariaDb records](#Python-Tkinter-Update-MariaDb-records)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  218   |:heavy_check_mark: | [Python Tkinter Update a Record](#Python-Tkinter-Update-a-Record)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  219   |:heavy_check_mark: | [Python Tkinter Using Config to update](#Python-Tkinter-Using-Config-to-update)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  220   |:heavy_check_mark: | [Python Tkinter Using Database](#Python-Tkinter-Using Database)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  221   |:heavy_check_mark: | [Python Tkinter Using Excel Spreadsheets](#PPython-Tkinter-Using-Excel-Spreadsheets)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  222   |:heavy_check_mark: | [Python Tkinter Using Frames with Menus](#[Python-Tkinter-Using-Frames-with-Menus)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  223   |:heavy_check_mark: | [Python Tkinter Using Icons Image](#Python-Tkinter-Using-Icons-Image)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  224   |:heavy_check_mark: | [Python Tkinter Using Other Python Programs in you App](#Python-Tkinter-Using-Other-Python-Programs-in-you-App)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  225   |:heavy_check_mark: | [Python Tkinter Window Resizer Control Panel](#Python-Tkinter-Window-Resizer-Control-Panel)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  226   |:heavy_check_mark: | [Python Tkinter Word Jumble Game ](#Python-Tkinter-Word-Jumble-Game )  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  227   |:heavy_check_mark: | [Python Tkinter how To Create a Splash Screen](#Python-Tkinter-how-To-Create-a-Splash-Screen)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  228   |:heavy_check_mark: | [Python Tkinter one SIded Widget Padding](#Python-Tkinter-one-SIded-Widget-Padding)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  229   |:heavy_check_mark: | [Python tkinter How to Disable or Delete a Menu item](#Python-tkinter-How-to-Disable-or-Delete-a-Menu-item)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  -    |:heavy_check_mark: | [Play List Spotify](#Spotify) | :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  -    |:heavy_check_mark: | [Book](#book)| :hourglass: | ✅ | 💾|  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-
-
 
 ---
 ## Que es Python
@@ -1659,14 +1721,6 @@ pip install tkhtmlview
 |--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
 | [Python Tkinter How To Use The Message Widget For Blocks of Text](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20How%20To%20Use%20The%20Message%20Widget%20For%20Blocks%20of%20Text)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
 
-
-## Python Tkinter How To Use The Message Widget For Blocks of Text
-
-| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
-|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
-| [Python Tkinter How To Use The Message Widget For Blocks of Text](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20How%20To%20Use%20The%20Message%20Widget%20For%20Blocks%20of%20Text)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
-
-
 ## Python Tkinter How To add Excel Spreadsheet columns to listbox
 
 | Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
@@ -1770,7 +1824,7 @@ pip install tkhtmlview
 | [Python Tkinter Lookup all CustomersCRM](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20Lookup%20all%20CustomersCRM)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
 
 
-## PPython Tkinter MariaDB
+## Python Tkinter MariaDB
 
 | Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
 |--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
@@ -1819,7 +1873,7 @@ pip install tkhtmlview
 | [Python Tkinter Multiple CRM search Results](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20Multiple%20CRM%20search%20Results)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
 
 
-## Python Tkinter On-Off Button Switch
+## Python Tkinter On Off Button Switch
 
 ![python](../images/on-off.gif)
 
@@ -1974,7 +2028,7 @@ md archivo
 | [Python Tkinter Text Bold and Italics Text](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20Text%20Bold%20and%20Italics%20Text)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
 
 
-## Python Tkinter Text-Box 
+## Python Tkinter Text Box 
 
 | Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
 |--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
