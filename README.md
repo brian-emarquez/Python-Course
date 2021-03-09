@@ -104,7 +104,14 @@
 |  018  |:heavy_check_mark: | [QT-Toogle Menu](#QT-Toogle-Menu ) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  018  |:heavy_check_mark: | [Reconocimiento Facial](#Reconocimiento-Facial ) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  018  |:heavy_check_mark: | [Robot](#Robot ) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-
+|  018  |:heavy_check_mark: | [Salida por pantalla](#Salida-por-pantalla ) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  018  |:heavy_check_mark: | [Screenpet](#Screenpet ) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  018  |:heavy_check_mark: | [Serializacion](#Serializacion ) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  018  |:heavy_check_mark: | [Sets](#Sets ) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  018  |:heavy_check_mark: | [Strings](#Strings ) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  018  |:heavy_check_mark: | [Test SQLServer](#Test-SQLServer ) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  018  |:heavy_check_mark: | [Tipos de datos](#Tipos-de-datos ) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  018  |:heavy_check_mark: | [Tuplas](#Tuplas ) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 
 
@@ -1014,8 +1021,63 @@ Se me ocurre que podemos aplicar una función Lambda a data cleaning en Pandas c
 | [Robot](https://github.com/BrianMarquez3/Python-Course/tree/master/Robot)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
 
 
+## Salida por pantalla
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Salida por pantalla](https://github.com/BrianMarquez3/Python-Course/tree/master/Salida%20por%20pantalla)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+| [Salidas](https://github.com/BrianMarquez3/Python-Course/tree/master/Salidas)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
 
 
+## Screenpet
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Screenpet](https://github.com/BrianMarquez3/Python-Course/tree/master/Screenpet)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+
+## Serializacion
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Screenpet I](https://github.com/BrianMarquez3/Python-Course/tree/master/Serializacion)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+| [Screenpet II](https://github.com/BrianMarquez3/Python-Course/tree/master/Serializacion%20II)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+
+## Sets
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Sets](https://github.com/BrianMarquez3/Python-Course/tree/master/Sets)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+## Strings
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [String](https://github.com/BrianMarquez3/Python-Course/tree/master/Strings)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+
+## Test SQLServer
+
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Test SQLServer](https://github.com/BrianMarquez3/Python-Course/tree/master/Test%20SQLServer)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+## Tipos de datos
+
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Tipos de datos](https://github.com/BrianMarquez3/Python-Course/tree/master/Tipos%20de%20datos)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+
+## Tuplas
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Tuplas](https://github.com/BrianMarquez3/Python-Course/tree/master/Tuplas)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
 
 
 
