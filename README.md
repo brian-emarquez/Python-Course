@@ -2211,6 +2211,33 @@ Las redes neuronales son un modelo de aprendizaje automático que forma parte de
 [Artificial Intelligence Link repository](https://github.com/BrianMarquez3/Artificial-intelligence).<br>
 
 ---
+
+## Python Django
+
+Django es un marco web Python de alto nivel que fomenta un desarrollo rápido y un diseño limpio y pragmático. Creado por desarrolladores experimentados, se encarga de gran parte de la molestia del desarrollo web, por lo que puede concentrarse en escribir su aplicación sin necesidad de reinventar la rueda. Es gratis y de código abierto. [Djangoproject](https://www.djangoproject.com/)
+
+
+
+![django](./Images/python-django.png)
+
+- Curso de Python Django
+[Python Django Link repository](https://github.com/BrianMarquez3/Python-Django).<br>
+
+---
+
+## Python Kivy
+
+Kivy es un marco Python gratuito y de código abierto para desarrollar aplicaciones móviles y otro software de aplicación multitáctil con una interfaz de usuario natural (NUI) . Se distribuye según los términos de la licencia MIT y se puede ejecutar en Android , iOS , GNU / Linux , macOS y Windows .
+
+Kivy es el marco principal desarrollado por la organización Kivy, [3] junto con Python para Android, [4] Kivy iOS, [5] y varias otras bibliotecas destinadas a ser utilizadas en todas las plataformas. En 2012, Kivy obtuvo una subvención de $ 5000 de la Python Software Foundation para trasladarlo a Python 3.3. [6] Kivy también es compatible con Raspberry Pi, que fue financiado a través de Bountysource [Wikipedia](https://en.wikipedia.org/wiki/Kivy_(framework))
+
+
+
+![kivy](./Images/kivy.png)
+
+- Curso de Python Kivy
+[Python Kivy Link repository](https://github.com/BrianMarquez3/Python-Kivy).<br>
+
 ## Spotify
 🎵 Music Python [List on Spotify 🎤](https://open.spotify.com/playlist/11AwbhmXyh2jKlsHmaxcP9)
 
