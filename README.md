@@ -123,8 +123,34 @@
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
 |  073   |:heavy_check_mark: | [Interface Grafica TKINTER](#Interface-Grafica-TKINTER) | :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  074   |:heavy_check_mark: | [Pyhton Tkinter Add ZipCode](#Pyhton-Tkinter-Add-ZipCode)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  074   |:heavy_check_mark: | [Pyhton Tkinter Get Height and Width](#[Pyhton-Tkinter-Get-Height-and-Width)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-| ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
+|  074   |:heavy_check_mark: | [Pyhton Tkinter Get Height and Width](#Pyhton-Tkinter-Get-Height-and-Width)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+
+
+|  074   |:heavy_check_mark: | [Python TKinter Build An MP3 Player](#Python-TKinter-Build-An-MP3-Player)  | 
+:hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  074   |:heavy_check_mark: | [Python TKinter Button Bitmaps](#Python-TKinter-Button-Bitmaps)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  074   |:heavy_check_mark: | [Python TKinter Changing The Mouse Cursor](#Python-TKinter-Changing-The-Mouse-Cursor)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  074   |:heavy_check_mark: | [Python TKinter How To Ring The System Bell](#Python-TKinter-How-To-Ring-The-System-Bell)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  074   |:heavy_check_mark: | [Python TKinter Using Entry Boxes On Canvas](#Python-TKinter-Using-Entry-Boxes-On-Canvas)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  074   |:heavy_check_mark: | [Python TKinter Using config to update widget](#Python-TKinter-Using-config-to-pdate-widget)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  074   |:heavy_check_mark: | [Python Tkinter Add Images to Text Box](#Python-Tkinter-Add-Images-to-Text-Box)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  074   |:heavy_check_mark: | [Python Tkinter Add Input Boxes For Our CRM Tool](#Python-Tkinter-Add-Input-Boxes-For-Our-CRM-Tool)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  074   |:heavy_check_mark: | [Python Tkinter Add Scrollbars to List Boxes](#Python-Tkinter-Add-Scrollbars-to-List-Boxes)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  074   |:heavy_check_mark: | [Python Tkinter Adding Frames](#Python-Tkinter-Adding-Frames)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  074   |:heavy_check_mark: | [Python Tkinter Adding Full Screen ScrollBar](#Python-Tkinter-Adding-Full-Screen-ScrollBar)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  074   |:heavy_check_mark: | [Python Tkinter Adding a Status Bar](#Python-Tkinter-Adding-a-Status-Bar)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  074   |:heavy_check_mark: | [Python Tkinter All List](#Python-Tkinter-All-List)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  074   |:heavy_check_mark: | [Python Tkinter Ballon Text Tools](#Python-Tkinter-Ballon-Text-Tools)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  074   |:heavy_check_mark: | [Python Tkinter Basic Search and Autofill](#Python-Tkinter-Basic-Search-and-Autofills)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  074   |:heavy_check_mark: | [Python Tkinter Binding Dropdown Menus and Combo Boxes](#Python-Tkinter-Binding-Dropdown-Menus-and-Combo-Boxes)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  074   |:heavy_check_mark: | [Python Tkinter Add Scrollbars to List Boxes](#Python-Tkinter-Add-Scrollbars-to-List-Boxes)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  074   |:heavy_check_mark: | [Python Tkinter Add Scrollbars to List Boxes](#Python-Tkinter-Add-Scrollbars-to-List-Boxes)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  074   |:heavy_check_mark: | [Python Tkinter Add Scrollbars to List Boxes](#Python-Tkinter-Add-Scrollbars-to-List-Boxes)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  074   |:heavy_check_mark: | [Python Tkinter Add Scrollbars to List Boxes](#Python-Tkinter-Add-Scrollbars-to-List-Boxes)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+
+
+
+
 |  -    |:heavy_check_mark: | [Play List Spotify](#Spotify) | :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  -    |:heavy_check_mark: | [Book](#book)| :hourglass: | ✅ | 💾|  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 
@@ -553,13 +579,7 @@ Anaconda es un distribución libre y abierta1​ de los lenguajes Python y R, ut
 
 ---
 
-## Build A Foreign Language Flashcard App
 
-![python](./Images/resp.gif)
-
-| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
-|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
-| [Build A Foreign Language Flashcard App](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20Build%20A%20Foreign%20Language%20Flashcard%20App)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
 
 ## Archivos Externos I
 
@@ -1114,6 +1134,7 @@ pyside2-rcc.exe example1.qrc -o example1_rc.py
 
 ---
 
+
 ## Pyhton Tkinter Add ZipCode
 
 | Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
@@ -1125,6 +1146,345 @@ pyside2-rcc.exe example1.qrc -o example1_rc.py
 | Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
 |--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
 | [Pyhton Tkinter Get Height and Width](https://github.com/BrianMarquez3/Python-Course/tree/master/Pyhton%20Tkinter%20Get%20Height%20and%20Width)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+ >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+## Python TKinter Build An MP3 Player
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Python TKinter Build An MP3 Player](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20TKinter%20Build%20An%20MP3%20Player)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+## Python TKinter Button Bitmaps
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Python TKinter Button Bitmaps](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20TKinter%20Button%20Bitmaps)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+## Python TKinter Changing The Mouse Cursor
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Python TKinter Changing The Mouse Cursor](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20TKinter%20Changing%20The%20Mouse%20Cursor)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+## Python TKinter How To Ring The System Bell
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Python TKinter How To Ring The System Bell](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20TKinter%20How%20To%20Ring%20The%20System%20Bell)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  
+
+## Python TKinter Using Entry Boxes On Canvas
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Python TKinter Using Entry Boxes On Canvas](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20TKinter%20Using%20Entry%20Boxes%20On%20Canvas)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  
+
+
+## Python TKinter Using config to update widget
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Python TKinter Using config() to update widget](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20TKinter%20Using%20config()%20to%20update%20widget)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  
+
+
+## Python Tkinter Add Images to Text Box
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Python Tkinter Add Images to Text Box](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20%20Add%20Images%20to%20Text%20Box)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  
+
+
+## Python Tkinter Add Input Boxes For Our CRM Tool
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Python Tkinter Add Input Boxes For Our CRM Tool](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20Add%20Input%20Boxes%20For%20Our%20CRM%20Tool)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  
+
+
+## Python Tkinter Add Scrollbars to List Boxes
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Python Tkinter Add Scrollbars to List Boxes](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20Add%20Scrollbars%20to%20List%20Boxes)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  
+
+
+## Python Tkinter Adding Frames
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Python Tkinter Adding Frames](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20Adding%20Frames)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  
+
+
+## Python Tkinter Adding Full Screen ScrollBar
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Python Tkinter Adding Full Screen ScrollBar](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20Adding%20Full%20Screen%20ScrollBar)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  
+
+## Python Tkinter Adding a Status Bar
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Python Tkinter Adding a Status Bar](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20Adding%20a%20Status%20Bar)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  
+
+
+## Python Tkinter All List I
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Python Tkinter All List I](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20All%20List%20I)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  
+| [Python Tkinter All List II Cross and Uncross From ToDo List](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20All%20List%20II%20Cross%20and%20Uncross%20From%20ToDo%20List)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  
+| [Python Tkinter All List III Save and Open ToDo Lists](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20All%20List%20III%20Save%20and%20Open%20ToDo%20Lists)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  
+
+
+## Python Tkinter Ballon Text Tools
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Python Tkinter Ballon Text Tools](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20Ballon%20Text%20Tools)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  
+
+
+## Python Tkinter Basic Search and Autofill
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Python Tkinter Basic Search and Autofill](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20Basic%20Search%20and%20Autofill)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  
+
+## Python Tkinter Binding Dropdown Menus and Combo Boxes
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Python Tkinter Binding Dropdown Menus and Combo Boxes](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20Binding%20Dropdown%20Menus%20and%20Combo%20Boxes)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  
+
+## Python Tkinter Bitcoin Price Web Scraper With BeautifulSoup
+
+_BeautifulSoup_
+```
+pip install beautifulsoup4
+```
+
+![python](../images/coindesk-BTC-chart-2021-01-19.png)
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Python Tkinter Bitcoin Price Web Scraper With BeautifulSoup](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20Bitcoin%20Price%20Web%20Scraper%20With%20BeautifulSoup)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  
+
+
+## Build A Foreign Language Flashcard App
+
+![python](./Images/resp.gif)
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Build A Foreign Language Flashcard App](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20Build%20A%20Foreign%20Language%20Flashcard%20App)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+
+
+## Python Tkinter Build A text Editor II
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Python Tkinter Build A text Editor II](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20Build%20A%20text%20Editor%20II)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  
+| [Python Tkinter Build A text Editor III](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20Build%20A%20text%20Editor%20III)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  
+| [Python Tkinter Build A text Editor IV](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20Build%20A%20text%20Editor%20IV)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  
+| [Python Tkinter Build A text Editor V](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20Build%20A%20text%20Editor%20V)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  
+| [Python Tkinter Build A text Editor VI](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20Build%20A%20text%20Editor%20VI)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | 
+| [Python Tkinter Build A text Editor VII](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20Build%20A%20text%20Editor%20VII)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | 
+| [Python Tkinter Build A text Editor VIII](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20Build%20A%20text%20Editor%20VIII)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | 
+| [Python Tkinter Build A text Editor VIX](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20Build%20A%20text%20Editor%20VIX)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | 
+| [Python Tkinter Build A text Editor X](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20Build%20A%20text%20Editor%20X)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | 
+
+
+## Python Tkinter Build A text Editor
+
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Python Tkinter Build A text Editor](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20Build%20A%20text%20Editor)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+
+## Python Tkinter Build a Geography Flashcard APP
+
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Python Tkinter Build a Geography Flashcard APP](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20Build%20a%20Geography%20Flashcard%20APP)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+| [Python Tkinter Build a Geography Flashcard APP I ](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20Build%20a%20Geography%20Flashcard%20I)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+| [Python Tkinter Build a Geography Flashcard APP II ](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20Build%20a%20Geography%20Flashcard%20II)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+| [Python Tkinter Build a Geography Flashcard APP III ](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20Build%20a%20Geography%20Flashcard%20III)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+| [Python Tkinter Build a Geography Flashcard APP IV ](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20Build%20a%20Geography%20Flashcard%20IV)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+| [Python Tkinter Build a Geography Flashcard APP V ](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20Build%20a%20Geography%20Flashcard%20V)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+| [Python Tkinter Build a Geography Flashcard APP VI ](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20Build%20a%20Geography%20Flashcard%20VI)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+| [Python Tkinter Build a Geography Flashcard APP VII ](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20Build%20a%20Geography%20Flashcard%20VII)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+| [Python Tkinter Build a Geography Flashcard APP VIII ](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20Build%20a%20Geography%20Flashcard%20VIIi)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+ [Python Tkinter Build a Geography Flashcard APP IX ](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20Build%20a%20Geography%20Flashcard%20IX)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+ [Python Tkinter Build a Geography Flashcard APP X ](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20Build%20a%20Geography%20Flashcard%20X)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+
+## Python Tkinter Build a Paint APP
+
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Python Tkinter Build a Paint APP](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20Build%20a%20Paint%20APP)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+
+## Python Tkinter Build a Weather App
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Python Tkinter Build a Weather App](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20Build%20a%20Weather%20App)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+## Python Tkinter Build an Imagen Viewer
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Python Tkinter Build an Imagen Viewer](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20Build%20an%20Imagen%20Viewer)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+
+## Python Tkinter Building out Database
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Python Tkinter Building out Database](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20Building%20out%20Database)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+## Python Tkinter Button Mouse on-Hover Popup Message
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Python Tkinter Button Mouse on-Hover Popup Message](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20Button%20Mouse%20on-Hover%20Popup%20Message)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+
+## Python Tkinter Change Colors Weather App
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Python Tkinter Change Colors Weather App](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20Change%20Colors%20Weather%20App)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+
+## Python Tkinter Checkboxes
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Python Tkinter Checkboxes](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20Checkboxes)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+
+## Python Tkinter Classes
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Python Tkinter Classes](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20Classes)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+## Python Tkinter Color Changing Number Guessing Game
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Python Tkinter Color Changing Number Guessing Game](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20Color%20Changing%20Number%20Guessing%20Game)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+
+## Python Tkinter Color Picker
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Python Tkinter Color Picker](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20Color%20Picker)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+
+## Python Tkinter Create CRM database Tool
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Python Tkinter Create CRM database Too](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20Create%20CRM%20database%20Tool)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+## Python Tkinter Create New Windows
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Python Tkinter Create New Windows](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20Create%20New%20Windows)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+
+## Python Tkinter Create Tab in Your GUI
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Python Tkinter Create Tab in Your GUI](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20Create%20Tab%20in%20Your%20GUI)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+
+## Python Tkinter Create a Data Picker Calendar
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Python Tkinter Create a Data Picker Calendar](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20Create%20a%20Data%20Picker%20Calendar)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+
+## Python Tkinter Create a Database and Table CRM
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Python Tkinter Create a Database and Table CRM](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20Create%20a%20Database%20and%20Table%20CRM)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+## Python Tkinter Creating Buttons
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Python Tkinter Creating Buttons](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20Creating%20Buttons)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+
+
+## Python Tkinter Creating Input fields II
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Python Tkinter Creating Input fields I](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20Creating%20Input%20fields%20I)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+| [Python Tkinter Creating Input fields II](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20Creating%20Input%20fields%20II)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+
+## Python Tkinter Creating Multiple Entry Boxes Automatically
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Python Tkinter Creating Multiple Entry Boxes Automatically](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20Creating%20Multiple%20Entry%20Boxes%20Automatically)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+
+## Python Tkinter Custom Message Box Popups
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Python Tkinter Custom Message Box Popups](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20Custom%20Message%20Box%20Popups)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+
+## Python Tkinter Dates and 2020 Countdown App
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Python Tkinter Dates and 2020 Countdown App](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20Dates%20and%202020%20Countdown%20App)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+
+
+
+## Python Tkinter Delete Frame Children Widgets
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Python Tkinter Delete Frame Children Widgets](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20Delete%20Frame%20Children%20Widgets)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+
+## Python Tkinter Delete a Record
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Python Tkinter Delete a Record](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20Delete%20a%20Record)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
