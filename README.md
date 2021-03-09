@@ -40,16 +40,16 @@
 
  Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
-|  001   |:heavy_check_mark: | [Que es Python](#Que-es-Python)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  002   |:heavy_check_mark: | [Creador](#Creador)  | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  003   |:heavy_check_mark: | [Historia](#historia)  | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  004   |:heavy_check_mark: | [Ejemplos](#Ejemplos)  | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  005   |:heavy_check_mark: | [Comandos](#Comandos) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  006   |:heavy_check_mark: | [Variables](#Variables ) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  007   |:heavy_check_mark: | [Tuplas](#Tuplas ) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  008   |:heavy_check_mark: | [Instalación](#Instalación)  | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  009   |:heavy_check_mark: | [Ramas](#Ramas)  | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  010   |:heavy_check_mark: | [POO Programación orientada a objetos](#POO-Programación-orientada-a-objetos)  | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  002   |:heavy_check_mark: | [Que es Python](#Que-es-Python)  | :hourglass:     | - | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  003   |:heavy_check_mark: | [Creador](#Creador)  | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  004   |:heavy_check_mark: | [Historia](#historia)  | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  005   |:heavy_check_mark: | [Ejemplos](#Ejemplos)  | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  006   |:heavy_check_mark: | [Comandos](#Comandos) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  007   |:heavy_check_mark: | [Variables](#Variables ) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  008   |:heavy_check_mark: | [Tuplas](#Tuplas ) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  009   |:heavy_check_mark: | [Instalación](#Instalación)  | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  010   |:heavy_check_mark: | [Ramas](#Ramas)  | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  011   |:heavy_check_mark: | [POO Programación orientada a objetos](#POO-Programación-orientada-a-objetos)  | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  012   |:heavy_check_mark: | [Install Jupyter Notebook](#Install-Jupyter-Notebook) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  013   |:heavy_check_mark: | [Anaconda](#Anaconda) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  014   |:heavy_check_mark: | [Buenas Practicas En Commits De Git](#Buenas-Practicas-En-Commits-De-Git) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
