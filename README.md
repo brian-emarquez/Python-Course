@@ -123,6 +123,11 @@
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
 |  073   |:heavy_check_mark: | [Interface Grafica TKINTER](#Interface-Grafica-TKINTER) | :hourglass: | ✅ | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  074   |:heavy_check_mark: | [Pyhton Tkinter Add ZipCode](#Pyhton-Tkinter-Add-ZipCode)  | :hourglass:     | ✅ | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  074   |:heavy_check_mark: | [Pyhton Tkinter Get Height and Width](#[Pyhton-Tkinter-Get-Height-and-Width)  | :hourglass:     | ✅ | - | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+
+
+
+| ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
 |  -    |:heavy_check_mark: | [Play List Spotify](#Spotify) | :hourglass: | ✅ | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  -    |:heavy_check_mark: | [Book](#book)| :hourglass: | ✅ | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 
@@ -1118,9 +1123,11 @@ pyside2-rcc.exe example1.qrc -o example1_rc.py
 |--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
 | [Pyhton Tkinter Add ZipCode](https://github.com/BrianMarquez3/Python-Course/tree/master/Pyhton%20Tkinter%20Add%20ZipCode)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
 
+## Pyhton Tkinter Get Height and Width
 
-
-
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Pyhton Tkinter Get Height and Width](https://github.com/BrianMarquez3/Python-Course/tree/master/Pyhton%20Tkinter%20Get%20Height%20and%20Width)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
 
 
 
