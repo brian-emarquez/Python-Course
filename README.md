@@ -80,6 +80,14 @@
 |  018  |:heavy_check_mark: | [Git](#Git) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |  
 |  018  |:heavy_check_mark: | [Generadores](#Generadores) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |  
 |  018  |:heavy_check_mark: | [Generacion Ejecutables](#Generacion-Ejecutables) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |  
+|  018  |:heavy_check_mark: | [Geographic Map of Peru](#Geographic-Map-of-Peru) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |  
+|  018  |:heavy_check_mark: | [Geographical plottings](#Geographical-plottings) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |  
+|  018  |:heavy_check_mark: | [Guardado Permanenete](#Guardado-Permanenete) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  018  |:heavy_check_mark: | [Interfas Grafica](#Interfas-Grafica) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+
+
+
+
 
 
 ---
@@ -672,7 +680,7 @@ Anaconda es un distribución libre y abierta1​ de los lenguajes Python y R, ut
 | Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
 |--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
 | [Datos por teclado](https://github.com/BrianMarquez3/Python-Course/tree/master/Datos%20por%20teclado)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
-
+| [Ingreso por Teclado](https://github.com/BrianMarquez3/Python-Course/tree/master/Ingreso%20por%20Teclado)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
 
 
 
@@ -739,6 +747,9 @@ Anaconda es un distribución libre y abierta1​ de los lenguajes Python y R, ut
 | [Funcion Map](https://github.com/BrianMarquez3/Python-Course/tree/master/Funcion%20Map)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
 | [Funciones Integradas](https://github.com/BrianMarquez3/Python-Course/tree/master/Funciones%20Integradas)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
 | [Funciones Lambda](https://github.com/BrianMarquez3/Python-Course/tree/master/Funciones%20Lambda)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+| [Lambda](https://github.com/BrianMarquez3/Python-Course/tree/master/Lambda)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+
 
 
 ## Funciones
@@ -767,6 +778,48 @@ Anaconda es un distribución libre y abierta1​ de los lenguajes Python y R, ut
 | Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
 |--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
 | [Generacion Ejecutables](https://github.com/BrianMarquez3/Python-Course/tree/master/Generacion%20Ejecutables)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+
+## Geographic Map of Peru
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Geographic Map of Peru](https://github.com/BrianMarquez3/Python-Course/tree/master/Geographic%20Map%20of%20Peru)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+
+## Geographical plottings
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Geographical plottings](https://github.com/BrianMarquez3/Python-Course/tree/master/Geographical%20plottings)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+
+## Guardado Permanenete
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Guardado Permanenete](https://github.com/BrianMarquez3/Python-Course/tree/master/Guardado%20Permanenete)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+
+## Interfas Grafica
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Interfas Grafica II (GUI)](https://github.com/BrianMarquez3/Python-Course/tree/master/Interfas%20Grafica%20II%20(Gui))          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+| [Interfas Grafica III (GUI))](https://github.com/BrianMarquez3/Python-Course/tree/master/Interfas%20Grafica%20III%20(GUI))          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+| [Interfas Grafica IV (GUI)](https://github.com/BrianMarquez3/Python-Course/tree/master/Interfas%20Grafica%20IV%20(GUI))          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+| [Interfas Grafica V (GUI)](https://github.com/BrianMarquez3/Python-Course/tree/master/Interfas%20Grafica%20V%20(GUI))          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+| [Interfas Grafica VI (GUI)](https://github.com/BrianMarquez3/Python-Course/tree/master/Interfas%20Grafica%20VI%20(GUI))          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+| [Interfas Grafica VII (GUI)](https://github.com/BrianMarquez3/Python-Course/tree/master/Interfas%20Grafica%20VII%20(GUI))          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+| [Interfas Grafica VIII (GUI)](https://github.com/BrianMarquez3/Python-Course/tree/master/Interfas%20Grafica%20VIII%20(GUI))          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+| [Interfas Grafica IX (GUI)](https://github.com/BrianMarquez3/Python-Course/tree/master/Interfas%20Grafica%20IX%20(GUI))          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+| [Interfas Grafica X (GUI)](https://github.com/BrianMarquez3/Python-Course/tree/master/Interfas%20Grafica%20X%20(GUI))          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+| [Interfas Grafica XI (GUI)](https://github.com/BrianMarquez3/Python-Course/tree/master/Interfas%20Grafica%20XI%20(GUI))          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+| [Interfas Grafica XII (GUI)](https://github.com/BrianMarquez3/Python-Course/tree/master/Interfas%20Grafica%20XII%20(GUI))          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+| [Interfas Grafica XIII (GUI)](https://github.com/BrianMarquez3/Python-Course/tree/master/Interfas%20Grafica%20XIII%20(GUI))          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+
+
 
 
 
