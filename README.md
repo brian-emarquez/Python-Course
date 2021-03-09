@@ -67,6 +67,15 @@
 |  018  |:heavy_check_mark: | [Condicionales](#Condicionales) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  018  |:heavy_check_mark: | [Conjuntos](#Conjuntos) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  018  |:heavy_check_mark: | [Datos por teclado](#Datos-por-teclado) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  018  |:heavy_check_mark: | [Decoradores](#Decoradores) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  018  |:heavy_check_mark: | [Diccionarios](#Diccionarios) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  018  |:heavy_check_mark: | [Documentacion y Pruebas](#Documentacion-y-Pruebas) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  018  |:heavy_check_mark: | [Email](#Email) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  018  |:heavy_check_mark: | [Errores y Excepciones](#Errores-y-Excepciones) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  018  |:heavy_check_mark: | [Estructura General](#Estructura-General) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  018  |:heavy_check_mark: | [Excepciones](#Excepciones) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |  
+
+
 
 
 ---
@@ -663,9 +672,56 @@ Anaconda es un distribución libre y abierta1​ de los lenguajes Python y R, ut
 
 
 
+## Decoradores 
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Decoradores I](https://github.com/BrianMarquez3/Python-Course/tree/master/Decoradores%20I)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+| [Decoradores II](https://github.com/BrianMarquez3/Python-Course/tree/master/Decoradores%20II)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+
+## Diccionarios 
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Diccionarios](https://github.com/BrianMarquez3/Python-Course/tree/master/Diccionarios)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+| [Diccionario Simple](https://github.com/BrianMarquez3/Python-Course/tree/master/Diccionario%20Simple)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+
+## Documentacion y Pruebas 
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Documentacion y Pruebas I](https://github.com/BrianMarquez3/Python-Course/tree/master/Documentacion%20y%20Pruebas)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+| [Documentacion y Pruebas II](https://github.com/BrianMarquez3/Python-Course/tree/master/Documentacion%20y%20Pruebas%20II)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+| [Documentacion y Pruebas III](https://github.com/BrianMarquez3/Python-Course/tree/master/Documentacion%20y%20Pruebas%20III)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+
+## Email
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Email](https://github.com/BrianMarquez3/Python-Course/tree/master/Email)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+
+## Errores y Excepciones
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Errores y Excepciones](https://github.com/BrianMarquez3/Python-Course/tree/master/Errores%20y%20Excepciones)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+## Estructura General
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Estructura General](https://github.com/BrianMarquez3/Python-Course/tree/master/Estructura%20General)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
 
 
 
+## Excepciones
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Excepciones](https://github.com/BrianMarquez3/Python-Course/tree/master/Excepciones)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
 
 
 
