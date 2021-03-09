@@ -74,8 +74,12 @@
 |  018  |:heavy_check_mark: | [Errores y Excepciones](#Errores-y-Excepciones) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  018  |:heavy_check_mark: | [Estructura General](#Estructura-General) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 |  018  |:heavy_check_mark: | [Excepciones](#Excepciones) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |  
-
-
+|  018  |:heavy_check_mark: | [Estructura General](#Estructura-General) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  018  |:heavy_check_mark: | [Funciones Establecidas](#Funciones-Establecidas) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |  
+|  018  |:heavy_check_mark: | [Funciones](#Funciones) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |  
+|  018  |:heavy_check_mark: | [Git](#Git) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |  
+|  018  |:heavy_check_mark: | [Generadores](#Generadores) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |  
+|  018  |:heavy_check_mark: | [Generacion Ejecutables](#Generacion-Ejecutables) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |  
 
 
 ---
@@ -722,20 +726,47 @@ Anaconda es un distribución libre y abierta1​ de los lenguajes Python y R, ut
 | Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
 |--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
 | [Excepciones](https://github.com/BrianMarquez3/Python-Course/tree/master/Excepciones)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+| [Expresiones Regulares I](https://github.com/BrianMarquez3/Python-Course/tree/master/Expresiones%20Regulares%20I)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+| [Expresiones Regulares II](https://github.com/BrianMarquez3/Python-Course/tree/master/Expresiones%20Regulares%20II)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+| [Expresiones Regulares II](https://github.com/BrianMarquez3/Python-Course/tree/master/Expresiones%20Regulares%20III)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | 
+| [Expresiones Regulares IV](https://github.com/BrianMarquez3/Python-Course/tree/master/Expresiones%20Regulares%20IV)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | 
+
+## Funciones Establecidas
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Funcion Filter](https://github.com/BrianMarquez3/Python-Course/tree/master/Funcion%20Filter)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+| [Funcion Map](https://github.com/BrianMarquez3/Python-Course/tree/master/Funcion%20Map)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+| [Funciones Integradas](https://github.com/BrianMarquez3/Python-Course/tree/master/Funciones%20Integradas)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+| [Funciones Lambda](https://github.com/BrianMarquez3/Python-Course/tree/master/Funciones%20Lambda)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
 
 
+## Funciones
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Funciones](https://github.com/BrianMarquez3/Python-Course/tree/master/Funciones)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
 
 
+## Git
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Git](https://github.com/BrianMarquez3/Python-Course/blob/master/GIT/Commint/Commit.txt)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
 
 
+## Generadores
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Generadores](https://github.com/BrianMarquez3/Python-Course/tree/master/Generadores)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
 
 
+## Generacion Ejecutables
 
-
-
-
-
-
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Generacion Ejecutables](https://github.com/BrianMarquez3/Python-Course/tree/master/Generacion%20Ejecutables)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
 
 
 
