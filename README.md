@@ -168,6 +168,25 @@
 |  145   |:heavy_check_mark: | [Python Tkinter Delete a Record](#Python-Tkinter-Delete-a-Record)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  -    |:heavy_check_mark: | [Play List Spotify](#Spotify) | :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  -    |:heavy_check_mark: | [Book](#book)| :hourglass: | ✅ | 💾|  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  146   |:heavy_check_mark: | [Python Tkinter Dependent Drop Downs and List Boxes](#Python-Tkinter-Dependent-Drop-Downs-and-List-Boxes)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  147   |:heavy_check_mark: | [Python Tkinter Dont Packon the same Line](#Python-Tkinter-Dont-Packon-the-same-Line)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  148   |:heavy_check_mark: | [Python Tkinter Drag and Drop Images With the Mouse](#Python-Tkinter-Drag-and-Drop-Images-With-the-Mouse)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  149   |:heavy_check_mark: | [Python Tkinter Drag and Drop Images With the Mouse](#Python-Tkinter-Drag-and-Drop-Images-With-the-Mouse)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  150   |:heavy_check_mark: | [Python Tkinter Drop Box Database Search CRM](#Python-Tkinter-Drop-Box-Database-Search-CRM)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  151  |:heavy_check_mark: | [Python Tkinter Dropdown Menus](#Python-Tkinter-Dropdown-Menus)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  152   |:heavy_check_mark: | [Python Tkinter Dybamically Resize Buttons when Resizing a Window](#Python-Tkinter-Dybamically-Resize-Buttons-when-Resizing-a-Windows)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  153   |:heavy_check_mark: | [Python Tkinter Dynamically Resize Background Images](#Python-Tkinter-Dynamically-Resize-Background-Images)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  154   |:heavy_check_mark: | [Python Tkinter Export CRM Database to Excel File](#Python-Tkinter-Export-CRM-Database-to-Excel-File)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  155   |:heavy_check_mark: | [Python Tkinter How Draw Lines and Shapes with Canvas](#Python-Tkinter-How-Draw-Lines-and-Shapes-with-Canvas)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  156   |:heavy_check_mark: | [Python Tkinter How To Animate Widgets](#Python-Tkinter-How-To-Animate-Widgets)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  157   |:heavy_check_mark: | [Python Tkinter How To Define Custom Fonts](Python-Tkinter-How-To-Define-Custom-Fonts)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  158   |:heavy_check_mark: | [Python Tkinter How To Dynamically Resize Button Text](#Python-Tkinter-How-To-Dynamically-Resize-Button-Text)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  159   |:heavy_check_mark: | [Python Tkinter How To Read A PDF File](#Python-Tkinter-How-To-Read-A-PDF-ile)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  160   |:heavy_check_mark: | [Python Tkinter How To Resize Your App With The Sizegrip Widget](#Python-Tkinter-How-To-Resize-Your-App-With-The-Sizegrip-Widget)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  161   |:heavy_check_mark: | [Python Tkinter How To Risize Entry Box heigh](#Python-Tkinter-How-To-Risize-Entry-Box-heigh)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  162   |:heavy_check_mark: | [Python Tkinter How To Use HTML In Your Tkinter App](#Python-Tkinter-How-To-Use-HTML-In-Your-Tkinter-App)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  -    |:heavy_check_mark: | [Play List Spotify](#Spotify) | :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  -    |:heavy_check_mark: | [Book](#book)| :hourglass: | ✅ | 💾|  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 
 
 
@@ -1481,7 +1500,148 @@ pip install beautifulsoup4
 | Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
 |--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
 | [Python Tkinter Delete a Record](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20Delete%20a%20Record)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+ >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+## Python Tkinter Dependent Drop Downs and List Boxes
 
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Python Tkinter Delete a Record](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20Dependent%20Drop%20Downs%20and%20List%20Boxes)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+## Python Tkinter Dont Packon the same Line
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Python Tkinter Delete a Record](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20Dont%20Packon%20the%20same%20Line)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+
+## Python Tkinter Drag and Drop Images With the Mouse
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Python Tkinter Delete a Record](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20Drag%20and%20Drop%20Images%20With%20the%20Mouse)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+## Python Tkinter Drag and Drop Images With the Mouse
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Python Tkinter Drag and Drop Images With the Mouse](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20Drag%20and%20Drop%20Images%20The%20Mouse)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+| [Python Tkinter Drag and Drop Images With the Mouse](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20Drag%20and%20Drop%20Images%20With%20the%20Mouse)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+
+## Python Tkinter Drop Box Database Search CRM
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Python Tkinter Drop Box Database Search CRM](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20Drop%20Box%20Database%20Search%20CRM)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+
+## Python Tkinter Dropdown Menus
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Python Tkinter Dropdown Menus](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20Dropdown%20Menus)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+
+## Python Tkinter Dybamically Resize Buttons when Resizing a Window
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Python Tkinter Dybamically Resize Buttons when Resizing a Window](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20Dybamically%20Resize%20Buttons%20when%20Resizing%20a%20Window)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+
+## Python Tkinter Dynamically Resize Background Images
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Python Tkinter Dynamically Resize Background Images](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20Dynamically%20Resize%20Background%20Images)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+
+## Python Tkinter Export CRM Database to Excel File
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Python Tkinter Export CRM Database to Excel File](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20Export%20CRM%20Database%20to%20Excel%20File)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+## Python Tkinter How Draw Lines and Shapes with Canvas
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Python Tkinter How Draw Lines and Shapes with Canvas](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20How%20Draw%20Lines%20and%20Shapes%20with%20Canvas)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+## Python Tkinter How To Animate Widgets
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Python Tkinter How To Animate Widgets](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20How%20To%20Animate%20Widgets)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+## Python Tkinter How To Define Custom Fonts
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Python Tkinter How To Define Custom Fonts](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20How%20To%20Define%20Custom%20Fonts)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+## Python Tkinter How To Dynamically Resize Button Text
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Python Tkinter How To Dynamically Resize Button Text](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20How%20To%20Dynamically%20Resize%20Button%20Text)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+## Python Tkinter How To Position Label Text
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Python Tkinter How To Position Label Text](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20How%20To%20Position%20Label%20Text)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+## Python Tkinter How To Read A PDF File
+
+```
+pip install PyPDF2
+```
+
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Python Tkinter How To Read A PDF File](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20How%20To%20Read%20A%20PDF%20File)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+
+## Python Tkinter How To Resize Your App With The Sizegrip Widget
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Python Tkinter How To Resize Your App With The Sizegrip Widget](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20How%20To%20Resize%20Your%20App%20With%20The%20Sizegrip%20Widget)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+## Python Tkinter How To Risize Entry Box height
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Python Tkinter How To Risize Entry Box height](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20How%20To%20Risize%20Entry%20Box%20height)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+## Python Tkinter How To Use HTML In Your Tkinter App
+
+_pip install requests_
+```
+pip install requests
+```
+
+_pip install pillow_
+```
+pip install pillow
+```
+
+_tkhtmlview 0.1.0.post1_
+
+[https://pypi.org/project/tkhtmlview/]
+
+
+_tkhtmlview_
+```
+pip install tkhtmlview
+```
+
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Python Tkinter How To Use HTML In Your Tkinter App](https://github.com/BrianMarquez3/Python-Course/blob/master/Python%20Tkinter%20How%20To%20Use%20HTML%20In%20Your%20Tkinter%20App/readme.md)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
 
 
 
