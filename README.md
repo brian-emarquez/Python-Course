@@ -84,10 +84,12 @@
 |  018  |:heavy_check_mark: | [Geographical plottings](#Geographical-plottings) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |  
 |  018  |:heavy_check_mark: | [Guardado Permanenete](#Guardado-Permanenete) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  018  |:heavy_check_mark: | [Interfas Grafica](#Interfas-Grafica) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-
-
-
-
+|  018  |:heavy_check_mark: | [Listas](#Listas) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  018  |:heavy_check_mark: | [Metodos de Cadenas](#Metodos-de-Cadenas) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  018  |:heavy_check_mark: | [Modulos Usabiidad](#Modulos-Usabiidad) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  018  |:heavy_check_mark: | [Modulos](#Modulos) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  018  |:heavy_check_mark: | [POO](#POO) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  018  |:heavy_check_mark: | [Paquetes](#Paquetes) | :hourglass: | - | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 
 ---
@@ -750,6 +752,39 @@ Anaconda es un distribución libre y abierta1​ de los lenguajes Python y R, ut
 | [Lambda](https://github.com/BrianMarquez3/Python-Course/tree/master/Lambda)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
 
 
+### Lambda
+
+En Python, una función Lambda se refiere a una pequeña función anónima. Las llamamos “funciones anónimas” porque técnicamente carecen de nombre.
+
+Al contrario que una función normal, no la definimos con la palabra clave estándar def que utilizamos en Python. En su lugar, las funciones Lambda se definen como una línea que ejecuta una sola expresión. Este tipo de funciones pueden tomar cualquier número de argumentos, pero solo pueden tener una expresión.
+
+```python
+#Escribo p1 y p2 como parámetros 1 y 2 de la función.
+lambda p1, p2: expresión 
+```
+
+Como mejor te lo puedo explicar es enseñándote un ejemplo básico, vamos a ver una función normal y un ejemplo de Lambda:
+
+```python
+#Aquí tenemos una función creada para sumar.
+def suma(x,y):
+    return(x + y)
+
+#Aquí tenemos una función Lambda que también suma.
+lambda x,y : x + y
+
+#Para poder utilizarla necesitamos guardarla en una variable.
+suma_dos = lambda x,y : x + y
+```
+
+## Aplicación de Lambdas
+
+Quiero darte algunas ideas de dónde se podrían aplicar las Lambdas. A continuación he creado algunos ejemplos aplicando las Lambdas con diferentes objetivos. Así podras entender mejor como funcionan.
+
+## Lambda en Pandas DataFrame con el método apply()
+
+Se me ocurre que podemos aplicar una función Lambda a data cleaning en Pandas con el método apply(), algo que creo nos puede ser de utilidad para evitar crear un bucle que vaya recorriendo todo el DataFrame:
+
 
 
 ## Funciones
@@ -817,6 +852,54 @@ Anaconda es un distribución libre y abierta1​ de los lenguajes Python y R, ut
 | [Interfas Grafica XI (GUI)](https://github.com/BrianMarquez3/Python-Course/tree/master/Interfas%20Grafica%20XI%20(GUI))          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
 | [Interfas Grafica XII (GUI)](https://github.com/BrianMarquez3/Python-Course/tree/master/Interfas%20Grafica%20XII%20(GUI))          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
 | [Interfas Grafica XIII (GUI)](https://github.com/BrianMarquez3/Python-Course/tree/master/Interfas%20Grafica%20XIII%20(GUI))          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+
+## Listas
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Listas](https://github.com/BrianMarquez3/Python-Course/tree/master/Listas)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+
+## Metodos de Cadenas
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Metodos de Cadenas](https://github.com/BrianMarquez3/Python-Course/tree/master/Metodos%20de%20Cadenas)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+
+## Modulos Usabiidad
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Modulos Usabiidad](https://github.com/BrianMarquez3/Python-Course/tree/master/Modulos%20Usabiidad)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+
+## Modulos
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Modulos](https://github.com/BrianMarquez3/Python-Course/tree/master/Modulos)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+
+## POO
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [POO](https://github.com/BrianMarquez3/Python-Course/tree/master/POO)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+| [POO 2](https://github.com/BrianMarquez3/Python-Course/tree/master/POO%202)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+| [POO - Polimorfismo](https://github.com/BrianMarquez3/Python-Course/tree/master/POO%202%20-%20Polimorfismo)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+| [POO - Herencia](https://github.com/BrianMarquez3/Python-Course/tree/master/POO%202%20-%20Herencia)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+| [POO - Herencia II](https://github.com/BrianMarquez3/Python-Course/tree/master/POO2%20-%20Herencia)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+
+## Paquetes
+
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Paquetes](https://github.com/BrianMarquez3/Python-Course/tree/master/Paquetes)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+
 
 
 
