@@ -2252,3 +2252,5 @@ Download book - [Clean Code- python-crash-course - pythonlearn](https://github.c
 
 🩸 Hacer una donación [PAYPAL](https://www.paypal.com/donate?hosted_button_id=98U3T62494H9Y) 🍵
 
+
+![python](./Images/sphere.gif)
