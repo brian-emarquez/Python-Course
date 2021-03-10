@@ -33,7 +33,7 @@
   
 </p>
   
-![python](./Images/hero.jpg)
+![python](./Images/python-logo.gif)
 
 ## Tabla de contenidos
 
