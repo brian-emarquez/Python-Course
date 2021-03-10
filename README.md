@@ -2192,7 +2192,7 @@ md archivo
 |--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
 | [Python tkinter How to Disable or Delete a Menu item](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20tkinter%20How%20to%20Disable%20or%20Delete%20a%20Menu%20item)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
 
-
+![python](./Images/sphere.gif) 
 ---
 ## A I Programming with Python
 
@@ -2205,7 +2205,7 @@ Fundamentos esenciales de la IA: las herramientas de programación (Python, NumP
 Las redes neuronales son un modelo de aprendizaje automático que forma parte de paraguas gigante de la Inteligencia Artificial
 
 
-![IA](./Images/python2.jpg)
+![IA](./Images/XCC.gif)
 
 - Curso de Inteligencia Artificial
 [Artificial Intelligence Link repository](https://github.com/BrianMarquez3/Artificial-intelligence).<br>
