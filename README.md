@@ -1193,8 +1193,6 @@ pyside2-rcc.exe example1.qrc -o example1_rc.py
 
 ---
 
-
-![IA](./Images/XCC.gif) 
 ## QT-Formulario
 
 | Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
@@ -1232,7 +1230,7 @@ pyside2-rcc.exe example1.qrc -o example1_rc.py
 | [QT-Toogle Menu](https://github.com/BrianMarquez3/Python-Course/tree/master/QT-Toogle%20Menu)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
 
 ---
-
+![IA](./Images/XCC.gif) 
 
 ## Pyhton Tkinter Add ZipCode
 
@@ -2244,14 +2242,15 @@ Kivy es el marco principal desarrollado por la organización Kivy, [3] junto con
 
 <!--<div align="center"><img src="./Images/IA.jpg"></div>-->
 ---
-## Book
 
-Download book - [Clean Code- python-crash-course - pythonlearn](https://github.com/BrianMarquez3/Python-Course/tree/master/Book)
-
----
 ## Paypal
 
 🩸 Hacer una donación [PAYPAL](https://www.paypal.com/donate?hosted_button_id=98U3T62494H9Y) 🍵
+
+---
+## Book
+
+Download book - [Clean Code- python-crash-course - pythonlearn](https://github.com/BrianMarquez3/Python-Course/tree/master/Book)
 
 
 ![python](./Images/sphere.gif)
