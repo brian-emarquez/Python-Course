@@ -36,10 +36,13 @@
 ![python](./Images/python-logo.gif)
 
 
-## HackerRank Certificates
-<p align="center"><a href="Skills%20Certification/PythonBasic.png">
+## HackerRank Python Certificate
+<a href="Skills%20Certification/PythonBasic.png">
       <img src="Skills Certification/Badges/python_basic_skill.png" alt="Python (Basic) Certificate"/>
 </a>
+![Python](Skills Certification/Badges/Badges/python_5_star.png)
+
+
 <!-- <a href="Skills%20Certification/Java%20(Basic)%20Certificate.png"> 
     <img src="Badges/java_basic_skill.png" alt="Java (Basic) Certificate"/>
 </a>
@@ -52,7 +55,6 @@
 <a href="Skills%20Certification/Problem%20Solving%20(Basic)%20Certificate.png">
     <img src="Badges/problem_solving_basic_skill.png" alt="Problem Solving (Basic) Certificate"/>
 </a>-->
-</p>
 
 ## Tabla de contenidos
 
