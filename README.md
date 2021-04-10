@@ -36,7 +36,7 @@
 <table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./Images/guido.jpg" />
+      <img align="center" style="padding=0;" src="./Images/python-logo.gif" />
     </td>
   </tr>
 </table>
@@ -2262,9 +2262,9 @@ Kivy es el marco principal desarrollado por la organización Kivy, [3] junto con
 ---
 ## Creditos al Creador del Material 
 
-[PILDORAS INFORMATICAS](https://www.pildorasinformaticas.es/) <br>
-[Codemy Academy](https://www.pildorasinformaticas.es/) <br>
-[Itoo.dev Plataforma de educación digital](https://itoo.dev/)
+* [Pildoras Informaticas](https://www.pildorasinformaticas.es/) <br>
+* [Codemy Academy](https://www.pildorasinformaticas.es/) <br>
+* [Itoo.dev Plataforma de educación digital](https://itoo.dev/)
 
 
 ## Paypal
