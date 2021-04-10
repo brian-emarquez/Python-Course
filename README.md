@@ -275,10 +275,10 @@
 <table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./images/hero.jpg" />
+      <img align="center" style="padding=0;" src="./Images/hero.jpg" />
     </td>
   </tr>
-  <h3 align="center"> Paradigma: Multiparadigma: orientado a objetos, imperativo, funcional, reflexivol  </h3>
+  <h3 align="center"> Paradigma: Multiparadigma: orientado a objetos, imperativo, funcional, reflexivo  </h3>
 </table>
 
 ## Que es Python
@@ -291,10 +291,10 @@ Es administrado por la Python Software Foundation. Posee una licencia de código
 ## Creador
 
 <table align="center">
-<h3 align="center"> Larry Wall  </h3>
+<h3 align="center"> Guido van Rossum  </h3>
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./images/guido.jpg" />
+      <img align="center" style="padding=0;" src="./Images/guido.jpg" />
     </td>
   </tr>
 </table>
