@@ -276,7 +276,7 @@
     <td align="center" style="padding=0;width=50%;">
       <img align="center" style="padding=0;" src="./Images/hero.jpg" />
     </td>
-      <h3 align="center"> Paradigma: Multiparadigma: orientado a objetos, imperativo, funcional, reflexivo  </h3>
+    <h3 align="center"> Paradigma: Multiparadigma: orientado a objetos, imperativo, funcional, reflexivo  </h3>
   </tr>
 </table>
 
