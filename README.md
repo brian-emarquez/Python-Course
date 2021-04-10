@@ -36,10 +36,11 @@
 <table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./images/![python](./Images/python-logo.gif) />
+      <img align="center" style="padding=0;" src="./Images/guido.jpg" />
     </td>
   </tr>
 </table>
+
 
 ## HackerRank Python Certificate
 
@@ -51,19 +52,6 @@
 
 </a>
 
-
-<!-- <a href="Skills%20Certification/Java%20(Basic)%20Certificate.png"> 
-    <img src="Badges/java_basic_skill.png" alt="Java (Basic) Certificate"/>
-</a>
-<a href="Skills%20Certification/JavaScript%20(Basic)%20Certificate.png">
-    <img src="Badges/javascript_basic_skill.png" alt="JavaScript (Basic) Certificate"/>
-</a>
-<a href="Skills%20Certification/React%20(Basic)%20Certificate.png">
-    <img src="Badges/react_basic_skill.png" alt="React (Basic) Certificate"/>
-</a>
-<a href="Skills%20Certification/Problem%20Solving%20(Basic)%20Certificate.png">
-    <img src="Badges/problem_solving_basic_skill.png" alt="Problem Solving (Basic) Certificate"/>
-</a>-->
 
 ## Tabla de contenidos
 
@@ -2291,7 +2279,7 @@ Download book - [Clean Code- python-crash-course - pythonlearn](https://github.c
 <table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./images/![python](./Images/sphere.gif)" />
+      <img align="center" style="padding=0;" src="./Images/sphere.gif" />
     </td>
   </tr>
 </table>
