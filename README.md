@@ -1,5 +1,5 @@
 
-<h2 align="center">Learn Python Programming 🐍 from Zero to Hero #1 | Building Projects </h2>
+<h2 align="center">Learn Python Programming <img src="https://media1.giphy.com/media/74OhY9HiyDddCvPtgf/giphy.gif?cid=ecf05e47nhtwfm0og4pu7cx3a223f6pdx1gvoeu7fcgupzt3&rid=giphy.gif" width="25px"> from Zero to Hero #1 | Building Projects </h2>
 
 <p align="center">
   
