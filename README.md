@@ -271,6 +271,16 @@
 |  -    |:heavy_check_mark: | [Book](#book)| :hourglass: | ✅ | 💾|  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 
 ---
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/hero.jpg" />
+    </td>
+  </tr>
+  <h3 align="center"> Paradigma: Multiparadigma: orientado a objetos, imperativo, funcional, reflexivol  </h3>
+</table>
+
 ## Que es Python
 
 Python es un lenguaje de programación interpretado cuya filosofía hace hincapié en la legibilidad de su código. Se trata de un lenguaje de programación multiparadigma, ya que soporta orientación a objetos, programación imperativa y, en menor medida, programación funcional. Es un lenguaje interpretado, dinámico y multiplataforma.
@@ -280,9 +290,14 @@ Es administrado por la Python Software Foundation. Posee una licencia de código
 ---
 ## Creador
 
-<h2> Guido van Rossum </h2>
-
-![python](./Images/guido.jpg)
+<table align="center">
+<h3 align="center"> Larry Wall  </h3>
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/guido.jpg" />
+    </td>
+  </tr>
+</table>
 
 <p>Guido van Rossum es un informático,1​ conocido por ser el autor del lenguaje de programación Python. Nació y creció en los Países Bajos.
 
