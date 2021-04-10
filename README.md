@@ -294,7 +294,6 @@ Es administrado por la Python Software Foundation. Posee una licencia de código
       <img align="center" style="padding=0;" src="./Images/guido.jpg" />
     </td>
   </tr>
-  <p align="center"> Sistema de tipos: Fuertemente tipado, dinámico </p>
 </table>
 
 <p>Guido van Rossum es un informático,1​ conocido por ser el autor del lenguaje de programación Python. Nació y creció en los Países Bajos.
