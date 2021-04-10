@@ -266,8 +266,8 @@
 |  227   |:heavy_check_mark: | [Python Tkinter how To Create a Splash Screen](#Python-Tkinter-how-To-Create-a-Splash-Screen)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  228   |:heavy_check_mark: | [Python Tkinter one SIded Widget Padding](#Python-Tkinter-one-SIded-Widget-Padding)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  229   |:heavy_check_mark: | [Python tkinter How to Disable or Delete a Menu item](#Python-tkinter-How-to-Disable-or-Delete-a-Menu-item)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  -    |:heavy_check_mark: | [Play List Spotify](#Spotify) | :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  -    |:heavy_check_mark: | [Book](#book)| :hourglass: | ✅ | 💾|  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  A    |:heavy_check_mark: | [Play List Spotify](#Spotify) | :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  B    |:heavy_check_mark: | [Book](#book)| :hourglass: | ✅ | 💾|  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 
 ---
 
