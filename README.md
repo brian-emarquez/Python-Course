@@ -33,8 +33,13 @@
   
 </p>
   
-![python](./Images/python-logo.gif)
-
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/![python](./Images/python-logo.gif)" />
+    </td>
+  </tr>
+</table>
 
 ## HackerRank Python Certificate
 
@@ -2267,6 +2272,12 @@ Kivy es el marco principal desarrollado por la organización Kivy, [3] junto con
 
 <!--<div align="center"><img src="./Images/IA.jpg"></div>-->
 ---
+## Creditos al Creador del Material 
+
+[PILDORAS INFORMATICAS](https://www.pildorasinformaticas.es/) <br>
+[Codemy Academy](https://www.pildorasinformaticas.es/) <br>
+[Itoo.dev Plataforma de educación digital](https://itoo.dev/)
+
 
 ## Paypal
 
@@ -2277,5 +2288,10 @@ Kivy es el marco principal desarrollado por la organización Kivy, [3] junto con
 
 Download book - [Clean Code- python-crash-course - pythonlearn](https://github.com/BrianMarquez3/Python-Course/tree/master/Book)
 
-
-![python](./Images/sphere.gif)
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/![python](./Images/sphere.gif)" />
+    </td>
+  </tr>
+</table>
