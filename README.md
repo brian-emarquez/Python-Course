@@ -142,7 +142,7 @@
 |  073   |:heavy_check_mark: | [Interface Grafica TKINTER](#Interface-Grafica-TKINTER) | :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  074   |:heavy_check_mark: | [Pyhton Tkinter Add ZipCode](#Pyhton-Tkinter-Add-ZipCode)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  074   |:heavy_check_mark: | [Pyhton Tkinter Get Height and Width](#Pyhton-Tkinter-Get-Height-and-Width)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  075   |:heavy_check_mark: | [Python TKinter Build An MP3 Player](#Python-TKinter-Build-An-MP3-Player)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras (https://github.com/BrianMarquez3) | 
+|  075   |:heavy_check_mark: | [Python TKinter Build An MP3 Player](#Python-TKinter-Build-An-MP3-Player)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras ](https://github.com/BrianMarquez3) | 
 |  076   |:heavy_check_mark: | [Python TKinter Button Bitmaps](#Python-TKinter-Button-Bitmaps)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  077   |:heavy_check_mark: | [Python TKinter Changing The Mouse Cursor](#Python-TKinter-Changing-The-Mouse-Cursor)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  078   |:heavy_check_mark: | [Python TKinter How To Ring The System Bell](#Python-TKinter-How-To-Ring-The-System-Bell)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
