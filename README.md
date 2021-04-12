@@ -2287,12 +2287,50 @@ Kivy es el marco principal desarrollado por la organización Kivy, [3] junto con
 ---
 ## Book
 
-Download book - [Clean Code- python-crash-course - pythonlearn](https://github.com/BrianMarquez3/Python-Course/tree/master/Book)
+<table>
 
-<table align="center">
   <tr>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./Images/sphere.gif" />
-    </td>
+      <td>Name</td>
+      <td>Authors</td>
+      <td>Publisher</td>
+      <td>ISBN</td>
+      <td>Link</td>
+      <td>Password</td>
   </tr>
+
+  <tr>
+      <td>Automate The Boring Stuff With Python</td>
+      <td>Al Sweigart</td>
+      <td>William Pollock</td>
+      <td>1-59327-992-2</td>
+      <td><a href="https://dubox.com/s/1S1I-USrYrKWzY4GwS3Ynig">Learning Perl</a></td>
+      <td>4ujw</td>
+  </tr>
+  
+  <tr>
+      <td>Python Crach Course</td>
+      <td>Eric Matthes</td>
+      <td>William Pollock</td>
+      <td>1-59327-603-6</td>
+      <td><a href="https://dubox.com/s/1ilayYcgd1Ynd81xWryNfiQ">Learning Perl</a></td>
+      <td>7gi8</td>
+  </tr>
+  
+  
+</table>
+
+ <table align="center">
+    <tr>
+      <td colspan="3">A</td>
+        <td>B</td>
+      </tr>
+      <tr>
+        <td>C</td>
+      <td colspan="2"><img align="center" style="padding=0;" src="./images/sphere.gif" /></td>
+        <td>E</td>
+      </tr>
+      <tr>
+      <td colspan="3">F</td>
+        <td>G</td>
+    </tr>
 </table>
