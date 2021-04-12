@@ -2279,6 +2279,7 @@ Kivy es el marco principal desarrollado por la organización Kivy, [3] junto con
 * [Codemy Academy](https://www.pildorasinformaticas.es/) <br>
 * [Itoo.dev Plataforma de educación digital](https://itoo.dev/)
 
+---
 
 ## Book
 
@@ -2311,6 +2312,7 @@ Kivy es el marco principal desarrollado por la organización Kivy, [3] junto con
       <td>7gi8</td>
   </tr>
   
+---
 
 ## Paypal
 
@@ -2327,7 +2329,7 @@ Kivy es el marco principal desarrollado por la organización Kivy, [3] junto con
       </tr>
       <tr>
         <td>C</td>
-      <td colspan="2"><img align="center" style="padding=0;" src="./images/sphere.gif" /></td>
+      <td colspan="2"><img align="center" style="padding=0;" src="./Images/sphere.gif" /></td>
         <td>E</td>
       </tr>
       <tr>
