@@ -2280,11 +2280,6 @@ Kivy es el marco principal desarrollado por la organización Kivy, [3] junto con
 * [Itoo.dev Plataforma de educación digital](https://itoo.dev/)
 
 
-## Paypal
-
-🩸 Hacer una donación [PAYPAL](https://www.paypal.com/donate?hosted_button_id=98U3T62494H9Y) 🍵
-
----
 ## Book
 
 <table>
@@ -2316,6 +2311,12 @@ Kivy es el marco principal desarrollado por la organización Kivy, [3] junto con
       <td>7gi8</td>
   </tr>
   
+
+## Paypal
+
+🩸 Hacer una donación [PAYPAL](https://www.paypal.com/donate?hosted_button_id=98U3T62494H9Y) 🍵
+
+---
   
 </table>
 
