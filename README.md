@@ -2291,6 +2291,15 @@ Kivy es el marco principal desarrollado por la organización Kivy, [3] junto con
 
 <table>
 
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./Images/pythonbook.jpg" />
+    </td>
+  </tr>
+</table>
+
+
 <tr>
       <td>Name</td>
       <td>Authors</td>
