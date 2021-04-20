@@ -2329,6 +2329,9 @@ Kivy es el marco principal desarrollado por la organización Kivy, [3] junto con
   </tr>
 </table>
 
+
+<table>
+
 <tr>
       <td>Name</td>
       <td>Authors</td>
