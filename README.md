@@ -266,6 +266,7 @@
 |  227   |:heavy_check_mark: | [Python Tkinter how To Create a Splash Screen](#Python-Tkinter-how-To-Create-a-Splash-Screen)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  228   |:heavy_check_mark: | [Python Tkinter one SIded Widget Padding](#Python-Tkinter-one-SIded-Widget-Padding)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  229   |:heavy_check_mark: | [Python tkinter How to Disable or Delete a Menu item](#Python-tkinter-How-to-Disable-or-Delete-a-Menu-item)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  230   |:heavy_check_mark: | [Build A Wikipedia Search App](#Build-A-Wikipedia-Search-App)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 
 
 ## Extra
@@ -2239,6 +2240,12 @@ md archivo
 | Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
 |--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
 | [Python tkinter How to Disable or Delete a Menu item](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20tkinter%20How%20to%20Disable%20or%20Delete%20a%20Menu%20item)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+## Build A Wikipedia Search App
+
+| File      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Build A Wikipedia Search App](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20tkinter%20How%20to%20Disable%20or%20Delete%20a%20Menu%20item)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
 
 
 ---
