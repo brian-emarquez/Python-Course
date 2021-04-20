@@ -2227,7 +2227,6 @@ md archivo
 | [Python Tkinter how To Create a Splash Screen](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20how%20To%20Create%20a%20Splash%20Screen)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
 
 
-
 ## Python Tkinter one SIded Widget Padding
 
 | Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
