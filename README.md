@@ -536,6 +536,13 @@ _Kivy_
 ```
 python -m pip install kivy
 ```
+
+_Wikipedia_
+
+```
+pip install wikipedia
+```
+
 ---
 ## Instalación
 
