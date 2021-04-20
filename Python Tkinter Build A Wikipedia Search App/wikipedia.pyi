@@ -15,7 +15,12 @@ def clear():
     my_text.delete(0.0, END)
 
 def search():
-    pass
+    data = wiki.page(my_entry.get())
+
+    # clear screnn
+    clear()
+    # output wikipedia
+    my_text.insert(0.0, data.content)
 
 
 my_label_frame = LabelFrame(root, text="Search Wikipedia")
