@@ -10,14 +10,22 @@ root.geometry("500x300")
 
 my_password = chr(randint(33,126))
 
+# Generate random strong pass
 def new_rand():
     pw_entry.delete(0, END)
     pw_length = int(my_entry.get())
     my_password = ''
-    for x in 
+    
+    for x in range(pw_length):
+        my_password += chr(randint(33, 126))
 
+    # output password to thescrenn
+    pw_entry.insert(0, my_password)
+
+#Copy to clipboard
 def clipper():
-    pass
+    root.clipboard_clear()
+    root.clipboard_append(pw_entry.get())
 
 lf = LabelFrame(root, text="How Many Character?")
 lf.pack(pady=20)
@@ -27,7 +35,7 @@ my_entry = Entry(lf, font=("Helvetica", 24))
 my_entry.pack(pady=20, padx=20)
 
 #Create entry box fir our returned password
-pw_entry = Entry(root, text='', font=("Helvetica", 24))
+pw_entry = Entry(root, text='', font=("Helvetica", 24), bd=0, bg="systembuttonface")
 pw_entry.pack(pady=20) 
 
 # Create a frame for our buttons
