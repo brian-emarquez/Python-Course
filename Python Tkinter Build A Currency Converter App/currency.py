@@ -27,6 +27,11 @@ my_notebook.add(conversion_frame, text="Currencies")
 ##################################################
 # CURRENCY STUFF
 ##################################################
+def lock():
+    pass
+
+def unlock():
+    pass
 
 home = LabelFrame(currency_frame, text="Your home currency")
 home.pack(pady=20)
@@ -57,9 +62,18 @@ rate_entry = Entry(conversion, font=("Helvetica", 24))
 rate_entry.pack(pady=10, padx=10) 
 
 # Button frame
+button_frame = Frame(currency_frame)
+button_frame.pack(pady=20)
 
+# create buttons
+lock_button = Button(button_frame, text="Lock", command=lock)
+lock_button .grid(row=0, column=0, padx=10)
 
+unlock_button = Button(button_frame, text="Unlock", command=unlock)
+unlock_button .grid(row=0, column=1, padx=10)
 
-
+##################################################
+# ONVERSION STUFF
+##################################################
 
 root.mainloop()
