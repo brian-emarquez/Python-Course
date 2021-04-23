@@ -269,6 +269,7 @@
 |  230   |:heavy_check_mark: | [Build A Wikipedia Search App](#Build-A-Wikipedia-Search-App)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  231   |:heavy_check_mark: | [Build A Strong Password Generator App](#Build-A-Strong-Password-Generator-App)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  232   |:heavy_check_mark: | [Python Tkinter Build A Currency Converter App](#Python-Tkinter-Build-A-Currency-Converter-App)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  233   |:heavy_check_mark: | [ Add Functionality To Treeview CRM App](#Add-Functionality-To-Treeview-CRM-App)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 
 ## Extra
 
@@ -2292,10 +2293,32 @@ md archivo
 
 | File      | Link         |   Home     |  Code       | Version     | Estado      |
 |--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
-| [Build A Strong Password Generator App](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20Build%20A%20Currency%20Converter%20App)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+| [Python Tkinter Build A Currency Converter App](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20Build%20A%20Currency%20Converter%20App)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
 
+##  Add Functionality To Treeview CRM App
+
+<table>
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./Images/" />
+    </td>
+  </tr>
+</table>
+
+| File      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Python Tkinter Build A Currency Converter App](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20Build%20A%20Currency%20Converter%20App)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
 
 ---
+
+<table>
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./Images/neyronal.jpg" />
+    </td>
+  </tr>
+</table>
+
 ## A I Programming with Python
 
 Fundamentos esenciales de la IA: las herramientas de programación (Python, NumPy, PyTorch), las matemáticas (cálculo y álgebra lineal) y las técnicas clave de las redes neuronales (descenso de gradiente y propagación hacia atrás).
