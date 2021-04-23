@@ -43,6 +43,7 @@ def lock():
         # Change tab field
         amount_label.config(text=f'Amount of {home_entry.get()} To Convert to {conversion_entry.get()}')
         conversion_label.config(text=f'Equal This Many {conversion_entry.get()}')
+        convert_button.config(text=f'Coverte From {home_entry.get()}')
 
 
 def unlock():
@@ -101,7 +102,17 @@ unlock_button .grid(row=0, column=1, padx=10)
 ##################################################
 
 def convert():
-    pass
+    # Clear converted entry box
+    converted_entry.delete(0, END)
+
+    #convert
+    conversion = float(rate_entry.get()) * float(amount_entry.get())
+
+    # Convert to two decimals
+    conversion = round(conversion,2);
+
+    #Update entry box
+    converted_entry.insert(0, conversion)
 
 def clear():
     amount_entry.delete(0, END)
