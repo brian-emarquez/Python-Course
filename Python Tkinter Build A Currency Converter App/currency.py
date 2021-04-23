@@ -22,16 +22,39 @@ conversion_frame.pack(fill="both", expand=1)
 
 #add our tabs
 my_notebook.add(currency_frame, text="Currencies")
-my_notebook.add(conversion_frame, text="Currencies")
+my_notebook.add(conversion_frame, text="Convert")
+
+
+# Disable 2nd tab
+my_notebook.tab(1, state='disabled')
 
 ##################################################
 # CURRENCY STUFF
 ##################################################
 def lock():
-    pass
+    if not home_entry.get() or not conversion_entry.get() or not rate_entry.get():
+        messagebox.showwarning('WARNING', "You Didn't Fill out all the field ")
+    else:
+        home_entry.config(state="disabled")
+        conversion_entry.config(state="disabled")
+        rate_entry.config(state="disabled")
+        # Enable
+        my_notebook.tab(1, state='normal')
+        # Change tab field
+        amount_label.config(text=f'Amount of {home_entry.get()} To Convert to {conversion_entry.get()}')
+        conversion_label.config(text=f'Equal This Many {conversion_entry.get()}')
+
 
 def unlock():
-    pass
+    home_entry.config(state="normal")
+    conversion_entry.config(state="normal")
+    rate_entry.config(state="normal")
+
+    # Disable tab
+    my_notebook.tab(1, state='disabled')
+
+
+
 
 home = LabelFrame(currency_frame, text="Your home currency")
 home.pack(pady=20)
@@ -71,6 +94,7 @@ lock_button .grid(row=0, column=0, padx=10)
 
 unlock_button = Button(button_frame, text="Unlock", command=unlock)
 unlock_button .grid(row=0, column=1, padx=10)
+
 
 ##################################################
 # CONVERSION STUFF
