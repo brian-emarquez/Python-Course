@@ -5,9 +5,9 @@ from tkinter import ttk
 from tkinter import messagebox
 
 root = Tk()
-root.title('Python Tkinter Build A Foreign Language Flashcard App')
-root.iconbitmap('Python Tkinter Build A Foreign Language Flashcard App/icons/iconfinde.ico')
-root.geometry("550x500")
+root.title('Python Tkinter Build A Currency Converter App')
+root.iconbitmap('Python Tkinter Build A Currency Converter App/icons/currency.ico')
+root.geometry("500x500")
 
 # Create tabs
 my_notebook = ttk.Notebook(root)
@@ -73,7 +73,41 @@ unlock_button = Button(button_frame, text="Unlock", command=unlock)
 unlock_button .grid(row=0, column=1, padx=10)
 
 ##################################################
-# ONVERSION STUFF
+# CONVERSION STUFF
 ##################################################
+
+def convert():
+    pass
+
+def clear():
+    amount_entry.delete(0, END)
+    converted_entry.delete(0, END)
+
+
+amount_label = LabelFrame(conversion_frame, text="Amount To Conver")
+amount_label.pack(pady=20)
+
+# Entry Box for amount
+amount_entry = Entry(amount_label, font=("Helvetica", 24))
+amount_entry.pack(pady=10, padx=10)
+
+# Convert Button
+convert_button = Button(amount_label, text="Convert", command=convert)
+convert_button.pack(pady=20)
+
+# Equals
+converted_label = LabelFrame(conversion_frame, text="Convert Currency")
+converted_label.pack(pady=20)
+
+# Converted Entry
+converted_entry = Entry(converted_label, font=("Helvetica", 24), bd=0, bg="systembuttonface")
+converted_entry.pack(pady=10, padx=10)
+
+# Clear button
+clear_buttton = Button(conversion_frame, text="Clear", command=clear)
+clear_buttton.pack(pady=20)
+
+# Face label for spacing
+spacer = Label(conversion_frame, text="", width=68)
 
 root.mainloop()
