@@ -37,6 +37,7 @@
   <tr>
     <td align="center" style="padding=0;width=50%;">
       <img align="center" style="padding=0;" src="./Images/python-logo.gif" />
+      <h4 align="center"> Pythonista or Pythoneer </h4>
     </td>
   </tr>
 </table>
@@ -2314,6 +2315,7 @@ md archivo
 <table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
+      <h4 align="center"> Artificial Intelligence </h4>
       <img align="center" style="padding=0;" src="./Images/neyronal.jpg" />
     </td>
   </tr>
