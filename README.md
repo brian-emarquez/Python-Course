@@ -1,5 +1,5 @@
 
-<h2 align="center">Learn Python Programming 🐍 from Zero to Hero #1 | Building Projects </h2>
+<h2 align="center">Learn Python Programming <img src="https://media3.giphy.com/media/3oKIPCohynIR4gBdhm/giphy.gif" width="50px"> from Zero to Hero #1 | Building Projects </h2>
 
 <p align="center">
   
@@ -33,7 +33,14 @@
   
 </p>
   
-![python](./Images/python-logo.gif)
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./Images/python-logo.gif" />
+      <h4 align="center"> Pythonista or Pythoneer </h4>
+    </td>
+  </tr>
+</table>
 
 
 ## HackerRank Python Certificate
@@ -47,88 +54,75 @@
 </a>
 
 
-<!-- <a href="Skills%20Certification/Java%20(Basic)%20Certificate.png"> 
-    <img src="Badges/java_basic_skill.png" alt="Java (Basic) Certificate"/>
-</a>
-<a href="Skills%20Certification/JavaScript%20(Basic)%20Certificate.png">
-    <img src="Badges/javascript_basic_skill.png" alt="JavaScript (Basic) Certificate"/>
-</a>
-<a href="Skills%20Certification/React%20(Basic)%20Certificate.png">
-    <img src="Badges/react_basic_skill.png" alt="React (Basic) Certificate"/>
-</a>
-<a href="Skills%20Certification/Problem%20Solving%20(Basic)%20Certificate.png">
-    <img src="Badges/problem_solving_basic_skill.png" alt="Problem Solving (Basic) Certificate"/>
-</a>-->
-
 ## Tabla de contenidos
 
 
  Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
-|  002   |:heavy_check_mark: | [Que es Python](#Que-es-Python)  | :hourglass:     |✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  003   |:heavy_check_mark: | [Creador](#Creador)  | :hourglass: |✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  004   |:heavy_check_mark: | [Historia](#historia)  | :hourglass: |✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  005   |:heavy_check_mark: | [Ejemplos](#Ejemplos)  | :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  006   |:heavy_check_mark: | [Comandos](#Comandos) | :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  007   |:heavy_check_mark: | [Variables](#Variables ) | :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  008   |:heavy_check_mark: | [Tuplas](#Tuplas ) | :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  009   |:heavy_check_mark: | [Instalación](#Instalación)  | :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  010   |:heavy_check_mark: | [Ramas](#Ramas)  | :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  011   |:heavy_check_mark: | [POO Programación orientada a objetos](#POO-Programación-orientada-a-objetos)  | :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  012   |:heavy_check_mark: | [Install Jupyter Notebook](#Install-Jupyter-Notebook) | :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  013   |:heavy_check_mark: | [Anaconda](#Anaconda) | :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  014   |:heavy_check_mark: | [Buenas Practicas En Commits De Git](#Buenas-Practicas-En-Commits-De-Git) | :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  015  |:heavy_check_mark: | [Build A Foreign Language Flashcard App](#Build-A-Foreign-Language-Flashcard-App) | :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  016   |:heavy_check_mark: | [Archivos Externos I](#Archivos-Externos-I)| :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  017   |:heavy_check_mark: | [Archivos Externos II](#Archivos-Externos-II)| :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  018   |:heavy_check_mark: | [BBDD](#BBDD) | :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  019   |:heavy_check_mark: | [A I Programming with Python](#A-I-Programming-with-Python) | :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  020  |:heavy_check_mark: | [Bucles](#Bucles) | :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  021  |:heavy_check_mark: | [Cadenas](#Cadenas) | :hourglass: |  ✅| 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  022  |:heavy_check_mark: | [Christmas Tree](#Christmas-tree) | :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  023  |:heavy_check_mark: | [Colas](#colas) | :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  024  |:heavy_check_mark: | [Condicionales](#Condicionales) | :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  025  |:heavy_check_mark: | [Conjuntos](#Conjuntos) | :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  026  |:heavy_check_mark: | [Datos por teclado](#Datos-por-teclado) | :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  027  |:heavy_check_mark: | [Decoradores](#Decoradores) | :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  028  |:heavy_check_mark: | [Diccionarios](#Diccionarios) | :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  029  |:heavy_check_mark: | [Documentacion y Pruebas](#Documentacion-y-Pruebas) | :hourglass: | ✅ |💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  030  |:heavy_check_mark: | [Email](#Email) | :hourglass: | ✅ | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  031  |:heavy_check_mark: | [Errores y Excepciones](#Errores-y-Excepciones) | :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  032  |:heavy_check_mark: | [Estructura General](#Estructura-General) | :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  033  |:heavy_check_mark: | [Excepciones](#Excepciones) | :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |  
-|  034  |:heavy_check_mark: | [Estructura General](#Estructura-General) | :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  035  |:heavy_check_mark: | [Funciones Establecidas](#Funciones-Establecidas) | :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |  
-|  036  |:heavy_check_mark: | [Funciones](#Funciones) | :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |  
-|  037  |:heavy_check_mark: | [Git](#Git) | :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |  
-|  038  |:heavy_check_mark: | [Generadores](#Generadores) | :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |  
-|  039  |:heavy_check_mark: | [Generacion Ejecutables](#Generacion-Ejecutables) | :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |  
-|  040  |:heavy_check_mark: | [Geographic Map of Peru](#Geographic-Map-of-Peru) | :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |  
-|  041  |:heavy_check_mark: | [Geographical plottings](#Geographical-plottings) | :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |  
-|  042  |:heavy_check_mark: | [Guardado Permanenete](#Guardado-Permanenete) | :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  043  |:heavy_check_mark: | [Interfas Grafica](#Interfas-Grafica) | :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  044  |:heavy_check_mark: | [Listas](#Listas) | :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  045  |:heavy_check_mark: | [Metodos de Cadenas](#Metodos-de-Cadenas) | :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  046  |:heavy_check_mark: | [Modulos Usabiidad](#Modulos-Usabiidad) | :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  047  |:heavy_check_mark: | [Modulos](#Modulos) | :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  048  |:heavy_check_mark: | [POO](#POO) | :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  049  |:heavy_check_mark: | [Paquetes](#Paquetes) | :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  050  |:heavy_check_mark: | [Paquetes Distribuibles](#Paquetes-Distribuibles) | :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  051  |:heavy_check_mark: | [Simulando Pilas](#Simulando-Pilas) | :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  052  |:heavy_check_mark: | [Plotly and cufflinks](#Plotly-and-cufflinks) | :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  053  |:heavy_check_mark: | [Practica Guiada ](#Practica-Guiada ) | :hourglass: |✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  054  |:heavy_check_mark: | [Proyect Dictionary](#Proyect-Dictionary ) | :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  055  |:heavy_check_mark: | [Proyect Game hangmen](#Proyect-Game-hangmen ) | :hourglass: |✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  056  |:heavy_check_mark: | [Reconocimiento Facial](#Reconocimiento-Facial ) | :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  057  |:heavy_check_mark: | [Robot](#Robot ) | :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  058  |:heavy_check_mark: | [Salida por pantalla](#Salida-por-pantalla ) | :hourglass: |✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  059  |:heavy_check_mark: | [Screenpet](#Screenpet ) | :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  060  |:heavy_check_mark: | [Serializacion](#Serializacion ) | :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  062  |:heavy_check_mark: | [Sets](#Sets ) | :hourglass: | ✅ | 💾|  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  062  |:heavy_check_mark: | [Strings](#Strings ) | :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  063  |:heavy_check_mark: | [Test SQLServer](#Test-SQLServer ) | :hourglass: | ✅| 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  064  |:heavy_check_mark: | [Tipos de datos](#Tipos-de-datos ) | :hourglass: | ✅| 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  065  |:heavy_check_mark: | [ValidacionEmail](#ValidacionEmail ) | :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  002   |:heavy_check_mark: | [Que es Python](#Que-es-Python)  | :hourglass:     |<img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  003   |:heavy_check_mark: | [Creador](#Creador)  | :hourglass: |<img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  004   |:heavy_check_mark: | [Historia](#historia)  | :hourglass: |<img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  005   |:heavy_check_mark: | [Ejemplos](#Ejemplos)  | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  006   |:heavy_check_mark: | [Comandos](#Comandos) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  007   |:heavy_check_mark: | [Variables](#Variables ) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  008   |:heavy_check_mark: | [Tuplas](#Tuplas ) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  009   |:heavy_check_mark: | [Instalación](#Instalación)  | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  010   |:heavy_check_mark: | [Ramas](#Ramas)  | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  011   |:heavy_check_mark: | [POO Programación orientada a objetos](#POO-Programación-orientada-a-objetos)  | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  012   |:heavy_check_mark: | [Install Jupyter Notebook](#Install-Jupyter-Notebook) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  013   |:heavy_check_mark: | [Anaconda](#Anaconda) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  014   |:heavy_check_mark: | [Buenas Practicas En Commits De Git](#Buenas-Practicas-En-Commits-De-Git) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  015  |:heavy_check_mark: | [Build A Foreign Language Flashcard App](#Build-A-Foreign-Language-Flashcard-App) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  016   |:heavy_check_mark: | [Archivos Externos I](#Archivos-Externos-I)| :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  017   |:heavy_check_mark: | [Archivos Externos II](#Archivos-Externos-II)| :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  018   |:heavy_check_mark: | [BBDD](#BBDD) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  019   |:heavy_check_mark: | [A I Programming with Python](#A-I-Programming-with-Python) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  020  |:heavy_check_mark: | [Bucles](#Bucles) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  021  |:heavy_check_mark: | [Cadenas](#Cadenas) | :hourglass: |  <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">| 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  022  |:heavy_check_mark: | [Christmas Tree](#Christmas-tree) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  023  |:heavy_check_mark: | [Colas](#colas) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  024  |:heavy_check_mark: | [Condicionales](#Condicionales) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  025  |:heavy_check_mark: | [Conjuntos](#Conjuntos) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  026  |:heavy_check_mark: | [Datos por teclado](#Datos-por-teclado) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  027  |:heavy_check_mark: | [Decoradores](#Decoradores) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  028  |:heavy_check_mark: | [Diccionarios](#Diccionarios) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  029  |:heavy_check_mark: | [Documentacion y Pruebas](#Documentacion-y-Pruebas) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> |💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  030  |:heavy_check_mark: | [Email](#Email) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  031  |:heavy_check_mark: | [Errores y Excepciones](#Errores-y-Excepciones) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  032  |:heavy_check_mark: | [Estructura General](#Estructura-General) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  033  |:heavy_check_mark: | [Excepciones](#Excepciones) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |  
+|  034  |:heavy_check_mark: | [Estructura General](#Estructura-General) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  035  |:heavy_check_mark: | [Funciones Establecidas](#Funciones-Establecidas) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |  
+|  036  |:heavy_check_mark: | [Funciones](#Funciones) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |  
+|  037  |:heavy_check_mark: | [Git](#Git) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |  
+|  038  |:heavy_check_mark: | [Generadores](#Generadores) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |  
+|  039  |:heavy_check_mark: | [Generacion Ejecutables](#Generacion-Ejecutables) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |  
+|  040  |:heavy_check_mark: | [Geographic Map of Peru](#Geographic-Map-of-Peru) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |  
+|  041  |:heavy_check_mark: | [Geographical plottings](#Geographical-plottings) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |  
+|  042  |:heavy_check_mark: | [Guardado Permanenete](#Guardado-Permanenete) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  043  |:heavy_check_mark: | [Interfas Grafica](#Interfas-Grafica) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  044  |:heavy_check_mark: | [Listas](#Listas) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  045  |:heavy_check_mark: | [Metodos de Cadenas](#Metodos-de-Cadenas) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  046  |:heavy_check_mark: | [Modulos Usabiidad](#Modulos-Usabiidad) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  047  |:heavy_check_mark: | [Modulos](#Modulos) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  048  |:heavy_check_mark: | [POO](#POO) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  049  |:heavy_check_mark: | [Paquetes](#Paquetes) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  050  |:heavy_check_mark: | [Paquetes Distribuibles](#Paquetes-Distribuibles) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  051  |:heavy_check_mark: | [Simulando Pilas](#Simulando-Pilas) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  052  |:heavy_check_mark: | [Plotly and cufflinks](#Plotly-and-cufflinks) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  053  |:heavy_check_mark: | [Practica Guiada ](#Practica-Guiada ) | :hourglass: |<img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  054  |:heavy_check_mark: | [Proyect Dictionary](#Proyect-Dictionary ) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  055  |:heavy_check_mark: | [Proyect Game hangmen](#Proyect-Game-hangmen ) | :hourglass: |<img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  056  |:heavy_check_mark: | [Reconocimiento Facial](#Reconocimiento-Facial ) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  057  |:heavy_check_mark: | [Robot](#Robot ) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  058  |:heavy_check_mark: | [Salida por pantalla](#Salida-por-pantalla ) | :hourglass: |<img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  059  |:heavy_check_mark: | [Screenpet](#Screenpet ) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  060  |:heavy_check_mark: | [Serializacion](#Serializacion ) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  062  |:heavy_check_mark: | [Sets](#Sets ) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾|  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  062  |:heavy_check_mark: | [Strings](#Strings ) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  063  |:heavy_check_mark: | [Test SQLServer](#Test-SQLServer ) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">| 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  064  |:heavy_check_mark: | [Tipos de datos](#Tipos-de-datos ) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">| 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  065  |:heavy_check_mark: | [ValidacionEmail](#ValidacionEmail ) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 * Pyhotn QT Designer
 
@@ -149,8 +143,7 @@
 |  073   |:heavy_check_mark: | [Interface Grafica TKINTER](#Interface-Grafica-TKINTER) | :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  074   |:heavy_check_mark: | [Pyhton Tkinter Add ZipCode](#Pyhton-Tkinter-Add-ZipCode)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  074   |:heavy_check_mark: | [Pyhton Tkinter Get Height and Width](#Pyhton-Tkinter-Get-Height-and-Width)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  075   |:heavy_check_mark: | [Python TKinter Build An MP3 Player](#Python-TKinter-Build-An-MP3-Player)  | 
-:hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  075   |:heavy_check_mark: | [Python TKinter Build An MP3 Player](#Python-TKinter-Build-An-MP3-Player)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras ](https://github.com/BrianMarquez3) | 
 |  076   |:heavy_check_mark: | [Python TKinter Button Bitmaps](#Python-TKinter-Button-Bitmaps)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  077   |:heavy_check_mark: | [Python TKinter Changing The Mouse Cursor](#Python-TKinter-Changing-The-Mouse-Cursor)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  078   |:heavy_check_mark: | [Python TKinter How To Ring The System Bell](#Python-TKinter-How-To-Ring-The-System-Bell)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
@@ -274,10 +267,31 @@
 |  227   |:heavy_check_mark: | [Python Tkinter how To Create a Splash Screen](#Python-Tkinter-how-To-Create-a-Splash-Screen)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  228   |:heavy_check_mark: | [Python Tkinter one SIded Widget Padding](#Python-Tkinter-one-SIded-Widget-Padding)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |  229   |:heavy_check_mark: | [Python tkinter How to Disable or Delete a Menu item](#Python-tkinter-How-to-Disable-or-Delete-a-Menu-item)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  -    |:heavy_check_mark: | [Play List Spotify](#Spotify) | :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  -    |:heavy_check_mark: | [Book](#book)| :hourglass: | ✅ | 💾|  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  230   |:heavy_check_mark: | [Build A Wikipedia Search App](#Build-A-Wikipedia-Search-App)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  231   |:heavy_check_mark: | [Build A Strong Password Generator App](#Build-A-Strong-Password-Generator-App)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  232   |:heavy_check_mark: | [Python Tkinter Build A Currency Converter App](#Python-Tkinter-Build-A-Currency-Converter-App)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  233   |:heavy_check_mark: | [ Add Functionality To Treeview CRM App](#Add-Functionality-To-Treeview-CRM-App)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+
+## Extra
+
+ Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
+| ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- | 
+|  A    |:heavy_check_mark: | [A I Programming with Python](#A-I-Programming-with-Python)| :hourglass: | ✅ | 💾|  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  B    |:heavy_check_mark: | [Python Django](#Python-Django)| :hourglass: | ✅ | 💾|  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  C    |:heavy_check_mark: | [Python-Kivy](#Pytho-Kivy)| :hourglass: | ✅ | 💾|  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  D    |:heavy_check_mark: | [Play List Spotify](#Spotify) | :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  E    |:heavy_check_mark: | [Book](#book)| :hourglass: | ✅ | 💾|  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 
 ---
+
+<table>
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./Images/hero.jpg" />
+    </td>
+  </tr>
+</table>
+
 ## Que es Python
 
 Python es un lenguaje de programación interpretado cuya filosofía hace hincapié en la legibilidad de su código. Se trata de un lenguaje de programación multiparadigma, ya que soporta orientación a objetos, programación imperativa y, en menor medida, programación funcional. Es un lenguaje interpretado, dinámico y multiplataforma.
@@ -287,9 +301,14 @@ Es administrado por la Python Software Foundation. Posee una licencia de código
 ---
 ## Creador
 
-<h2> Guido van Rossum </h2>
-
-![python](./Images/guido.jpg)
+<table align="center">
+<h3 align="center"> Guido van Rossum  </h3>
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./Images/guido.jpg" />
+    </td>
+  </tr>
+</table>
 
 <p>Guido van Rossum es un informático,1​ conocido por ser el autor del lenguaje de programación Python. Nació y creció en los Países Bajos.
 
@@ -521,6 +540,13 @@ _Kivy_
 ```
 python -m pip install kivy
 ```
+
+_Wikipedia_
+
+```
+pip install wikipedia
+```
+
 ---
 ## Instalación
 
@@ -2204,7 +2230,6 @@ md archivo
 | [Python Tkinter how To Create a Splash Screen](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20how%20To%20Create%20a%20Splash%20Screen)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
 
 
-
 ## Python Tkinter one SIded Widget Padding
 
 | Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
@@ -2218,8 +2243,84 @@ md archivo
 |--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
 | [Python tkinter How to Disable or Delete a Menu item](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20tkinter%20How%20to%20Disable%20or%20Delete%20a%20Menu%20item)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
 
+## Build A Wikipedia Search App
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./Images/wikipedia.gif" />
+    </td>
+  </tr>
+</table>
+
+
+| File      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Build A Wikipedia Search App](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20Build%20A%20Wikipedia%20Search%20App)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+## Build A Strong Password Generator App
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./Images/password.gif" />
+    </td>
+  </tr>
+</table>
+
+
+| File      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Build A Strong Password Generator App](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20Build%20A%20Strong%20Password%20Generator%20App)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+
+## Python Tkinter Build A Currency Converter App
+
+<table>
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./Images/convertDolar.gif" />
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./Images/solar.png" />
+    </td>
+  </tr>
+</table>
+
+| File      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Python Tkinter Build A Currency Converter App](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20Build%20A%20Currency%20Converter%20App)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+##  Add Functionality To Treeview CRM App
+
+<table>
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./Images/" />
+    </td>
+  </tr>
+</table>
+
+| File      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Python Tkinter Build A Currency Converter App](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20Build%20A%20Currency%20Converter%20App)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
 
 ---
+
+<table>
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <h4 align="center"> Artificial Intelligence </h4>
+      <img align="center" style="padding=0;" src="./Images/neyronal.jpg" />
+    </td>
+  </tr>
+</table>
+
 ## A I Programming with Python
 
 Fundamentos esenciales de la IA: las herramientas de programación (Python, NumPy, PyTorch), las matemáticas (cálculo y álgebra lineal) y las técnicas clave de las redes neuronales (descenso de gradiente y propagación hacia atrás).
@@ -2267,15 +2368,76 @@ Kivy es el marco principal desarrollado por la organización Kivy, [3] junto con
 
 <!--<div align="center"><img src="./Images/IA.jpg"></div>-->
 ---
+## Creditos al Creador del Material 
+
+* [Pildoras Informaticas](https://www.pildorasinformaticas.es/) <br>
+* [Codemy Academy](https://www.pildorasinformaticas.es/) <br>
+* [Itoo.dev Plataforma de educación digital](https://itoo.dev/)
+
+---
 
 ## Paypal
 
 🩸 Hacer una donación [PAYPAL](https://www.paypal.com/donate?hosted_button_id=98U3T62494H9Y) 🍵
 
 ---
-## Book
 
-Download book - [Clean Code- python-crash-course - pythonlearn](https://github.com/BrianMarquez3/Python-Course/tree/master/Book)
+## Books
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./Images/pythonbook.jpg" />
+    </td>
+  </tr>
+</table>
 
 
-![python](./Images/sphere.gif)
+<table>
+
+<tr>
+      <td>Name</td>
+      <td>Authors</td>
+      <td>Publisher</td>
+      <td>ISBN</td>
+      <td>Link</td>
+      <td>Password</td>
+</tr>
+
+<tr>
+      <td>Automate The Boring Stuff With Python</td>
+      <td>Al Sweigart</td>
+      <td>William Pollock</td>
+      <td>1-59327-992-2</td>
+      <td><a href="https://dubox.com/s/1S1I-USrYrKWzY4GwS3Ynig">Learning Perl</a></td>
+      <td>4ujw</td>
+</tr>
+  
+<tr>
+      <td>Python Crach Course</td>
+      <td>Eric Matthes</td>
+      <td>William Pollock</td>
+      <td>1-59327-603-6</td>
+      <td><a href="https://dubox.com/s/1ilayYcgd1Ynd81xWryNfiQ">Learning Perl</a></td>
+      <td>7gi8</td>
+</tr>
+
+---
+  
+</table>
+
+ <table align="center">
+    <tr>
+      <td colspan="3">A</td>
+        <td>B</td>
+      </tr>
+      <tr>
+        <td>C</td>
+      <td colspan="2"><img align="center" style="padding=0;" src="./Images/sphere.gif" /></td>
+        <td>E</td>
+      </tr>
+      <tr>
+      <td colspan="3">F</td>
+        <td>G</td>
+    </tr>
+</table>
