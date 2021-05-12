@@ -2304,14 +2304,6 @@ md archivo
 
 ##  Add Functionality To Treeview CRM App
 
-<table>
-  <tr>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./Images/" />
-    </td>
-  </tr>
-</table>
-
 | File      | Link         |   Home     |  Code       | Version     | Estado      |
 |--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
 | [Python Tkinter Build A Currency Converter App](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20Build%20A%20Currency%20Converter%20App)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
