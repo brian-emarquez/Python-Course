@@ -2404,30 +2404,33 @@ Kivy es el marco principal desarrollado por la organización Kivy, [3] junto con
 <table>
 
 <tr>
+      <td>Server</td>
       <td>Name</td>
       <td>Authors</td>
       <td>Publisher</td>
       <td>ISBN</td>
       <td>Link</td>
-      <td>Password</td>
+
 </tr>
 
 <tr>
+      <td>OneDrive</td>
       <td>Automate The Boring Stuff With Python</td>
       <td>Al Sweigart</td>
       <td>William Pollock</td>
       <td>1-59327-992-2</td>
-      <td><a href="https://dubox.com/s/1S1I-USrYrKWzY4GwS3Ynig">Learning Perl</a></td>
-      <td>4ujw</td>
+      <td><a href=https://ucsmedu-my.sharepoint.com/:b:/g/personal/47092136_ucsm_edu_pe/ESWXHtBXbYhFtDjfwHWJA6sBdrrpQ4_D3cJw1ZzpSMk3Aw?e=2VvI0F">Learning Perl</a></td>
+
 </tr>
   
 <tr>
+      <td>OneDrive</td>
       <td>Python Crach Course</td>
       <td>Eric Matthes</td>
       <td>William Pollock</td>
       <td>1-59327-603-6</td>
-      <td><a href="https://dubox.com/s/1ilayYcgd1Ynd81xWryNfiQ">Learning Perl</a></td>
-      <td>7gi8</td>
+      <td><a href="https://ucsmedu-my.sharepoint.com/:b:/g/personal/47092136_ucsm_edu_pe/EbZSnheWQM9AuWhzcBGMHKIBu30jzS8exlsG5dCTLicNow?e=NiYn4d">Learning Perl</a></td>
+
 </tr>
 
 ---
