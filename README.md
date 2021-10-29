@@ -2420,7 +2420,7 @@ Kivy es el marco principal desarrollado por la organización Kivy, [3] junto con
 
 ## Paypal
 
-🩸 Hacer una donación [PAYPAL](https://www.paypal.com/donate?hosted_button_id=98U3T62494H9Y) 🍵
+☕ Invitame un Cafe [PAYPAL](https://www.paypal.com/donate?hosted_button_id=98U3T62494H9Y) 🍵
 
 ---
 
