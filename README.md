@@ -271,11 +271,18 @@
 |  232   |:heavy_check_mark: | [Python Tkinter Build A Currency Converter App](#Python-Tkinter-Build-A-Currency-Converter-App)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
 |  233   |:heavy_check_mark: | [ Add Functionality To Treeview CRM App](#Add-Functionality-To-Treeview-CRM-App)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
 
-## Python Hacking
+
+---
+
+## Python Advance
 
  Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
-|  A1   |:heavy_check_mark: | [Keylogger](#Keylogger) | :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  B1   |:heavy_check_mark: | [ Easy recognition](#Easy-recognition)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  B2   |:heavy_check_mark: | [Keylogger](#Keylogger) | :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+
+
+---
 
 ## Extra
 
@@ -2308,13 +2315,41 @@ md archivo
 | [Python Tkinter Build A Currency Converter App](https://github.com/BrianMarquez3/Python-Course/tree/master/Python%20Tkinter%20Build%20A%20Currency%20Converter%20App)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
 
 ---
-## Python Hacking
-### Keylogger
+
+
+## Python Advance
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./Images/advance.jpg" />
+      <h4 align="center"> Pythonista or Pythoneer </h4>
+    </td>
+  </tr>
+</table>
+
+
+
+## Easy recognition
 
 
 |Number | File         | Link        |     Code    | Version     | Estado      |  Atras  |  Home   |
 |:-----:|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-------:|:-------:| 
-|A1     | [Keylogger](https://github.com/BrianMarquez3/Python-Course/tree/master/Keylogger) | :heavy_check_mark: | yes | yes | :heavy_check_mark: | ⏪ [Atras](https://github.com/BrianMarquez3) |◀️ [Tabla de contenidos](#Python-Hacking) |
+|B1     | [Easy recognition](https://github.com/BrianMarquez3/Python-Course/tree/master/Keylogger) | :heavy_check_mark: | yes | yes | :heavy_check_mark: | ⏪ [Atras](https://github.com/BrianMarquez3) |◀️ [Tabla de contenidos](#Python-Hacking) |
+
+
+## Keylogger
+
+
+|Number | File         | Link        |     Code    | Version     | Estado      |  Atras  |  Home   |
+|:-----:|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-------:|:-------:| 
+|B2     | [Keylogger](https://github.com/BrianMarquez3/Python-Course/tree/master/Keylogger) | :heavy_check_mark: | yes | yes | :heavy_check_mark: | ⏪ [Atras](https://github.com/BrianMarquez3) |◀️ [Tabla de contenidos](#Python-Hacking) |
+
+
+
+
+
+
 
 
 ---
