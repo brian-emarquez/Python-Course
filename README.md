@@ -58,225 +58,224 @@
 
  Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
-|  002   |:heavy_check_mark: | [Que es Python](#Que-es-Python)  | :hourglass:     |<img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  003   |:heavy_check_mark: | [Creador](#Creador)  | :hourglass: |<img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  004   |:heavy_check_mark: | [Historia](#historia)  | :hourglass: |<img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  005   |:heavy_check_mark: | [Ejemplos](#Ejemplos)  | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  006   |:heavy_check_mark: | [Comandos](#Comandos) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  007   |:heavy_check_mark: | [Variables](#Variables ) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  008   |:heavy_check_mark: | [Tuplas](#Tuplas ) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  009   |:heavy_check_mark: | [Instalación](#Instalación)  | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  010   |:heavy_check_mark: | [Ramas](#Ramas)  | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  011   |:heavy_check_mark: | [POO Programación orientada a objetos](#POO-Programación-orientada-a-objetos)  | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  012   |:heavy_check_mark: | [Install Jupyter Notebook](#Install-Jupyter-Notebook) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  013   |:heavy_check_mark: | [Anaconda](#Anaconda) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  014   |:heavy_check_mark: | [Buenas Practicas En Commits De Git](#Buenas-Practicas-En-Commits-De-Git) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  015  |:heavy_check_mark: | [Build A Foreign Language Flashcard App](#Build-A-Foreign-Language-Flashcard-App) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  016   |:heavy_check_mark: | [Archivos Externos I](#Archivos-Externos-I)| :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  017   |:heavy_check_mark: | [Archivos Externos II](#Archivos-Externos-II)| :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  018   |:heavy_check_mark: | [BBDD](#BBDD) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  019   |:heavy_check_mark: | [A I Programming with Python](#A-I-Programming-with-Python) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  020  |:heavy_check_mark: | [Bucles](#Bucles) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  021  |:heavy_check_mark: | [Cadenas](#Cadenas) | :hourglass: |  <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">| 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  022  |:heavy_check_mark: | [Christmas Tree](#Christmas-tree) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  023  |:heavy_check_mark: | [Colas](#colas) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  024  |:heavy_check_mark: | [Condicionales](#Condicionales) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  025  |:heavy_check_mark: | [Conjuntos](#Conjuntos) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  026  |:heavy_check_mark: | [Datos por teclado](#Datos-por-teclado) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  027  |:heavy_check_mark: | [Decoradores](#Decoradores) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  028  |:heavy_check_mark: | [Diccionarios](#Diccionarios) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  029  |:heavy_check_mark: | [Documentacion y Pruebas](#Documentacion-y-Pruebas) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> |💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  030  |:heavy_check_mark: | [Email](#Email) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | - |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  031  |:heavy_check_mark: | [Errores y Excepciones](#Errores-y-Excepciones) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  032  |:heavy_check_mark: | [Estructura General](#Estructura-General) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  033  |:heavy_check_mark: | [Excepciones](#Excepciones) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |  
-|  034  |:heavy_check_mark: | [Estructura General](#Estructura-General) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  035  |:heavy_check_mark: | [Funciones Establecidas](#Funciones-Establecidas) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |  
-|  036  |:heavy_check_mark: | [Funciones](#Funciones) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |  
-|  037  |:heavy_check_mark: | [Git](#Git) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |  
-|  038  |:heavy_check_mark: | [Generadores](#Generadores) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |  
-|  039  |:heavy_check_mark: | [Generacion Ejecutables](#Generacion-Ejecutables) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |  
-|  040  |:heavy_check_mark: | [Geographic Map of Peru](#Geographic-Map-of-Peru) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |  
-|  041  |:heavy_check_mark: | [Geographical plottings](#Geographical-plottings) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |  
-|  042  |:heavy_check_mark: | [Guardado Permanenete](#Guardado-Permanenete) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  043  |:heavy_check_mark: | [Interfas Grafica](#Interfas-Grafica) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  044  |:heavy_check_mark: | [Listas](#Listas) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  045  |:heavy_check_mark: | [Metodos de Cadenas](#Metodos-de-Cadenas) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  046  |:heavy_check_mark: | [Modulos Usabiidad](#Modulos-Usabiidad) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  047  |:heavy_check_mark: | [Modulos](#Modulos) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  048  |:heavy_check_mark: | [POO](#POO) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  049  |:heavy_check_mark: | [Paquetes](#Paquetes) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  050  |:heavy_check_mark: | [Paquetes Distribuibles](#Paquetes-Distribuibles) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  051  |:heavy_check_mark: | [Simulando Pilas](#Simulando-Pilas) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  052  |:heavy_check_mark: | [Plotly and cufflinks](#Plotly-and-cufflinks) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  053  |:heavy_check_mark: | [Practica Guiada ](#Practica-Guiada ) | :hourglass: |<img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  054  |:heavy_check_mark: | [Proyect Dictionary](#Proyect-Dictionary ) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  055  |:heavy_check_mark: | [Proyect Game hangmen](#Proyect-Game-hangmen ) | :hourglass: |<img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  056  |:heavy_check_mark: | [Reconocimiento Facial](#Reconocimiento-Facial ) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  057  |:heavy_check_mark: | [Robot](#Robot ) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  058  |:heavy_check_mark: | [Salida por pantalla](#Salida-por-pantalla ) | :hourglass: |<img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  059  |:heavy_check_mark: | [Screenpet](#Screenpet ) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  060  |:heavy_check_mark: | [Serializacion](#Serializacion ) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  062  |:heavy_check_mark: | [Sets](#Sets ) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾|  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  062  |:heavy_check_mark: | [Strings](#Strings ) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  063  |:heavy_check_mark: | [Test SQLServer](#Test-SQLServer ) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">| 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  064  |:heavy_check_mark: | [Tipos de datos](#Tipos-de-datos ) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">| 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  065  |:heavy_check_mark: | [ValidacionEmail](#ValidacionEmail ) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  002   |:heavy_check_mark: | [Que es Python](#Que-es-Python)  | :hourglass:     |<img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 | [ Atras](https://github.com/BrianMarquez3) | 
+|  003   |:heavy_check_mark: | [Creador](#Creador)  | :hourglass: |<img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ Atras](https://github.com/BrianMarquez3) | 
+|  004   |:heavy_check_mark: | [Historia](#historia)  | :hourglass: |<img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ Atras](https://github.com/BrianMarquez3) | 
+|  005   |:heavy_check_mark: | [Ejemplos](#Ejemplos)  | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [  Atras](https://github.com/BrianMarquez3) | 
+|  006   |:heavy_check_mark: | [Comandos](#Comandos) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [  Atras](https://github.com/BrianMarquez3) | 
+|  007   |:heavy_check_mark: | [Variables](#Variables ) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [  Atras](https://github.com/BrianMarquez3) |
+|  008   |:heavy_check_mark: | [Tuplas](#Tuplas ) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [  Atras](https://github.com/BrianMarquez3) |
+|  009   |:heavy_check_mark: | [Instalación](#Instalación)  | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [  Atras](https://github.com/BrianMarquez3) | 
+|  010   |:heavy_check_mark: | [Ramas](#Ramas)  | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [  Atras](https://github.com/BrianMarquez3) | 
+|  011   |:heavy_check_mark: | [POO Programación orientada a objetos](#POO-Programación-orientada-a-objetos)  | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [  Atras](https://github.com/BrianMarquez3) | 
+|  012   |:heavy_check_mark: | [Install Jupyter Notebook](#Install-Jupyter-Notebook) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [  Atras](https://github.com/BrianMarquez3) | 
+|  013   |:heavy_check_mark: | [Anaconda](#Anaconda) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [  Atras](https://github.com/BrianMarquez3) | 
+|  014   |:heavy_check_mark: | [Buenas Practicas En Commits De Git](#Buenas-Practicas-En-Commits-De-Git) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [  Atras](https://github.com/BrianMarquez3) | 
+|  015  |:heavy_check_mark: | [Build A Foreign Language Flashcard App](#Build-A-Foreign-Language-Flashcard-App) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [  Atras](https://github.com/BrianMarquez3) | 
+|  016   |:heavy_check_mark: | [Archivos Externos I](#Archivos-Externos-I)| :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [  Atras](https://github.com/BrianMarquez3) | 
+|  017   |:heavy_check_mark: | [Archivos Externos II](#Archivos-Externos-II)| :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [  Atras](https://github.com/BrianMarquez3) | 
+|  018   |:heavy_check_mark: | [BBDD](#BBDD) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [  Atras](https://github.com/BrianMarquez3) | 
+|  019   |:heavy_check_mark: | [A I Programming with Python](#A-I-Programming-with-Python) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [  Atras](https://github.com/BrianMarquez3) | 
+|  020  |:heavy_check_mark: | [Bucles](#Bucles) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [  Atras](https://github.com/BrianMarquez3) | 
+|  021  |:heavy_check_mark: | [Cadenas](#Cadenas) | :hourglass: |  <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">| 💾 |  [  Atras](https://github.com/BrianMarquez3) | 
+|  022  |:heavy_check_mark: | [Christmas Tree](#Christmas-tree) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [  Atras](https://github.com/BrianMarquez3) | 
+|  023  |:heavy_check_mark: | [Colas](#colas) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [  Atras](https://github.com/BrianMarquez3) | 
+|  024  |:heavy_check_mark: | [Condicionales](#Condicionales) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [  Atras](https://github.com/BrianMarquez3) | 
+|  025  |:heavy_check_mark: | [Conjuntos](#Conjuntos) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [  Atras](https://github.com/BrianMarquez3) | 
+|  026  |:heavy_check_mark: | [Datos por teclado](#Datos-por-teclado) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [  Atras](https://github.com/BrianMarquez3) | 
+|  027  |:heavy_check_mark: | [Decoradores](#Decoradores) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [  Atras](https://github.com/BrianMarquez3) | 
+|  028  |:heavy_check_mark: | [Diccionarios](#Diccionarios) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [  Atras](https://github.com/BrianMarquez3) |
+|  029  |:heavy_check_mark: | [Documentacion y Pruebas](#Documentacion-y-Pruebas) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> |💾 |  [  Atras](https://github.com/BrianMarquez3) | 
+|  030  |:heavy_check_mark: | [Email](#Email) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | - |  [  Atras](https://github.com/BrianMarquez3) | 
+|  031  |:heavy_check_mark: | [Errores y Excepciones](#Errores-y-Excepciones) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [  Atras](https://github.com/BrianMarquez3) | 
+|  032  |:heavy_check_mark: | [Estructura General](#Estructura-General) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [  Atras](https://github.com/BrianMarquez3) |
+|  033  |:heavy_check_mark: | [Excepciones](#Excepciones) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [  Atras](https://github.com/BrianMarquez3) |  
+|  034  |:heavy_check_mark: | [Estructura General](#Estructura-General) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [  Atras](https://github.com/BrianMarquez3) |
+|  035  |:heavy_check_mark: | [Funciones Establecidas](#Funciones-Establecidas) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ Atras](https://github.com/BrianMarquez3) |  
+|  036  |:heavy_check_mark: | [Funciones](#Funciones) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ Atras](https://github.com/BrianMarquez3) |  
+|  037  |:heavy_check_mark: | [Git](#Git) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [  Atras](https://github.com/BrianMarquez3) |  
+|  038  |:heavy_check_mark: | [Generadores](#Generadores) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [  Atras](https://github.com/BrianMarquez3) |  
+|  039  |:heavy_check_mark: | [Generacion Ejecutables](#Generacion-Ejecutables) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [  Atras](https://github.com/BrianMarquez3) |  
+|  040  |:heavy_check_mark: | [Geographic Map of Peru](#Geographic-Map-of-Peru) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [  Atras](https://github.com/BrianMarquez3) |  
+|  041  |:heavy_check_mark: | [Geographical plottings](#Geographical-plottings) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [  Atras](https://github.com/BrianMarquez3) |  
+|  042  |:heavy_check_mark: | [Guardado Permanenete](#Guardado-Permanenete) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [  Atras](https://github.com/BrianMarquez3) | 
+|  043  |:heavy_check_mark: | [Interfas Grafica](#Interfas-Grafica) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [  Atras](https://github.com/BrianMarquez3) | 
+|  044  |:heavy_check_mark: | [Listas](#Listas) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [  Atras](https://github.com/BrianMarquez3) | 
+|  045  |:heavy_check_mark: | [Metodos de Cadenas](#Metodos-de-Cadenas) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [  Atras](https://github.com/BrianMarquez3) | 
+|  046  |:heavy_check_mark: | [Modulos Usabiidad](#Modulos-Usabiidad) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [  Atras](https://github.com/BrianMarquez3) | 
+|  047  |:heavy_check_mark: | [Modulos](#Modulos) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [  Atras](https://github.com/BrianMarquez3) |
+|  048  |:heavy_check_mark: | [POO](#POO) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [  Atras](https://github.com/BrianMarquez3) |
+|  049  |:heavy_check_mark: | [Paquetes](#Paquetes) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [  Atras](https://github.com/BrianMarquez3) |
+|  050  |:heavy_check_mark: | [Paquetes Distribuibles](#Paquetes-Distribuibles) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [  Atras](https://github.com/BrianMarquez3) |
+|  051  |:heavy_check_mark: | [Simulando Pilas](#Simulando-Pilas) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [  Atras](https://github.com/BrianMarquez3) |
+|  052  |:heavy_check_mark: | [Plotly and cufflinks](#Plotly-and-cufflinks) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [  Atras](https://github.com/BrianMarquez3) |
+|  053  |:heavy_check_mark: | [Practica Guiada ](#Practica-Guiada ) | :hourglass: |<img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [  Atras](https://github.com/BrianMarquez3) |
+|  054  |:heavy_check_mark: | [Proyect Dictionary](#Proyect-Dictionary ) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [  Atras](https://github.com/BrianMarquez3) |
+|  055  |:heavy_check_mark: | [Proyect Game hangmen](#Proyect-Game-hangmen ) | :hourglass: |<img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [  Atras](https://github.com/BrianMarquez3) |
+|  056  |:heavy_check_mark: | [Reconocimiento Facial](#Reconocimiento-Facial ) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [  Atras](https://github.com/BrianMarquez3) |
+|  057  |:heavy_check_mark: | [Robot](#Robot ) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [  Atras](https://github.com/BrianMarquez3) |
+|  058  |:heavy_check_mark: | [Salida por pantalla](#Salida-por-pantalla ) | :hourglass: |<img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [  Atras](https://github.com/BrianMarquez3) |
+|  059  |:heavy_check_mark: | [Screenpet](#Screenpet ) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [  Atras](https://github.com/BrianMarquez3) |
+|  060  |:heavy_check_mark: | [Serializacion](#Serializacion ) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [  Atras](https://github.com/BrianMarquez3) |
+|  062  |:heavy_check_mark: | [Sets](#Sets ) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾|  [  Atras](https://github.com/BrianMarquez3) |
+|  062  |:heavy_check_mark: | [Strings](#Strings ) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [  Atras](https://github.com/BrianMarquez3) |
+|  063  |:heavy_check_mark: | [Test SQLServer](#Test-SQLServer ) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">| 💾 |  [  Atras](https://github.com/BrianMarquez3) |
+|  064  |:heavy_check_mark: | [Tipos de datos](#Tipos-de-datos ) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px">| 💾 |  [  Atras](https://github.com/BrianMarquez3) |
+|  065  |:heavy_check_mark: | [ValidacionEmail](#ValidacionEmail ) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ Atras](https://github.com/BrianMarquez3) |
 
 ## Pyhotn QT Designer
 
  Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
-|  066   |:heavy_check_mark: | [QT Designer](#QT-Designer) | :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  067  |:heavy_check_mark: | [QT-Formulario](#QT-Formulario ) | :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  068  |:heavy_check_mark: | [QT-Formulario](#QT-Formulario ) | :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  069  |:heavy_check_mark: | [QT-PySide](#QT-PySide ) | :hourglass: | ✅ |💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  070  |:heavy_check_mark: | [QT-RegisterUI](#QT-RegisterUI ) | :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  071  |:heavy_check_mark: | [QT-RenderTimeCalculator](#QT-RenderTimeCalculator ) | :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  072  |:heavy_check_mark: | [QT-Toogle Menu](#QT-Toogle-Menu ) | :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  066   |:heavy_check_mark: | [QT Designer](#QT-Designer) | :hourglass: | ✅ | 💾 |  [  Atras](https://github.com/BrianMarquez3) | 
+|  067  |:heavy_check_mark: | [QT-Formulario](#QT-Formulario ) | :hourglass: | ✅ | 💾 |  [  Atras](https://github.com/BrianMarquez3) |
+|  068  |:heavy_check_mark: | [QT-Formulario](#QT-Formulario ) | :hourglass: | ✅ | 💾 |  [  Atras](https://github.com/BrianMarquez3) |
+|  069  |:heavy_check_mark: | [QT-PySide](#QT-PySide ) | :hourglass: | ✅ |💾 |  [  Atras](https://github.com/BrianMarquez3) |
+|  070  |:heavy_check_mark: | [QT-RegisterUI](#QT-RegisterUI ) | :hourglass: | ✅ | 💾 |  [  Atras](https://github.com/BrianMarquez3) |
+|  071  |:heavy_check_mark: | [QT-RenderTimeCalculator](#QT-RenderTimeCalculator ) | :hourglass: | ✅ | 💾 |  [  Atras](https://github.com/BrianMarquez3) |
+|  072  |:heavy_check_mark: | [QT-Toogle Menu](#QT-Toogle-Menu ) | :hourglass: | ✅ | 💾 |  [  Atras](https://github.com/BrianMarquez3) |
 
 ## Pyhotn Tkinter
 
  Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
-|  073   |:heavy_check_mark: | [Interface Grafica TKINTER](#Interface-Grafica-TKINTER) | :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  074   |:heavy_check_mark: | [Pyhton Tkinter Add ZipCode](#Pyhton-Tkinter-Add-ZipCode)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  074   |:heavy_check_mark: | [Pyhton Tkinter Get Height and Width](#Pyhton-Tkinter-Get-Height-and-Width)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  075   |:heavy_check_mark: | [Python TKinter Build An MP3 Player](#Python-TKinter-Build-An-MP3-Player)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras ](https://github.com/BrianMarquez3) | 
+|  073   |:heavy_check_mark: | [Interface Grafica TKINTER](#Interface-Grafica-TKINTER) | :hourglass: | ✅ | 💾 |  [  Atras](https://github.com/BrianMarquez3) | 
+|  074   |:heavy_check_mark: | [Pyhton Tkinter Add ZipCode](#Pyhton-Tkinter-Add-ZipCode)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  074   |:heavy_check_mark: | [Pyhton Tkinter Get Height and Width](#Pyhton-Tkinter-Get-Height-and-Width)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  075   |:heavy_check_mark: | [Python TKinter Build An MP3 Player](#Python-TKinter-Build-An-MP3-Player)  | :hourglass:     | ✅ | 💾 | [  Atras ](https://github.com/BrianMarquez3) | 
 |  076   |:heavy_check_mark: | [Python TKinter Button Bitmaps](#Python-TKinter-Button-Bitmaps)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  077   |:heavy_check_mark: | [Python TKinter Changing The Mouse Cursor](#Python-TKinter-Changing-The-Mouse-Cursor)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  078   |:heavy_check_mark: | [Python TKinter How To Ring The System Bell](#Python-TKinter-How-To-Ring-The-System-Bell)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  079   |:heavy_check_mark: | [Python TKinter Using Entry Boxes On Canvas](#Python-TKinter-Using-Entry-Boxes-On-Canvas)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  100   |:heavy_check_mark: | [Python TKinter Using config to update widget](#Python-TKinter-Using-config-to-pdate-widget)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  077   |:heavy_check_mark: | [Python TKinter Changing The Mouse Cursor](#Python-TKinter-Changing-The-Mouse-Cursor)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  078   |:heavy_check_mark: | [Python TKinter How To Ring The System Bell](#Python-TKinter-How-To-Ring-The-System-Bell)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  079   |:heavy_check_mark: | [Python TKinter Using Entry Boxes On Canvas](#Python-TKinter-Using-Entry-Boxes-On-Canvas)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  100   |:heavy_check_mark: | [Python TKinter Using config to update widget](#Python-TKinter-Using-config-to-pdate-widget)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
 |  101   |:heavy_check_mark: | [Python Tkinter Add Images to Text Box](#Python-Tkinter-Add-Images-to-Text-Box)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  102   |:heavy_check_mark: | [Python Tkinter Add Input Boxes For Our CRM Tool](#Python-Tkinter-Add-Input-Boxes-For-Our-CRM-Tool)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  103   |:heavy_check_mark: | [Python Tkinter Add Scrollbars to List Boxes](#Python-Tkinter-Add-Scrollbars-to-List-Boxes)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  104   |:heavy_check_mark: | [Python Tkinter Adding Frames](#Python-Tkinter-Adding-Frames)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  105   |:heavy_check_mark: | [Python Tkinter Adding Full Screen ScrollBar](#Python-Tkinter-Adding-Full-Screen-ScrollBar)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  106   |:heavy_check_mark: | [Python Tkinter Adding a Status Bar](#Python-Tkinter-Adding-a-Status-Bar)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  107   |:heavy_check_mark: | [Python Tkinter All List](#Python-Tkinter-All-List)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  108   |:heavy_check_mark: | [Python Tkinter Ballon Text Tools](#Python-Tkinter-Ballon-Text-Tools)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  109   |:heavy_check_mark: | [Python Tkinter Basic Search and Autofill](#Python-Tkinter-Basic-Search-and-Autofills)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  110   |:heavy_check_mark: | [Python Tkinter Binding Dropdown Menus and Combo Boxes](#Python-Tkinter-Binding-Dropdown-Menus-and-Combo-Boxes)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  111   |:heavy_check_mark: | [Python Tkinter Bitcoin Price Web Scraper With BeautifulSoup](#Python-Tkinter-Bitcoin-Price-Web-Scraper-With-BeautifulSoup)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  112   |:heavy_check_mark: | [Build A Foreign Language Flashcard App](#Build-A-Foreign-Language-Flashcard-App)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  123   |:heavy_check_mark: | [Python Tkinter Build A text Editor](#Python-Tkinter-Build-A-text-Editor)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  124   |:heavy_check_mark: | [Python Tkinter Build a Paint APP](#Python-Tkinter-Build-a-Paint-APP)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  125   |:heavy_check_mark: | [Python Tkinter Build an Imagen Viewer](#Python-Tkinter-Build-an-Imagen-Viewer)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  126   |:heavy_check_mark: | [Python Tkinter Building out Database](#Python-Tkinter-Building-out-Database)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  127   |:heavy_check_mark: | [Python Tkinter Button Mouse on Hover Popup Message](#Python-Tkinter-Button-Mouse-on-Hover-Popup-Message)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  128   |:heavy_check_mark: | [Python Tkinter Change Colors Weather App](#Python-Tkinter-Change-Colors-Weather-App)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  129   |:heavy_check_mark: | [Python Tkinter Checkboxes](#Python-Tkinter-Checkboxes)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  130   |:heavy_check_mark: | [Python Tkinter Classes](#Python-Tkinter-Classes)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  131   |:heavy_check_mark: | [Python Tkinter Color Changing Number Guessing Game](#Python-Tkinter-Color-Changing-Number-Guessing-Game)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  132   |:heavy_check_mark: | [Python Tkinter Color Picker](#Python-Tkinter-Color-Picker)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  133   |:heavy_check_mark: | [Python Tkinter Create CRM database Tool](#Python-Tkinter-Create-CRM-database-Tool)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  134   |:heavy_check_mark: | [Python Tkinter Create New Windows](#Python-Tkinter-Create-New-Windows)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  135   |:heavy_check_mark: | [Python Tkinter Create Tab in Your GUI](#Python-Tkinter-Create-Tab-in-Your-GUI)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  136   |:heavy_check_mark: | [Python Tkinter Create a Data Picker Calendar](#Python-Tkinter-Create-a-Data-Picker-Calendar)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  137   |:heavy_check_mark: | [Python Tkinter Create a Database and Table CRM](#Python-Tkinter-Create-a-Database-and-Table-CRM)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  138   |:heavy_check_mark: | [Python Tkinter Creating Buttons](#Python-Tkinter-Creating-Buttons)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  139   |:heavy_check_mark: | [Python Tkinter Creating Input fields ](#Python-Tkinter-Creating-Input-fields )  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  140   |:heavy_check_mark: | [Python Tkinter Creating Multiple Entry Boxes Automatically ](#Python-Tkinter-Creating-Multiple-Entry-Boxes-Automatically )  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  141   |:heavy_check_mark: | [Python-Tkinter-Custom-Message-Box-Popups](#Python-Tkinter-Custom-Message-Box-Popups )  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  142   |:heavy_check_mark: | [Python Tkinter Dates and 2020 Countdown App ](#Python-Tkinter-Dates-and-2020-Countdown-App )  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  143   |:heavy_check_mark: | [Python Tkinter Delete Frame Children Widgets ](#Python-Tkinter-Delete-Frame-Children-Widgets )  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  144   |:heavy_check_mark: | [Python Tkinter Delete Frame Children Widgets ](#Python-Tkinter-Delete-Frame-Children-Widgets )  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  145   |:heavy_check_mark: | [Python Tkinter Delete a Record](#Python-Tkinter-Delete-a-Record)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  146   |:heavy_check_mark: | [Python Tkinter Dependent Drop Downs and List Boxes](#Python-Tkinter-Dependent-Drop-Downs-and-List-Boxes)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  102   |:heavy_check_mark: | [Python Tkinter Add Input Boxes For Our CRM Tool](#Python-Tkinter-Add-Input-Boxes-For-Our-CRM-Tool)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  103   |:heavy_check_mark: | [Python Tkinter Add Scrollbars to List Boxes](#Python-Tkinter-Add-Scrollbars-to-List-Boxes)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  104   |:heavy_check_mark: | [Python Tkinter Adding Frames](#Python-Tkinter-Adding-Frames)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  105   |:heavy_check_mark: | [Python Tkinter Adding Full Screen ScrollBar](#Python-Tkinter-Adding-Full-Screen-ScrollBar)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  106   |:heavy_check_mark: | [Python Tkinter Adding a Status Bar](#Python-Tkinter-Adding-a-Status-Bar)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  107   |:heavy_check_mark: | [Python Tkinter All List](#Python-Tkinter-All-List)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  108   |:heavy_check_mark: | [Python Tkinter Ballon Text Tools](#Python-Tkinter-Ballon-Text-Tools)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  109   |:heavy_check_mark: | [Python Tkinter Basic Search and Autofill](#Python-Tkinter-Basic-Search-and-Autofills)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  110   |:heavy_check_mark: | [Python Tkinter Binding Dropdown Menus and Combo Boxes](#Python-Tkinter-Binding-Dropdown-Menus-and-Combo-Boxes)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  111   |:heavy_check_mark: | [Python Tkinter Bitcoin Price Web Scraper With BeautifulSoup](#Python-Tkinter-Bitcoin-Price-Web-Scraper-With-BeautifulSoup)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  112   |:heavy_check_mark: | [Build A Foreign Language Flashcard App](#Build-A-Foreign-Language-Flashcard-App)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  123   |:heavy_check_mark: | [Python Tkinter Build A text Editor](#Python-Tkinter-Build-A-text-Editor)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  124   |:heavy_check_mark: | [Python Tkinter Build a Paint APP](#Python-Tkinter-Build-a-Paint-APP)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  125   |:heavy_check_mark: | [Python Tkinter Build an Imagen Viewer](#Python-Tkinter-Build-an-Imagen-Viewer)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  126   |:heavy_check_mark: | [Python Tkinter Building out Database](#Python-Tkinter-Building-out-Database)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  127   |:heavy_check_mark: | [Python Tkinter Button Mouse on Hover Popup Message](#Python-Tkinter-Button-Mouse-on-Hover-Popup-Message)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  128   |:heavy_check_mark: | [Python Tkinter Change Colors Weather App](#Python-Tkinter-Change-Colors-Weather-App)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  129   |:heavy_check_mark: | [Python Tkinter Checkboxes](#Python-Tkinter-Checkboxes)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  130   |:heavy_check_mark: | [Python Tkinter Classes](#Python-Tkinter-Classes)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) |
+|  131   |:heavy_check_mark: | [Python Tkinter Color Changing Number Guessing Game](#Python-Tkinter-Color-Changing-Number-Guessing-Game)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) |
+|  132   |:heavy_check_mark: | [Python Tkinter Color Picker](#Python-Tkinter-Color-Picker)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) |
+|  133   |:heavy_check_mark: | [Python Tkinter Create CRM database Tool](#Python-Tkinter-Create-CRM-database-Tool)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) |
+|  134   |:heavy_check_mark: | [Python Tkinter Create New Windows](#Python-Tkinter-Create-New-Windows)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) |
+|  135   |:heavy_check_mark: | [Python Tkinter Create Tab in Your GUI](#Python-Tkinter-Create-Tab-in-Your-GUI)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) |
+|  136   |:heavy_check_mark: | [Python Tkinter Create a Data Picker Calendar](#Python-Tkinter-Create-a-Data-Picker-Calendar)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) |
+|  137   |:heavy_check_mark: | [Python Tkinter Create a Database and Table CRM](#Python-Tkinter-Create-a-Database-and-Table-CRM)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) |
+|  138   |:heavy_check_mark: | [Python Tkinter Creating Buttons](#Python-Tkinter-Creating-Buttons)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) |
+|  139   |:heavy_check_mark: | [Python Tkinter Creating Input fields ](#Python-Tkinter-Creating-Input-fields )  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) |
+|  140   |:heavy_check_mark: | [Python Tkinter Creating Multiple Entry Boxes Automatically ](#Python-Tkinter-Creating-Multiple-Entry-Boxes-Automatically )  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) |
+|  141   |:heavy_check_mark: | [Python-Tkinter-Custom-Message-Box-Popups](#Python-Tkinter-Custom-Message-Box-Popups )  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) |
+|  142   |:heavy_check_mark: | [Python Tkinter Dates and 2020 Countdown App ](#Python-Tkinter-Dates-and-2020-Countdown-App )  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) |
+|  143   |:heavy_check_mark: | [Python Tkinter Delete Frame Children Widgets ](#Python-Tkinter-Delete-Frame-Children-Widgets )  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) |
+|  144   |:heavy_check_mark: | [Python Tkinter Delete Frame Children Widgets ](#Python-Tkinter-Delete-Frame-Children-Widgets )  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) |
+|  145   |:heavy_check_mark: | [Python Tkinter Delete a Record](#Python-Tkinter-Delete-a-Record)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  146   |:heavy_check_mark: | [Python Tkinter Dependent Drop Downs and List Boxes](#Python-Tkinter-Dependent-Drop-Downs-and-List-Boxes)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
 |  147   |:heavy_check_mark: | [Python Tkinter Dont Packon the same Line](#Python-Tkinter-Dont-Packon-the-same-Line)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  148   |:heavy_check_mark: | [Python Tkinter Drag and Drop Images With the Mouse](#Python-Tkinter-Drag-and-Drop-Images-With-the-Mouse)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  149   |:heavy_check_mark: | [Python Tkinter Drag and Drop Images With the Mouse](#Python-Tkinter-Drag-and-Drop-Images-With-the-Mouse)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  148   |:heavy_check_mark: | [Python Tkinter Drag and Drop Images With the Mouse](#Python-Tkinter-Drag-and-Drop-Images-With-the-Mouse)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  149   |:heavy_check_mark: | [Python Tkinter Drag and Drop Images With the Mouse](#Python-Tkinter-Drag-and-Drop-Images-With-the-Mouse)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
 |  150   |:heavy_check_mark: | [Python Tkinter Drop Box Database Search CRM](#Python-Tkinter-Drop-Box-Database-Search-CRM)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  151   |:heavy_check_mark: | [Python Tkinter Dropdown Menus](#Python-Tkinter-Dropdown-Menus)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  152   |:heavy_check_mark: | [Python Tkinter Dybamically Resize Buttons when Resizing a Window](#Python-Tkinter-Dybamically-Resize-Buttons-when-Resizing-a-Windows)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  153   |:heavy_check_mark: | [Python Tkinter Dynamically Resize Background Images](#Python-Tkinter-Dynamically-Resize-Background-Images)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  154   |:heavy_check_mark: | [Python Tkinter Export CRM Database to Excel File](#Python-Tkinter-Export-CRM-Database-to-Excel-File)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  155   |:heavy_check_mark: | [Python Tkinter How Draw Lines and Shapes with Canvas](#Python-Tkinter-How-Draw-Lines-and-Shapes-with-Canvas)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  156   |:heavy_check_mark: | [Python Tkinter How To Animate Widgets](#Python-Tkinter-How-To-Animate-Widgets)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  157   |:heavy_check_mark: | [Python Tkinter How To Define Custom Fonts](Python-Tkinter-How-To-Define-Custom-Fonts)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  158   |:heavy_check_mark: | [Python Tkinter How To Dynamically Resize Button Text](#Python-Tkinter-How-To-Dynamically-Resize-Button-Text)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  159   |:heavy_check_mark: | [Python Tkinter How To Read A PDF File](#Python-Tkinter-How-To-Read-A-PDF-ile)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  160   |:heavy_check_mark: | [Python Tkinter How To Resize Your App With The Sizegrip Widget](#Python-Tkinter-How-To-Resize-Your-App-With-The-Sizegrip-Widget)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  161   |:heavy_check_mark: | [Python Tkinter How To Risize Entry Box heigh](#Python-Tkinter-How-To-Risize-Entry-Box-heigh)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  162   |:heavy_check_mark: | [Python Tkinter How To Use HTML In Your Tkinter App](#Python-Tkinter-How-To-Use-HTML-In-Your-Tkinter-App)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  163   |:heavy_check_mark: | [Python Tkinter How To Use Images as Backgrounds](#Python-Tkinter-How-To-Use-Images-as-Backgrounds)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  164   |:heavy_check_mark: | [Python Tkinter How To Use The Message Widget For Blocks of Text](#Python-Tkinter-How-To-Use-he-Message-Widget-For-Blocks-of-Texts)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  165   |:heavy_check_mark: | [Python Tkinter How To add Excel Spreadsheet columns to listbox](#Python-Tkinter-How-To-add-Excel-Spreadsheet-columns-to-listbox)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  166   |:heavy_check_mark: | [Python Tkinter How To ser Tab Order and Focus](#Python-Tkinter-How-To-ser-Tab-Order-and-Focus)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  167   |:heavy_check_mark: | [Python Tkinter How Validate an Entry Widget Integer](#Python-Tkinter-How-Validate-an-Entry-Widget-Integer)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  168   |:heavy_check_mark: | [Python Tkinter How to Center Windows on the Screen](#Python-Tkinter-How-to-Center-Windows-on-the-Screen)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  169   |:heavy_check_mark: | [Python Tkinter How to Open External Programns](#Python-Tkinter-How-to-Open-External-Programns)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  170   |:heavy_check_mark: | [Python Tkinter How to Reset a Spinbox with Tkinter](#Python-Tkinter-How-to-Reset-a-Spinbox-with-Tkinter)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  171   |:heavy_check_mark: | [Python Tkinter How to Resize Images](#Python-Tkinter-How-to-Resize-Images)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  172   |:heavy_check_mark: | [Python Tkinter How to Resize a Window Dynamically](#Python-Tkinter-How-to-Resize-a-Window-Dynamically)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  173   |:heavy_check_mark: | [Python Tkinter How to Unlock the Hidden Keys of f a Widget](#Python-Tkinter-How-to-Unlock-the-Hidden-Keys-of-f-a-Widget)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  174   |:heavy_check_mark: | [Python Tkinter Image Buttons and Rounded Buttons](#Python-Tkinter-Image-Buttons-and-Rounded-Buttons)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  175   |:heavy_check_mark: | [Python Tkinter Keyboard Event Binding](#Python-Tkinter-Keyboard-Event-Bindings)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  176   |:heavy_check_mark: | [Python Tkinter List Boxes](#Python-Tkinter-List-Boxes)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  177   |:heavy_check_mark: | [Python Tkinter Lookup Customer By Last Name CRM](#Python-Tkinter-Lookup-Customer-By-Last-Name-CRM)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  178   |:heavy_check_mark: | [Python Tkinter Lookup all CustomersCRM](#Python-Tkinter-Lookup-all-CustomersCRM)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  179   |:heavy_check_mark: | [Python Tkinter MariaDB](#Python-Tkinter-MariaDB)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  180   |:heavy_check_mark: | [Python Tkinter Matplolib Charts](#Python-Tkinter-Matplolib-Charts)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  181   |:heavy_check_mark: | [Python Tkinter Menu Bars](#Python-Tkinter-Menu-Bars)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  182   |:heavy_check_mark: | [Python Tkinter Message Boxes](#Python-Tkinter-Message-Boxes)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  183   |:heavy_check_mark: | [Python Tkinter Mouse On Hover Image Animation](#Python-Tkinter-Mouse-On-Hover-Image-Animation)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  184   |:heavy_check_mark: | [Python Tkinter Move Canvas shapes with Arrow Keys](#Python-Tkinter-Move-Canvas-shapes-with-Arrow-Keys)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  185   |:heavy_check_mark: | [Python Tkinter Multiple CRM search Results](#Python-Tkinter-Multiple-CRM-search-Results)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  186   |:heavy_check_mark: | [Python Tkinter On Off Button Switch](#Python-Tkinter-On-Off-Button-Switch)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  187   |:heavy_check_mark: | [Python Tkinter Open Excell Spreadsheet](#Python-Tkinter-Open-Excell-Spreadsheet)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  188   |:heavy_check_mark: | [Python Tkinter Open Files Dialog Box](#Python-Tkinter-Open-Files-Dialog-Box)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  189   |:heavy_check_mark: | [Python Tkinter Overwrite Grid Labels](#Python-Tkinter-Overwrite-Grid-Labels)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  190   |:heavy_check_mark: | [Python Tkinter Paned Windows ](#Python-Tkinter-Paned-Windows)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  191   |:heavy_check_mark: | [Python Tkinter Positioning ](#Python-Tkinter-Positioning )  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  192   |:heavy_check_mark: | [Python Tkinter Progress Bars](#Python-Tkinter-Progress-Bars)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  193   |:heavy_check_mark: | [Python Tkinter Radio Butttons](#Python-Tkinter-Radio-Butttons)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  194   |:heavy_check_mark: | [Python Tkinter Random Winner Generador](#Python-Tkinter-Random-Winner-Generador)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  195   |:heavy_check_mark: | [Python Tkinter Read and Write to Text Files](#Python-Tkinter-Read-and-Write-to-Text-Files)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  196   |:heavy_check_mark: | [Python Tkinter Remove Labels](#ython-Tkinter-Remove-Labels)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  197   |:heavy_check_mark: | [Python Tkinter Right Click Menu Popups](#Python-Tkinter-Right-Click-Menu-Popups)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  198   |:heavy_check_mark: | [Python Tkinter Rock Paper Scissors Game ](#Python-Tkinter-Rock-Paper-Scissors-Game )  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  199   |:heavy_check_mark: | [Python Tkinter Save To Dat File Instead of Databases](#Python-Tkinter-Save-To-Dat-File-Instead-of-Databases)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  200   |:heavy_check_mark: | [Python Tkinter Secret Label Copying Hach](#Python-Tkinter-Secret-Label-Copying-Hach)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  201   |:heavy_check_mark: | [Python Tkinter Sliders](#Python-Tkinter-Sliders)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  202   |:heavy_check_mark: | [Python Tkinter Sounds and Music](#Python-Tkinter-Sounds-and-Music)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  203   |:heavy_check_mark: | [Python Tkinter Spinboxes](#Python-Tkinter-Spinboxes)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  204   |:heavy_check_mark: | [Python Tkinter Standalone EXE Executable ](#Python-Tkinter-Standalone-EXE-Executable)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  205   |:heavy_check_mark: | [Python Tkinter Text Box](#Python-Tkinter-Text-Box )  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  206   |:heavy_check_mark: | [Python Tkinter Threading](#Python-Tkinter-Threading)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  207   |:heavy_check_mark: | [Python Tkinter Tic Tac Toe Game](#Python-Tkinter-Tic-Tac-Toe-Game)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  208   |:heavy_check_mark: | [Python Tkinter Tile Matching Game ](#Python-Tkinter-Tile-Matching-Game )  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  209   |:heavy_check_mark: | [Python Tkinter Timers and Clocks ](#Python-Tkinter-Timers-and-Clocks )  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  210   |:heavy_check_mark: | [Python Tkinter Transparent Windows](#Python-Tkinter-Transparent-Windows)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  211   |:heavy_check_mark: | [Python Tkinter Treeview](#Python-Tkinter-Treeview)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  213   |:heavy_check_mark: | [Python Tkinter Undo and Redo Text Button ](#Python-Tkinter-Undo-and-Redo-Text-Button )  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  214   |:heavy_check_mark: | [Python Tkinter Unicode Character & Special Characters](#Python-Tkinter-Unicode-Character-&-Special-Characters)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  215   |:heavy_check_mark: | [Python ](#Python-Tkinter-Unicode-Character-&-Special-Characters)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  216   |:heavy_check_mark: | [Python Tkinter Unicode Character & Special Characters](#Python-Tkinter-Unicode-Character-&-Special-Characters)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  217   |:heavy_check_mark: | [Python Tkinter Update MariaDb records](#Python-Tkinter-Update-MariaDb-records)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  218   |:heavy_check_mark: | [Python Tkinter Update a Record](#Python-Tkinter-Update-a-Record)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  219   |:heavy_check_mark: | [Python Tkinter Using Config to update](#Python-Tkinter-Using-Config-to-update)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  151   |:heavy_check_mark: | [Python Tkinter Dropdown Menus](#Python-Tkinter-Dropdown-Menus)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  152   |:heavy_check_mark: | [Python Tkinter Dybamically Resize Buttons when Resizing a Window](#Python-Tkinter-Dybamically-Resize-Buttons-when-Resizing-a-Windows)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  153   |:heavy_check_mark: | [Python Tkinter Dynamically Resize Background Images](#Python-Tkinter-Dynamically-Resize-Background-Images)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  154   |:heavy_check_mark: | [Python Tkinter Export CRM Database to Excel File](#Python-Tkinter-Export-CRM-Database-to-Excel-File)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  155   |:heavy_check_mark: | [Python Tkinter How Draw Lines and Shapes with Canvas](#Python-Tkinter-How-Draw-Lines-and-Shapes-with-Canvas)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  156   |:heavy_check_mark: | [Python Tkinter How To Animate Widgets](#Python-Tkinter-How-To-Animate-Widgets)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  157   |:heavy_check_mark: | [Python Tkinter How To Define Custom Fonts](Python-Tkinter-How-To-Define-Custom-Fonts)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  158   |:heavy_check_mark: | [Python Tkinter How To Dynamically Resize Button Text](#Python-Tkinter-How-To-Dynamically-Resize-Button-Text)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  159   |:heavy_check_mark: | [Python Tkinter How To Read A PDF File](#Python-Tkinter-How-To-Read-A-PDF-ile)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  160   |:heavy_check_mark: | [Python Tkinter How To Resize Your App With The Sizegrip Widget](#Python-Tkinter-How-To-Resize-Your-App-With-The-Sizegrip-Widget)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  161   |:heavy_check_mark: | [Python Tkinter How To Risize Entry Box heigh](#Python-Tkinter-How-To-Risize-Entry-Box-heigh)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  162   |:heavy_check_mark: | [Python Tkinter How To Use HTML In Your Tkinter App](#Python-Tkinter-How-To-Use-HTML-In-Your-Tkinter-App)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  163   |:heavy_check_mark: | [Python Tkinter How To Use Images as Backgrounds](#Python-Tkinter-How-To-Use-Images-as-Backgrounds)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  164   |:heavy_check_mark: | [Python Tkinter How To Use The Message Widget For Blocks of Text](#Python-Tkinter-How-To-Use-he-Message-Widget-For-Blocks-of-Texts)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  165   |:heavy_check_mark: | [Python Tkinter How To add Excel Spreadsheet columns to listbox](#Python-Tkinter-How-To-add-Excel-Spreadsheet-columns-to-listbox)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  166   |:heavy_check_mark: | [Python Tkinter How To ser Tab Order and Focus](#Python-Tkinter-How-To-ser-Tab-Order-and-Focus)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  167   |:heavy_check_mark: | [Python Tkinter How Validate an Entry Widget Integer](#Python-Tkinter-How-Validate-an-Entry-Widget-Integer)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  168   |:heavy_check_mark: | [Python Tkinter How to Center Windows on the Screen](#Python-Tkinter-How-to-Center-Windows-on-the-Screen)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  169   |:heavy_check_mark: | [Python Tkinter How to Open External Programns](#Python-Tkinter-How-to-Open-External-Programns)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  170   |:heavy_check_mark: | [Python Tkinter How to Reset a Spinbox with Tkinter](#Python-Tkinter-How-to-Reset-a-Spinbox-with-Tkinter)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  171   |:heavy_check_mark: | [Python Tkinter How to Resize Images](#Python-Tkinter-How-to-Resize-Images)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  172   |:heavy_check_mark: | [Python Tkinter How to Resize a Window Dynamically](#Python-Tkinter-How-to-Resize-a-Window-Dynamically)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  173   |:heavy_check_mark: | [Python Tkinter How to Unlock the Hidden Keys of f a Widget](#Python-Tkinter-How-to-Unlock-the-Hidden-Keys-of-f-a-Widget)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  174   |:heavy_check_mark: | [Python Tkinter Image Buttons and Rounded Buttons](#Python-Tkinter-Image-Buttons-and-Rounded-Buttons)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  175   |:heavy_check_mark: | [Python Tkinter Keyboard Event Binding](#Python-Tkinter-Keyboard-Event-Bindings)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  176   |:heavy_check_mark: | [Python Tkinter List Boxes](#Python-Tkinter-List-Boxes)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  177   |:heavy_check_mark: | [Python Tkinter Lookup Customer By Last Name CRM](#Python-Tkinter-Lookup-Customer-By-Last-Name-CRM)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  178   |:heavy_check_mark: | [Python Tkinter Lookup all CustomersCRM](#Python-Tkinter-Lookup-all-CustomersCRM)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  179   |:heavy_check_mark: | [Python Tkinter MariaDB](#Python-Tkinter-MariaDB)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  180   |:heavy_check_mark: | [Python Tkinter Matplolib Charts](#Python-Tkinter-Matplolib-Charts)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  181   |:heavy_check_mark: | [Python Tkinter Menu Bars](#Python-Tkinter-Menu-Bars)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  182   |:heavy_check_mark: | [Python Tkinter Message Boxes](#Python-Tkinter-Message-Boxes)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  183   |:heavy_check_mark: | [Python Tkinter Mouse On Hover Image Animation](#Python-Tkinter-Mouse-On-Hover-Image-Animation)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  184   |:heavy_check_mark: | [Python Tkinter Move Canvas shapes with Arrow Keys](#Python-Tkinter-Move-Canvas-shapes-with-Arrow-Keys)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  185   |:heavy_check_mark: | [Python Tkinter Multiple CRM search Results](#Python-Tkinter-Multiple-CRM-search-Results)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  186   |:heavy_check_mark: | [Python Tkinter On Off Button Switch](#Python-Tkinter-On-Off-Button-Switch)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  187   |:heavy_check_mark: | [Python Tkinter Open Excell Spreadsheet](#Python-Tkinter-Open-Excell-Spreadsheet)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  188   |:heavy_check_mark: | [Python Tkinter Open Files Dialog Box](#Python-Tkinter-Open-Files-Dialog-Box)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  189   |:heavy_check_mark: | [Python Tkinter Overwrite Grid Labels](#Python-Tkinter-Overwrite-Grid-Labels)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  190   |:heavy_check_mark: | [Python Tkinter Paned Windows ](#Python-Tkinter-Paned-Windows)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  191   |:heavy_check_mark: | [Python Tkinter Positioning ](#Python-Tkinter-Positioning )  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  192   |:heavy_check_mark: | [Python Tkinter Progress Bars](#Python-Tkinter-Progress-Bars)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  193   |:heavy_check_mark: | [Python Tkinter Radio Butttons](#Python-Tkinter-Radio-Butttons)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  194   |:heavy_check_mark: | [Python Tkinter Random Winner Generador](#Python-Tkinter-Random-Winner-Generador)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  195   |:heavy_check_mark: | [Python Tkinter Read and Write to Text Files](#Python-Tkinter-Read-and-Write-to-Text-Files)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  196   |:heavy_check_mark: | [Python Tkinter Remove Labels](#ython-Tkinter-Remove-Labels)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  197   |:heavy_check_mark: | [Python Tkinter Right Click Menu Popups](#Python-Tkinter-Right-Click-Menu-Popups)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  198   |:heavy_check_mark: | [Python Tkinter Rock Paper Scissors Game ](#Python-Tkinter-Rock-Paper-Scissors-Game )  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  199   |:heavy_check_mark: | [Python Tkinter Save To Dat File Instead of Databases](#Python-Tkinter-Save-To-Dat-File-Instead-of-Databases)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  200   |:heavy_check_mark: | [Python Tkinter Secret Label Copying Hach](#Python-Tkinter-Secret-Label-Copying-Hach)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  201   |:heavy_check_mark: | [Python Tkinter Sliders](#Python-Tkinter-Sliders)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  202   |:heavy_check_mark: | [Python Tkinter Sounds and Music](#Python-Tkinter-Sounds-and-Music)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  203   |:heavy_check_mark: | [Python Tkinter Spinboxes](#Python-Tkinter-Spinboxes)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  204   |:heavy_check_mark: | [Python Tkinter Standalone EXE Executable ](#Python-Tkinter-Standalone-EXE-Executable)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  205   |:heavy_check_mark: | [Python Tkinter Text Box](#Python-Tkinter-Text-Box )  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  206   |:heavy_check_mark: | [Python Tkinter Threading](#Python-Tkinter-Threading)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  207   |:heavy_check_mark: | [Python Tkinter Tic Tac Toe Game](#Python-Tkinter-Tic-Tac-Toe-Game)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  208   |:heavy_check_mark: | [Python Tkinter Tile Matching Game ](#Python-Tkinter-Tile-Matching-Game )  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  209   |:heavy_check_mark: | [Python Tkinter Timers and Clocks ](#Python-Tkinter-Timers-and-Clocks )  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  210   |:heavy_check_mark: | [Python Tkinter Transparent Windows](#Python-Tkinter-Transparent-Windows)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  211   |:heavy_check_mark: | [Python Tkinter Treeview](#Python-Tkinter-Treeview)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  213   |:heavy_check_mark: | [Python Tkinter Undo and Redo Text Button ](#Python-Tkinter-Undo-and-Redo-Text-Button )  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  214   |:heavy_check_mark: | [Python Tkinter Unicode Character & Special Characters](#Python-Tkinter-Unicode-Character-&-Special-Characters)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  215   |:heavy_check_mark: | [Python ](#Python-Tkinter-Unicode-Character-&-Special-Characters)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  216   |:heavy_check_mark: | [Python Tkinter Unicode Character & Special Characters](#Python-Tkinter-Unicode-Character-&-Special-Characters)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  217   |:heavy_check_mark: | [Python Tkinter Update MariaDb records](#Python-Tkinter-Update-MariaDb-records)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  218   |:heavy_check_mark: | [Python Tkinter Update a Record](#Python-Tkinter-Update-a-Record)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  219   |:heavy_check_mark: | [Python Tkinter Using Config to update](#Python-Tkinter-Using-Config-to-update)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
 |  220   |:heavy_check_mark: | [Python Tkinter Using Database](#Python-Tkinter-Using-Database)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  221   |:heavy_check_mark: | [Python Tkinter Using Excel Spreadsheets](#PPython-Tkinter-Using-Excel-Spreadsheets)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  222   |:heavy_check_mark: | [Python Tkinter Using Frames with Menus](#[Python-Tkinter-Using-Frames-with-Menus)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  223   |:heavy_check_mark: | [Python Tkinter Using Icons Image](#Python-Tkinter-Using-Icons-Image)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  224   |:heavy_check_mark: | [Python Tkinter Using Other Python Programs in you App](#Python-Tkinter-Using-Other-Python-Programs-in-you-App)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  225   |:heavy_check_mark: | [Python Tkinter Window Resizer Control Panel](#Python-Tkinter-Window-Resizer-Control-Panel)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  226   |:heavy_check_mark: | [Python Tkinter Word Jumble Game ](#Python-Tkinter-Word-Jumble-Game )  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  227   |:heavy_check_mark: | [Python Tkinter how To Create a Splash Screen](#Python-Tkinter-how-To-Create-a-Splash-Screen)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  228   |:heavy_check_mark: | [Python Tkinter one SIded Widget Padding](#Python-Tkinter-one-SIded-Widget-Padding)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  229   |:heavy_check_mark: | [Python tkinter How to Disable or Delete a Menu item](#Python-tkinter-How-to-Disable-or-Delete-a-Menu-item)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  230   |:heavy_check_mark: | [Build A Wikipedia Search App](#Build-A-Wikipedia-Search-App)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  231   |:heavy_check_mark: | [Build A Strong Password Generator App](#Build-A-Strong-Password-Generator-App)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  232   |:heavy_check_mark: | [Python Tkinter Build A Currency Converter App](#Python-Tkinter-Build-A-Currency-Converter-App)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  233   |:heavy_check_mark: | [ Add Functionality To Treeview CRM App](#Add-Functionality-To-Treeview-CRM-App)  | :hourglass:     | ✅ | 💾 | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  221   |:heavy_check_mark: | [Python Tkinter Using Excel Spreadsheets](#PPython-Tkinter-Using-Excel-Spreadsheets)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  222   |:heavy_check_mark: | [Python Tkinter Using Frames with Menus](#[Python-Tkinter-Using-Frames-with-Menus)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  223   |:heavy_check_mark: | [Python Tkinter Using Icons Image](#Python-Tkinter-Using-Icons-Image)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  224   |:heavy_check_mark: | [Python Tkinter Using Other Python Programs in you App](#Python-Tkinter-Using-Other-Python-Programs-in-you-App)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  225   |:heavy_check_mark: | [Python Tkinter Window Resizer Control Panel](#Python-Tkinter-Window-Resizer-Control-Panel)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  226   |:heavy_check_mark: | [Python Tkinter Word Jumble Game ](#Python-Tkinter-Word-Jumble-Game )  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  227   |:heavy_check_mark: | [Python Tkinter how To Create a Splash Screen](#Python-Tkinter-how-To-Create-a-Splash-Screen)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  228   |:heavy_check_mark: | [Python Tkinter one SIded Widget Padding](#Python-Tkinter-one-SIded-Widget-Padding)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  229   |:heavy_check_mark: | [Python tkinter How to Disable or Delete a Menu item](#Python-tkinter-How-to-Disable-or-Delete-a-Menu-item)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  230   |:heavy_check_mark: | [Build A Wikipedia Search App](#Build-A-Wikipedia-Search-App)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  231   |:heavy_check_mark: | [Build A Strong Password Generator App](#Build-A-Strong-Password-Generator-App)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  232   |:heavy_check_mark: | [Python Tkinter Build A Currency Converter App](#Python-Tkinter-Build-A-Currency-Converter-App)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
+|  233   |:heavy_check_mark: | [ Add Functionality To Treeview CRM App](#Add-Functionality-To-Treeview-CRM-App)  | :hourglass:     | ✅ | 💾 | [  Atras](https://github.com/BrianMarquez3) | 
 
 ## Python Hacking
 
  Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
 |  A1   |:heavy_check_mark: | [Keylogger](#Keylogger) | :hourglass: | ✅ | 💾 |  [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-
 
 ## Extra
 
