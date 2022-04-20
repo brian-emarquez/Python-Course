@@ -1,5 +1,3 @@
-from calendar import prmonth
-
 
 class Persona:
     
@@ -22,4 +20,5 @@ print(persona1.nombre)
 print(persona1.apellido)
 print(persona1.edad)
 
-
+persona2 =  Persona("kike", "clavijo", 30)
+print(f'persona  2: {persona2.nombre} {persona2.apellido} {persona2.edad}')
