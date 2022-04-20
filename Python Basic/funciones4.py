@@ -1,4 +1,5 @@
-# funcionesCantidaArgimentos4
+# funcionesCantidaArgimento
+# args
 
 def listarNombres(*args): # cantidad de nombres desconocida
     for nombre in args:
