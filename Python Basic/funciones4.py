@@ -1,6 +1,8 @@
-def listarNombres(*nombres):
-    for nombre in nombres:
+# funcionesCantidaArgimentos4
+
+def listarNombres(*args): # cantidad de nombres desconocida
+    for nombre in args:
         print(nombre)
 
 listarNombres('Juan', 'Karla', 'María', 'Ernesto')
-listarNombres('Laura', 'Carlos')
+#listarNombres('Laura', 'Carlos')
