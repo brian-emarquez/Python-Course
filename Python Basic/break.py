@@ -1,4 +1,8 @@
-for i in range(6):
-    if i % 2 != 0:
-        continue
-    print(f'Valor: {i}')
+nombre = "brian"
+
+for letra in nombre:
+    if letra == 'i':
+        print(f'Letra encontrada: {letra}')
+        break
+else:
+    print('Fin ciclo for')
