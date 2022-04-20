@@ -50,7 +50,6 @@
 
 <a href="Skills%20Certification/Badges/python_5_star.png">
       <img src="Skills Certification/Badges/python_5_star.png" alt="Python (Basic) Certificate"/>
-
 </a>
 
 
