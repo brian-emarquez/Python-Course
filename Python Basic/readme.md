@@ -2,7 +2,7 @@
 
 Acceso a temas para aprender rapido a programar en python.
 
-## Metodos Comunes
+## Common Methods in Python
 
 ```python	
 # insertar un elemento en un índice en específico
