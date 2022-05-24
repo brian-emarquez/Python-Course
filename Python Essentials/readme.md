@@ -1,6 +1,13 @@
-# Acceso rapido a temas de python
+# Acceso rapido a temas de Python
 
-Acceso a temas para aprender rapido a programar en python.
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="../Python Essentials/images/pythonlogo.png" />
+    </td>
+  </tr>
+</table>
+
 
 ## Common Methods in Python
 
@@ -32,7 +39,7 @@ print(nombres)
 
 ---
 
-* Crear Carpetas (Ubuntu) con permisos
+* Crear Carpetas (Ubuntu Terminal) con permisos
     
     ```bash
     mkdir -m 775 nombre_carpeta
