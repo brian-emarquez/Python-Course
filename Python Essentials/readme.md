@@ -29,3 +29,11 @@ print(nombres)
 del nombres
 print(nombres)
 ```
+
+---
+
+* Crear Carpetas (Ubuntu) con permisos
+    
+    ```bash
+    mkdir -m 775 nombre_carpeta
+    ```
