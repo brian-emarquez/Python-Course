@@ -1,4 +1,4 @@
-# Acceso rapido a temas de Python
+## Quick access to Python topics
 
 <table align="center">
   <tr>
@@ -39,7 +39,7 @@ print(nombres)
 
 ---
 
-* Crear Carpetas (Ubuntu Terminal) con permisos
+* Create Folders (Ubuntu Terminal) with permissions
     
     ```bash
     mkdir -m 775 nombre_carpeta
