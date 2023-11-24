@@ -2,7 +2,6 @@
 <h2 align="center">Learn Python Programming from Zero to Hero #1 | Building Projects </h2>
 
 <p align="center">
-  
    </a>
     <img src="https://img.shields.io/github/languages/top/BrianMarquez3/Python-Course?color=yellow">
   </a>
@@ -14,15 +13,12 @@
   </a>
     <img src="https://img.shields.io/github/v/tag/BrianMarquez3/Python-Course?color=red&label=Version&logo=python">
   </a>
-  
   </a>
     <img src="https://img.shields.io/github/languages/code-size/BrianMarquez3/Python-Course">
   </a>
-  
   </a>
     <img src="https://img.shields.io/github/downloads/BrianMarquez3/Python-Course/total?color=green">
   </a>
-  
    </a>
    <a href="https://github.com/BrianMarquez3/Python-Course/network">
     <img src="https://img.shields.io/badge/Plataform-Windows-blue">
@@ -57,7 +53,6 @@
 
  Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
-|  002   |:heavy_check_mark: | [Que es Python](#Que-es-Python)  | :hourglass:     |<img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 | [ Atras](https://github.com/BrianMarquez3) | 
 |  003   |:heavy_check_mark: | [Creador](#Creador)  | :hourglass: |<img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [ Atras](https://github.com/BrianMarquez3) |  
 |  005   |:heavy_check_mark: | [Ejemplos](#Ejemplos)  | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [  Atras](https://github.com/BrianMarquez3) | 
 |  006   |:heavy_check_mark: | [Comandos](#Comandos) | :hourglass: | <img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | 💾 |  [  Atras](https://github.com/BrianMarquez3) | 
@@ -301,12 +296,6 @@
     </td>
   </tr>
 </table>
-
-## Que es Python
-
-Python es un lenguaje de programación interpretado cuya filosofía hace hincapié en la legibilidad de su código. Se trata de un lenguaje de programación multiparadigma, ya que soporta orientación a objetos, programación imperativa y, en menor medida, programación funcional. Es un lenguaje interpretado, dinámico y multiplataforma.
-
-Es administrado por la Python Software Foundation. Posee una licencia de código abierto, denominada Python Software Foundation License, que es compatible con la Licencia pública general de GNU a partir de la versión 2.1.1, e incompatible en ciertas versiones anteriores. [WIKIPEDIA](https://es.wikipedia.org/wiki/Python).<br>
 
 ---
 ## Creador
