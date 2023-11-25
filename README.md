@@ -298,22 +298,6 @@
 </table>
 
 ---
-## Creador
-
-<table align="center">
-<h3 align="center"> Guido van Rossum  </h3>
-  <tr>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./Images/guido.jpg" />
-    </td>
-  </tr>
-</table>
-
-<p>Guido van Rossum es un informático,1​ conocido por ser el autor del lenguaje de programación Python. Nació y creció en los Países Bajos.
-
-En el ambiente de los desarrolladores del lenguaje Python también se le conoce por el título BDFL (Benevolent Dictator for Life), teniendo asignada la tarea de fijar las directrices sobre la evolución de Python, así como la de tomar decisiones finales sobre el lenguaje que todos los desarrolladores acatan. Van Rossum tiene fama de ser bastante conservador, realizando pocos cambios al lenguaje entre versiones sucesivas, intentando mantener siempre la compatibilidad con versiones anteriores. El 12 de julio de 2018, con un mensaje enviado a la lista de python-committers, anunció su retiro de los procesos de decisión. Desde noviembre del 2020 es parte de la División de Desarrolladores de la empresa Microsoft [WIKIPEDIA](https://es.wikipedia.org/wiki/Guido_van_Rossum).<br> </p>
-
----
 
 ### Ejemplos
 
