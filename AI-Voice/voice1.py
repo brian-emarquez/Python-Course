@@ -8,7 +8,6 @@ import IPython
 from tortoise.api import TextToSpeech
 from tortoise.utils.audio import load_audio, load_voice, load_voices
 
-
 text = "Thanks for reading this article. I hope you learned something."
 
 # Pick a "preset mode" to determine quality. Options: {"ultra_fast", "fast" (default), "standard", "high_quality"}. See docs in api.py
