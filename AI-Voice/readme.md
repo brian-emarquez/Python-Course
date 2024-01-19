@@ -1,6 +1,6 @@
 ## CLONAR VOZ - AI
 
-- First model to clone the voice (Primer modelo en clonar la voz.)
+- First model to clone the voice (Primer modelo en clonar la voz)
 
 <table align="center" >
   <tr>
