@@ -1,4 +1,4 @@
-## CLONAR VOZ - AI
+## CLONAR VOZ - AI (UBUNTU)
 
 
 Google Colab - [AI-voice.ipynb](https://colab.research.google.com/drive/11RLHpnPv4nEN7ZOz3szU3cQdWN-vYNoa?hl=es#scrollTo=TMq5E7tCuBRA)
