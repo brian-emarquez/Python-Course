@@ -1,8 +1,6 @@
-## CLONAR VOZ
+## CLONAR VOZ - AI
 
 - First model to clone the voice
-
-
 
 <table align="center" >
   <tr>
