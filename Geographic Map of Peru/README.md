@@ -2,13 +2,13 @@
 
 <p align="center">
   
-  <a href="https://github.com/BrianMarquez3/Geographic-Map-of-Peru/tags">
+  <a href="https://github.com/brian-emarquez/Geographic-Map-of-Peru/tags">
     <img src="https://img.shields.io/github/tag/BrianMarquez3/Geographic-Map-of-Peru.svg?label=version&style=flat" alt="Version">
   </a>
-  <a href="https://github.com/BrianMarquez3/Geographic-Map-of-Peru/stargazers">
+  <a href="https://github.com/brian-emarquez/Geographic-Map-of-Peru/stargazers">
     <img src="https://img.shields.io/github/stars/BrianMarquez3/Geographic-Map-of-Peru.svg?style=flat" alt="Stars">
   </a>
-  <a href="https://github.com/BrianMarquez3/Geographic-Map-of-Peru/network">
+  <a href="https://github.com/brian-emarquez/Geographic-Map-of-Peru/network">
     <img src="https://img.shields.io/github/forks/BrianMarquez3/Geographic-Map-of-Peru.svg?style=flat" alt="Forks">
   </a>
 </p>
@@ -47,7 +47,7 @@ python setup.py build
 _Link de Descarga_
 
 Descargue la Carpeta completa(Windows) y Ejecute el Archivo geographic.exe <br>
-📦 [Paquete](https://github.com/BrianMarquez3/Geographic-Map-of-Peru/tree/master/geographic_install) Carpeta de Ejecucion.<br>
+📦 [Paquete](https://github.com/brian-emarquez/Geographic-Map-of-Peru/tree/master/geographic_install) Carpeta de Ejecucion.<br>
 
 ## Adicional
 La herramienta se ha creado únicamente con fines educativos.
