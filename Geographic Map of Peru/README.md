@@ -3,13 +3,13 @@
 <p align="center">
   
   <a href="https://github.com/brian-emarquez/Geographic-Map-of-Peru/tags">
-    <img src="https://img.shields.io/github/tag/BrianMarquez3/Geographic-Map-of-Peru.svg?label=version&style=flat" alt="Version">
+    <img src="https://img.shields.io/github/tag/brian-emarquez/Geographic-Map-of-Peru.svg?label=version&style=flat" alt="Version">
   </a>
   <a href="https://github.com/brian-emarquez/Geographic-Map-of-Peru/stargazers">
-    <img src="https://img.shields.io/github/stars/BrianMarquez3/Geographic-Map-of-Peru.svg?style=flat" alt="Stars">
+    <img src="https://img.shields.io/github/stars/brian-emarquez/Geographic-Map-of-Peru.svg?style=flat" alt="Stars">
   </a>
   <a href="https://github.com/brian-emarquez/Geographic-Map-of-Peru/network">
-    <img src="https://img.shields.io/github/forks/BrianMarquez3/Geographic-Map-of-Peru.svg?style=flat" alt="Forks">
+    <img src="https://img.shields.io/github/forks/brian-emarquez/Geographic-Map-of-Peru.svg?style=flat" alt="Forks">
   </a>
 </p>
 

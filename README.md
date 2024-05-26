@@ -3,29 +3,29 @@
 
 <p align="center">
    </a>
-    <img src="https://img.shields.io/github/languages/top/BrianMarquez3/Python-Course?color=yellow">
+    <img src="https://img.shields.io/github/languages/top/brian-emarquez/Python-Course?color=yellow">
   </a>
   <a href="https://github.com/brian-emarquez/Python-Course/stargazers">
-    <img src="https://img.shields.io/github/stars/BrianMarquez3/Python-Course.svg?style=flat" alt="Stars">
+    <img src="https://img.shields.io/github/stars/brian-emarquez/Python-Course.svg?style=flat" alt="Stars">
   </a>
   <a href="https://github.com/brian-emarquez/Python-Course/network">
-    <img src="https://img.shields.io/github/forks/BrianMarquez3/Python-Course.svg?style=flat" alt="Forks">
+    <img src="https://img.shields.io/github/forks/brian-emarquez/Python-Course.svg?style=flat" alt="Forks">
   </a>
-    <img src="https://img.shields.io/github/v/tag/BrianMarquez3/Python-Course?color=red&label=Version&logo=python">
-  </a>
-  </a>
-    <img src="https://img.shields.io/github/languages/code-size/BrianMarquez3/Python-Course">
+    <img src="https://img.shields.io/github/v/tag/brian-emarquez/Python-Course?color=red&label=Version&logo=python">
   </a>
   </a>
-    <img src="https://img.shields.io/github/downloads/BrianMarquez3/Python-Course/total?color=green">
+    <img src="https://img.shields.io/github/languages/code-size/brian-emarquez/Python-Course">
+  </a>
+  </a>
+    <img src="https://img.shields.io/github/downloads/brian-emarquez/Python-Course/total?color=green">
   </a>
    </a>
    <a href="https://github.com/brian-emarquez/Python-Course/network">
     <img src="https://img.shields.io/badge/Plataform-Windows-blue">
   </a><br>
  
-  <img src="https://img.shields.io/github/last-commit/BrianMarquez3/Python-Course?color=yellow&style=for-the-badge">
-  <img src="https://img.shields.io/github/languages/count/BrianMarquez3/Python-Course?style=for-the-badge">
+  <img src="https://img.shields.io/github/last-commit/brian-emarquez/Python-Course?color=yellow&style=for-the-badge">
+  <img src="https://img.shields.io/github/languages/count/brian-emarquez/Python-Course?style=for-the-badge">
   
 </p>
   
