@@ -4,17 +4,19 @@ import shutil
 import os
 from datetime import datetime, timedelta
 from month import obtener_mes_actual
+from year import obtener_ano_actual
 
 # Obtener el mes actual en mayúsculas
 mont = obtener_mes_actual()
+year = obtener_ano_actual()
 
 fecha_anterior = datetime.now() - timedelta(days=1)
 nombre_generado = fecha_anterior.strftime("MIS%m%dALL")
 
-origen = 'C:\\demo1\\hola.txt'
+origen = 'C:\\BD\\Backups\\hola.txt'
 
 # Solicitar al usuario la ruta de la carpeta de destino
-destino = 'C:\\stokori\\db\\2024\\' + mont + '\\' + nombre_generado + '\\' + 'hola.txt'
+destino = 'C:\\stokori\\db\\'+ year + mont + '\\' + nombre_generado + '\\' + 'hola.txt'
 
 
 try:
