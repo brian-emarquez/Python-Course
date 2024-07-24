@@ -3,16 +3,19 @@
 import shutil
 import os
 from datetime import datetime, timedelta
+from month import obtener_mes_actual
+
+# Obtener el mes actual en mayúsculas
+mont = obtener_mes_actual()
 
 fecha_anterior = datetime.now() - timedelta(days=1)
 nombre_generado = fecha_anterior.strftime("MIS%m%dALL")
 
-
 origen = 'C:\\demo1\\hola.txt'
 
 # Solicitar al usuario la ruta de la carpeta de destino
-# destino = 'C:\\demo2\\stokori\\bd\\'
-destino = 'C:\\demo2\\'+nombre_generado+'\\hola.txt'
+destino = 'C:\\stokori\\db\\2024\\' + mont + '\\' + nombre_generado + '\\' + 'hola.txt'
+
 
 try:
     # Verificar que el archivo de origen existe
