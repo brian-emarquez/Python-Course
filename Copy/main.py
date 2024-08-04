@@ -15,9 +15,7 @@ nombre_generado = fecha_anterior.strftime("MIS%m%dALL")
 
 # Lista de archivos de origen
 archivos_origen = [
-    'C:\\DB\\Backups\\hola1.txt',
-    'C:\\DB\\Backups\\hola2.txt',
-    'C:\\DB\\Backups\\hola3.txt'
+    'C:\\DB\\Backups\\',
 ]
 
 # Ruta base de la carpeta de destino
