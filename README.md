@@ -301,7 +301,7 @@
 
 ### Ejemplos
 
-```js
+```python
 print("Hello, World!")
 ```
 
