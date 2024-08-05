@@ -22,6 +22,8 @@ try:
     # Verificar que el archivo de origen existe
     if not os.path.exists(ruta_archivo_cuota):
         print(f'El archivo no existe: {ruta_archivo_cuota}')
+    if not os.path.exists(ruta_archivo_ahorro):
+        print(f'El archivo no existe: {ruta_archivo_ahorro}')
     
     else:
         # Obtener la ruta del directorio del archivo
