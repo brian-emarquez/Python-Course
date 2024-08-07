@@ -1,4 +1,4 @@
-## Crear Instalador
+## Crear Instalador (Test)
 
 ```bash
 pip install pyinstaller
