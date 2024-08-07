@@ -9,5 +9,5 @@ pyinstaller --onefile fecha_ayer.py
 ```
 
 ```bash
-pyinstaller --onefile --icon=icono.ico fecha_ayer.py
+pyinstaller --onefile --icon=copy.ico main.py
 ```
