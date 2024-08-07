@@ -13,7 +13,7 @@ nombre_generado = fecha_anterior.strftime("MIS%m%dALL")
 
 # Carpeta de origen
 #D:\BD\Backups
-carpeta_origen = 'D:\\DB\\Backups\\'
+carpeta_origen = 'C:\\DB\\Backups\\'
 
 # Asegurarse de que la carpeta de origen existe
 if not os.path.exists(carpeta_origen):
