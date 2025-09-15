@@ -1,6 +1,3 @@
-# Primer demo
-# Primer Ejemplo
-
 import win32com.client
 import os
 
@@ -49,10 +46,12 @@ def descargar_adjunto_outlook_desde_cuenta(nombre_cuenta_outlook, nombre_correo,
 if __name__ == "__main__":
     # ¡IMPORTANTE! Reemplaza esto con el nombre exacto de tu cuenta de Outlook
     # que aparece en la barra lateral de Outlook (e.g., tu dirección de correo electrónico)
-    nombre_cuenta_a_buscar = "brian3marquez@outlook.com" # <--- ¡CAMBIA ESTO!
+    #roundnombre_cuenta_a_buscar = "brian3marquez@outlook.com" 
+    nombre_cuenta_a_buscar = "brian.marquez@kori.pe" 
+
     
     nombre_correo_buscado = "Prueba Correo"
-    nombre_adjunto_buscado = "demo.txt"
+    nombre_adjunto_buscado = "COOPAC_KORI_20250804.txt"
     
     carpeta_descargas = os.path.join(os.path.expanduser("~"), "Downloads")
 
