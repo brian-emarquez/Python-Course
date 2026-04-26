@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import pyodbc
  
-SERVIDOR = "briandb"
+SERVIDOR = "brian"
 DATABASE = "SIE"
 USUARIO = "briandb"
 PASSWORD = "briandb"
@@ -17,8 +17,9 @@ def get_producto_por_sku(sku):
             'DRIVER={ODBC Driver 17 for SQL Server};'
             f'SERVER={SERVIDOR};'
             f'DATABASE={DATABASE};'
-            f'UID={USUARIO};'
-            f'PWD={PASSWORD}'
+            #f'UID={USUARIO};'
+            #f'PWD={PASSWORD}'
+            'Trusted_Connection=yes'
         )
  
         query = """
